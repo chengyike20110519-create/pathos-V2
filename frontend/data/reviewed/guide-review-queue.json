@@ -1,0 +1,324 @@
+{
+  "generatedAt": "2026-10-20T07:00:40.123Z",
+  "status": "pending_manual_verification",
+  "schools": [
+    {
+      "universityId": "candidate-v2:boston-college",
+      "name": "Boston College",
+      "nameZh": "波士顿学院",
+      "nationalRanking": 36,
+      "officialSources": [
+        {
+          "url": "https://www.bc.edu/bc-web/academics/sites/university-catalog/undergraduate/csom/business-analytics.html",
+          "publisher": "Boston College University Catalog",
+          "accessedAt": "2026-10-19",
+          "verification": "official Boston College undergraduate program page"
+        },
+        {
+          "url": "https://www.bc.edu/bc-web/admission/majors-minors.html",
+          "publisher": "Boston College Undergraduate Admission",
+          "accessedAt": "2026-10-19",
+          "verification": "official Boston College undergraduate program page"
+        },
+        {
+          "url": "https://www.bc.edu/content/bc-web/academics/undergraduate-programs.html",
+          "scope": [
+            "Boston College official undergraduate programs and majors pages"
+          ],
+          "status": "verified",
+          "sourceId": "official-boston-college-undergraduate-programs-2026",
+          "publisher": "Boston College",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "name": "Arizona State University",
+      "nameZh": "亚利桑那州立大学",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/undergraduate",
+          "scope": [
+            "ASU official Bachelor's Degree Search",
+            "individual degree pages with 2026-2027 curriculum where available",
+            "only explicitly verified entries"
+          ],
+          "status": "verified",
+          "sourceId": "official-asu-undergraduate-degree-search-2026",
+          "publisher": "Arizona State University",
+          "sourceType": "official_institutional_admissions",
+          "referenceYear": 2026
+        },
+        {
+          "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/ASENGSEBA/title/fetchpdf",
+          "scope": "ASU official degree details for English Secondary Education BA",
+          "status": "verified",
+          "sourceId": "official-asu-english-secondary-education-2026",
+          "publisher": "Arizona State University Degree Search",
+          "sourceType": "official",
+          "referenceYear": 2026
+        },
+        {
+          "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/BABDABS/title/fetchpdf",
+          "publisher": "Arizona State University Degree Search",
+          "accessedAt": "2026-10-19",
+          "verification": "official undergraduate degree page"
+        },
+        {
+          "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/BABUSPBA",
+          "scope": "ASU official degree details for Business Public Service and Public Policy BA",
+          "status": "verified",
+          "sourceId": "official-asu-business-public-service-public-policy-2026",
+          "publisher": "Arizona State University Degree Search",
+          "sourceType": "official",
+          "referenceYear": 2026
+        },
+        {
+          "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/BAMGTBS/title/fetchpdf",
+          "publisher": "Arizona State University Degree Search",
+          "accessedAt": "2026-10-19",
+          "verification": "official undergraduate degree page"
+        },
+        {
+          "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/BASCMBS/global-management-sustainability-solutions-mgm",
+          "publisher": "Arizona State University Degree Search",
+          "accessedAt": "2026-10-19",
+          "verification": "official undergraduate degree page"
+        },
+        {
+          "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/LSALSBAS/title/fetchpdf",
+          "scope": "ASU official degree details for Applied Science Applied Leadership BAS",
+          "status": "verified",
+          "sourceId": "official-asu-applied-science-applied-leadership-2026",
+          "publisher": "Arizona State University Degree Search",
+          "sourceType": "official",
+          "referenceYear": 2026
+        },
+        {
+          "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/LSCAPSMVBS/title/fetchpdf",
+          "scope": "ASU official degree details for Counseling and Applied Psychological Sciences BS",
+          "status": "verified",
+          "sourceId": "official-asu-counseling-applied-psychological-sciences-2026",
+          "publisher": "Arizona State University Degree Search",
+          "sourceType": "official",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:bucknell-university",
+      "name": "Bucknell University",
+      "nameZh": "巴克内尔大学",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/curriculaoverview/",
+          "publisher": "Bucknell University",
+          "accessedAt": "2026-10-19",
+          "verification": "official undergraduate engineering page and catalog"
+        },
+        {
+          "url": "https://www.bucknell.edu/academics/college-engineering/majors-departments",
+          "publisher": "Bucknell University",
+          "accessedAt": "2026-10-19",
+          "verification": "official undergraduate engineering page and catalog"
+        },
+        {
+          "url": "https://www.bucknell.edu/academics/majors-minors",
+          "scope": [
+            "Bucknell official majors and minors page and official course catalog pages"
+          ],
+          "status": "verified",
+          "sourceId": "official-bucknell-undergraduate-majors-2026",
+          "publisher": "Bucknell University",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:harvey-mudd-college",
+      "name": "Harvey Mudd College",
+      "nameZh": "哈维穆德学院",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://www.hmc.edu/academics/majors/",
+          "scope": [
+            "Harvey Mudd official majors page and official 2026-2027 facts page"
+          ],
+          "status": "verified",
+          "sourceId": "official-harvey-mudd-majors-2026",
+          "publisher": "Harvey Mudd College",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:loyola-university-chicago",
+      "name": "Loyola University Chicago",
+      "nameZh": "芝加哥洛约拉大学",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://www.luc.edu/cas/academics/majorsminors/",
+          "publisher": "Loyola University Chicago",
+          "accessedAt": "2026-10-19",
+          "verification": "official undergraduate major or catalog page"
+        },
+        {
+          "url": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/",
+          "publisher": "Loyola University Chicago",
+          "accessedAt": "2026-10-19",
+          "verification": "official undergraduate major or catalog page"
+        },
+        {
+          "url": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbaininternationalbusiness/",
+          "publisher": "Loyola University Chicago",
+          "accessedAt": "2026-10-19",
+          "verification": "official undergraduate major or catalog page"
+        },
+        {
+          "url": "https://www.luc.edu/undergrad/academics/majorsandminors/",
+          "scope": [
+            "Loyola University Chicago official 2026-2027 undergraduate catalog and majors page"
+          ],
+          "status": "verified",
+          "sourceId": "official-loyola-chicago-undergraduate-majors-2026",
+          "publisher": "Loyola University Chicago",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:olin-college-of-engineering",
+      "name": "Olin College of Engineering",
+      "nameZh": "欧林工程学院",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://olin.edu/academics/majors-concentrations",
+          "scope": [
+            "Olin official majors and concentrations page"
+          ],
+          "status": "verified",
+          "sourceId": "official-olin-majors-concentrations-2026",
+          "publisher": "Olin College of Engineering",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:rose-hulman-institute-of-technology",
+      "name": "Rose-Hulman Institute of Technology",
+      "nameZh": "罗斯-霍曼理工学院",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://www.rose-hulman.edu/academics/degrees-and-programs/majors.html",
+          "scope": [
+            "Rose-Hulman official undergraduate majors page and academic programs page"
+          ],
+          "status": "verified",
+          "sourceId": "official-rose-hulman-undergraduate-majors-2026",
+          "publisher": "Rose-Hulman Institute of Technology",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:university-of-colorado-boulder",
+      "name": "University of Colorado Boulder",
+      "nameZh": "科罗拉多大学博尔德分校",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://catalog.colorado.edu/programs-a-z/",
+          "scope": [
+            "undergraduate programs explicitly verified from the 2026-27 CU Boulder Catalog pages"
+          ],
+          "status": "verified",
+          "sourceId": "official-cu-boulder-undergraduate-programs-2026",
+          "publisher": "University of Colorado Boulder Catalog",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:university-of-illinois-at-chicago",
+      "name": "University of Illinois at Chicago",
+      "nameZh": "UIC",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://catalog.uic.edu/ucat/degree-programs/degree-minors/",
+          "scope": [
+            "undergraduate degree programs listed in UIC official 2026-2027 catalog; verified major/degree subset"
+          ],
+          "status": "verified",
+          "sourceId": "official-uic-undergraduate-programs-2026-27",
+          "publisher": "University of Illinois Chicago",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:university-of-iowa",
+      "name": "University of Iowa",
+      "nameZh": "爱荷华大学",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://catalog.registrar.uiowa.edu/academics-iowa/",
+          "scope": [
+            "undergraduate majors explicitly verified from the 2026-27 University of Iowa General Catalog pages"
+          ],
+          "status": "verified",
+          "sourceId": "official-uiowa-undergraduate-programs-2026",
+          "publisher": "University of Iowa General Catalog",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        },
+        {
+          "url": "https://catalog.registrar.uiowa.edu/your-program/",
+          "scope": "undergraduate programs and degree majors",
+          "status": "verified",
+          "sourceId": "official-iowa-undergraduate-programs-2026-2027",
+          "publisher": "University of Iowa General Catalog",
+          "sourceType": "official academic catalog",
+          "referenceYear": 2026
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:university-of-south-carolina-columbia",
+      "name": "University of South Carolina",
+      "nameZh": "南卡罗来纳大学哥伦比亚分校",
+      "nationalRanking": null,
+      "officialSources": [
+        {
+          "url": "https://academicbulletins.sc.edu/undergraduate/programs-az/",
+          "scope": [
+            "2026-2027 Undergraduate Academic Bulletin Programs A-Z",
+            "explicit bachelor degree programs only",
+            "minors, certificates, graduate and professional programs excluded"
+          ],
+          "status": "verified",
+          "sourceId": "official-usc-columbia-undergraduate-programs-2026",
+          "publisher": "University of South Carolina Columbia",
+          "sourceType": "official_institutional_catalog",
+          "referenceYear": 2026
+        }
+      ]
+    }
+  ]
+}

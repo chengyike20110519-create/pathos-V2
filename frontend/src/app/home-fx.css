@@ -1,0 +1,432 @@
+/* =========================================================================
+   Bestieu-inspired scroll FX (additive, JS-gated, reduced-motion safe)
+   -------------------------------------------------------------------------
+   This file is imported as a side-effect by src/app/page.tsx and is a
+   regular (non-module) stylesheet, so its selectors stay global. The
+   entire effect system is JS-gated: HomeScrollFx adds
+   `.js-home-scroll-fx` to the [data-home-root] element on mount, and
+   the rules below only take effect after that opt-in.
+
+   Without JS or with prefers-reduced-motion: reduce, every element
+   stays fully visible at rest 鈥?the static layout is unchanged.
+   ========================================================================= */
+
+/* 2px scroll progress bar above the hero. Driven by the `--progress`
+   custom property that HomeScrollFx writes on scroll. */
+[data-scroll-progress] {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  z-index: 60;
+  pointer-events: none;
+  background: transparent;
+}
+
+[data-scroll-progress]::after {
+  content: "";
+  display: block;
+  height: 100%;
+  width: 100%;
+  transform-origin: left center;
+  transform: scaleX(var(--progress, 0));
+  background: linear-gradient(
+    90deg,
+    rgb(var(--token-cobalt) / 0.85),
+    rgb(var(--token-jade) / 0.85)
+  );
+  transition: transform 120ms linear;
+}
+
+/* Floating back-to-top button. Hidden until HomeScrollFx flips
+   data-visible="true" once the user scrolls past 0.8vh. */
+[data-back-to-top] {
+  position: fixed;
+  right: clamp(16px, 3vw, 32px);
+  bottom: clamp(20px, 4vh, 40px);
+  z-index: 55;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0;
+  border-radius: 999px;
+  border: 1px solid rgb(var(--token-border-soft));
+  background: rgb(var(--token-surface-1) / 0.92);
+  color: rgb(var(--token-text-secondary));
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  box-shadow: 0 6px 18px rgb(0 0 0 / 0.08);
+  backdrop-filter: saturate(140%) blur(8px);
+  opacity: 0;
+  transform: translateY(8px);
+  pointer-events: none;
+  transition: opacity 220ms ease, transform 220ms ease, color 180ms ease,
+    border-color 180ms ease;
+}
+
+[data-back-to-top][data-visible="true"] {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+[data-back-to-top]:hover {
+  color: rgb(var(--token-text-primary));
+  border-color: rgb(var(--token-cobalt) / 0.4);
+}
+
+[data-back-to-top]:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px rgb(var(--token-focus-ring) / 0.6);
+}
+
+/* Reveal primitives 鈥?only effective after the JS opt-in class. */
+[data-home-root].js-home-scroll-fx [data-reveal] {
+  opacity: 0;
+  transform: translate3d(0, 18px, 0);
+  transition:
+    opacity 620ms cubic-bezier(0.22, 0.61, 0.36, 1),
+    transform 620ms cubic-bezier(0.22, 0.61, 0.36, 1);
+  will-change: opacity, transform;
+}
+
+[data-home-root].js-home-scroll-fx [data-reveal].is-revealed {
+  opacity: 1;
+  transform: none;
+}
+
+/* Stagger via data-reveal-delay (ms). Supports up to 8 siblings;
+   later ones collapse to the longest delay. */
+[data-home-root].js-home-scroll-fx [data-reveal][data-reveal-delay="80"] {
+  transition-delay: 80ms;
+}
+[data-home-root].js-home-scroll-fx [data-reveal][data-reveal-delay="160"] {
+  transition-delay: 160ms;
+}
+[data-home-root].js-home-scroll-fx [data-reveal][data-reveal-delay="240"] {
+  transition-delay: 240ms;
+}
+[data-home-root].js-home-scroll-fx [data-reveal][data-reveal-delay="320"] {
+  transition-delay: 320ms;
+}
+[data-home-root].js-home-scroll-fx [data-reveal][data-reveal-delay="400"] {
+  transition-delay: 400ms;
+}
+[data-home-root].js-home-scroll-fx [data-reveal][data-reveal-delay="480"] {
+  transition-delay: 480ms;
+}
+[data-home-root].js-home-scroll-fx [data-reveal][data-reveal-delay="560"] {
+  transition-delay: 560ms;
+}
+[data-home-root].js-home-scroll-fx [data-reveal][data-reveal-delay="640"] {
+  transition-delay: 640ms;
+}
+
+/* The 4 stat items: a tiny scale-up so the counter feels like it
+   "rises" with the number, complementing the count-up. */
+[data-home-root].js-home-scroll-fx [data-reveal]:where(.statItem, [class*="statItem"]) {
+  transform: translate3d(0, 18px, 0) scale(0.985);
+}
+[data-home-root].js-home-scroll-fx [data-reveal]:where(.statItem, [class*="statItem"]).is-revealed {
+  transform: none;
+}
+
+/* Reduced motion: bypass every transition/animation; the page renders
+   in its final state immediately. */
+@media (prefers-reduced-motion: reduce) {
+  [data-home-root].js-home-scroll-fx [data-reveal] {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+  [data-scroll-progress]::after {
+    transition: none !important;
+  }
+  [data-back-to-top] {
+    transition: none !important;
+  }
+}
+
+
+/* =========================================================================
+   Phase-3 additions: section divider, heading stagger, counter punch
+   ========================================================================= */
+
+/* Section top divider 鈥?drawn from 0 to 100% width as the section
+   enters view. IntersectionObserver writes --section-progress on the
+   section element. The ::before is JS-gated by .js-home-scroll-fx so
+   the static layout keeps its existing border-bottom treatment. */
+[data-home-root].js-home-scroll-fx [data-section] {
+  position: relative;
+}
+
+[data-home-root].js-home-scroll-fx [data-section]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    rgb(var(--token-cobalt) / 0.7),
+    rgb(var(--token-jade) / 0.55) 60%,
+    transparent
+  );
+  transform-origin: left center;
+  transform: scaleX(var(--section-progress, 0));
+  transition: transform 620ms cubic-bezier(0.22, 0.61, 0.36, 1);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Word-level stagger on h2 / heading elements tagged with
+   data-heading-stagger. HomeScrollFx wraps every word in
+   <span class="home-heading-word" style="--word-index:N">. */
+[data-home-root].js-home-scroll-fx [data-heading-stagger] .home-heading-word {
+  display: inline-block;
+  opacity: 0;
+  transform: translate3d(0, 14px, 0);
+  transition:
+    opacity 520ms cubic-bezier(0.22, 0.61, 0.36, 1),
+    transform 520ms cubic-bezier(0.22, 0.61, 0.36, 1);
+  transition-delay: calc(var(--word-index, 0) * 38ms);
+}
+
+[data-home-root].js-home-scroll-fx [data-heading-stagger].is-revealed .home-heading-word {
+  opacity: 1;
+  transform: none;
+}
+
+[data-home-root].js-home-scroll-fx [data-heading-stagger] .home-heading-space {
+  display: inline;
+  opacity: 0;
+}
+
+[data-home-root].js-home-scroll-fx [data-heading-stagger].is-revealed .home-heading-space {
+  opacity: 1;
+  transition: opacity 320ms ease 120ms;
+}
+
+/* Counter punch 鈥?fires for 380ms when the count-up lands on its
+   target. Same ease-out-back curve as bestieu.com. */
+[data-home-root].js-home-scroll-fx [data-counter].is-counter-punched {
+  animation: counter-punch 380ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes counter-punch {
+  0%   { transform: scale(1); }
+  35%  { transform: scale(1.085); }
+  100% { transform: scale(1); }
+}
+
+/* Hero parallax 鈥?driven by --hero-parallax that HomeScrollFx writes
+   on the [data-hero-earth] element while [data-hero] is in view. */
+[data-home-root].js-home-scroll-fx [data-hero-earth] {
+  will-change: transform;
+  transform: translate3d(0, var(--hero-parallax, 0), 0);
+}
+
+/* Reduced-motion bypass 鈥?snap every new animation to its end state. */
+@media (prefers-reduced-motion: reduce) {
+  [data-home-root].js-home-scroll-fx [data-section]::before {
+    transform: scaleX(1);
+    transition: none;
+  }
+  [data-home-root].js-home-scroll-fx [data-heading-stagger] .home-heading-word,
+  [data-home-root].js-home-scroll-fx [data-heading-stagger] .home-heading-space {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+  [data-home-root].js-home-scroll-fx [data-counter].is-counter-punched {
+    animation: none !important;
+  }
+  [data-home-root].js-home-scroll-fx [data-hero-earth] {
+    transform: none !important;
+  }
+}
+
+
+/* =========================================================================
+   Phase 4 路 鏂板鍔ㄦ晥
+   - Sparkline 婊氬姩鏃剁粯鍒讹紙draw 鈫?done锛?   - Tabs 鍒囧埌娲昏穬鎬佹椂涓嬪垝绾?draw
+   - 鍗＄墖 hover 寰厜鏅曞凡骞跺叆 home.module.css锛?spotlightCard::after 绛夛級
+   ========================================================================= */
+
+/* Sparkline path: 鍒濆鏈粯鍒讹紝IntersectionObserver 瑙﹀彂鍚庡啓鍏?   data-draw-state="done"锛孋SS 鎶?stroke-dashoffset 鍔ㄧ敾鍒?0銆?*/
+[data-home-root].js-home-scroll-fx [data-sparkline] .sparklineLine,
+[data-home-root].js-home-scroll-fx [data-sparkline] .sparklineArea {
+  stroke-dasharray: 360;
+  stroke-dashoffset: 360;
+  opacity: 0;
+  transition:
+    stroke-dashoffset 880ms cubic-bezier(0.22, 0.61, 0.36, 1),
+    opacity 280ms ease;
+}
+
+[data-home-root].js-home-scroll-fx [data-sparkline] .sparklineArea {
+  fill-opacity: 0;
+  transition:
+    stroke-dashoffset 880ms cubic-bezier(0.22, 0.61, 0.36, 1),
+    fill-opacity 320ms ease 580ms;
+}
+
+[data-home-root].js-home-scroll-fx [data-sparkline][data-draw-state="done"] .sparklineLine,
+[data-home-root].js-home-scroll-fx [data-sparkline][data-draw-state="done"] .sparklineArea {
+  stroke-dashoffset: 0;
+  opacity: 1;
+}
+
+[data-home-root].js-home-scroll-fx [data-sparkline][data-draw-state="done"] .sparklineArea {
+  fill-opacity: 1;
+}
+
+/* Sparkline dots: 杩涘叆瑙嗛噹鍚庨€愪釜鏀惧ぇ寮瑰嚭 */
+[data-home-root].js-home-scroll-fx [data-sparkline] .sparklineDot {
+  transform: scale(0);
+  transform-origin: center;
+  transform-box: fill-box;
+  transition: transform 320ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+[data-home-root].js-home-scroll-fx [data-sparkline][data-draw-state="done"] .sparklineDot {
+  transform: scale(1);
+}
+
+/* Spotlight 鍗＄墖 + Insight 鍗?+ Topic tile 鐨?reveal 寰皟锛?   杩欎簺鍗＄墖 width 杈冨皬锛岃繘鍏ヨ閲庢椂 14px 鈫?0 涓婃诞锛岄厤鍚?spring銆?*/
+[data-home-root].js-home-scroll-fx [data-section="spotlight"] [data-reveal],
+[data-home-root].js-home-scroll-fx [data-section="insights"] [data-reveal],
+[data-home-root].js-home-scroll-fx [data-section="topics"] [data-reveal] {
+  opacity: 0;
+  transform: translate3d(0, 14px, 0);
+  transition:
+    opacity 520ms cubic-bezier(0.22, 0.61, 0.36, 1),
+    transform 620ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+[data-home-root].js-home-scroll-fx [data-section="spotlight"] [data-reveal].is-revealed,
+[data-home-root].js-home-scroll-fx [data-section="insights"] [data-reveal].is-revealed,
+[data-home-root].js-home-scroll-fx [data-section="topics"] [data-reveal].is-revealed {
+  opacity: 1;
+  transform: none;
+}
+
+/* Insight value 路 瀹屾垚鏃舵暟瀛楄交寰?寮硅捣"锛屼笌 statItem counter 鍚屾瑙嗚銆?*/
+[data-home-root].js-home-scroll-fx .insightValue {
+  display: inline-block;
+  will-change: transform;
+}
+
+[data-home-root].js-home-scroll-fx [data-section="insights"].is-revealed .insightValue {
+  animation: insight-value-pop 480ms cubic-bezier(0.34, 1.56, 0.64, 1) 240ms backwards;
+}
+
+@keyframes insight-value-pop {
+  0%   { transform: translate3d(0, 6px, 0) scale(0.985); opacity: 0; }
+  100% { transform: none; opacity: 1; }
+}
+
+/* 绔犺妭缂栧彿 marker 鍦?reveal 鏃惰交寰笅绉?+ 棰滆壊鍔犳繁銆?*/
+[data-home-root].js-home-scroll-fx .chapterMarker {
+  transition: color 280ms ease, transform 420ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  display: inline-block;
+}
+
+[data-home-root].js-home-scroll-fx [data-section].is-revealed .chapterMarker {
+  color: rgb(var(--token-cobalt));
+  transform: translateX(2px);
+}
+
+/* Reduced motion: 绔嬪嵆璺宠繃缁樺埗锛屼繚鎸侀潤鎬佸彲瑙併€?*/
+@media (prefers-reduced-motion: reduce) {
+  [data-home-root].js-home-scroll-fx [data-sparkline] .sparklineLine,
+  [data-home-root].js-home-scroll-fx [data-sparkline] .sparklineArea {
+    stroke-dashoffset: 0;
+    opacity: 1;
+    transition: none;
+  }
+  [data-home-root].js-home-scroll-fx [data-sparkline] .sparklineArea {
+    fill-opacity: 1;
+  }
+  [data-home-root].js-home-scroll-fx [data-sparkline] .sparklineDot {
+    transform: scale(1);
+    transition: none;
+  }
+  [data-home-root].js-home-scroll-fx [data-section="spotlight"] [data-reveal],
+  [data-home-root].js-home-scroll-fx [data-section="insights"] [data-reveal],
+  [data-home-root].js-home-scroll-fx [data-section="topics"] [data-reveal] {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  [data-home-root].js-home-scroll-fx [data-section="insights"].is-revealed .insightValue {
+    animation: none;
+  }
+  [data-home-root].js-home-scroll-fx [data-section].is-revealed .chapterMarker {
+    transform: none;
+  }
+}
+
+
+/* =========================================================================
+   闃舵 A 路 Section divider draw 寮哄寲
+   - 姣忎釜 [data-section] 椤堕儴 1px 娓愬彉绾匡紝浠庡乏寰€鍙抽殢杩涘叆灞曞紑
+   - 閫氳繃 HomeScrollFx 鍐欏叆 --section-progress (0..1) 椹卞姩 scaleX
+   - reduced-motion 鏃剁珛鍗宠烦鍒?100%
+   ========================================================================= */
+
+[data-section] {
+  position: relative;
+}
+
+[data-section]::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    rgb(var(--token-cobalt)) 0%,
+    rgb(var(--token-jade)) 50%,
+    rgb(var(--token-persimmon)) 100%
+  );
+  transform: scaleX(var(--section-progress, 0));
+  transform-origin: left center;
+  transition: transform 720ms cubic-bezier(0.22, 0.61, 0.36, 1);
+  opacity: 0.65;
+  pointer-events: none;
+  z-index: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [data-section]::before {
+    transition: none;
+    transform: scaleX(1);
+  }
+}
+
+
+/* ?reveal=all SSR fallback: even before HomeScrollFx mounts, force every
+   [data-reveal] / [data-section] / counter to its final state. */
+[data-home-root][data-force-reveal] [data-reveal],
+[data-home-root][data-force-reveal] [data-reveal].is-revealed {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+[data-home-root][data-force-reveal] [data-section] {
+  --section-progress: 1 !important;
+}
+[data-home-root][data-force-reveal] [data-section]::before {
+  transform: scaleX(1) !important;
+  transition: none !important;
+}
+

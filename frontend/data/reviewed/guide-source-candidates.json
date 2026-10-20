@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2026-10-20",
+  "status": "source_verified_pending_field_extraction",
+  "records": [
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "universityName": "Arizona State University",
+      "sourceUrl": "https://catalog.asu.edu/undergraduate",
+      "sourceType": "official_undergraduate_catalog",
+      "publisher": "Arizona State University Academic Catalog",
+      "scope": ["undergraduate degree programs", "major catalog"],
+      "observedProgramCategories": ["Architecture and construction", "Business", "Communication and media", "Computing and mathematics", "Education and teaching", "Engineering and technology", "Health and wellness", "Humanities", "Law, justice and public service"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:boston-college",
+      "universityName": "Boston College",
+      "sourceUrl": "https://www.bc.edu/bc-web/academics/sites/university-catalog/undergraduate/",
+      "sourceType": "official_undergraduate_catalog",
+      "publisher": "Boston College University Catalog",
+      "scope": ["undergraduate programs", "majors and concentrations"],
+      "observedProgramNames": ["Computer Science", "Global Public Health and the Common Good"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:bucknell-university",
+      "universityName": "Bucknell University",
+      "sourceUrl": "https://coursecatalog.bucknell.edu/",
+      "sourceType": "official_undergraduate_catalog",
+      "publisher": "Bucknell University Catalog",
+      "scope": ["undergraduate majors and minors", "degree requirements"],
+      "observedProgramNames": ["Animal Behavior", "Applied Mathematics", "Biology", "Computer Science", "Data Science", "Biomedical Engineering", "Mechanical Engineering"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:harvey-mudd-college",
+      "universityName": "Harvey Mudd College",
+      "sourceUrl": "https://www.hmc.edu/academics/majors/",
+      "sourceType": "official_undergraduate_programs",
+      "publisher": "Harvey Mudd College",
+      "scope": ["undergraduate majors", "interdisciplinary programs"],
+      "observedProgramNames": ["Biology", "Chemistry", "Computer Science", "Engineering", "Mathematics", "Physics", "Mathematical and Computational Biology"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:olin-college-of-engineering",
+      "universityName": "Olin College of Engineering",
+      "sourceUrl": "https://olin.edu/academics/majors-concentrations",
+      "sourceType": "official_undergraduate_programs",
+      "publisher": "Olin College of Engineering",
+      "scope": ["undergraduate majors", "concentrations"],
+      "observedProgramNames": ["Engineering", "Electrical and Computer Engineering", "Mechanical Engineering"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:rose-hulman-institute-of-technology",
+      "universityName": "Rose-Hulman Institute of Technology",
+      "sourceUrl": "https://www.rose-hulman.edu/academics/degrees-and-programs/majors.html",
+      "sourceType": "official_undergraduate_programs",
+      "publisher": "Rose-Hulman Institute of Technology",
+      "scope": ["undergraduate majors", "degree programs"],
+      "observedProgramNames": ["Artificial Intelligence", "Biomedical Engineering", "Chemical Engineering", "Civil Engineering", "Computer Engineering", "Computer Science", "Electrical Engineering", "Engineering Design", "Mechanical Engineering", "Optical Engineering", "Physics"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:loyola-university-chicago",
+      "universityName": "Loyola University Chicago",
+      "sourceUrl": "https://catalog.luc.edu/undergraduate/",
+      "sourceType": "official_undergraduate_catalog",
+      "publisher": "Loyola University Chicago Academic Catalog",
+      "scope": ["undergraduate programs", "degree requirements"],
+      "observedProgramNames": ["Computer Science", "Cybersecurity", "Software Engineering", "Information Technology", "Bioinformatics", "Data Science", "Nursing", "Accounting"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:university-of-colorado-boulder",
+      "universityName": "University of Colorado Boulder",
+      "sourceUrl": "https://catalog.colorado.edu/",
+      "sourceType": "official_undergraduate_catalog",
+      "publisher": "University of Colorado Boulder Catalog",
+      "scope": ["undergraduate programs", "degree and major requirements"],
+      "observedProgramNames": ["Computer Science", "Aerospace Engineering Sciences", "Electrical and Computer Engineering", "Environmental Engineering", "Business", "Cinema Studies and Moving Image Arts"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:university-of-illinois-at-chicago",
+      "universityName": "University of Illinois Chicago",
+      "sourceUrl": "https://catalog.uic.edu/",
+      "sourceType": "official_undergraduate_catalog",
+      "publisher": "University of Illinois Chicago Academic Catalog",
+      "scope": ["undergraduate programs", "degree requirements"],
+      "observedProgramNames": ["Computer Science", "Business Administration", "Political Science", "Music Education", "Teaching of English"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:university-of-iowa",
+      "universityName": "University of Iowa",
+      "sourceUrl": "https://catalog.registrar.uiowa.edu/",
+      "sourceType": "official_general_catalog",
+      "publisher": "University of Iowa General Catalog",
+      "scope": ["undergraduate programs", "majors and degree requirements"],
+      "observedProgramNames": ["Computer Science", "Data Science", "Biochemistry and Molecular Biology", "Biomedical Sciences", "Actuarial Science", "English and Creative Writing"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:university-of-south-carolina-columbia",
+      "universityName": "University of South Carolina",
+      "sourceUrl": "https://academicbulletins.sc.edu/undergraduate/programs-az/",
+      "sourceType": "official_undergraduate_bulletin",
+      "publisher": "University of South Carolina Academic Bulletin",
+      "scope": ["undergraduate programs", "degree programs A-Z"],
+      "observedProgramNames": ["Computer Science", "Data Science", "Aerospace Engineering", "Biomedical Engineering", "Chemical Engineering", "Civil Engineering", "Computer Engineering", "Electrical Engineering", "Cyber Intelligence", "Cyber Policy and Ethics"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "checkedOn": "2026-10-20"
+    }
+  ]
+}

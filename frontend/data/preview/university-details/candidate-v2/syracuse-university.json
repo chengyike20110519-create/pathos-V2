@@ -1,0 +1,228 @@
+{
+  "id": "candidate-v2:syracuse-university",
+  "name": "Syracuse University",
+  "nameZh": "Syracuse",
+  "chineseName": "Syracuse",
+  "aliases": [],
+  "latitude": 43.0392,
+  "longitude": -76.1351,
+  "state": "NY",
+  "city": "Syracuse",
+  "country": "US",
+  "rankingTier": "other",
+  "rankingBand": "outside_numeric_scope",
+  "rankingSummary": {
+    "nationalRank": null,
+    "rankingTier": "other",
+    "rankingLabel": "Not in selected national ranking scope",
+    "sourceIds": [],
+    "status": "not_in_current_national_scope",
+    "filterBehavior": "exclude_from_numeric_range"
+  },
+  "enrollmentSummary": {
+    "undergraduate": 15739,
+    "graduate": 7209,
+    "total": 22948,
+    "referenceYear": 2024
+  },
+  "costSummary": {
+    "minimumUsd": 94792,
+    "maximumUsd": 94792,
+    "displayLabel": "USD 94,792",
+    "comparisonSafe": true,
+    "scopes": [
+      "institution_undergraduate_tuition_published"
+    ],
+    "sourceIds": [],
+    "warnings": [],
+    "academicYear": "2025-26",
+    "currency": "USD"
+  },
+  "topPrograms": [],
+  "studentFacultyRatio": 1,
+  "acceptanceRate": 41.69,
+  "sat25": null,
+  "sat75": null,
+  "graduationRate": 74,
+  "retentionRate": 91,
+  "schoolType": "private",
+  "displayTier": "preview",
+  "previewOnly": true,
+  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
+  "sourceStatus": "pending_source_review",
+  "datasetVersion": "stage5-preview-ec8c66e",
+  "warningSummary": {
+    "codes": [
+      "candidate-v2_added_from_iecg_seed"
+    ],
+    "count": 1,
+    "hasWarnings": true
+  },
+  "nullableFields": [
+    "sat25",
+    "sat75"
+  ],
+  "region": "Mid East",
+  "qualitySummary": {
+    "warningCodes": [
+      "candidate-v2_added_from_iecg_seed"
+    ]
+  },
+  "programs": [],
+  "allMajors": [],
+  "allMajorsStatus": {
+    "status": "not_reported",
+    "nullReason": "detail_artifact_not_available"
+  },
+  "enrollment": {
+    "undergraduate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "undergraduate_certificate_or_degree_seeking",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "graduate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "graduate_enrollment",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "total": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "institution_total_enrollment",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    }
+  },
+  "admissions": {
+    "acceptanceRate": {},
+    "graduationRate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "institution",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": "ratio",
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "retentionRate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "four_year_institution",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": "ratio",
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "sat": {
+      "nullReason": "not_reported",
+      "referenceYear": null,
+      "scope": null,
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": []
+    },
+    "act": {
+      "nullReason": "not_reported",
+      "referenceYear": null,
+      "scope": null,
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": []
+    },
+    "testPolicy": {
+      "nullReason": "official_admissions_policy_not_frozen",
+      "referenceYear": null,
+      "scope": "first_year_undergraduate",
+      "sourceIds": [],
+      "status": "pending_external_access",
+      "unit": "policy",
+      "value": null,
+      "warnings": [
+        "pending_data_not_a_verified_fact"
+      ]
+    },
+    "englishPolicy": {
+      "nullReason": "official_undergraduate_english_policy_not_frozen",
+      "referenceYear": null,
+      "scope": "international_first_year_undergraduate",
+      "sourceIds": [],
+      "status": "pending_external_access",
+      "unit": "policy",
+      "value": null,
+      "warnings": [
+        "pending_data_not_a_verified_fact"
+      ]
+    }
+  },
+  "geography": {
+    "geographyScope": "place",
+    "place": {
+      "value": "Syracuse",
+      "status": "verified",
+      "referenceYear": null,
+      "scope": "institution",
+      "unit": null,
+      "sourceIds": [
+        "source_stage4b_college_scorecard_2025_05_19"
+      ],
+      "warnings": []
+    },
+    "county": {
+      "value": null,
+      "status": "not_reported",
+      "referenceYear": null,
+      "scope": "county",
+      "unit": null,
+      "sourceIds": [],
+      "warnings": []
+    }
+  },
+  "programPeopleGaps": [],
+  "history": {
+    "value": null,
+    "status": "not_reported",
+    "sourceIds": []
+  },
+  "anecdotes": [],
+  "notableAttendance": [],
+  "people": [],
+  "nearbyTowns": [],
+  "rawCostRecords": [
+    {
+      "amountUsd": 94792,
+      "currency": "USD",
+      "scope": "institution_undergraduate_tuition_published",
+      "academicYear": "2025-26",
+      "sourceIds": []
+    }
+  ]
+}

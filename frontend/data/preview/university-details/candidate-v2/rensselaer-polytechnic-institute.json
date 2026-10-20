@@ -1,0 +1,237 @@
+{
+  "id": "candidate-v2:rensselaer-polytechnic-institute",
+  "name": "Rensselaer Polytechnic Institute",
+  "nameZh": "RPI",
+  "chineseName": "RPI",
+  "aliases": [],
+  "latitude": 42.7301,
+  "longitude": -73.6767,
+  "state": "NY",
+  "city": "Troy",
+  "country": "US",
+  "rankingTier": "other",
+  "rankingBand": "outside_numeric_scope",
+  "rankingSummary": {
+    "nationalRank": null,
+    "rankingTier": "other",
+    "rankingLabel": "Not in selected national ranking scope",
+    "sourceIds": [],
+    "status": "not_in_current_national_scope",
+    "filterBehavior": "exclude_from_numeric_range"
+  },
+  "enrollmentSummary": {
+    "undergraduate": 5743,
+    "graduate": 1306,
+    "total": 7049,
+    "referenceYear": 2024
+  },
+  "costSummary": {
+    "minimumUsd": 87752,
+    "maximumUsd": 87752,
+    "displayLabel": "$87,752",
+    "comparisonSafe": true,
+    "scopes": [
+      "institution_undergraduate_tuition_published"
+    ],
+    "sourceIds": [],
+    "warnings": [],
+    "academicYear": "2025-26",
+    "currency": "USD"
+  },
+  "topPrograms": ["Computer Science", "Architecture", "Business Analytics", "Biological Neuroscience", "Aerospace Engineering", "Biomedical Engineering", "Mechanical Engineering", "Games and Simulation Arts and Sciences"],
+  "studentFacultyRatio": 14,
+  "acceptanceRate": 63.4,
+  "sat25": null,
+  "sat75": null,
+  "graduationRate": 71,
+  "retentionRate": 91,
+  "schoolType": "private",
+  "displayTier": "preview",
+  "previewOnly": true,
+  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
+  "sourceStatus": "pending_source_review",
+  "datasetVersion": "stage5-preview-ec8c66e",
+  "warningSummary": {
+    "codes": [
+      "candidate-v2_added_from_iecg_seed"
+    ],
+    "count": 1,
+    "hasWarnings": true
+  },
+  "nullableFields": [
+    "sat25",
+    "sat75"
+  ],
+  "region": "Mid East",
+  "qualitySummary": {
+    "warningCodes": [
+      "candidate-v2_added_from_iecg_seed"
+    ]
+  },
+  "programs": [
+    {"id": "rpi:program:computer-science", "name": "Computer Science", "sourceIds": ["official-rpi-academics-2026"]},
+    {"id": "rpi:program:architecture", "name": "Architecture", "sourceIds": ["official-rpi-academics-2026"]},
+    {"id": "rpi:program:business-analytics", "name": "Business Analytics", "sourceIds": ["official-rpi-academics-2026"]},
+    {"id": "rpi:program:biological-neuroscience", "name": "Biological Neuroscience", "sourceIds": ["official-rpi-academics-2026"]},
+    {"id": "rpi:program:aerospace-engineering", "name": "Aerospace Engineering", "sourceIds": ["official-rpi-academics-2026"]},
+    {"id": "rpi:program:biomedical-engineering", "name": "Biomedical Engineering", "sourceIds": ["official-rpi-academics-2026"]},
+    {"id": "rpi:program:mechanical-engineering", "name": "Mechanical Engineering", "sourceIds": ["official-rpi-academics-2026"]},
+    {"id": "rpi:program:games-simulation-arts", "name": "Games and Simulation Arts and Sciences", "sourceIds": ["official-rpi-academics-2026"]}
+  ],
+  "allMajors": [],
+  "allMajorsStatus": {
+    "status": "not_reported",
+    "nullReason": "detail_artifact_not_available"
+  },
+  "enrollment": {
+    "undergraduate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "undergraduate_certificate_or_degree_seeking",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "graduate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "graduate_enrollment",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "total": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "institution_total_enrollment",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    }
+  },
+  "admissions": {
+    "acceptanceRate": {},
+    "graduationRate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "institution",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": "ratio",
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "retentionRate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "four_year_institution",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": "ratio",
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "sat": {
+      "nullReason": "not_reported",
+      "referenceYear": null,
+      "scope": null,
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": []
+    },
+    "act": {
+      "nullReason": "not_reported",
+      "referenceYear": null,
+      "scope": null,
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": []
+    },
+    "testPolicy": {
+      "nullReason": "official_admissions_policy_not_frozen",
+      "referenceYear": null,
+      "scope": "first_year_undergraduate",
+      "sourceIds": [],
+      "status": "pending_external_access",
+      "unit": "policy",
+      "value": null,
+      "warnings": [
+        "pending_data_not_a_verified_fact"
+      ]
+    },
+    "englishPolicy": {
+      "nullReason": "official_undergraduate_english_policy_not_frozen",
+      "referenceYear": null,
+      "scope": "international_first_year_undergraduate",
+      "sourceIds": [],
+      "status": "pending_external_access",
+      "unit": "policy",
+      "value": null,
+      "warnings": [
+        "pending_data_not_a_verified_fact"
+      ]
+    }
+  },
+  "geography": {
+    "geographyScope": "place",
+    "place": {
+      "value": "Troy",
+      "status": "verified",
+      "referenceYear": null,
+      "scope": "institution",
+      "unit": null,
+      "sourceIds": [
+        "source_stage4b_college_scorecard_2025_05_19"
+      ],
+      "warnings": []
+    },
+    "county": {
+      "value": null,
+      "status": "not_reported",
+      "referenceYear": null,
+      "scope": "county",
+      "unit": null,
+      "sourceIds": [],
+      "warnings": []
+    }
+  },
+  "programPeopleGaps": [],
+  "history": {
+    "value": null,
+    "status": "not_reported",
+    "sourceIds": []
+  },
+  "anecdotes": [],
+  "notableAttendance": [],
+  "people": [],
+  "nearbyTowns": [],
+  "rawCostRecords": [
+    {
+      "amountUsd": 87752,
+      "currency": "USD",
+      "scope": "institution_undergraduate_tuition_published",
+      "academicYear": "2025-26",
+      "sourceIds": []
+    }
+  ]
+}

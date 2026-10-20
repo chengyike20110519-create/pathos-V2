@@ -1,0 +1,240 @@
+{
+  "id": "candidate-v2:tulane-university",
+  "name": "Tulane University",
+  "nameZh": "杜兰",
+  "chineseName": "杜兰",
+  "aliases": [],
+  "latitude": 29.94,
+  "longitude": -90.12,
+  "state": "LA",
+  "city": "New Orleans",
+  "country": "US",
+  "rankingTier": "other",
+  "rankingBand": "outside_numeric_scope",
+  "rankingSummary": {
+    "nationalRank": null,
+    "rankingTier": "other",
+    "rankingLabel": "Not in selected national ranking scope",
+    "sourceIds": [],
+    "status": "not_in_current_national_scope",
+    "filterBehavior": "exclude_from_numeric_range"
+  },
+  "enrollmentSummary": {
+    "undergraduate": 7283,
+    "graduate": 5118,
+    "total": 12401,
+    "referenceYear": 2024
+  },
+  "costSummary": {
+    "minimumUsd": 83632,
+    "maximumUsd": 83632,
+    "displayLabel": "$83,632",
+    "comparisonSafe": true,
+    "scopes": [
+      "institution_undergraduate_tuition_published"
+    ],
+    "sourceIds": [],
+    "warnings": [],
+    "academicYear": "2025-26",
+    "currency": "USD"
+  },
+  "topPrograms": ["Architecture", "Computer Science", "Environmental Studies", "Finance", "Political Economy", "Psychology", "Public Health", "Neuroscience"],
+  "studentFacultyRatio": null,
+  "acceptanceRate": 14.1,
+  "sat25": null,
+  "sat75": null,
+  "graduationRate": null,
+  "retentionRate": null,
+  "schoolType": "private",
+  "displayTier": "preview",
+  "previewOnly": true,
+  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
+  "sourceStatus": "pending_source_review",
+  "datasetVersion": "stage5-preview-ec8c66e",
+  "warningSummary": {
+    "codes": [
+      "candidate-v2_added_from_iecg_seed"
+    ],
+    "count": 1,
+    "hasWarnings": true
+  },
+  "nullableFields": [
+    "graduationRate",
+    "retentionRate",
+    "sat25",
+    "sat75",
+    "studentFacultyRatio"
+  ],
+  "region": "Southeast",
+  "qualitySummary": {
+    "warningCodes": [
+      "candidate-v2_added_from_iecg_seed"
+    ]
+  },
+  "programs": [
+    {"id": "tulane:program:architecture", "name": "Architecture", "sourceIds": ["official-tulane-programs-2026"]},
+    {"id": "tulane:program:computer-science", "name": "Computer Science", "sourceIds": ["official-tulane-programs-2026"]},
+    {"id": "tulane:program:environmental-studies", "name": "Environmental Studies", "sourceIds": ["official-tulane-programs-2026"]},
+    {"id": "tulane:program:finance", "name": "Finance", "sourceIds": ["official-tulane-programs-2026"]},
+    {"id": "tulane:program:political-economy", "name": "Political Economy", "sourceIds": ["official-tulane-programs-2026"]},
+    {"id": "tulane:program:psychology", "name": "Psychology", "sourceIds": ["official-tulane-programs-2026"]},
+    {"id": "tulane:program:public-health", "name": "Public Health", "sourceIds": ["official-tulane-programs-2026"]},
+    {"id": "tulane:program:neuroscience", "name": "Neuroscience", "sourceIds": ["official-tulane-programs-2026"]}
+  ],
+  "allMajors": [],
+  "allMajorsStatus": {
+    "status": "not_reported",
+    "nullReason": "detail_artifact_not_available"
+  },
+  "enrollment": {
+    "undergraduate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "undergraduate_certificate_or_degree_seeking",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "graduate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "graduate_enrollment",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "total": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "institution_total_enrollment",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    }
+  },
+  "admissions": {
+    "acceptanceRate": {},
+    "graduationRate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "institution",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": "ratio",
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "retentionRate": {
+      "nullReason": "not_reported",
+      "referenceYear": 2019,
+      "scope": "four_year_institution",
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": "ratio",
+      "value": null,
+      "warnings": [
+        "stale_reference_year"
+      ]
+    },
+    "sat": {
+      "nullReason": "not_reported",
+      "referenceYear": null,
+      "scope": null,
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": []
+    },
+    "act": {
+      "nullReason": "not_reported",
+      "referenceYear": null,
+      "scope": null,
+      "sourceIds": [],
+      "status": "not_reported",
+      "unit": null,
+      "value": null,
+      "warnings": []
+    },
+    "testPolicy": {
+      "nullReason": "official_admissions_policy_not_frozen",
+      "referenceYear": null,
+      "scope": "first_year_undergraduate",
+      "sourceIds": [],
+      "status": "pending_external_access",
+      "unit": "policy",
+      "value": null,
+      "warnings": [
+        "pending_data_not_a_verified_fact"
+      ]
+    },
+    "englishPolicy": {
+      "nullReason": "official_undergraduate_english_policy_not_frozen",
+      "referenceYear": null,
+      "scope": "international_first_year_undergraduate",
+      "sourceIds": [],
+      "status": "pending_external_access",
+      "unit": "policy",
+      "value": null,
+      "warnings": [
+        "pending_data_not_a_verified_fact"
+      ]
+    }
+  },
+  "geography": {
+    "geographyScope": "place",
+    "place": {
+      "value": "New Orleans",
+      "status": "verified",
+      "referenceYear": null,
+      "scope": "institution",
+      "unit": null,
+      "sourceIds": [
+        "source_stage4b_college_scorecard_2025_05_19"
+      ],
+      "warnings": []
+    },
+    "county": {
+      "value": null,
+      "status": "not_reported",
+      "referenceYear": null,
+      "scope": "county",
+      "unit": null,
+      "sourceIds": [],
+      "warnings": []
+    }
+  },
+  "programPeopleGaps": [],
+  "history": {
+    "value": null,
+    "status": "not_reported",
+    "sourceIds": []
+  },
+  "anecdotes": [],
+  "notableAttendance": [],
+  "people": [],
+  "nearbyTowns": [],
+  "rawCostRecords": [
+    {
+      "amountUsd": 83632,
+      "currency": "USD",
+      "scope": "institution_undergraduate_tuition_published",
+      "academicYear": "2025-26",
+      "sourceIds": []
+    }
+  ]
+}
