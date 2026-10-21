@@ -13,7 +13,7 @@
 // MapShell), and on explicit close button.
 
 import { useEffect } from "react";
-import { X, GraduationCap, MapPin, DollarSign, Shield, Users, ExternalLink, Sparkles, BookOpen, AlertTriangle, Loader2 } from "lucide-react";
+import { X, GraduationCap, MapPin, DollarSign, Shield, Users, ExternalLink, Sparkles, BookOpen, AlertTriangle, Loader2, ChevronRight, CheckCircle2 } from "lucide-react";
 import { useDataSource } from "@/services/data-source-provider";
 import { useUniversityDetail } from "@/hooks/use-data-source";
 import { tuitionRmbFromSummary } from "@/lib/legacy-mappers";
@@ -140,13 +140,19 @@ export function UniversityProfile({
     <div
       role="dialog"
       aria-label={`${summary.chineseName || summary.name} 详细信息`}
-      className="pointer-events-auto flex h-full w-full flex-col overflow-hidden rounded-xl border border-line/60 bg-panel text-ink shadow-panel"
+      className="pointer-events-auto flex h-full w-full flex-col overflow-hidden rounded-2xl border border-line/70 bg-panel/95 text-ink shadow-[0_20px_60px_rgba(15,23,42,0.22)] backdrop-blur-xl"
     >
       {/* ── Header ── */}
-      <header className="flex shrink-0 items-start gap-3 border-b border-line/50 px-4 py-3">
+      <header className="relative shrink-0 overflow-hidden border-b border-line/50 bg-gradient-to-br from-cobalt/[0.11] via-panel to-jade/[0.07] px-4 pb-4 pt-3.5">
+        <div className="absolute -right-8 -top-12 h-32 w-32 rounded-full bg-cobalt/10 blur-2xl" aria-hidden="true" />
+        <div className="relative flex items-start gap-3">
         <div className="min-w-0 flex-1">
-          <p className="mb-1 text-[9px] font-semibold uppercase tracking-[0.16em] text-cobalt/75">学校信息卡 · 先看概况</p>
-          <h2 className="truncate text-sm font-semibold text-ink">
+          <div className="mb-2 flex items-center gap-1.5 text-[9px] font-semibold uppercase tracking-[0.16em] text-cobalt/80">
+            <span className="grid h-4 w-4 place-items-center rounded-full bg-cobalt/15"><CheckCircle2 size={10} aria-hidden="true" /></span>
+            <span>学校信息卡</span>
+            <span className="font-normal tracking-normal text-ink/40">先看概况，再看专业</span>
+          </div>
+          <h2 className="text-[17px] font-semibold leading-tight tracking-[-0.02em] text-ink">
             {summary.chineseName || summary.name || "未提供名称"}
           </h2>
           {summary.name && summary.chineseName !== summary.name && (
@@ -176,6 +182,11 @@ export function UniversityProfile({
         >
           <X size={14} />
         </button>
+        </div>
+        <div className="relative mt-3 flex items-center gap-2 text-[10px] text-ink/55">
+          <span className="inline-flex items-center gap-1 rounded-full border border-cobalt/20 bg-panel/70 px-2 py-1 text-cobalt"><CheckCircle2 size={11} aria-hidden="true" />官方来源已接入</span>
+          <span className="rounded-full border border-line/50 bg-panel/60 px-2 py-1">点击下方专业进入详情</span>
+        </div>
       </header>
 
       <section className="shrink-0 border-b border-line/50" aria-label="校园影像">
@@ -191,7 +202,7 @@ export function UniversityProfile({
         <a href="#school-programs" className="rounded-md px-2 py-1 hover:bg-line/20 hover:text-ink">2 专业</a>
         <span aria-hidden="true">→</span>
         <a href="#school-sources" className="rounded-md px-2 py-1 hover:bg-line/20 hover:text-ink">3 来源</a>
-        <span className="ml-auto hidden text-[9px] text-ink/35 sm:inline">点击标签跳转</span>
+        <span className="ml-auto hidden items-center gap-0.5 text-[9px] text-ink/35 sm:inline-flex">点击跳转 <ChevronRight size={10} aria-hidden="true" /></span>
       </nav>
 
       {detail && (
@@ -204,9 +215,9 @@ export function UniversityProfile({
             <span className="rounded-full border border-cobalt/20 bg-panel/70 px-2 py-1 text-[10px] text-ink/60">已加载完整档案</span>
           </div>
           <div className="mt-2 grid grid-cols-3 gap-1.5 text-[10px]">
-            <div className="rounded-lg bg-panel/75 px-2 py-1.5"><span className="block text-ink/45">专业目录</span><strong className="mt-0.5 block text-sm text-ink">{detailAny.allMajors?.length ?? 0}</strong></div>
-            <div className="rounded-lg bg-panel/75 px-2 py-1.5"><span className="block text-ink/45">有依据亮点</span><strong className="mt-0.5 block text-sm text-cobalt">{detailAny.programSpotlights?.length ?? 0}</strong></div>
-            <div className="rounded-lg bg-panel/75 px-2 py-1.5"><span className="block text-ink/45">来源记录</span><strong className="mt-0.5 block text-sm text-ink">{detailSources.length || 0}</strong></div>
+            <div className="rounded-xl border border-line/40 bg-panel/75 px-2.5 py-2"><span className="block text-ink/45">专业目录</span><strong className="mt-0.5 block text-base text-ink">{detailAny.allMajors?.length ?? 0}<small className="ml-0.5 text-[9px] font-normal text-ink/45">项</small></strong></div>
+            <div className="rounded-xl border border-cobalt/15 bg-panel/75 px-2.5 py-2"><span className="block text-ink/45">有依据亮点</span><strong className="mt-0.5 block text-base text-cobalt">{detailAny.programSpotlights?.length ?? 0}<small className="ml-0.5 text-[9px] font-normal text-ink/45">项</small></strong></div>
+            <div className="rounded-xl border border-line/40 bg-panel/75 px-2.5 py-2"><span className="block text-ink/45">来源记录</span><strong className="mt-0.5 block text-base text-ink">{detailSources.length || 0}<small className="ml-0.5 text-[9px] font-normal text-ink/45">条</small></strong></div>
           </div>
         </section>
       )}
