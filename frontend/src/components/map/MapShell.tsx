@@ -568,6 +568,7 @@ export function MapShell({
 
   const removeFromCompare = useCallback((id: string) => {
     compare.remove(id);
+    if (compare.ids.length <= 1) setCompareOpen(false);
   }, [compare]);
 
   const clearCompare = useCallback(() => {
@@ -914,7 +915,7 @@ export function MapShell({
                   is therefore no longer in the same top-right corner
                   anchor; the toolbar remains reachable when the
                   profile is open. */}
-              <div className="absolute right-3 top-14 z-map-profile hidden h-[calc(100%-4.25rem)] w-[min(360px,calc(100%-1.5rem))] lg:block" style={{ top: Math.max(56, toolbarBottom), height: `calc(100% - ${Math.max(56, toolbarBottom) + 12}px)` }}>
+              <div className="absolute right-3 top-14 z-map-profile hidden h-[calc(100%-4.25rem)] w-[min(420px,calc(100%-1.5rem))] lg:block" style={{ top: Math.max(56, toolbarBottom), height: `calc(100% - ${Math.max(56, toolbarBottom) + 12}px)` }}>
                 <UniversityProfile
                   summary={selectedSummary}
                   inCompare={compareIds.includes(selectedSummary.id)}
@@ -928,8 +929,8 @@ export function MapShell({
               <div className="lg:hidden">
                 <BottomSheet
                   key={selectedSummary.id}
-                  defaultSnap="half"
-                  title={selectedSummary.chineseName || selectedSummary.name}
+                  defaultSnap="expanded"
+                  title="学校详情"
                   onEscape={() => setSelectedUniversityId(null)}
                 >
                   <UniversityProfile

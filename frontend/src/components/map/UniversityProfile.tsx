@@ -1,405 +1,192 @@
 "use client";
 
-// Stage 7A — UniversityProfile panel.
-//
-// Replaces the legacy UniversityCard as the on-map detail panel. Renders
-// from the canonical `UniversitySummary` shape (no `?? 0` fabrication)
-// plus optional detail via `useUniversityDetail`. Missing fields show
-// the "未报告" / "数据补充中" empty state — never 0/N/A.
-//
-// Designed to be rendered as an edge-docked popover (desktop right,
-// mobile bottom sheet). Itself is non-modal: it never blocks map
-// dragging or hover. Closes on Escape, on click-empty (handled by
-// MapShell), and on explicit close button.
-
-import { useEffect } from "react";
-import { X, GraduationCap, MapPin, DollarSign, Shield, Users, ExternalLink, Sparkles, BookOpen, AlertTriangle, Loader2, ChevronRight, CheckCircle2 } from "lucide-react";
+import { useEffect, useId, useRef, useState, type KeyboardEvent } from "react";
+import { ArrowUpRight, BookOpen, Check, ChevronRight, Loader2, MapPin, Plus, RefreshCw, X } from "lucide-react";
 import { useDataSource } from "@/services/data-source-provider";
 import { useUniversityDetail } from "@/hooks/use-data-source";
-import { tuitionRmbFromSummary } from "@/lib/legacy-mappers";
 import type { UniversitySummary } from "@/domain/dataset";
+import { schoolProgramNames } from "@/lib/university-programs";
 import { UniversityPrograms } from "./UniversityPrograms";
 import { CampusGallery } from "./CampusGallery";
+import styles from "./UniversityProfile.module.css";
 
 export interface UniversityProfileProps {
-  /** The selected university summary (canonical shape). */
   summary: UniversitySummary;
-  /** Whether this university is currently in the user's compare set. */
   inCompare?: boolean;
-  /** Add to compare (max 3 enforced by caller). */
   onAddToCompare?: () => void;
-  /** Remove from compare. */
   onRemoveFromCompare?: () => void;
-  /** Open the dedicated /university/[id] page. */
   onViewProfile?: () => void;
-  /** Close the panel (escape / close button / click empty). */
   onClose: () => void;
 }
 
-export function UniversityProfile({
-  summary,
-  inCompare = false,
-  onAddToCompare,
-  onRemoveFromCompare,
-  onViewProfile,
-  onClose,
-}: UniversityProfileProps) {
-  const dataSource = useDataSource();
-  const detailState = useUniversityDetail(dataSource, summary.id);
-  const detail = detailState.state.status === "ready" && detailState.state.data?.id === summary.id
-    ? detailState.state.data : null;
-  const profile = detail ?? summary;
-  const missingLabel = detailState.state.status === "error"
-    ? "详情未加载"
-    : !detail
-      ? "加载中…" : "未报告";
+const TABS = [
+  { id: "overview", label: "概览" },
+  { id: "programs", label: "专业" },
+  { id: "sources", label: "数据来源" },
+] as const;
+type ProfileTab = typeof TABS[number]["id"];
 
-  // Close on Escape.
+function sourceName(url: string) {
+  try { return new URL(url).hostname.replace(/^www\./, ""); }
+  catch { return "原始来源"; }
+}
+
+export function UniversityProfile({ summary, inCompare = false, onAddToCompare, onRemoveFromCompare, onViewProfile, onClose }: UniversityProfileProps) {
+  const dataSource = useDataSource();
+  const resource = useUniversityDetail(dataSource, summary.id);
+  const detail = resource.state.status === "ready" && resource.state.data?.id === summary.id ? resource.state.data : null;
+  const profile = detail ?? summary;
+  const [activeTab, setActiveTab] = useState<ProfileTab>("overview");
+  const [coverHidden, setCoverHidden] = useState(false);
+  const scrollRef = useRef<HTMLDivElement>(null);
+  const headerRef = useRef<HTMLElement>(null);
+  const tabsRef = useRef<HTMLDivElement>(null);
+  const uid = useId();
+  const title = summary.chineseName || summary.nameZh || summary.name;
+  const loading = !detail && resource.state.status !== "error";
+  const missing = loading ? "加载中" : resource.state.status === "error" ? "暂未获取" : "暂未收录";
+
   useEffect(() => {
-    const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") onClose();
-    };
+    const onKey = (e: globalThis.KeyboardEvent) => { if (e.key === "Escape") onClose(); };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [onClose]);
 
-  const tuition = tuitionRmbFromSummary(profile);
-  // IECG fill (P1): prefer the explicit tuition band from the parsed
-  // CollegeGuide when present (e.g. "$65,800") over the USD-derived
-  // `costSummary.minimumUsd * 7.2` value. Fall through to the legacy
-  // derived number; only render "未报告" when both are missing.
-  const gpTuition = profile.guidePreview?.tuition?.total;
-  const officialTuition = profile.officialResearch?.tuitionOutOfState;
-  const costLabel = typeof officialTuition === "number" && officialTuition > 0
-    ? `$${Math.round(officialTuition).toLocaleString("en-US")}/年`
-    : gpTuition
-      ? `${gpTuition}/年`
-      : profile.costSummary?.displayLabel
-        ? `${profile.costSummary.displayLabel}/年`
-        : tuition !== null
-      ? `¥${Math.round(tuition / 10000)}万/年`
-      : missingLabel;
-  // IECG fill (P1): quick-stats (师生比 / 4年毕业率 / 保留率 / 截止日 / 学制)
-  const sfrLabel = profile.guidePreview?.studentFacultyRatio ?? "数据补充中";
-  const grad4Label = profile.guidePreview?.graduationRate4Yr ?? "数据补充中";
-  const retentionLabel = profile.guidePreview?.freshmanRetentionRate ?? "数据补充中";
-  const deadlineLabel = profile.guidePreview?.applicationDeadlines ?? "数据补充中";
-  const systemLabel = profile.guidePreview?.academicSystem ?? "数据补充中";
-  const curriculumUrl = profile.guidePreview?.curriculumUrl;
-  const rankingTier = summary.rankingSummary?.rankingTier ?? summary.rankingTier ?? null;
-  const rankingLabel = summary.rankingSummary?.rankingLabel ?? "未在当前排名范围";
-  const nationalRank = summary.rankingSummary?.nationalRank ?? null;
-  const warnings = profile.qualitySummary?.warningCodes ?? [];
-  const hasPartialGuide = profile.guidePreview?.coverageStatus === "partial_official_catalog";
+  useEffect(() => { setActiveTab("overview"); setCoverHidden(false); if (scrollRef.current) scrollRef.current.scrollTop = 0; }, [summary.id]);
 
-  // Detail-only fields (programs, cost records, nearby towns).
-  // NOTE: the Preview Bundle currently returns the legacy
-  // UniversityDetail shape (programs / cost / ranking / etc.) but
-  // does NOT yet expose the PreviewMetadata's admissions/enrollment
-  // blocks. We read both safely: when the blocks are present we
-  // surface them; otherwise we render the empty-state label.
-  // `detail` itself can be null while the detail hook is still
-  // loading; treat null as the empty object so `.admissions?.…` and
-  // similar chains don't throw before the optional chain can run.
-  const detailAny = (detail ?? {}) as unknown as {
-    programs?: Array<{ id: string; name: string; category?: string; rank?: number; membership?: "top" | "notable"; displayTier?: string }>;
-    cost?: Array<{ amount: number; currency: string; year: number; components?: { tuition?: boolean; roomBoard?: boolean; mandatoryFees?: boolean } }>;
-    nearbyTowns?: Array<{ name: string; nameZh?: string; distanceKm?: number }>;
-    admissions?: { acceptanceRate?: { value: number | null; status?: string } };
-    previewMetadata?: { enrollment?: { undergraduate?: { value: number | null; status?: string } } };
-    allMajors?: Array<{ name: string; displayName: string }>;
-    programSpotlights?: Array<{ name: string; kind: "strength" | "distinctive"; nameZh?: string }>;
-    officialResearch?: { acceptanceRate: number | null; undergraduateEnrollment: number | null; tuitionOutOfState: number | null; tuitionInState: number | null };
-    sources?: Array<{ url: string; status?: string; retrievedAt?: string }>;
-    campusImages?: Array<{
-      id: string; url: string; thumbnailUrl?: string | null; label: string;
-      sourceUrl: string; publisher: string;
-      licenseStatus: "verified" | "pending_review" | "not_suitable";
-      reviewStatus: "approved" | "pending" | "rejected";
-      checkedOn: string; displayOrder: number;
-    }>;
-  };
-  const official = detail?.officialResearch ?? summary.officialResearch;
-  const acceptanceRate = detailAny.admissions?.acceptanceRate?.value ?? official?.acceptanceRate ?? null;
-  const undergradCount =
-    official?.undergraduateEnrollment ??
-    detailAny.previewMetadata?.enrollment?.undergraduate?.value ??
-    profile.enrollmentSummary?.undergraduate ??
-    null;
-  const detailSources = detailAny.sources ?? [];
-  const retrievedOn = detail?.officialResearch?.retrievedOn ?? detailSources.find((source) => source.retrievedAt)?.retrievedAt ?? "";
+  useEffect(() => {
+    if (scrollRef.current) scrollRef.current.scrollTop = activeTab === "overview" ? 0 : headerRef.current?.offsetHeight ?? 0;
+  }, [activeTab]);
 
-  function emptyReport(value: number | string | null | undefined, fallback: string): string {
-    if (value === null || value === undefined) return fallback;
-    if (typeof value === "number" && (!Number.isFinite(value) || value <= 0)) return fallback;
-    if (typeof value === "string" && value.trim() === "") return fallback;
-    return String(value);
+  function changeTab(tab: ProfileTab) {
+    setActiveTab(tab);
+    if (scrollRef.current) scrollRef.current.scrollTop = tab === "overview" ? 0 : headerRef.current?.offsetHeight ?? 0;
+    tabsRef.current?.querySelector<HTMLButtonElement>(`[data-tab="${tab}"]`)?.focus({ preventScroll: true });
   }
 
+  function handleTabKey(event: KeyboardEvent<HTMLButtonElement>, index: number) {
+    let next: number;
+    if (event.key === "ArrowRight") next = (index + 1) % TABS.length;
+    else if (event.key === "ArrowLeft") next = (index + TABS.length - 1) % TABS.length;
+    else if (event.key === "Home") next = 0;
+    else if (event.key === "End") next = TABS.length - 1;
+    else return;
+    event.preventDefault();
+    changeTab(TABS[next].id);
+    tabsRef.current?.querySelectorAll<HTMLButtonElement>("[role=tab]")[next]?.focus({ preventScroll: true });
+  }
+
+  const official = detail?.officialResearch ?? summary.officialResearch;
+  const acceptance = detail?.previewMetadata?.admissions?.acceptanceRate?.value ?? official?.acceptanceRate;
+  const undergrads = official?.undergraduateEnrollment ?? detail?.previewMetadata?.enrollment?.undergraduate?.value ?? profile.enrollmentSummary?.undergraduate;
+  const rank = profile.rankingSummary?.nationalRank ?? profile.nationalRanking;
+  const rankRecord = detail?.ranking.find((item) => item.scope === "national" && Number(item.position) === rank);
+  const programs = detail ? schoolProgramNames(detail) : [];
+  const officialTuition = official?.tuitionOutOfState;
+  const guideTuition = profile.guidePreview?.tuition?.total;
+  const costValue = typeof officialTuition === "number" && officialTuition > 0
+    ? `$${Math.round(officialTuition).toLocaleString("en-US")}`
+    : guideTuition || profile.costSummary?.displayLabel || missing;
+  const hasTuition = (typeof officialTuition === "number" && officialTuition > 0) || !!guideTuition;
+  const location = [profile.city, profile.state].filter(Boolean).join(" · ") || "位置资料待补充";
+  const studyFacts = [
+    ["师生比", profile.guidePreview?.studentFacultyRatio],
+    ["四年毕业率", profile.guidePreview?.graduationRate4Yr],
+    ["大一保留率", profile.guidePreview?.freshmanRetentionRate],
+    ["学制", profile.guidePreview?.academicSystem],
+    ["申请截止", profile.guidePreview?.applicationDeadlines],
+  ].filter((row): row is [string, string] => typeof row[1] === "string" && !!row[1].trim() && row[1] !== "数据补充中");
+
+  // Collect the sources actually attached to the displayed facts.
+  const sourceMap = new Map<string, { url: string; label: string; date?: string }>();
+  for (const source of detail?.sources ?? []) sourceMap.set(source.url, { url: source.url, label: sourceName(source.url), date: source.retrievedAt });
+  if (official?.sourceUrl) sourceMap.set(official.sourceUrl, { url: official.sourceUrl, label: "学校基础数据 · College Scorecard", date: official.retrievedOn ?? undefined });
+  if (profile.guidePreview?.curriculumUrl) sourceMap.set(profile.guidePreview.curriculumUrl, { url: profile.guidePreview.curriculumUrl, label: "学校课程目录" });
+  for (const item of detail?.programSpotlights ?? []) sourceMap.set(item.sourceUrl, { url: item.sourceUrl, label: `${item.nameZh || item.name} · 专业依据`, date: item.checkedOn });
+  for (const image of detail?.campusImages ?? []) {
+    if (image.reviewStatus === "approved" && image.licenseStatus === "verified") sourceMap.set(image.sourceUrl, { url: image.sourceUrl, label: "校园照片 · " + image.publisher, date: image.checkedOn });
+  }
+  const sources = [...sourceMap.values()];
+  const refreshedOn = official?.retrievedOn;
+
   return (
-    <div
-      role="dialog"
-      aria-label={`${summary.chineseName || summary.name} 详细信息`}
-      className="pointer-events-auto flex h-full w-full flex-col overflow-hidden rounded-2xl border border-line/70 bg-panel/95 text-ink shadow-[0_20px_60px_rgba(15,23,42,0.22)] backdrop-blur-xl"
-    >
-      {/* ── Header ── */}
-      <header className="relative shrink-0 overflow-hidden border-b border-line/50 bg-gradient-to-br from-cobalt/[0.11] via-panel to-jade/[0.07] px-4 pb-4 pt-3.5">
-        <div className="absolute -right-8 -top-12 h-32 w-32 rounded-full bg-cobalt/10 blur-2xl" aria-hidden="true" />
-        <div className="relative flex items-start gap-3">
-        <div className="min-w-0 flex-1">
-          <div className="mb-2 flex items-center gap-1.5 text-[9px] font-semibold uppercase tracking-[0.16em] text-cobalt/80">
-            <span className="grid h-4 w-4 place-items-center rounded-full bg-cobalt/15"><CheckCircle2 size={10} aria-hidden="true" /></span>
-            <span>学校信息卡</span>
-            <span className="font-normal tracking-normal text-ink/40">先看概况，再看专业</span>
+    <section role="dialog" aria-modal="false" aria-label={`${title} 详细信息`} className={`${styles.card} pointer-events-auto`}>
+      <div ref={scrollRef} data-university-scroll onScroll={(event) => setCoverHidden(event.currentTarget.scrollTop >= (headerRef.current?.offsetHeight ?? Infinity))} className={`${styles.scrollArea} overflow-y-auto overscroll-contain`}>
+      <header ref={headerRef} className={styles.header}>
+        <CampusGallery key={summary.id} images={detail?.campusImages}>
+          <div className={styles.identity}>
+            <p className={styles.location}><MapPin size={12} aria-hidden="true" />{location}</p>
+            <h2 id={`${uid}-title`} className={styles.schoolName}>{title}</h2>
+            {summary.name && title !== summary.name && <p lang="en" className={styles.englishName}>{summary.name}</p>}
           </div>
-          <h2 className="text-[17px] font-semibold leading-tight tracking-[-0.02em] text-ink">
-            {summary.chineseName || summary.name || "未提供名称"}
-          </h2>
-          {summary.name && summary.chineseName !== summary.name && (
-            <p className="truncate text-xs text-ink/55" lang="en">{summary.name}</p>
-          )}
-          <p className="mt-0.5 flex items-center gap-1 text-[11px] text-ink/48">
-            <MapPin size={10} aria-hidden="true" />
-            <span>{emptyReport(profile.city, missingLabel)}</span>
-            {summary.state ? (
-              <>
-                <span className="mx-0.5 text-ink/24" aria-hidden="true">·</span>
-                <span>{emptyReport(summary.state, "未报告")}</span>
-              </>
-            ) : null}
-          </p>
-        </div>
-        {rankingTier && (
-          <span className="shrink-0 rounded-full border border-line/60 bg-paper px-2 py-0.5 text-[10px] font-medium text-ink/70">
-            {nationalRank !== null ? `全美 #${nationalRank}` : "排名未收录"}
-          </span>
-        )}
-        <button
-          type="button"
-          onClick={onClose}
-          aria-label="关闭学校详情"
-          className="grid h-6 w-6 shrink-0 place-items-center rounded text-ink/40 transition-colors hover:bg-line/30 hover:text-ink"
-        >
-          <X size={14} />
-        </button>
-        </div>
-        <div className="relative mt-3 flex items-center gap-2 text-[10px] text-ink/55">
-          <span className="inline-flex items-center gap-1 rounded-full border border-cobalt/20 bg-panel/70 px-2 py-1 text-cobalt"><CheckCircle2 size={11} aria-hidden="true" />官方来源已接入</span>
-          <span className="rounded-full border border-line/50 bg-panel/60 px-2 py-1">点击下方专业进入详情</span>
-        </div>
+        </CampusGallery>
       </header>
 
-      <section className="shrink-0 border-b border-line/50" aria-label="校园影像">
-        <CampusGallery images={detailAny.campusImages} />
-        {detailAny.campusImages?.some((image) => image.reviewStatus === "approved" && image.licenseStatus === "verified") && (
-          <p className="px-4 py-1.5 text-[9px] text-ink/40">图片仅展示已审核来源；点击右上角可查看原始来源。</p>
-        )}
-      </section>
-
-      <nav aria-label="学校信息阅读顺序" className="flex shrink-0 items-center gap-1 border-b border-line/50 bg-paper/45 px-3 py-2 text-[10px] text-ink/50">
-        <a href="#school-overview" aria-current="step" className="rounded-md bg-cobalt/10 px-2 py-1 font-medium text-cobalt hover:bg-cobalt/15">1 概况</a>
-        <span aria-hidden="true">→</span>
-        <a href="#school-programs" className="rounded-md px-2 py-1 hover:bg-line/20 hover:text-ink">2 专业</a>
-        <span aria-hidden="true">→</span>
-        <a href="#school-sources" className="rounded-md px-2 py-1 hover:bg-line/20 hover:text-ink">3 来源</a>
-        <span className="ml-auto hidden items-center gap-0.5 text-[9px] text-ink/35 sm:inline-flex">点击跳转 <ChevronRight size={10} aria-hidden="true" /></span>
-      </nav>
-
-      {detail && (
-        <section aria-label="学校信息摘要" className="shrink-0 border-b border-line/50 bg-cobalt/5 px-4 py-3">
-          <div className="flex items-center justify-between gap-3">
-            <div>
-              <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-cobalt/75">PathOS quick read</p>
-              <p className="mt-0.5 text-xs font-medium text-ink">先看结论，再决定要不要深入</p>
-            </div>
-            <span className="rounded-full border border-cobalt/20 bg-panel/70 px-2 py-1 text-[10px] text-ink/60">已加载完整档案</span>
-          </div>
-          <div className="mt-2 grid grid-cols-3 gap-1.5 text-[10px]">
-            <div className="rounded-xl border border-line/40 bg-panel/75 px-2.5 py-2"><span className="block text-ink/45">专业目录</span><strong className="mt-0.5 block text-base text-ink">{detailAny.allMajors?.length ?? 0}<small className="ml-0.5 text-[9px] font-normal text-ink/45">项</small></strong></div>
-            <div className="rounded-xl border border-cobalt/15 bg-panel/75 px-2.5 py-2"><span className="block text-ink/45">有依据亮点</span><strong className="mt-0.5 block text-base text-cobalt">{detailAny.programSpotlights?.length ?? 0}<small className="ml-0.5 text-[9px] font-normal text-ink/45">项</small></strong></div>
-            <div className="rounded-xl border border-line/40 bg-panel/75 px-2.5 py-2"><span className="block text-ink/45">来源记录</span><strong className="mt-0.5 block text-base text-ink">{detailSources.length || 0}<small className="ml-0.5 text-[9px] font-normal text-ink/45">条</small></strong></div>
-          </div>
-        </section>
-      )}
-
-      {/* ── Scrollable content ── */}
-      <div className="flex-1 overflow-y-auto overscroll-contain">
-        {/* Key facts 2x2 grid */}
-        <section id="school-overview" className="scroll-mt-2 grid grid-cols-2 gap-px border-b border-line/50 bg-line/20 text-[11px]">
-          <Stat icon={<DollarSign size={12} aria-hidden="true" />} label="年学费" labelEn="Tuition" value={costLabel} />
-          <Stat icon={<GraduationCap size={12} aria-hidden="true" />} label="学校排名" labelEn="Rank" value={nationalRank !== null ? `No.${nationalRank}` : rankingLabel} />
-          <Stat icon={<BookOpen size={12} aria-hidden="true" />} label="录取率" labelEn="Acceptance" value={
-            acceptanceRate !== null && Number.isFinite(acceptanceRate)
-              ? `${(acceptanceRate * 100).toFixed(1)}%`
-              : missingLabel
-          } />
-          <Stat icon={<Users size={12} aria-hidden="true" />} label="本科人数" labelEn="Undergrad" value={
-            undergradCount !== null && Number.isFinite(undergradCount) && undergradCount > 0
-              ? `${undergradCount.toLocaleString()}`
-              : missingLabel
-          } />
-        </section>
-
-        {/* IECG fill (P1): secondary quick-stats row — only renders when
-            the guidePreview has at least one of these facts. */}
-        {profile.guidePreview?.hasData && (
-          <section className="grid grid-cols-3 gap-px border-b border-line/50 bg-line/20 text-[11px]">
-            <Stat icon={<Users size={11} aria-hidden="true" />} label="师生比" labelEn="Student:Faculty" value={sfrLabel} />
-            <Stat icon={<GraduationCap size={11} aria-hidden="true" />} label="4 年毕业率" labelEn="4-Yr Grad" value={grad4Label} />
-            <Stat icon={<Shield size={11} aria-hidden="true" />} label="大一保留率" labelEn="Retention" value={retentionLabel} />
-          </section>
-        )}
-
-        {/* Detail area */}
-        <section className="space-y-3 px-4 py-3 text-[12px]">
-          {detailState.state.status === "loading" && (
-            <div role="status" aria-label="正在加载学校详情" className="space-y-2.5">
-              <div className="flex items-center gap-2 rounded-lg border border-line/50 bg-paper/60 p-2.5 text-[11px] text-ink/55">
-                <Loader2 size={13} className="animate-spin" aria-hidden="true" /> 正在加载学校详情…
-              </div>
-              <div aria-hidden="true" className="space-y-2 rounded-xl border border-line/40 bg-paper/35 p-3">
-                <div className="h-3 w-28 animate-pulse rounded bg-ink/10" />
-                <div className="h-2.5 w-full animate-pulse rounded bg-ink/8" />
-                <div className="h-2.5 w-4/5 animate-pulse rounded bg-ink/8" />
-                <div className="flex gap-2 pt-1"><div className="h-7 w-24 animate-pulse rounded-lg bg-ink/8" /><div className="h-7 w-32 animate-pulse rounded-lg bg-ink/8" /></div>
-              </div>
-            </div>
-          )}
-          {detailState.state.status === "error" && (
-            <div className="flex items-center justify-between gap-3 rounded-lg border border-persimmon/30 bg-persimmon/10 p-2.5 text-[11px] text-persimmon" role="alert">
-              <span>详情连接暂时失败，尚未获取的数据会在重试后显示。</span>
-              <button type="button" onClick={detailState.reload} className="shrink-0 rounded border border-persimmon/40 px-2 py-1 font-semibold hover:bg-persimmon/10">重试</button>
-            </div>
-          )}
-          {detail && <div id="school-programs" className="scroll-mt-2"><UniversityPrograms key={detail.id} detail={detail} /></div>}
-          {warnings.length > 0 && (
-            <div className="rounded-lg border border-persimmon/30 bg-persimmon/10 p-2.5 text-[11px] leading-relaxed text-persimmon">
-              <div className="flex items-center gap-1 font-semibold">
-                <AlertTriangle size={11} aria-hidden="true" /> 数据警示
-              </div>
-              <p className="mt-1">
-                当前已记录 {warnings.length} 项数据来源待补强。具体字段请以「未报告」标识为准。
-              </p>
-            </div>
-          )}
-          {hasPartialGuide && (
-            <div className="rounded-lg border border-amber-500/30 bg-amber-500/10 p-2.5 text-[11px] leading-relaxed text-amber-700 dark:text-amber-300" role="status">
-              <div className="flex items-center gap-1 font-semibold">
-                <BookOpen size={11} aria-hidden="true" /> 官方目录资料已接入（部分）
-              </div>
-              <p className="mt-1">专业目录与官方链接已核验；费用、录取率、申请截止日等未标明的字段仍在补充，暂不作为结论。</p>
-            </div>
-          )}
-
-          {detailState.state.status === "ready" && (detailSources.length > 0 || retrievedOn) && (
-            <div id="school-sources" className="scroll-mt-2 rounded-lg border border-line/50 bg-paper/60 p-2.5 text-[11px] leading-relaxed text-ink/65">
-              <p className="font-semibold text-ink/75">数据来源与更新时间</p>
-              <p className="mt-0.5">来源 {detailSources.length || 1} 个 · {retrievedOn ? `基础数据最近采集 ${retrievedOn}` : "更新时间未报告"}</p>
-              {detailSources[0]?.url && (
-                <a href={detailSources[0].url} target="_blank" rel="noopener noreferrer" className="mt-1 inline-flex max-w-full items-center gap-1 truncate text-cobalt hover:underline">
-                  <ExternalLink size={10} aria-hidden="true" /> 查看原始来源
-                </a>
-              )}
-            </div>
-          )}
-
-          {/* IECG fill (P1): 申请要点 + 课程链接 — parents & counselors can read
-              deadlines / academic system at a glance. */}
-          {(deadlineLabel !== "数据补充中" || systemLabel !== "数据补充中" || curriculumUrl) && (
-            <div className="rounded-lg border border-cobalt/20 bg-cobalt/5 p-2.5 text-[11px] leading-relaxed text-ink/72">
-              <p className="flex items-center gap-1 font-semibold text-cobalt">
-                <Sparkles size={11} aria-hidden="true" /> 申请要点
-              </p>
-              <div className="mt-1 space-y-0.5">
-                {deadlineLabel !== "数据补充中" && (
-                  <p><span className="text-ink/44">申请截止 </span><span className="font-medium">{deadlineLabel}</span></p>
-                )}
-                {systemLabel !== "数据补充中" && (
-                  <p><span className="text-ink/44">学制 </span><span className="font-medium">{systemLabel}</span></p>
-                )}
-                {curriculumUrl && (
-                  <p>
-                    <a href={curriculumUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 font-medium text-cobalt hover:underline">
-                      <ExternalLink size={10} aria-hidden="true" /> 课程体系原文
-                    </a>
-                  </p>
-                )}
-              </div>
-            </div>
-          )}
-
-          {/* Prose block: ranking summary, plus a "what we report" footer. */}
-          <div className="rounded-lg bg-paper/80 p-2.5 text-[11px] leading-relaxed text-ink/65">
-            <p>{emptyReport(rankingLabel, "未在当前排名范围")}。地理坐标 {(summary.latitude ?? "未报告").toString()} / {(summary.longitude ?? "未报告").toString()}。</p>
-            {detail?.warnings && detail.warnings.length > 0 && (
-              <ul className="mt-1.5 list-disc space-y-0.5 pl-4 text-[10px] text-ink/50">
-                {detail.warnings.slice(0, 3).map((w) => <li key={w}>{w}</li>)}
-              </ul>
-            )}
-          </div>
-        </section>
+      <div className={styles.tabs}>
+      <div className={styles.tabContent}>
+      {coverHidden && <p className={styles.stickyTitle}>{title}</p>}
+      <div ref={tabsRef} role="tablist" aria-label="学校信息" className={styles.tabsInner}>
+        {TABS.map((tab, index) => (
+          <button key={tab.id} type="button" role="tab" data-tab={tab.id} id={`${uid}-${tab.id}-tab`} aria-selected={activeTab === tab.id} aria-controls={`${uid}-${tab.id}-panel`} tabIndex={activeTab === tab.id ? 0 : -1} onKeyDown={(event) => handleTabKey(event, index)} onClick={() => changeTab(tab.id)} className={styles.tab}>
+            {tab.label}{tab.id === "programs" && detail && <span className={styles.tabCount}>{programs.length}</span>}
+          </button>
+        ))}
+      </div>
+      </div>
+      <button type="button" onClick={onClose} aria-label="关闭学校详情" className={styles.closeButton}><X size={17} aria-hidden="true" /></button>
       </div>
 
-      {/* ── Action footer ── */}
-      <footer className="flex shrink-0 gap-2 border-t border-line/50 bg-paper/60 px-3 py-2.5">
-        <button
-          type="button"
-          disabled={!onAddToCompare && !onRemoveFromCompare}
-          onClick={() => (inCompare ? onRemoveFromCompare?.() : onAddToCompare?.())}
-          className={
-            "inline-flex flex-1 items-center justify-center gap-1.5 rounded-lg border px-3 py-1.5 text-[11px] font-semibold transition " +
-            (inCompare
-              ? "border-jade/40 bg-jade/8 text-jade hover:bg-jade/12"
-              : "border-line/60 bg-white text-ink/72 hover:border-cobalt/30 hover:bg-cobalt/5 hover:text-cobalt")
-          }
-        >
-          {inCompare ? (
-            <>
-              <CheckSmall /> 已加入对比
-            </>
-          ) : (
-            <>
-              <Sparkles size={12} aria-hidden="true" /> 加入对比
-            </>
-          )}
-        </button>
-        <button
-          type="button"
-          onClick={onViewProfile}
-          className="inline-flex flex-1 items-center justify-center gap-1.5 rounded-lg border border-cobalt/30 bg-cobalt/5 px-3 py-1.5 text-[11px] font-semibold text-cobalt transition hover:border-cobalt/45 hover:bg-cobalt/10"
-        >
-          <ExternalLink size={12} aria-hidden="true" /> 完整档案
-        </button>
+        <div role="tabpanel" id={`${uid}-${activeTab}-panel`} aria-labelledby={`${uid}-${activeTab}-tab`} tabIndex={0} className={styles.tabPanel}>
+          {resource.state.status === "error" && <div role="alert" className={styles.loadNotice}><span>详情暂时未能加载，已获取的基本信息仍可查看。</span><button type="button" onClick={resource.reload}><RefreshCw size={13} aria-hidden="true" />重试</button></div>}
+
+          {activeTab === "overview" && <>
+            <dl className={styles.stats} aria-label="学校关键数据">
+              <Stat label={hasTuition ? `年学费${officialTuition ? "（美元）" : ""}` : "年费用参考"} value={costValue} note={typeof officialTuition === "number" && officialTuition > 0 ? "美元 / 年 · 州外口径" : "费用口径见数据来源"} />
+              <Stat label="综合排名" value={typeof rank === "number" && rank > 0 ? `#${rank}` : "暂未收录"} note={rankRecord ? `${rankRecord.system} ${rankRecord.year} · 全美` : "当前收录的全美排名"} />
+              <Stat label="本科录取率" value={typeof acceptance === "number" && Number.isFinite(acceptance) && acceptance >= 0 && acceptance <= 1 ? `${(acceptance * 100).toFixed(1)}%` : missing} note="学校整体口径" />
+              <Stat label="本科生人数" value={typeof undergrads === "number" && Number.isFinite(undergrads) && undergrads > 0 ? undergrads.toLocaleString("en-US") : missing} note="在校本科生" />
+            </dl>
+            {detail ? <UniversityPrograms key={`${detail.id}-preview`} detail={detail} variant="preview" onViewAll={() => changeTab("programs")} /> : loading && <LoadingContent />}
+            {studyFacts.length > 0 && <section className={styles.secondarySection} aria-label="学习与申请">
+              <h3 className={styles.sectionTitle}>学习与申请</h3>
+              <dl className={styles.factList}>{studyFacts.map(([label, value]) => <div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
+            </section>}
+            <button type="button" className={styles.provenanceLink} onClick={() => changeTab("sources")}><BookOpen size={14} aria-hidden="true" /><span>查看数据口径与原始来源</span><ChevronRight size={14} aria-hidden="true" /></button>
+          </>}
+
+          {activeTab === "programs" && (detail ? <UniversityPrograms key={`${detail.id}-programs`} detail={detail} /> : loading && <LoadingContent />)}
+
+          {activeTab === "sources" && <section aria-label="数据来源与口径" className={styles.sources}>
+            <div><p className={styles.eyebrow}>认识数据，再做判断</p><h3 className={styles.panelTitle}>每条信息，都有出处</h3><p className={styles.bodyCopy}>不同字段可能来自不同年份。下方日期表示资料采集或核验时间，具体统计年度以原文为准。</p></div>
+            <dl className={styles.scopeList}>
+              <div><dt>学费</dt><dd>{officialTuition ? "展示州外学费口径；住宿、生活费与其他费用需另计。" : "以所列来源的费用范围为准。"}</dd></div>
+              <div><dt>录取率</dt><dd>学校整体本科录取口径，不等同于国际生或某一专业的录取率。</dd></div>
+              <div><dt>专业</dt><dd>「优势」附专业级排名依据；「特色」介绍项目特点。完整目录保留全部已收录专业。</dd></div>
+            </dl>
+            {loading && <LoadingContent />}
+            {sources.length > 0 && <div><h4 className={styles.sectionTitle}>原始来源 <span className={styles.muted}>{sources.length}</span></h4><ul className={styles.sourceList}>{sources.map((source) => <li key={source.url}><a href={source.url} target="_blank" rel="noopener noreferrer"><span><strong>{source.label}</strong><small>{sourceName(source.url)}{source.date ? ` · ${source.date.slice(0, 10)}` : ""}</small></span><ArrowUpRight size={16} aria-hidden="true" /></a></li>)}</ul></div>}
+            {!loading && sources.length === 0 && <p className={styles.bodyCopy}>暂未获取到来源记录，请稍后重试。</p>}
+            {refreshedOn && <p className={styles.muted}>基础资料采集于 {refreshedOn.slice(0, 10)}</p>}
+            {!!profile.qualitySummary?.warningCodes?.length && <p className={styles.bodyCopy}>部分字段仍待补充，缺失项已在对应位置标注。</p>}
+          </section>}
+        </div>
+      </div>
+
+      <footer className={styles.footer}>
+        <button type="button" disabled={inCompare ? !onRemoveFromCompare : !onAddToCompare} aria-pressed={inCompare} onClick={() => inCompare ? onRemoveFromCompare?.() : onAddToCompare?.()} className={`${styles.compareButton} ${inCompare ? styles.compared : ""}`}>{inCompare ? <Check size={16} aria-hidden="true" /> : <Plus size={16} aria-hidden="true" />}{inCompare ? "已加入对比" : "加入对比"}</button>
+        <button type="button" onClick={onViewProfile} disabled={!onViewProfile} className={styles.primaryButton}>完整学校档案<ArrowUpRight size={16} aria-hidden="true" /></button>
       </footer>
-    </div>
+    </section>
   );
 }
 
-function Stat({ icon, label, labelEn, value }: { icon: React.ReactNode; label: string; labelEn: string; value: string }) {
-  return (
-    <div className="flex items-start gap-2 bg-panel px-3 py-2">
-      <div className="mt-0.5 text-ink/40">{icon}</div>
-      <div className="min-w-0">
-        <p className="text-[9px] font-medium uppercase tracking-wide text-ink/45">
-          {label}<span className="ml-0.5 font-normal normal-case text-ink/30" lang="en">{labelEn}</span>
-        </p>
-        <p className="mt-0.5 truncate text-[12px] font-semibold text-ink" title={value}>{value}</p>
-      </div>
-    </div>
-  );
+function Stat({ label, value, note }: { label: string; value: string; note: string }) {
+  return <div className={styles.stat} title={note}><dt>{label}</dt><dd className={/^[$#\d]/.test(value) ? styles.statNumber : styles.statEmpty}>{value}</dd><p className="sr-only">{note}</p></div>;
 }
 
-function CheckSmall() {
-  return (
-    <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-      <polyline points="20 6 9 17 4 12" />
-    </svg>
-  );
+function LoadingContent() {
+  return <div role="status" aria-label="正在加载学校详情" className={styles.loading}><span><Loader2 size={14} className="animate-spin" aria-hidden="true" />正在读取学校资料</span><div aria-hidden="true" className={styles.skeleton} /><div aria-hidden="true" className={styles.skeleton} /></div>;
 }
 
 export default UniversityProfile;
-
-// Re-export the cost label helper for backwards compatibility with
-// existing callers (Calculator, ComparePanel) that imported from
-// legacy-mappers.
 export type { legacyPoiAnnualCostLabel } from "@/lib/legacy-mappers";

@@ -501,7 +501,7 @@ describe("S. Map profile offset (Stage 7B-A.3 fix)", () => {
 
   it("S2. Desktop profile uses flexible max-width to survive narrow desktop widths", () => {
     const src = readSrc("src/components/map/MapShell.tsx");
-    expect(src).toMatch(/w-\[min\(360px,calc\(100%-1\.5rem\)\)\]/);
+    expect(src).toMatch(/w-\[min\(420px,calc\(100%-1\.5rem\)\)\]/);
   });
 });
 

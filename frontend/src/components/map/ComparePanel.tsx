@@ -182,7 +182,7 @@ export default function ComparePanel({
           {selected.length > 0 && (
             <button onClick={onClear} className="text-[10px] text-ink/36 hover:text-ink transition-colors">清空</button>
           )}
-          <button onClick={onClose} className="rounded p-0.5 text-ink/36 hover:text-ink hover:bg-ink/5 transition-colors">
+          <button onClick={onClose} aria-label="关闭大学对比" className="rounded p-0.5 text-ink/36 hover:text-ink hover:bg-ink/5 transition-colors">
             <X size={14} />
           </button>
         </div>
