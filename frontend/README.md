@@ -31,3 +31,14 @@ npm run dev -- -p 3017
 `npm run dev`、`npm run build` 和 `npm run start` 会先跑 `scripts/check-secrets.ts`，如果 `.env.local` 含有看起来像真凭据的值，会报警（开发模式）或失败（生产模式）。生产凭据轮换流程见 [SECURITY.md](./SECURITY.md)。
 
 完整项目说明见仓库根目录 `README.md`，冻结状态见 `FINAL_PROJECT_ARCHIVE/`。
+# PathOS 前端预览
+
+从项目根目录启动固定的本地预览端口：
+
+```bash
+cd frontend
+npm run dev:preview
+```
+
+然后打开 `http://localhost:3002/map` 或 `http://localhost:3002/discover`。
+
