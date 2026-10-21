@@ -21,7 +21,10 @@ import {
 } from "@/schemas/stage5-preview.schema";
 
 import { DatabaseNotConfiguredError, getPool } from "@/server/db";
+import { canonicalChineseName } from "@/server/university-name-catalog";
 import { extractGuidePreview } from "@/lib/guide-preview";
+import { pageDiscoveryCards, parseDiscoveryQuery, readCampusDiscoveryCards } from "@/server/campus-discovery";
+import { abbrFromFips } from "@/config/states.config";
 
 // The preview bundle is read-mostly. Keep the expensive pooler round-trips
 // in-process for a short window so the map's parallel first paint does not
@@ -234,6 +237,10 @@ async function readUniversityDetail(id: string): Promise<unknown> {
                 AND m.review_status = 'approved'
                 AND m.license_status = 'verified'
             ), '[]'::jsonb) AS campus_images,
+            c.overview_zh, c.overview_status, c.motto, c.motto_zh, c.motto_status,
+            c.motto_source_url, c.motto_source_type, c.motto_checked_on,
+            c.program_spotlights AS shared_program_spotlights,
+            c.source_refs AS shared_source_refs,
             g.sections AS guide_sections, g.structured AS guide_structured,
             (SELECT jsonb_build_object('sources', COALESCE((
               SELECT jsonb_agg(entry.source_doc) FROM jsonb_array_elements(si.payload->'sources') AS entry(source_doc)
@@ -256,6 +263,7 @@ async function readUniversityDetail(id: string): Promise<unknown> {
          SELECT sections, structured FROM college_guides
          WHERE university_id = d.university_id ORDER BY source_snapshot_year DESC LIMIT 1
        ) g ON TRUE
+       LEFT JOIN university_content c ON c.university_id = d.university_id
        WHERE d.university_id = $1`,
     [id],
   );
@@ -310,7 +318,21 @@ async function readUniversityDetail(id: string): Promise<unknown> {
     : guidePrograms.length
       ? { ...payload, programs: guidePrograms, topPrograms: guidePrograms.map((program) => program.name) }
       : payload;
-  if (!row) return { ...enrichedPayload, confirmedFacts: facts, campusImages: joined.campus_images ?? [], detailSourceIndex: joined.detail_source_index };
+  const sharedContent = {
+    overviewZh: joined.overview_zh ?? null,
+    overviewStatus: joined.overview_status ?? "pending",
+    motto: joined.motto ?? null,
+    mottoZh: joined.motto_zh ?? null,
+    mottoStatus: joined.motto_status ?? "pending",
+    mottoSourceUrl: joined.motto_source_url ?? null,
+    mottoSourceType: joined.motto_source_type ?? null,
+    mottoCheckedOn: joined.motto_checked_on
+      ? (joined.motto_checked_on instanceof Date ? joined.motto_checked_on.toISOString().slice(0, 10) : String(joined.motto_checked_on).slice(0, 10))
+      : null,
+    programSpotlights: joined.shared_program_spotlights ?? [],
+    sourceRefs: joined.shared_source_refs ?? [],
+  };
+  if (!row) return { ...enrichedPayload, confirmedFacts: facts, campusImages: joined.campus_images ?? [], detailSourceIndex: joined.detail_source_index, sharedContent };
   const p = (row.research_payload ?? {}) as Record<string, unknown>;
   const number = (key: string): number | null => {
     if (p[key] === null || p[key] === undefined || p[key] === "") return null;
@@ -323,6 +345,7 @@ async function readUniversityDetail(id: string): Promise<unknown> {
     confirmedFacts: facts,
     campusImages: joined.campus_images ?? [],
     detailSourceIndex: joined.detail_source_index,
+    sharedContent,
     officialResearch: {
       provider: String(source.provider ?? "US Department of Education College Scorecard"),
       retrievedOn: row.retrieved_on instanceof Date ? row.retrieved_on.toISOString().slice(0, 10) : String(row.retrieved_on ?? ""),
@@ -564,7 +587,13 @@ function parseFiltersFromUrl(url: URL): SummaryFilters {
     throw new PreviewBundleError("INVALID_MAP_QUERY", "Viewport bounds are out of range", 400, false);
   }
   return {
-    states: url.searchParams.getAll("state"),
+    // Accept both the URL/map contract (FIPS, e.g. 06) and the database
+    // contract (USPS abbreviation, e.g. CA). This keeps deep links and
+    // direct API calls from silently returning an empty school set.
+    states: url.searchParams.getAll("state").map((value) => {
+      const normalized = value.trim().toUpperCase();
+      return abbrFromFips(normalized) ?? normalized;
+    }),
     tiers: url.searchParams.getAll("tier"),
     search: (url.searchParams.get("search") ?? "").trim(),
     maxCostRmb: Number(url.searchParams.get("maxCostRmb")),
@@ -603,6 +632,7 @@ async function queryUniversities(filters: SummaryFilters): Promise<unknown[]> {
   );
   return r.rows.map((row) => {
     const base = normalizeStage5Summary(row.payload);
+    const nameZh = canonicalChineseName(base.id, base.name, base.nameZh) || "中文名称待补充";
     // Keep the map payload deliberately small. The map gets at most two
     // directory labels so the school list can orient the user before the
     // click; the full program directory and evidence remain click-time
@@ -617,8 +647,8 @@ async function queryUniversities(filters: SummaryFilters): Promise<unknown[]> {
     return {
       id: base.id,
       name: base.name,
-      nameZh: base.nameZh,
-      chineseName: base.chineseName,
+      nameZh,
+      chineseName: nameZh,
       latitude: base.latitude,
       longitude: base.longitude,
       state: base.state,
@@ -692,6 +722,14 @@ export async function handleBackendPreviewRoute(
     );
   }
   try {
+    if (endpoint === "campus-discovery") {
+      let query;
+      try { query = parseDiscoveryQuery(url.searchParams); }
+      catch { throw new PreviewBundleError("INVALID_DISCOVERY_QUERY", "Invalid campus discovery pagination", 400, false); }
+      const cards = await cachedPreview("campus-discovery:v1", readCampusDiscoveryCards, 300_000);
+      return respond(pageDiscoveryCards(cards, query));
+    }
+
     if (endpoint === "manifest") {
       const manifest = parseStage5Manifest(await readManifest());
       const dictionary = normalizeStage5StatusDictionary(await readStatusDictionary());
@@ -717,7 +755,7 @@ export async function handleBackendPreviewRoute(
         );
       }
       const stored = await cachedPreview(`university-detail:${id}`, () => readUniversityDetail(id), 120_000) as Record<string, unknown>;
-      const { officialResearch, confirmedFacts, campusImages, detailSourceIndex: indexPayload, ...detailPayload } = stored;
+      const { officialResearch, confirmedFacts, campusImages, sharedContent, detailSourceIndex: indexPayload, ...detailPayload } = stored;
       const raw = parseStage5Detail(detailPayload);
       if (raw.id !== id) {
         throw new PreviewBundleError(
@@ -748,6 +786,7 @@ export async function handleBackendPreviewRoute(
         ...(officialResearch ? { officialResearch } : {}),
         ...(confirmedFacts ? { confirmedFacts } : {}),
         campusImages: Array.isArray(campusImages) ? campusImages : [],
+        ...(sharedContent ? { sharedContent } : {}),
         programSpotlights,
       });
     }

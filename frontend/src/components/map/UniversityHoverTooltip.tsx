@@ -11,6 +11,7 @@ import { useEffect, useRef, useState } from "react";
 import type { UniversitySummary } from "@/domain/dataset";
 import { tuitionRmbFromSummary } from "@/lib/legacy-mappers";
 import { useEdgeFlippedPosition } from "@/components/shared/useEdgeFlippedPosition";
+import { getSchoolNamePair } from "@/lib/school-name";
 
 export interface UniversityHoverTooltipProps {
   /** The hovered summary. When null, the tooltip is hidden. */
@@ -59,6 +60,7 @@ export function UniversityHoverTooltip({ summary, x, y }: UniversityHoverTooltip
 
   if (!summary) return null;
   const tuition = tuitionRmbFromSummary(summary);
+  const names = getSchoolNamePair(summary);
     const ugCount = summary.enrollmentSummary?.undergraduate ?? null;
     const acceptanceRate = summary.acceptanceRate ?? null;
     const sat25 = typeof summary.sat25 === "number" && summary.sat25 > 0 ? summary.sat25 : null;
@@ -78,10 +80,8 @@ const costLabel = tuition !== null ? `¥${Math.round(tuition / 10000)}万/年` :
       className="pointer-events-none fixed z-map-tooltip max-w-[260px] rounded-lg border border-line/70 bg-panel/95 px-3 py-2 text-[11px] shadow-lg backdrop-blur"
       style={{ left: pos.left, top: pos.top }}
     >
-      <div className="font-semibold text-ink truncate">{summary.chineseName || summary.name}</div>
-      {summary.name && summary.chineseName !== summary.name && (
-        <div className="truncate text-ink/55" lang="en">{summary.name}</div>
-      )}
+      <div className="font-semibold text-ink truncate">{names.zh}</div>
+      <div className="truncate text-ink/55" lang="en">{names.en}</div>
       <div className="mt-1 flex items-center gap-2 text-ink/60">
         {tier && (
           <span className="rounded-full border border-line/60 bg-paper px-1.5 py-0.5 text-[9px] font-medium text-ink/72">{summary.rankingSummary?.nationalRank ? `学校排名 #${summary.rankingSummary.nationalRank}` : "排名未收录"}</span>

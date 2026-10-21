@@ -179,10 +179,25 @@ export interface UniversityDetail extends UniversitySummary {
   /** Facts manually confirmed against official university pages. */
   confirmedFacts?: ConfirmedFact[];
   programSpotlights?: ProgramSpotlight[];
+  /** Shared editorial content used by map, discovery and profile surfaces. */
+  sharedContent?: UniversitySharedContent;
   /** Curated campus images with explicit provenance and review state. */
   campusImages?: CampusImageRecord[];
   /** Optional v2 series. Missing means the source has not published a series yet. */
   timeSeries?: TimeSeriesPoint[];
+}
+
+export interface UniversitySharedContent {
+  overviewZh: string | null;
+  overviewStatus: "reviewed" | "pending" | "rejected";
+  motto: string | null;
+  mottoZh: string | null;
+  mottoStatus: "confirmed" | "candidate" | "pending" | "rejected";
+  mottoSourceUrl: string | null;
+  mottoSourceType: string | null;
+  mottoCheckedOn: string | null;
+  programSpotlights: unknown[];
+  sourceRefs: unknown[];
 }
 
 export interface CampusImageRecord {

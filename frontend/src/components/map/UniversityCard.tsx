@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import type { UniversityPOI, CampusPOI } from "@/lib/types";
+import { getSchoolNamePair } from "@/lib/school-name";
 import {
   X,
   DollarSign,
@@ -98,7 +99,7 @@ export function UniversityCard({
   const [showAllParentHighlights, setShowAllParentHighlights] = useState(false);
   const [showAllStudentHighlights, setShowAllStudentHighlights] =
     useState(false);
-
+  const names = getSchoolNamePair(poi);
   // ── Derived values ──
 
   /** Cost in wan (万) RMB for display, e.g. "62万/年".
@@ -175,7 +176,7 @@ export function UniversityCard({
   return (
     <div
       role="dialog"
-      aria-label={`${poi.chineseName} 详细信息`}
+      aria-label={`${names.zh} ${names.en} 详细信息`}
       className="pointer-events-auto w-full max-w-[380px] rounded-xl border border-line bg-panel shadow-panel overflow-hidden"
     >
       {/* ── Header: close button + school name ── */}
@@ -183,11 +184,11 @@ export function UniversityCard({
         <div className="min-w-0 flex-1">
           {/* Chinese name (primary) */}
           <h2 className="truncate text-sm font-semibold text-ink">
-            {poi.chineseName}
+            {names.zh}
           </h2>
           {/* English name (secondary) */}
           <p className="truncate text-xs text-ink/48" lang="en">
-            {poi.name}
+            {names.en}
           </p>
           {/* Location line */}
           <p className="mt-0.5 flex items-center gap-1 text-[11px] text-ink/44">
@@ -209,7 +210,7 @@ export function UniversityCard({
         <button
           type="button"
           onClick={onClose}
-          aria-label={`关闭 ${poi.chineseName} 详情`}
+          aria-label={`关闭 ${names.zh} ${names.en} 详情`}
           className="grid h-6 w-6 shrink-0 place-items-center rounded text-ink/36 transition-colors hover:bg-line/40 hover:text-ink"
         >
           <X size={14} />

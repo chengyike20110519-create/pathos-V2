@@ -4,6 +4,8 @@
 // the caller turns into ResourceState:error — no silent mock.
 
 import type { PathOSDataSource } from "./pathos-data-source";
+import type { CampusDiscoveryQuery } from "@/domain/campus-discovery";
+import { parseCampusDiscoveryPage } from "@/schemas/campus-discovery.schema";
 import {
   parseCollegeGuide,
   parseCollegeGuideList,
@@ -249,6 +251,10 @@ export class PreviewApiDataSource implements PathOSDataSource {
     private readonly baseUrl = "/api/pathos/preview",
     private readonly timeoutMs = DEFAULT_TIMEOUT_MS,
   ) {}
+
+  getCampusDiscovery(query: CampusDiscoveryQuery = {}, signal?: AbortSignal) {
+    return fetchCachedPreviewJson(buildUrl(this.baseUrl, "campus-discovery", { offset: query.offset ?? 0, limit: query.limit ?? 12, seed: query.seed ?? "first-look" }), parseCampusDiscoveryPage, signal, Math.min(this.timeoutMs, 20_000));
+  }
 
   getManifest(signal?: AbortSignal) {
     return fetchPreviewJson(buildUrl(this.baseUrl, "manifest"), parseManifest, signal, this.timeoutMs);

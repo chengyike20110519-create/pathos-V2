@@ -12,7 +12,8 @@
 // gone — see the Stage 7B-A.1 plan for the full rationale.
 
 import { useState, useRef, useEffect } from "react";
-import { ChevronDown, BookOpen, List, X } from "lucide-react";
+import Link from "next/link";
+import { ChevronDown, BookOpen, List, X, Compass } from "lucide-react";
 import dynamic from "next/dynamic";
 import { RegionalLayerControl } from "@/components/map/regional/RegionalLayerControl";
 import type { RegionalMetricId } from "@/regional/types";
@@ -196,6 +197,7 @@ export function MapToolbar({
       {onToggleList && <button type="button" onClick={onToggleList} aria-pressed={!!listOpen} aria-label={listOpen ? "收起学校列表" : "打开学校列表"} title={listOpen ? "收起学校列表" : "打开学校列表"} className={`flex min-h-9 items-center gap-1.5 rounded-control border px-2.5 py-1 text-[11px] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-focus-ring sm:min-h-0 ${listOpen ? "border-cobalt/35 bg-cobalt text-white" : "border-line bg-panel/95 text-ink"}`}><List size={12} aria-hidden="true" />{listOpen ? "收起列表" : "学校列表"}{typeof schoolCount === "number" && <span className={listOpen ? "text-white/70" : "text-ink/45"}>· {schoolCount}</span>}</button>}
 
       {/* 3. View-mode indicator (status pill, not interactive). */}
+      <Link href="/discover" prefetch={false} className="flex min-h-9 items-center gap-1.5 rounded-control border border-line bg-panel/95 px-2.5 py-1 text-[11px] text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-focus-ring sm:min-h-0"><Compass size={12} aria-hidden="true" />随便逛逛</Link>
       <span
         data-testid="map-toolbar-view-mode"
         aria-live="polite"

@@ -6,6 +6,7 @@ import { useDataSource } from "@/services/data-source-provider";
 import { useUniversityDetail } from "@/hooks/use-data-source";
 import type { UniversitySummary } from "@/domain/dataset";
 import { schoolProgramNames } from "@/lib/university-programs";
+import { getSchoolNamePair } from "@/lib/school-name";
 import { UniversityPrograms } from "./UniversityPrograms";
 import { CampusGallery } from "./CampusGallery";
 import styles from "./UniversityProfile.module.css";
@@ -42,7 +43,8 @@ export function UniversityProfile({ summary, inCompare = false, onAddToCompare, 
   const headerRef = useRef<HTMLElement>(null);
   const tabsRef = useRef<HTMLDivElement>(null);
   const uid = useId();
-  const title = summary.chineseName || summary.nameZh || summary.name;
+  const names = getSchoolNamePair(summary);
+  const title = names.zh;
   const loading = !detail && resource.state.status !== "error";
   const missing = loading ? "加载中" : resource.state.status === "error" ? "暂未获取" : "暂未收录";
 
@@ -117,7 +119,7 @@ export function UniversityProfile({ summary, inCompare = false, onAddToCompare, 
           <div className={styles.identity}>
             <p className={styles.location}><MapPin size={12} aria-hidden="true" />{location}</p>
             <h2 id={`${uid}-title`} className={styles.schoolName}>{title}</h2>
-            {summary.name && title !== summary.name && <p lang="en" className={styles.englishName}>{summary.name}</p>}
+            <p lang="en" className={styles.englishName}>{names.en}</p>
           </div>
         </CampusGallery>
       </header>
@@ -140,6 +142,11 @@ export function UniversityProfile({ summary, inCompare = false, onAddToCompare, 
           {resource.state.status === "error" && <div role="alert" className={styles.loadNotice}><span>详情暂时未能加载，已获取的基本信息仍可查看。</span><button type="button" onClick={resource.reload}><RefreshCw size={13} aria-hidden="true" />重试</button></div>}
 
           {activeTab === "overview" && <>
+            {detail?.sharedContent?.overviewZh && <section className={styles.secondarySection} aria-label="学校概括">
+              <p className={styles.eyebrow}>学校概括</p>
+              {detail.sharedContent.motto && <p className={styles.bodyCopy}><strong>校训：</strong>{detail.sharedContent.mottoZh || detail.sharedContent.motto}{detail.sharedContent.mottoStatus === "candidate" && <small>（候选资料，待官网复核）</small>}</p>}
+              <p className={styles.bodyCopy}>{detail.sharedContent.overviewZh}</p>
+            </section>}
             <dl className={styles.stats} aria-label="学校关键数据">
               <Stat label={hasTuition ? `年学费${officialTuition ? "（美元）" : ""}` : "年费用参考"} value={costValue} note={typeof officialTuition === "number" && officialTuition > 0 ? "美元 / 年 · 州外口径" : "费用口径见数据来源"} />
               <Stat label="综合排名" value={typeof rank === "number" && rank > 0 ? `#${rank}` : "暂未收录"} note={rankRecord ? `${rankRecord.system} ${rankRecord.year} · 全美` : "当前收录的全美排名"} />

@@ -15,6 +15,7 @@
 import { useMemo } from "react";
 import { ChevronRight, MapPin, GraduationCap } from "lucide-react";
 import type { MetricId, UniversityPOI } from "@/lib/types";
+import { getSchoolNamePair } from "@/lib/school-name";
 import { METRIC_DEFINITIONS } from "@/config/metrics.config";
 import { STATE_NAME_ZH, STATE_NAME_EN, fipsFromAbbr } from "@/config/states.config";
 import { normalizeStateFips } from "@/regional/normalizeStateFips";
@@ -134,13 +135,9 @@ export function RegionDetailPanel({
                     <div className="flex items-start justify-between gap-2">
                       <div className="min-w-0">
                         <div className="truncate font-medium text-ink">
-                          {u.chineseName || u.name || "未提供名称"}
+                          {getSchoolNamePair(u).zh}
                         </div>
-                        {u.name && u.chineseName !== u.name && (
-                          <div className="truncate text-ink/55" lang="en">
-                            {u.name}
-                          </div>
-                        )}
+                        <div className="truncate text-ink/55" lang="en">{getSchoolNamePair(u).en}</div>
                       </div>
                       {u.rankingBand && (
                         <span className="shrink-0 rounded-full border border-line/60 bg-paper px-1.5 py-0.5 text-[10px] font-medium text-ink/70">

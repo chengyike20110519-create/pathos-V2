@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowUp, ArrowUpRight, Database, FileSearch, Globe2, ShieldCheck } from "lucide-react";
 import HomeScrollFx from "@/components/home/HomeScrollFx";
+import CampusDiscoverySection from "@/components/discover/CampusDiscoverySection";
 import { DataCoverageDashboard } from "@/components/home/DataCoverageDashboard";
 import { LatestUpdatesSection } from "@/components/home/LatestUpdatesSection";
 import { FeaturedSchoolsSection } from "@/components/home/FeaturedSchoolsSection";
@@ -69,11 +70,13 @@ export default function HomePage() {
           <div className={styles.ctaRow} data-reveal="true" data-reveal-delay="240">
             <Link href="/map" className={`${styles.primaryCta} ${styles.focusable}`}>从院校地图开始</Link>
             <Link href="/trends" className={`${styles.ghostCta} ${styles.focusable}`}>打开趋势台</Link>
-            <Link href="/search" className={`${styles.ghostCta} ${styles.focusable}`}>全局检索</Link>
+            <Link href="/discover" prefetch={false} className={`${styles.ghostCta} ${styles.focusable}`}>还没目标？逛逛校园</Link>
           </div>
         </div>
         <p className={styles.scrollCue} data-reveal="true" data-reveal-delay="320">Scroll</p>
       </header>
+
+      <CampusDiscoverySection />
 
       <section className={styles.section} aria-labelledby="pillars-title">
         <div className={styles.sectionHead} data-reveal="true">

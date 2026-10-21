@@ -40,6 +40,7 @@ import type { UniversityPOI, RankingTier, ChineseCommunityLevel } from "@/lib/ty
 import type { UniversitySummary } from "@/domain/dataset";
 import { pickAbbreviation } from "@/lib/abbreviation";
 import { groupProjectedSchools } from "@/lib/map-school-groups";
+import { getSchoolNamePair } from "@/lib/school-name";
 
 const SOURCE_ID = "pathos-universities";
 const POINT_LAYER_ID = "pathos-universities-points";
@@ -164,8 +165,13 @@ function buildFeatureCollection(
   for (const row of rows) {
     const ll = readLatLng(row);
     if (!ll) continue;
-    const nameZh = ((row as UniversityPOI).chineseName ?? (row as UniversitySummary).nameZh ?? "").trim();
     const nameEn = ((row as UniversityPOI).name ?? (row as UniversitySummary).name ?? "").trim();
+    const names = getSchoolNamePair({
+      name: nameEn,
+      nameZh: (row as UniversitySummary).nameZh,
+      chineseName: (row as UniversityPOI).chineseName,
+    });
+    const nameZh = names.zh;
     const city = ((row as UniversityPOI).city ?? "").trim();
     // Legacy POIs and new summaries both carry a state at runtime
     // (via the legacy mapper extension) even though `UniversityPOI`'s
@@ -601,7 +607,9 @@ export function UniversityPoiLayer({
       const [lng, lat] = feature.geometry.coordinates;
       const el = document.createElement("button");
       el.type = "button";
-      const displayName = feature.properties.nameZh || feature.properties.name || feature.properties.id;
+      const chineseName = feature.properties.nameZh || "中文名称待补充";
+      const englishName = feature.properties.name || feature.properties.id;
+      const displayName = `${chineseName} · ${englishName}`;
       el.setAttribute("aria-label", `${displayName}，点击打开大学信息卡`);
       el.title = `${displayName} · 点击打开大学信息卡`;
       el.dataset.schoolId = feature.properties.id;
@@ -617,7 +625,7 @@ export function UniversityPoiLayer({
       el.style.cursor = "pointer";
       el.style.zIndex = "2";
       const label = document.createElement("span");
-      label.textContent = feature.properties.nameZh || feature.properties.name;
+      label.textContent = displayName;
       label.style.cssText = "display:none;position:absolute;bottom:24px;left:50%;transform:translateX(-50%);white-space:nowrap;background:#242b33;color:#fffaf1;border:1px solid #ffffff55;border-radius:6px;padding:4px 8px;font-size:11px;pointer-events:none";
       el.append(label);
       const selected = selectedIdRef.current === feature.properties.id;

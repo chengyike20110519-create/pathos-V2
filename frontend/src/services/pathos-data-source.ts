@@ -19,8 +19,12 @@ import type {
   UniversitySummary,
   ProgramOption,
 } from "@/domain/dataset";
+import type { CampusDiscoveryPage, CampusDiscoveryQuery } from "@/domain/campus-discovery";
 
 export interface PathOSDataSource {
+  /** Small, paginated campus-photo cards; never fetch full school details here. */
+  getCampusDiscovery?(query?: CampusDiscoveryQuery, signal?: AbortSignal): Promise<CampusDiscoveryPage>;
+
   /** Manifest describing the dataset behind this source. */
   getManifest(signal?: AbortSignal): Promise<DatasetManifest>;
 

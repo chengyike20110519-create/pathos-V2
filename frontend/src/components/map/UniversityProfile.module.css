@@ -122,6 +122,6 @@
 .loadNotice button { display: inline-flex; align-items: center; gap: 5px; flex: none; min-height: 32px; }
 @keyframes breathe { to { opacity: .4; } }
 @media (max-height: 820px) { .cover { min-height: 148px; } .stats { gap: 16px 24px; padding-bottom: 18px; margin-bottom: 18px; } }
-@media (max-width: 1023px) { .card { border-radius: 0; border: 0; box-shadow: none; } .cover { min-height: 156px; } }
+@media (max-width: 1023px) { .card { border-radius: 18px 18px 0 0; border: 0; box-shadow: none; } .cover { min-height: 156px; } }
 @media (max-width: 380px) { .identity { padding-inline: 18px; } .schoolName { font-size: 21px; } .tabPanel { padding-inline: 18px; } .tabs { padding-inline: 18px; } .statNumber { font-size: 23px; } .footer { padding-inline: 14px; gap: 8px; } }
 @media (prefers-reduced-motion: reduce) { .card *, .card *::after { animation: none !important; transition: none !important; } }

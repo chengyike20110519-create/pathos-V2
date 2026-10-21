@@ -46,6 +46,7 @@ const NAV_GROUPS = [
     icon: Database,
     links: [
       { href: "/map", label: "留学地图", icon: Map },
+      { href: "/discover", label: "校园漫游", icon: Compass },
       { href: "/search", label: "全局检索", icon: Search },
       { href: "/guides", label: "大学指南", icon: Newspaper },
     ],

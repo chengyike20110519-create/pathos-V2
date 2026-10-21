@@ -227,7 +227,9 @@ describe("information events API", () => {
       rows: sql.includes("FROM information_events") ? [eventRow()] : [newsRow()],
       rowCount: 1,
     }));
-    const response = await GET(request("/api/information/events?urgency=critical"));
+    // eventRow uses a fixed 2026-10-20 deadline; use expired here so the
+    // contract remains stable when the test suite is run after that date.
+    const response = await GET(request("/api/information/events?urgency=expired"));
     const payload = await response.json();
     expect(response.headers.get("cache-control")).toBe("no-store");
     expect(response.status).toBe(200);

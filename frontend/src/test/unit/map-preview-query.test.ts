@@ -41,6 +41,12 @@ describe("map preview query regressions", () => {
     }
   });
 
+  it("accepts FIPS state links and translates them to the database abbreviation", async () => {
+    const response = await request("&state=06");
+    expect(response.status).toBe(200);
+    expect(query.mock.calls[0][1]).toEqual([["CA"], 250]);
+  });
+
   it("unfiltered requests use the bounded default instead of silently returning nothing", async () => {
     expect((await request("")).status).toBe(200);
     expect(query.mock.calls[0][1]).toEqual([250]);
@@ -137,11 +143,30 @@ describe("map preview query regressions", () => {
   it("loads one school, its projected research fields and its own source index in one round trip", async () => {
     const raw = JSON.parse(readFileSync("data/preview/university-details/candidate-v2/harvard-university.json", "utf8"));
     const sourceIndex = JSON.parse(readFileSync("data/preview/source-index.json", "utf8"));
-    query.mockResolvedValue({ rows: [{ payload: raw, confirmed_facts: [], detail_source_index: sourceIndex }] });
+    query.mockResolvedValue({ rows: [{
+      payload: raw,
+      confirmed_facts: [],
+      detail_source_index: sourceIndex,
+      overview_zh: "官方概览",
+      overview_status: "confirmed",
+      motto: "Veritas",
+      motto_zh: "真理",
+      motto_status: "confirmed",
+      shared_program_spotlights: [{ name: "Computer Science", nameZh: "计算机科学", reason: "verified", sourceUrl: "https://example.edu/program" }],
+      source_refs: [{ label: "Official source", url: "https://example.edu" }],
+    }] });
     const { handleBackendPreviewRoute } = await import("@/server/backend-preview");
     const response = await handleBackendPreviewRoute(new Request(`http://localhost/api/pathos/preview?endpoint=university&id=${encodeURIComponent(raw.id)}`), process.env);
     expect(response.status).toBe(200);
-    expect(parseUniversityDetail(await response.json()).id).toBe(raw.id);
+    const responseBody = await response.json();
+    expect(parseUniversityDetail(responseBody).id).toBe(raw.id);
+    expect(responseBody).toMatchObject({
+      sharedContent: {
+        overviewZh: "官方概览",
+        motto: "Veritas",
+        programSpotlights: [{ name: "Computer Science" }],
+      },
+    });
     expect(query).toHaveBeenCalledTimes(1);
     const sql = query.mock.calls[0][0];
     expect(sql).not.toContain("r.payload AS research_payload");

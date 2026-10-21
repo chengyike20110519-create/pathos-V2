@@ -22,6 +22,7 @@ describe("global navigation information architecture", () => {
     const routes = [...navigation.matchAll(/href: "([^"]+)"/g)].map(([, route]) => route);
     expect(routes).toEqual([
       "/map",
+      "/discover",
       "/search",
       "/guides",
       "/majors",

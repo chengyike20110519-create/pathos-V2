@@ -2,6 +2,7 @@
 
 import { useState, useMemo, type ReactNode } from "react";
 import type { UniversityPOI, ChineseCommunityLevel } from "@/lib/types";
+import { getSchoolNamePair } from "@/lib/school-name";
 import { useDataSource } from "@/services/data-source-provider";
 import {
   useUniversityDetail,
@@ -199,9 +200,10 @@ export default function ComparePanel({
           <div className="flex flex-wrap gap-2">
             {selected.map((u, i) => {
               const c = UNI_COLORS[i % UNI_COLORS.length];
+              const names = getSchoolNamePair(u);
               return (
                 <span key={u.id} className={`inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-medium ${c.light} ${c.text}`}>
-                  {u.chineseName}
+                  {names.zh} · {names.en}
                   <button onClick={() => onRemove(u.id)} className="ml-0.5 opacity-50 hover:opacity-100">
                     <X size={12} />
                   </button>
@@ -290,9 +292,10 @@ export default function ComparePanel({
     const numVal = typeof val === "number" && Number.isFinite(val) ? val : null;
     const inv = metricKey === "admissionRate" || metricKey === "QS" || metricKey === "ARWU" || metricKey === "USNews" || metricKey === "THE";
     const pct = numVal === null || maxVal <= 0 ? 0 : (inv ? (1 - numVal / maxVal) * 100 : (numVal / maxVal) * 100);
+    const names = getSchoolNamePair(u);
     return (
       <div className="flex items-center gap-2 mb-1 last:mb-0">
-        <span className={`w-16 shrink-0 text-[10px] font-medium truncate ${c.text}`}>{u.chineseName}</span>
+        <span className={`w-24 shrink-0 text-[10px] font-medium truncate ${c.text}`} title={`${names.zh} · ${names.en}`}><span className="block truncate">{names.zh}</span><span className="block truncate font-normal opacity-60" lang="en">{names.en}</span></span>
         <div className="flex-1 h-4 bg-ink/5 rounded-sm overflow-hidden relative">
           {numVal !== null && pct > 0 ? (
             <div className={`h-full rounded-sm transition-all duration-300 ${c.bar}`}

@@ -15,6 +15,7 @@ import {
 } from "@/hooks/use-data-source";
 import { RegionMetricSet, type RegionMetricRecord, type UniversitySummary } from "@/domain/dataset";
 import { summaryToLegacyUniversityPOI } from "@/lib/legacy-mappers";
+import { getSchoolNamePair } from "@/lib/school-name";
 import { mapViewport, cacheableViewport, viewportContains, INITIAL_MAP_VIEWPORT } from "@/lib/map-viewport";
 import { STATE_NAME_ZH, STATE_NAME_EN, abbrFromFips } from "@/config/states.config";
 import type { MapCanvasProps } from "./MapCanvas";
@@ -130,7 +131,7 @@ const CityDetailPanel = dynamic(() => import("./CityDetailPanel").then((module) 
 const CaliforniaRoadLayer = dynamic(() => import("./CaliforniaRoadLayer").then((module) => module.CaliforniaRoadLayer), { ssr: false });
 import { CityChoroplethLayer } from "./CityChoroplethLayer";
 import { buildCityAggregates, getCitiesByState, getStateCenter, getCityMetricDisplay, getCityMetricValue } from "@/lib/city-utils";
-import ComparePanel from "./ComparePanel";
+const ComparePanel = dynamic(() => import("./ComparePanel"), { ssr: false });
 import { ResizablePanel } from "@/components/shared/ResizablePanel";
 import { BottomSheet } from "@/components/shared/BottomSheet";
 import {
@@ -929,7 +930,7 @@ export function MapShell({
               <div className="lg:hidden">
                 <BottomSheet
                   key={selectedSummary.id}
-                  defaultSnap="expanded"
+                  defaultSnap="half"
                   title="学校详情"
                   onEscape={() => setSelectedUniversityId(null)}
                 >
@@ -1233,7 +1234,8 @@ function RegionDetailSidebar({
                 <div className="flex items-start justify-between gap-2">
                   <div className="min-w-0">
                     <div className="truncate font-medium text-ink">
-                      {uni.chineseName}
+                      {getSchoolNamePair(uni).zh}
+                      <span className="block text-[10px] text-ink/45" lang="en">{getSchoolNamePair(uni).en}</span>
                     </div>
                     <div className="truncate text-ink/52">{uni.name}</div>
                   </div>
