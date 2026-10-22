@@ -1,6 +1,6 @@
 # PathOS 学校数据待确认清单
 
-生成日期：2026-10-17
+生成日期：2026-10-22
 
 当前 94 所学校均已匹配到官方 College Scorecard 机构记录。以下不是“没有数据”，而是需要人工确认口径、年份或官网页面后，才能在产品中标记为最终确认。
 
@@ -51,9 +51,9 @@ Scorecard 中以下学校的 SAT/ACT 分数为空或不完整，需要到学校�
 
 Arizona State University、Boston College、Boston University、Brown University、Bucknell University、California Institute of Technology、Carnegie Mellon University、Columbia University、Cornell University、Dartmouth College、Duke University、Emory University、Georgetown University、Georgia Institute of Technology、Harvard University、Harvey Mudd College、Indiana University Bloomington、Johns Hopkins University、Lehigh University、Loyola University Chicago、Massachusetts Institute of Technology、New York University、Northeastern University、Northwestern University、The Ohio State University、Olin College of Engineering、Princeton University、Purdue University—Main Campus、Rice University、Rose-Hulman Institute of Technology、Rutgers University—New Brunswick、Stanford University、Texas A&M University、Tufts University、University of California, Berkeley、University of California, Davis、University of California, Irvine、University of California, Los Angeles、University of California, San Diego、University of California, Santa Barbara、University of Chicago、University of Colorado Boulder、University of Florida、University of Georgia、University of Iowa、University of Maryland, College Park、University of Michigan—Ann Arbor、University of Minnesota Twin Cities、University of Notre Dame、University of Pennsylvania、University of Rochester、University of South Carolina、University of Southern California、The University of Texas at Austin、University of Virginia、University of Washington、University of Wisconsin—Madison、Vanderbilt University、Washington University in St. Louis、Yale University。
 
-## 三、必须逐校核对官网的字段
+## 三、考试与英语政策当前状态
 
-以下 60 所学校的英语成绩政策和标准化考试政策目前标记为“待外部官网确认”。需要逐校确认：是否 test-optional、适用申请季、国际生要求、英语考试最低分和豁免条件。名单与上面的 60 所学校相同。
+94 所学校均已在 `confirmed-policy-facts.json` 中建立事实记录，并已同步到 Supabase 的 `school_confirmed_facts` 表。记录区分了适用申请季、国际生要求、英语成绩要求、奖学金例外和项目级例外；页面展示时应以学校官方来源和具体申请季为准，不应把“test-optional”简化成所有项目、所有身份都免考。
 
 ## 四、特殊口径
 
@@ -65,5 +65,5 @@ Boston College、Boston University、Columbia University、Emory University、Lo
 
 1. 先确认 94 所学校当前官网、校区和学校名称。
 2. 再确认 16 所 county scope 学校的数据口径。
-3. 再确认 60 所学校的最新年份和考试政策。
-4. 最后补齐 16 所 SAT/ACT 缺失学校、2 所录取率缺失学校和 South Carolina 学费。
+3. 再确认 60 所学校的最新统计年份和数据口径。
+4. 最后补齐 16 所 SAT/ACT 分数缺失学校、2 所录取率缺失学校和 South Carolina 学费。
