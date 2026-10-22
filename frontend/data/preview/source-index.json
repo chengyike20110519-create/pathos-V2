@@ -2520,7 +2520,9 @@
     {
       "publisher": "Virginia Tech Student Academic Advising",
       "referenceYear": 2026,
-      "scope": ["virginia-polytechnic-institute-and-state-university-programs"],
+      "scope": [
+        "virginia-polytechnic-institute-and-state-university-programs"
+      ],
       "sourceId": "official-vt-undergraduate-majors-2026",
       "sourceType": "official_institutional_catalog",
       "status": "verified",
@@ -2529,7 +2531,9 @@
     {
       "publisher": "Florida State University Registrar",
       "referenceYear": 2025,
-      "scope": ["florida-state-university-programs"],
+      "scope": [
+        "florida-state-university-programs"
+      ],
       "sourceId": "official-fsu-undergraduate-programs-2025",
       "sourceType": "official_institutional_catalog",
       "status": "verified",
@@ -2538,7 +2542,9 @@
     {
       "publisher": "Tulane University University Catalog",
       "referenceYear": 2026,
-      "scope": ["tulane-university-programs"],
+      "scope": [
+        "tulane-university-programs"
+      ],
       "sourceId": "official-tulane-programs-2026",
       "sourceType": "official_institutional_catalog",
       "status": "verified",
@@ -2547,7 +2553,9 @@
     {
       "publisher": "Rensselaer Polytechnic Institute",
       "referenceYear": 2026,
-      "scope": ["rensselaer-polytechnic-institute-programs"],
+      "scope": [
+        "rensselaer-polytechnic-institute-programs"
+      ],
       "sourceId": "official-rpi-academics-2026",
       "sourceType": "official_institutional_catalog",
       "status": "verified",
@@ -2556,7 +2564,9 @@
     {
       "publisher": "University of Illinois Chicago Undergraduate Catalog",
       "referenceYear": 2025,
-      "scope": ["university-of-illinois-at-chicago-programs"],
+      "scope": [
+        "university-of-illinois-at-chicago-programs"
+      ],
       "sourceId": "official-uic-undergraduate-catalog-2025",
       "sourceType": "official_institutional_catalog",
       "status": "verified",
@@ -2565,11 +2575,25 @@
     {
       "publisher": "University at Buffalo Undergraduate Admissions",
       "referenceYear": 2026,
-      "scope": ["university-at-buffalo-programs"],
+      "scope": [
+        "university-at-buffalo-programs"
+      ],
       "sourceId": "official-ub-undergraduate-programs-2026",
       "sourceType": "official_institutional_catalog",
       "status": "verified",
       "url": "https://www.buffalo.edu/admissions/academics/programs.html"
+    },
+    {
+      "publisher": "University of South Carolina Columbia Bursar / Undergraduate Admissions",
+      "referenceYear": 2027,
+      "scope": [
+        "undergraduate_tuition_in_state",
+        "undergraduate_tuition_out_of_state"
+      ],
+      "sourceId": "official-usc-columbia-tuition-2026-27",
+      "sourceType": "official_bursar",
+      "status": "verified",
+      "url": "https://www.sc.edu/about/offices_and_divisions/bursar/tuition_and_required_fees/"
     }
   ]
 }
