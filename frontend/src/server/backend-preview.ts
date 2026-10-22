@@ -25,6 +25,7 @@ import { canonicalChineseName } from "@/server/university-name-catalog";
 import { extractGuidePreview } from "@/lib/guide-preview";
 import { pageDiscoveryCards, parseDiscoveryQuery, readCampusDiscoveryCards } from "@/server/campus-discovery";
 import { abbrFromFips } from "@/config/states.config";
+import { INITIAL_MAP_VIEWPORT } from "@/lib/map-viewport";
 
 // The preview bundle is read-mostly. Keep the expensive pooler round-trips
 // in-process for a short window so the map's parallel first paint does not
@@ -666,6 +667,28 @@ async function queryUniversities(filters: SummaryFilters): Promise<unknown[]> {
     };
   });
   }, 300_000);
+}
+
+/**
+ * Prime the exact query used by the first map paint while the server is idle.
+ * This keeps Supabase pooler connection setup out of the first user's click
+ * without introducing a second source of university data.
+ */
+export function warmPreviewCache(): void {
+  if (!process.env.DATABASE_URL || process.env.PATHOS_DATA_MODE === "fixture") return;
+  void queryUniversities({
+    states: [],
+    tiers: [],
+    search: "",
+    maxCostRmb: Number.NaN,
+    limit: 250,
+    program: "",
+    viewport: INITIAL_MAP_VIEWPORT,
+  }).catch((error) => {
+    console.warn("[pathos preview] startup cache warmup skipped", {
+      code: error && typeof error === "object" && "code" in error ? (error as { code?: string }).code : undefined,
+    });
+  });
 }
 
 async function readProgramOptions(query: string): Promise<unknown[]> {
