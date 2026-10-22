@@ -36,7 +36,7 @@ Scorecard 中以下学校的 SAT/ACT 分数为空或不完整，需要到学校�
 
 ### 3. 学费
 
-- University of South Carolina：州内学费和州外学费字段为空，需要从该校当前本科费用页面确认。
+- University of South Carolina：已确认并写入 2026–27 学费来源。州内本科 tuition 为 $12,288/年，州外本科 tuition 为 $38,098/年；该字段不包含住宿、餐饮、技术费或专业费用。来源：`official-usc-columbia-tuition-2026-27`。
 
 ### 4. 入学人数
 
