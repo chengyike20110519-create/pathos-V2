@@ -51,7 +51,9 @@ export function derive(summary: JsonObject, detail: JsonObject, research: JsonOb
   const detailSat25 = pickSat(detail, 25);
   const detailSat75 = pickSat(detail, 75);
   return {
-    undergraduateEnrollment: pickFlat(summary, detail, "undergraduateEnrollment", ["undergraduateEnrollment", "value"]),
+    undergraduateEnrollment:
+      pickFlat(summary, detail, "undergraduateEnrollment", ["undergraduateEnrollment", "value"])
+      ?? pickResearchMetric(research, "UGDS"),
     acceptanceRate: pickFlat(summary, detail, "acceptanceRate", ["admissions", "acceptanceRate", "value"], true),
     sat25: detailSat25 ?? pickResearchSat(research, 25),
     sat75: detailSat75 ?? pickResearchSat(research, 75),
