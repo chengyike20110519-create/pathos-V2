@@ -57,6 +57,11 @@ interface UniversityDetail {
   [k: string]: unknown;
 }
 
+interface ResearchRecord {
+  universityId: string;
+  payload?: Record<string, unknown>;
+}
+
 interface RegionMetric {
   fipsCode: string;
   granularity: string;
@@ -116,6 +121,27 @@ function buildSearchText(summary: UniversitySummary, detail: UniversityDetail | 
   return parts.filter(Boolean).join(" ");
 }
 
+function finiteResearchNumber(payload: Record<string, unknown> | undefined, key: string): number | null {
+  const value = Number(payload?.[key]);
+  return Number.isFinite(value) && value > 0 ? value : null;
+}
+
+function enrichSummaryFromResearch(summary: UniversitySummary, research: ResearchRecord | undefined): UniversitySummary {
+  if (!research?.payload) return summary;
+  const out = { ...summary } as UniversitySummary & Record<string, unknown>;
+  const fields: Array<[string, string]> = [
+    ["undergraduateEnrollment", "UGDS"],
+    ["studentFacultyRatio", "STUFACR"],
+    ["graduationRate", "C150_4"],
+    ["retentionRate", "RET_FT4"],
+  ];
+  for (const [target, source] of fields) {
+    const value = finiteResearchNumber(research.payload, source);
+    if (value !== null && (out[target] === undefined || out[target] === null)) out[target] = value;
+  }
+  return out;
+}
+
 async function main() {
   const client = new Client({ connectionString: DATABASE_URL });
   activeClient = client;
@@ -133,11 +159,15 @@ async function main() {
   );
   console.log("manifest");
 
+  const researchBundle = await readJson<{ records?: ResearchRecord[] }>("../research/school-records.json");
+  const researchById = new Map((researchBundle.records ?? []).map((record) => [record.universityId, record]));
+
   // 2. universities + university_details
   const universities = await readJson<UniversitySummary[]>("universities.json");
   let uniCount = 0;
   let detailCount = 0;
   for (const u of universities) {
+    const enrichedSummary = enrichSummaryFromResearch(u, researchById.get(u.id));
     let detail: UniversityDetail | null = null;
     try {
       // The bundle may store candidate-v2 IDs either as a legacy filename
@@ -154,7 +184,7 @@ async function main() {
     } catch (e) {
       console.warn(`  skip detail for ${u.id}: ${(e as Error).message}`);
     }
-    const searchText = buildSearchText(u, detail);
+    const searchText = buildSearchText(enrichedSummary, detail);
     await client.query(
       `INSERT INTO universities
         (id, name, chinese_name, city, state, region, school_type,
@@ -173,12 +203,12 @@ async function main() {
          preview_only = EXCLUDED.preview_only, payload = EXCLUDED.payload,
          search_text = EXCLUDED.search_text, updated_at = NOW()`,
       [
-        u.id, u.name, u.chineseName ?? null, u.city ?? null, u.state ?? null,
-        u.region ?? null, u.schoolType ?? null, u.rankingBand ?? null,
-        u.rankingTier ?? null, u.nationalRanking ?? null, u.latitude ?? null,
-        u.longitude ?? null, u.displayTier ?? null, u.sourceStatus ?? null,
-        u.sourceCommit ?? null, u.datasetVersion ?? null, u.previewOnly ?? true,
-        JSON.stringify(u), searchText,
+        enrichedSummary.id, enrichedSummary.name, enrichedSummary.chineseName ?? null, enrichedSummary.city ?? null, enrichedSummary.state ?? null,
+        enrichedSummary.region ?? null, enrichedSummary.schoolType ?? null, enrichedSummary.rankingBand ?? null,
+        enrichedSummary.rankingTier ?? null, enrichedSummary.nationalRanking ?? null, enrichedSummary.latitude ?? null,
+        enrichedSummary.longitude ?? null, enrichedSummary.displayTier ?? null, enrichedSummary.sourceStatus ?? null,
+        enrichedSummary.sourceCommit ?? null, enrichedSummary.datasetVersion ?? null, enrichedSummary.previewOnly ?? true,
+        JSON.stringify(enrichedSummary), searchText,
       ],
     );
     uniCount++;
