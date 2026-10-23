@@ -3,6 +3,18 @@
   "status": "source_verified_pending_field_extraction",
   "records": [
     {
+      "universityId": "candidate-v2:university-of-washington",
+      "universityName": "University of Washington",
+      "sourceUrl": "https://advising.uw.edu/degree-overview/majors/list-of-undergraduate-majors/",
+      "sourceType": "official_undergraduate_major_directory",
+      "publisher": "University of Washington Undergraduate Advising",
+      "scope": ["UW-Seattle undergraduate majors", "options and concentrations preserved separately by source"],
+      "observedProgramNames": ["Art","Art History","Composition (Music)","Dance","Design","Drama","Ethnomusicology","Guitar","Jazz Studies","Music","Music Education","Orchestral Instruments","Organ (Music)","Percussion","Piano","Voice (Music)","Asian Languages and Culture","Chinese","Cinema & Media Studies","Classical Studies","Classics","Comparative History of Ideas","Danish","English","Finnish","French","German Studies","Global Literary Studies","Greek","Japanese","Korean","Latin","Linguistics","Middle Eastern Languages and Cultures","Norwegian","Scandinavian Studies","Slavic Languages and Literatures","South Asian Languages and Literature (Hindi and Sanskrit)","Spanish","Swedish","Applied and Computational Mathematical Sciences","Applied Mathematics","Astronomy","Biochemistry","Biology","Chemistry","Computational Finance and Risk Management","Computer Science","Mathematics","Microbiology","Neuroscience","Physics","Psychology","Speech and Hearing Sciences","Statistics","American Ethnic Studies","American Indian Studies","Anthropology","Asian Studies","Communication","Comparative Religion","Economics","European Studies","Gender, Women, and Sexuality Studies","Geography","History","History and Philosophy of Science","Individualized Studies","Integrated Social Sciences","International Studies","Jewish Studies","Latin American and Caribbean Studies","Law, Societies, and Justice","Philosophy","Political Science","Sociology","Architectural Design","Architecture","Community, Environment, and Planning","Construction Management","Environmental Design and Sustainability","Landscape Architecture","Real Estate","Early Care and Education (Online Option)","Early Childhood and Family Studies","Education, Communities, and Organizations","Aeronautics and Astronautics","Bioengineering","Chemical Engineering","Civil Engineering","Computer Science and Engineering","Electrical and Computer Engineering","Environmental Engineering","Human Centered Design and Engineering","Industrial Engineering","Materials Science and Engineering","Mechanical Engineering","Aquatic Conservation & Ecology","Atmospheric Sciences","Earth and Space Sciences","Environmental Science and Terrestrial Resource Management","Environmental Studies","Marine Biology","Oceanography","Sustainable Bioresource Systems Engineering","Informatics","Business Administration","Medical Laboratory Science","Nursing","Environmental Public Health","Food Systems, Nutrition, and Health","Health Informatics and Health Information Management","Public Health - Global Health","Social Welfare"],
+      "programStatus": "official_directory_observed_not_strength_claim",
+      "observedProgramCount": 114,
+      "checkedOn": "2026-10-23"
+    },
+    {
       "universityId": "candidate-v2:tulane-university",
       "universityName": "Tulane University",
       "sourceUrl": "https://catalog.tulane.edu/programs/programs.pdf",

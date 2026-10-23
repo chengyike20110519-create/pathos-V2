@@ -2645,6 +2645,19 @@
       "sourceType": "official_academic_programs_catalog_pdf",
       "status": "verified",
       "url": "https://catalog.tulane.edu/programs/programs.pdf"
+    },
+    {
+      "universityId": "candidate-v2:university-of-washington",
+      "publisher": "University of Washington Undergraduate Advising",
+      "referenceYear": 2026,
+      "scope": [
+        "UW-Seattle undergraduate majors",
+        "options and concentrations preserved separately by source"
+      ],
+      "sourceId": "official-source-8b5cc1bcd6001e196ad050f8",
+      "sourceType": "official_undergraduate_major_directory",
+      "status": "verified",
+      "url": "https://advising.uw.edu/degree-overview/majors/list-of-undergraduate-majors/"
     }
   ]
 }
