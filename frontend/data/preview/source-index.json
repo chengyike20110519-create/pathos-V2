@@ -2479,6 +2479,45 @@
       "sourceType": "official_undergraduate_programs",
       "status": "verified",
       "url": "https://reg.msu.edu/AcademicPrograms/Programs.aspx?PType=UC"
+    },
+    {
+      "universityId": "candidate-v2:george-washington-university",
+      "publisher": "George Washington University Bulletin",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree programs"
+      ],
+      "sourceId": "official-source-d596a0efb7544cfbb49bb8c9",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://business.gwu.edu/academics/programs"
+    },
+    {
+      "universityId": "candidate-v2:george-washington-university",
+      "publisher": "George Washington University Bulletin",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree programs"
+      ],
+      "sourceId": "official-source-814167c4f2039edfb3f38cff",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.gwu.edu/international-affairs/undergraduate-programs/"
+    },
+    {
+      "universityId": "candidate-v2:george-washington-university",
+      "publisher": "George Washington University Bulletin",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree programs"
+      ],
+      "sourceId": "official-source-f90a0e2d19fc4b00a7f44827",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.gwu.edu/public-health/undergraduate-programs/"
     }
   ]
 }

@@ -68,11 +68,877 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Africana Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Africana Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies",
+      "listType": "official_undergraduate_major",
+      "name": "American Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arabic Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Arabic Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Archaeology",
+      "listType": "official_undergraduate_major",
+      "name": "Archaeology",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Africana Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Africana Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies",
+      "listType": "official_undergraduate_major",
+      "name": "American Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arabic Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Arabic Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Archaeology",
+      "listType": "official_undergraduate_major",
+      "name": "Archaeology",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History",
+      "listType": "official_undergraduate_major",
+      "name": "Art History",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History and Fine Arts",
+      "listType": "official_undergraduate_major",
+      "name": "Art History and Fine Arts",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy and Astrophysics",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy and Astrophysics",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Anthropology",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Anthropology",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Biology",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biophysics",
+      "listType": "official_undergraduate_major",
+      "name": "Biophysics",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chinese Language and Literature",
+      "listType": "official_undergraduate_major",
+      "name": "Chinese Language and Literature",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical and Ancient Near Eastern Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Classical and Ancient Near Eastern Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cognitive Neuroscience",
+      "listType": "official_undergraduate_major",
+      "name": "Cognitive Neuroscience",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cognitive Science of Language",
+      "listType": "official_undergraduate_major",
+      "name": "Cognitive Science of Language",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication",
+      "listType": "official_undergraduate_major",
+      "name": "Communication",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Creative Writing and English",
+      "listType": "official_undergraduate_major",
+      "name": "Creative Writing and English",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminal Justice",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal Justice",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dance",
+      "listType": "official_undergraduate_major",
+      "name": "Dance",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English",
+      "listType": "official_undergraduate_major",
+      "name": "English",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental and Sustainability Science",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental and Sustainability Science",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fine Arts",
+      "listType": "official_undergraduate_major",
+      "name": "Fine Arts",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fine Arts and Art History",
+      "listType": "official_undergraduate_major",
+      "name": "Fine Arts and Art History",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French Language and Literature",
+      "listType": "official_undergraduate_major",
+      "name": "French Language and Literature",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography",
+      "listType": "official_undergraduate_major",
+      "name": "Geography",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geological Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Geological Sciences",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German Language and Literature",
+      "listType": "official_undergraduate_major",
+      "name": "German Language and Literature",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Graphic Design",
+      "listType": "official_undergraduate_major",
+      "name": "Graphic Design",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History",
+      "listType": "official_undergraduate_major",
+      "name": "History",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Services and Social Justice",
+      "listType": "official_undergraduate_major",
+      "name": "Human Services and Social Justice",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interaction Design",
+      "listType": "official_undergraduate_major",
+      "name": "Interaction Design",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interior Architecture",
+      "listType": "official_undergraduate_major",
+      "name": "Interior Architecture",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Japanese Language and Literature",
+      "listType": "official_undergraduate_major",
+      "name": "Japanese Language and Literature",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism and Mass Communication",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism and Mass Communication",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Judaic Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Judaic Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Korean Language and Literature",
+      "listType": "official_undergraduate_major",
+      "name": "Korean Language and Literature",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music",
+      "listType": "official_undergraduate_major",
+      "name": "Music",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Organizational Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Organizational Sciences",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Peace Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Peace Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy: Public Affairs Focus",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy: Public Affairs Focus",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Photojournalism",
+      "listType": "official_undergraduate_major",
+      "name": "Photojournalism",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Physics",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Communication",
+      "listType": "official_undergraduate_major",
+      "name": "Political Communication",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science: Public Policy Focus",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science: Public Policy Focus",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychological and Brain Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Psychological and Brain Sciences",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religion",
+      "listType": "official_undergraduate_major",
+      "name": "Religion",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Russian Language and Literature",
+      "listType": "official_undergraduate_major",
+      "name": "Russian Language and Literature",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish and Latin American Languages, Literatures, and Cultures",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish and Latin American Languages, Literatures, and Cultures",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Speech, Language, and Hearing Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Speech, Language, and Hearing Sciences",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Women's, Gender, and Sexuality Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Women's, Gender, and Sexuality Studies",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accountancy",
+      "listType": "official_undergraduate_major",
+      "name": "Accountancy",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business",
+      "listType": "official_undergraduate_major",
+      "name": "Business",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance",
+      "listType": "official_undergraduate_major",
+      "name": "Finance",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Exercise Science",
+      "listType": "official_undergraduate_major",
+      "name": "Exercise Science",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health",
+      "sourceIds": [
+        "official-source-4374026909ae355233f8af72"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-4374026909ae355233f8af72"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {

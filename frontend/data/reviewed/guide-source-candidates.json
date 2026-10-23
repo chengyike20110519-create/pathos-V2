@@ -137,8 +137,13 @@
       "sourceUrl": "https://bulletin.gwu.edu/arts-sciences/",
       "sourceType": "official_undergraduate_bulletin",
       "publisher": "George Washington University Bulletin",
+      "supportingSourceUrls": [
+        "https://business.gwu.edu/academics/programs",
+        "https://bulletin.gwu.edu/international-affairs/undergraduate-programs/",
+        "https://bulletin.gwu.edu/public-health/undergraduate-programs/"
+      ],
       "scope": ["undergraduate majors", "degree programs"],
-      "observedProgramNames": ["Data Science", "Astronomy and Astrophysics", "Biophysics", "Cognitive Neuroscience", "International Affairs", "Political Science", "Public Health"],
+      "observedProgramNames": ["Africana Studies", "American Studies", "Anthropology", "Arabic Studies", "Archaeology", "Art History", "Art History and Fine Arts", "Astronomy and Astrophysics", "Biological Anthropology", "Biology", "Biophysics", "Chemistry", "Chinese Language and Literature", "Classical and Ancient Near Eastern Studies", "Cognitive Neuroscience", "Cognitive Science of Language", "Communication", "Creative Writing and English", "Criminal Justice", "Dance", "Data Science", "Economics", "English", "Environmental and Sustainability Science", "Environmental Studies", "Fine Arts", "Fine Arts and Art History", "French Language and Literature", "Geography", "Geological Sciences", "German Language and Literature", "Graphic Design", "History", "Human Services and Social Justice", "Interaction Design", "Interior Architecture", "Japanese Language and Literature", "Journalism and Mass Communication", "Judaic Studies", "Korean Language and Literature", "Mathematics", "Music", "Neuroscience", "Organizational Sciences", "Peace Studies", "Philosophy", "Philosophy: Public Affairs Focus", "Photojournalism", "Physics", "Political Communication", "Political Science", "Political Science: Public Policy Focus", "Psychological and Brain Sciences", "Religion", "Russian Language and Literature", "Sociology", "Spanish and Latin American Languages, Literatures, and Cultures", "Speech, Language, and Hearing Sciences", "Statistics", "Theatre", "Women's, Gender, and Sexuality Studies", "International Affairs", "Accountancy", "Business", "Finance", "Marketing", "Computer Science", "Civil Engineering", "Electrical Engineering", "Mechanical Engineering", "Biomedical Engineering", "Exercise Science", "Public Health"],
       "programStatus": "official_catalog_observed_not_strength_claim",
       "checkedOn": "2026-10-23"
     },
