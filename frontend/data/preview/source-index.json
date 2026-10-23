@@ -2688,6 +2688,19 @@
       "sourceType": "official_undergraduate_programs_catalog_pdf",
       "status": "verified",
       "url": "https://bulletins.psu.edu/programs/programs.pdf"
+    },
+    {
+      "universityId": "candidate-v2:texas-a-and-m-university",
+      "publisher": "Texas A&M University Undergraduate Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "baccalaureate and undergraduate degree programs",
+        "2027-2028 catalog edition published for 2026-2027 academic year"
+      ],
+      "sourceId": "official-source-df5312e4d79c73958706b256",
+      "sourceType": "official_undergraduate_program_search",
+      "status": "verified",
+      "url": "https://catalog.tamu.edu/programs/"
     }
   ]
 }

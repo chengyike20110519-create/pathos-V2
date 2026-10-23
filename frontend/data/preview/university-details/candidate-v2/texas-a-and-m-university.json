@@ -146,10 +146,2932 @@
   "aliases": [
     "Texas A&M University College of Engineering"
   ],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agribusiness - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Agribusiness - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Economics - BS, Finance and Real Estate Option",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Economics - BS, Finance and Real Estate Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Economics - BS, Policy and Economic Analysis Option",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Economics - BS, Policy and Economic Analysis Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Economics - BS, Rural Entrepreneurship Option",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Economics - BS, Rural Entrepreneurship Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Financial Planning - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Financial Planning - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Communications and Journalism - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Communications and Journalism - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Education - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Education - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Leadership and Development - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Leadership and Development - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Science - BS, Production/Industry Option",
+      "listType": "official_undergraduate_major",
+      "name": "Animal Science - BS, Production/Industry Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Science - BS, Science Option",
+      "listType": "official_undergraduate_major",
+      "name": "Animal Science - BS, Science Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Genetics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Genetics - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological and Agricultural Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Biological and Agricultural Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological and Agricultural Engineering - BS, Agricultural Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Biological and Agricultural Engineering - BS, Agricultural Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological and Agricultural Engineering - BS, Biological Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Biological and Agricultural Engineering - BS, Biological Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological and Agricultural Engineering - BS, Natural Resources Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Biological and Agricultural Engineering - BS, Natural Resources Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ecology and Conservation Biology - BS, Ecoinformatics Track",
+      "listType": "official_undergraduate_major",
+      "name": "Ecology and Conservation Biology - BS, Ecoinformatics Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ecology and Conservation Biology - BS, Ecology and Conservation Biology Track",
+      "listType": "official_undergraduate_major",
+      "name": "Ecology and Conservation Biology - BS, Ecology and Conservation Biology Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ecology and Conservation Biology - BS, Forest Resources Track",
+      "listType": "official_undergraduate_major",
+      "name": "Ecology and Conservation Biology - BS, Forest Resources Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ecology and Conservation Biology - BS, Teaching Track",
+      "listType": "official_undergraduate_major",
+      "name": "Ecology and Conservation Biology - BS, Teaching Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ecology and Conservation Biology - BS, Vertebrate Zoology Track",
+      "listType": "official_undergraduate_major",
+      "name": "Ecology and Conservation Biology - BS, Vertebrate Zoology Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Entomology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Entomology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Food Science and Technology - BS, Food Industry Option",
+      "listType": "official_undergraduate_major",
+      "name": "Food Science and Technology - BS, Food Industry Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Food Science and Technology - BS, Food Science Option",
+      "listType": "official_undergraduate_major",
+      "name": "Food Science and Technology - BS, Food Science Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Horticulture - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Horticulture - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Horticulture - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Horticulture - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hospitality, Hotel Management and Tourism - BS, Business Hospitality Track",
+      "listType": "official_undergraduate_major",
+      "name": "Hospitality, Hotel Management and Tourism - BS, Business Hospitality Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hospitality, Hotel Management and Tourism - BS, Event, Tourism and Recreation Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Hospitality, Hotel Management and Tourism - BS, Event, Tourism and Recreation Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hospitality, Hotel Management and Tourism - BS, Hotel and Resort Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Hospitality, Hotel Management and Tourism - BS, Hotel and Resort Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition - BS, Didactic Program in Dietetics Track",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition - BS, Didactic Program in Dietetics Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition - BS, Human Health Track",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition - BS, Human Health Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Bioenvironmental Sciences - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Bioenvironmental Sciences - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Studies - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Studies - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Aquaculture and Fisheries Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Aquaculture and Fisheries Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Natural Resources Management and Policy Track",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Natural Resources Management and Policy Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Outdoor Enterprise Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Outdoor Enterprise Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Rangeland Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Rangeland Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Wildlife Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Wildlife Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Natural Resources Management and Policy Track/MNA, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Natural Resources Management and Policy Track/MNA, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Wildlife Management Track/MNA, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Wildlife Management Track/MNA, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Turfgrass Science - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Turfgrass Science - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Construction Science - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Construction Science - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Construction Science- Land and Property Development BS/MLP, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Construction Science- Land and Property Development BS/MLP, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Landscape Architecture - BLA",
+      "listType": "official_undergraduate_major",
+      "name": "Landscape Architecture - BLA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Landscape Architecture - BLA/MLA, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Landscape Architecture - BLA/MLA, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban and Regional Planning - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Urban and Regional Planning - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban and Regional Planning - BS/MLA, 3+3 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Urban and Regional Planning - BS/MLA, 3+3 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban and Regional Planning - BS/MLP, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Urban and Regional Planning - BS/MLP, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban and Regional Planning - BS/MUP, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Urban and Regional Planning - BS/MUP, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "University Studies - BS, Global Arts, Planning, Design and Construction Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "University Studies - BS, Global Arts, Planning, Design and Construction Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental and Sustainability Studies - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental and Sustainability Studies - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Meteorology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Meteorology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Meteorology - BS/MOS, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Meteorology - BS/MOS, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Biology - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Biology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Microbiology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Microbiology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Molecular and Cell Biology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Molecular and Cell Biology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neurobiology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Neurobiology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Zoology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Zoology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BA, Chemical Education Track",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BA, Chemical Education Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BA, Environmental Chemistry Track",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BA, Environmental Chemistry Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BA, Pre-Health Professions Track",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BA, Pre-Health Professions Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BS, Biological-Chemistry Track",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BS, Biological-Chemistry Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BS, Environmental Chemistry Track",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BS, Environmental Chemistry Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BS, Materials Chemistry Track",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BS, Materials Chemistry Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Communication - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Communication - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Telecommunication Media Studies - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Telecommunication Media Studies - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Telecommunication Media Studies - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Telecommunication Media Studies - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BA/MIA, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BA/MIA, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BS/MIA, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BS/MIA, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English - BA",
+      "listType": "official_undergraduate_major",
+      "name": "English - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English - BA, Middle School Teacher Certification",
+      "listType": "official_undergraduate_major",
+      "name": "English - BA, Middle School Teacher Certification",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geographic Information Science and Technology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Geographic Information Science and Technology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Geography - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography - BS/MGS, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Geography - BS/MGS, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Geology - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Geology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology - BS/MOS, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Geology - BS/MOS, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geophysics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Geophysics - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics - BA, Classical Civilization Track",
+      "listType": "official_undergraduate_major",
+      "name": "Classics - BA, Classical Civilization Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics - BA, Language and Literature Track",
+      "listType": "official_undergraduate_major",
+      "name": "Classics - BA, Language and Literature Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Studies - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Global Studies - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages - BA, French Option",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages - BA, French Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages - BA, German Option",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages - BA, German Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages - BA, Russian Option",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages - BA, Russian Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "University Studies - BA, Race, Gender, Ethnicity Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "University Studies - BA, Race, Gender, Ethnicity Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "University Studies - BS, Race, Gender, Ethnicity Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "University Studies - BS, Race, Gender, Ethnicity Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History - BA",
+      "listType": "official_undergraduate_major",
+      "name": "History - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History - BS",
+      "listType": "official_undergraduate_major",
+      "name": "History - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Oceanography - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Oceanography - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Oceanography - BS/MOS, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Oceanography - BS/MOS, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ocean Studies - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Ocean Studies - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Society, Ethics, and Law - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Society, Ethics, and Law - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BS, Astrophysics Track",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BS, Astrophysics Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BS, Business Track",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BS, Business Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BS, Computational Science Track",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BS, Computational Science Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BS, Physical Science Teaching Track",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BS, Physical Science Teaching Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BS, Physics and Mathematics Teaching Track",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BS, Physics and Mathematics Teaching Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BS, Semiconductors and Modern Materials Track",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BS, Semiconductors and Modern Materials Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Behavioral and Cognitive Neuroscience - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Behavioral and Cognitive Neuroscience - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Bioinformatics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Bioinformatics - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Business - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Honors - BBA",
+      "listType": "official_undergraduate_major",
+      "name": "Business Honors - BBA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting - BBA",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting - BBA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting - BBA/MFM, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting - BBA/MFM, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance - BBA",
+      "listType": "official_undergraduate_major",
+      "name": "Finance - BBA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance - BBA, Real Estate Track",
+      "listType": "official_undergraduate_major",
+      "name": "Finance - BBA, Real Estate Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Supply Chain Management - BBA",
+      "listType": "official_undergraduate_major",
+      "name": "Supply Chain Management - BBA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management - BBA, Consulting/General Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Management - BBA, Consulting/General Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management - BBA, Entrepreneurial Leadership Track",
+      "listType": "official_undergraduate_major",
+      "name": "Management - BBA, Entrepreneurial Leadership Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management - BBA, Human Resource Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Management - BBA, Human Resource Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management - BBA, Pre-Law Track",
+      "listType": "official_undergraduate_major",
+      "name": "Management - BBA, Pre-Law Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing - BBA, Advertising Strategy Track",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing - BBA, Advertising Strategy Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing - BBA, Analytics and Consulting Track",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing - BBA, Analytics and Consulting Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing - BBA, Healthcare Marketing Track",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing - BBA, Healthcare Marketing Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing - BBA, Professional Selling and Sales Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing - BBA, Professional Selling and Sales Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing - BBA, Strategic Retailing Track",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing - BBA, Strategic Retailing Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "University Studies - BS, Business Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "University Studies - BS, Business Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dental Hygiene - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Dental Hygiene - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Resource Development - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Human Resource Development - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education - BS, Bilingual Education EC-6",
+      "listType": "official_undergraduate_major",
+      "name": "Education - BS, Bilingual Education EC-6",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education - BS, Special Education EC-12",
+      "listType": "official_undergraduate_major",
+      "name": "Education - BS, Special Education EC-12",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Sciences - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Sciences - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Coaching and Teaching in Secondary Education - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Coaching and Teaching in Secondary Education - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology - BS, Exercise Science Track, Applied Exercise Physiology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology - BS, Exercise Science Track, Applied Exercise Physiology Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology - BS, Exercise Science Track, Basic Exercise Physiology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology - BS, Exercise Science Track, Basic Exercise Physiology Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology - BS, Exercise Science Track, Motor Behavior Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology - BS, Exercise Science Track, Motor Behavior Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology - BS, Strength and Conditioning Track",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology - BS, Strength and Conditioning Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Management - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Management - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Early Childhood Development and Education - BS, Leadership Track",
+      "listType": "official_undergraduate_major",
+      "name": "Early Childhood Development and Education - BS, Leadership Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education - BS, Early Childhood-3 Certification",
+      "listType": "official_undergraduate_major",
+      "name": "Education - BS, Early Childhood-3 Certification",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education - BS, English Language Arts/Social Studies, Middle Grades Certification",
+      "listType": "official_undergraduate_major",
+      "name": "Education - BS, English Language Arts/Social Studies, Middle Grades Certification",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education - BS, Math/Science, Middle Grades Certification",
+      "listType": "official_undergraduate_major",
+      "name": "Education - BS, Math/Science, Middle Grades Certification",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education - BS, Pre-K-6, Generalist Certification",
+      "listType": "official_undergraduate_major",
+      "name": "Education - BS, Pre-K-6, Generalist Certification",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Space Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Space Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS, Coastal Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS, Coastal Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS, Construction Engineering and Management Track",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS, Construction Engineering and Management Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS, Environmental Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS, Environmental Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS, General Civil Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS, General Civil Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS, Geotechnical Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS, Geotechnical Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS, Structural Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS, Structural Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS, Transportation and Infrastructure Materials Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS, Transportation and Infrastructure Materials Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS, Water Resources Engineering Track",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS, Water Resources Engineering Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Distribution - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Distribution - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Manufacturing and Mechanical Engineering Technology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Manufacturing and Mechanical Engineering Technology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Multidisciplinary Engineering Technology - BS, Electro Marine Engineering Technology Track",
+      "listType": "official_undergraduate_major",
+      "name": "Multidisciplinary Engineering Technology - BS, Electro Marine Engineering Technology Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Multidisciplinary Engineering Technology - BS, Mechatronics Track",
+      "listType": "official_undergraduate_major",
+      "name": "Multidisciplinary Engineering Technology - BS, Mechatronics Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Multidisciplinary Engineering Technology - BS, STEM Education Track",
+      "listType": "official_undergraduate_major",
+      "name": "Multidisciplinary Engineering Technology - BS, STEM Education Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Data Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science and Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Science and Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architectural Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Architectural Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Engineering - BS/JD, 3+3 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Engineering - BS/JD, 3+3 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nuclear Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Nuclear Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ocean Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Ocean Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Petroleum Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Petroleum Engineering - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs - BA",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs - BA/MIA, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs - BA/MIA, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Service and Administration - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Public Service and Administration - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Service and Administration - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Public Service and Administration - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing - BSN, Accelerated BSN Track",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing - BSN, Accelerated BSN Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing - BSN, Honors Track",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing - BSN, Honors Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing - BSN, RN to BSN Track",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing - BSN, RN to BSN Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing - BSN, Traditional BSN Track",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing - BSN, Traditional BSN Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dance Science - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Dance Science - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance - BFA",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance - BFA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Performance and Visual Studies - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Performance and Visual Studies - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre - BFA",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre - BFA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Visualization - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Visualization - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health - BS, Allied Health Option",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health - BS, Allied Health Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health - BS, Internship Track",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health - BS, Internship Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health - BS, Non-Internship Track",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health - BS, Non-Internship Track",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Sciences - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Sciences - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "University Studies - BS, Biomedical Sciences Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "University Studies - BS, Biomedical Sciences Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Coastal Resilience and Environmental Science - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Coastal Resilience and Environmental Science - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Coastal Resilience and Environmental Science - BS/MMR, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Coastal Resilience and Environmental Science - BS/MMR, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Sciences - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Sciences - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Sciences - BS, License Option",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Sciences - BS, License Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Biology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Biology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Biology - BS, License Option",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Biology - BS, License Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Fisheries - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Fisheries - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Engineering Technology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Engineering Technology - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Engineering Technology - BS, License Option",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Engineering Technology - BS, License Option",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Maritime Business Administration - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Maritime Business Administration - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Maritime Business Administration - BS/MMB, 3+2 Program",
+      "listType": "official_undergraduate_major",
+      "name": "Maritime Business Administration - BS/MMB, 3+2 Program",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Maritime Studies - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Maritime Studies - BA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Transportation - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Transportation - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Maritime Operations - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Maritime Operations - BS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "University Studies - BS, Oceans and One Health Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "University Studies - BS, Oceans and One Health Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "University Studies - BS, Tourism and Coastal Community Development Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "University Studies - BS, Tourism and Coastal Community Development Concentration",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting - BBA, Financial Management - MFM",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting - BBA, Financial Management - MFM",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics - BS, Economics - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics - BS, Economics - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics - BS, Mathematics - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics - BS, Mathematics - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BS, Chemistry - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BS, Chemistry - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Coastal Resilience and Environmental Science - BS and Marine Resources Management - MMR",
+      "listType": "official_undergraduate_major",
+      "name": "Coastal Resilience and Environmental Science - BS and Marine Resources Management - MMR",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication - BA, Communication - MA",
+      "listType": "official_undergraduate_major",
+      "name": "Communication - BA, Communication - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication - BS, Communication - MA",
+      "listType": "official_undergraduate_major",
+      "name": "Communication - BS, Communication - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BA, Economics - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BA, Economics - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BA, International Affairs - MIA",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BA, International Affairs - MIA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BS, Economics - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BS, Economics - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BS, International Affairs - MIA",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BS, International Affairs - MIA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English - BA, English - MA",
+      "listType": "official_undergraduate_major",
+      "name": "English - BA, English - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geographic Information Science and Technology - BS, Geography - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Geographic Information Science and Technology - BS, Geography - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography - BS, Geography - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Geography - BS, Geography - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography - BS, Geoscience - MGS",
+      "listType": "official_undergraduate_major",
+      "name": "Geography - BS, Geoscience - MGS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology - BS, Geology - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Geology - BS, Geology - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology - BS, Ocean Science and Technology - MOS",
+      "listType": "official_undergraduate_major",
+      "name": "Geology - BS, Ocean Science and Technology - MOS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geophysics - BS, Geophysics - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Geophysics - BS, Geophysics - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History - BA, History - MA",
+      "listType": "official_undergraduate_major",
+      "name": "History - BA, History - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering - BS, Finance - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering - BS, Finance - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Engineering - BS, Law - JD",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Engineering - BS, Law - JD",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs - BA, International Affairs - MIA",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs - BA, International Affairs - MIA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism - BA, Communication - MA",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism - BA, Communication - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism - BS, Communication - MA",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism - BS, Communication - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology - BS, Athletic Training - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology - BS, Athletic Training - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Landscape Architecture - BLA, Landscape Architecture - MLA",
+      "listType": "official_undergraduate_major",
+      "name": "Landscape Architecture - BLA, Landscape Architecture - MLA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Maritime Business Administration - BS, Maritime Business Administration and Logistics - MMB",
+      "listType": "official_undergraduate_major",
+      "name": "Maritime Business Administration - BS, Maritime Business Administration and Logistics - MMB",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics - BA, Mathematics - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics - BA, Mathematics - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics - BS, Mathematics - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics - BS, Mathematics - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Meteorology - BS, Ocean Science and Technology - MOS",
+      "listType": "official_undergraduate_major",
+      "name": "Meteorology - BS, Ocean Science and Technology - MOS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Oceanography - BS, Ocean and Science Technology - MOS",
+      "listType": "official_undergraduate_major",
+      "name": "Oceanography - BS, Ocean and Science Technology - MOS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy - BA, Philosophy - MA",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy - BA, Philosophy - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Natural Resources Management and Policy Track, Natural Resources - MNA",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Natural Resources Management and Policy Track, Natural Resources - MNA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rangeland, Wildlife and Fisheries Management - BS, Wildlife Management Track, Natural Resources - MNA",
+      "listType": "official_undergraduate_major",
+      "name": "Rangeland, Wildlife and Fisheries Management - BS, Wildlife Management Track, Natural Resources - MNA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics - BS, Statistical Data Science - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics - BS, Statistical Data Science - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Telecommunication Media Studies - BA, Communication - MA",
+      "listType": "official_undergraduate_major",
+      "name": "Telecommunication Media Studies - BA, Communication - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Telecommunication Media Studies - BS, Communication - MA",
+      "listType": "official_undergraduate_major",
+      "name": "Telecommunication Media Studies - BS, Communication - MA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre – BFA",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre – BFA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban and Regional Planning - BS, Construction Management - MS",
+      "listType": "official_undergraduate_major",
+      "name": "Urban and Regional Planning - BS, Construction Management - MS",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban and Regional Planning - BS, Land and Property Development - MLP",
+      "listType": "official_undergraduate_major",
+      "name": "Urban and Regional Planning - BS, Land and Property Development - MLP",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban and Regional Planning - BS, Landscape Architecture - MLA",
+      "listType": "official_undergraduate_major",
+      "name": "Urban and Regional Planning - BS, Landscape Architecture - MLA",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban and Regional Planning - BS, Urban and Regional Planning - MUP",
+      "listType": "official_undergraduate_major",
+      "name": "Urban and Regional Planning - BS, Urban and Regional Planning - MUP",
+      "sourceIds": [
+        "official-source-df5312e4d79c73958706b256"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "nullReason": "identity_ipeds_match_not_resolved",
-    "status": "not_reported"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-df5312e4d79c73958706b256"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "anecdotes": [
     {
@@ -167,8 +3089,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$12,841–$40,328",
-    "maximumUsd": 40328.0,
-    "minimumUsd": 12841.0,
+    "maximumUsd": 40328,
+    "minimumUsd": 12841,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -407,7 +3329,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 12841.0,
+      "amountUsd": 12841,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -416,7 +3338,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 40328.0,
+      "amountUsd": 40328,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -429,7 +3351,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "TX",
-  "studentFacultyRatio": 19.0,
+  "studentFacultyRatio": 19,
   "topPrograms": [
     "Industrial Engineering",
     "Aerospace Engineering",
