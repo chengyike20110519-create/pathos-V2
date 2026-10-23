@@ -2594,6 +2594,18 @@
       "sourceType": "official_bursar",
       "status": "verified",
       "url": "https://www.sc.edu/about/offices_and_divisions/bursar/tuition_and_required_fees/"
+    },
+    {
+      "publisher": "The Ohio State University Institutional Research and Planning",
+      "referenceYear": 2024,
+      "scope": [
+        "columbus_first_time_first_year_applicants",
+        "columbus_first_time_first_year_admits"
+      ],
+      "sourceId": "official-osu-columbus-cds-2024-25",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://irp.osu.edu/sites/default/files/documents/2025/11/CDS-2024-2025-The-Ohio-State-University-Columbus.pdf"
     }
   ]
 }
