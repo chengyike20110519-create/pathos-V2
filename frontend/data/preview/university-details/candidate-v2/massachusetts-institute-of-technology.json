@@ -149,541 +149,670 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cognitive Science, General",
-      "listType": "areas_of_study",
-      "name": "Cognitive Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Aerospace, Aeronautical, and Astronautical/Space Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Aerospace, Aeronautical, and Astronautical/Space Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics and Computer Science",
-      "listType": "areas_of_study",
-      "name": "Economics and Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Sciences and Quantitative Methods, Other",
-      "listType": "areas_of_study",
-      "name": "Management Sciences and Quantitative Methods, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Computer Science",
-      "listType": "areas_of_study",
-      "name": "Mathematics and Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Materials Engineering",
-      "listType": "areas_of_study",
-      "name": "Materials Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computational Biology",
-      "listType": "areas_of_study",
-      "name": "Computational Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Financial Mathematics",
-      "listType": "areas_of_study",
-      "name": "Financial Mathematics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Science",
-      "listType": "areas_of_study",
-      "name": "Management Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical and Biomolecular Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical and Biomolecular Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Liberal Arts and Sciences/Liberal Studies",
-      "listType": "areas_of_study",
-      "name": "Liberal Arts and Sciences/Liberal Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architecture",
-      "listType": "areas_of_study",
+      "displayName": "Architecture (Course 4)",
+      "listType": "official_undergraduate_degree_chart",
       "name": "Architecture",
+      "courseCode": "Course 4",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-1"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "City/Urban, Community, and Regional Planning",
-      "listType": "areas_of_study",
-      "name": "City/Urban, Community, and Regional Planning",
+      "displayName": "Art and Design (Course 4-B)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Art and Design",
+      "courseCode": "Course 4-B",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-2"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Nuclear Engineering",
-      "listType": "areas_of_study",
-      "name": "Nuclear Engineering",
+      "displayName": "Planning (Course 11)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Planning",
+      "courseCode": "Course 11",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-3"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Environmental Health Engineering",
-      "listType": "areas_of_study",
-      "name": "Environmental/Environmental Health Engineering",
+      "displayName": "Aerospace Engineering (Course 16)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Aerospace Engineering",
+      "courseCode": "Course 16",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-4"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
+      "displayName": "Archaeology and Materials as Recommended by the Department of Materials Science and Engineering (Course 3-C)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Archaeology and Materials as Recommended by the Department of Materials Science and Engineering",
+      "courseCode": "Course 3-C",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-5"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mass Communication/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Mass Communication/Media Studies",
+      "displayName": "Artificial Intelligence and Decision Making (Course 6-4)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Artificial Intelligence and Decision Making",
+      "courseCode": "Course 6-4",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-6"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
+      "displayName": "Biological Engineering (Course 20)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Biological Engineering",
+      "courseCode": "Course 20",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-7"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemical-Biological Engineering (Course 10-B)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Chemical-Biological Engineering",
+      "courseCode": "Course 10-B",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-8"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemical Engineering (Course 10)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Chemical Engineering",
+      "courseCode": "Course 10",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-9"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemical Engineering as Recommended by the Department of Chemical Engineering (Course 10-C)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Chemical Engineering as Recommended by the Department of Chemical Engineering",
+      "courseCode": "Course 10-C",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-10"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Science and Engineering (Course 6-3)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Computer Science and Engineering",
+      "courseCode": "Course 6-3",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-11"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Electrical Engineering with Computing (Course 6-5)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Electrical Engineering with Computing",
+      "courseCode": "Course 6-5",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-12"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering (Course 1-ENG)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Engineering",
+      "courseCode": "Course 1-ENG",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-13"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering (Course 2-A)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Engineering",
+      "courseCode": "Course 2-A",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-14"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering (Course 10-ENG)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Engineering",
+      "courseCode": "Course 10-ENG",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-15"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering (Course 16-ENG)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Engineering",
+      "courseCode": "Course 16-ENG",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-16"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering (Course 22-ENG)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Engineering",
+      "courseCode": "Course 22-ENG",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-17"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Materials Science and Engineering (Course 3)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Materials Science and Engineering",
+      "courseCode": "Course 3",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-18"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Materials Science and Engineering (Course 3-A)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Materials Science and Engineering",
+      "courseCode": "Course 3-A",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-19"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mechanical and Ocean Engineering (Course 2-OE)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Mechanical and Ocean Engineering",
+      "courseCode": "Course 2-OE",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-20"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mechanical Engineering (Course 2)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Mechanical Engineering",
+      "courseCode": "Course 2",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-21"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Nuclear Science and Engineering (Course 22)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Nuclear Science and Engineering",
+      "courseCode": "Course 22",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-22"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Anthropology (Course 21A)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Anthropology",
+      "courseCode": "Course 21A",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-23"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Comparative Media Studies (CMS)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Comparative Media Studies",
+      "courseCode": "CMS",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-24"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Economics (Course 14-1)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Economics",
+      "courseCode": "Course 14-1",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-25"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Global Studies and Languages (Course 21G)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Global Studies and Languages",
+      "courseCode": "Course 21G",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-26"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History (Course 21H)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "History",
+      "courseCode": "Course 21H",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-27"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Humanities (Course 21)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Humanities",
+      "courseCode": "Course 21",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-28"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Humanities and Engineering (Course 21E)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Humanities and Engineering",
+      "courseCode": "Course 21E",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-29"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Humanities and Science (Course 21S)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Humanities and Science",
+      "courseCode": "Course 21S",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-30"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Linguistics and Philosophy (Course 24-2)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Linguistics and Philosophy",
+      "courseCode": "Course 24-2",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-31"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Literature (Course 21L)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Literature",
+      "courseCode": "Course 21L",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-32"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematical Economics (Course 14-2)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Mathematical Economics",
+      "courseCode": "Course 14-2",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-33"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music (Course 21M)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Music",
+      "courseCode": "Course 21M",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-34"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy (Course 24-1)",
+      "listType": "official_undergraduate_degree_chart",
       "name": "Philosophy",
+      "courseCode": "Course 24-1",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-35"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Artificial Intelligence",
-      "listType": "areas_of_study",
-      "name": "Artificial Intelligence",
+      "displayName": "Political Science (Course 17)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Political Science",
+      "courseCode": "Course 17",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-36"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
+      "displayName": "Science, Technology, and Society (STS)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Science, Technology, and Society",
+      "courseCode": "STS",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-37"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
+      "displayName": "Theater Arts (Course 21T)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Theater Arts",
+      "courseCode": "Course 21T",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-38"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
+      "displayName": "Writing (Course 21W)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Writing",
+      "courseCode": "Course 21W",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-39"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Creative Writing",
-      "listType": "areas_of_study",
-      "name": "Creative Writing",
+      "displayName": "Business Analytics (Course 15-2)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Business Analytics",
+      "courseCode": "Course 15-2",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-40"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
+      "displayName": "Finance (Course 15-3)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Finance",
+      "courseCode": "Course 15-3",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-41"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
+      "displayName": "Management (Course 15-1)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Management",
+      "courseCode": "Course 15-1",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-42"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Foreign Languages and Literatures, General",
-      "listType": "areas_of_study",
-      "name": "Foreign Languages and Literatures, General",
+      "displayName": "Biology (Course 7)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Biology",
+      "courseCode": "Course 7",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-43"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Science, Technology and Society",
-      "listType": "areas_of_study",
-      "name": "Science, Technology and Society",
+      "displayName": "Brain and Cognitive Sciences (Course 9)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Brain and Cognitive Sciences",
+      "courseCode": "Course 9",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-44"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
+      "displayName": "Chemistry (Course 5)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Chemistry",
+      "courseCode": "Course 5",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-45"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
+      "displayName": "Earth, Atmospheric, and Planetary Sciences (Course 12)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Earth, Atmospheric, and Planetary Sciences",
+      "courseCode": "Course 12",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-ab57cc69ad90a7721203e50d"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-46"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics (Course 18)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Mathematics",
+      "courseCode": "Course 18",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-47"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics with Computer Science (Course 18-C)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Mathematics with Computer Science",
+      "courseCode": "Course 18-C",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-48"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics (Course 8)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Physics",
+      "courseCode": "Course 8",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-49"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemistry and Biology (Course 5-7)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Chemistry and Biology",
+      "courseCode": "Course 5-7",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-50"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Climate System Science and Engineering (Course 1-12)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Climate System Science and Engineering",
+      "courseCode": "Course 1-12",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-51"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computation and Cognition (Course 6-9)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Computation and Cognition",
+      "courseCode": "Course 6-9",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-52"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Science and Molecular Biology (Course 6-7)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Computer Science and Molecular Biology",
+      "courseCode": "Course 6-7",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-53"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Science, Economics, and Data Science (Course 6-14)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Computer Science, Economics, and Data Science",
+      "courseCode": "Course 6-14",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-54"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Urban Science and Planning with Computer Science (Course 11-6)",
+      "listType": "official_undergraduate_degree_chart",
+      "name": "Urban Science and Planning with Computer Science",
+      "courseCode": "Course 11-6",
+      "sourceIds": [
+        "official-source-ab57cc69ad90a7721203e50d"
+      ],
+      "status": "verified",
+      "id": "mit-official-undergraduate-program-55"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_degree_charts",
+    "referenceYear": 2026,
+    "scope": "MIT official undergraduate Degree Charts; graduate degrees and minors excluded; course-specific degree paths preserved"
   },
   "anecdotes": [
     {
@@ -701,8 +830,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$60,156",
-    "maximumUsd": 60156.0,
-    "minimumUsd": 60156.0,
+    "maximumUsd": 60156,
+    "minimumUsd": 60156,
     "scopes": [
       "private_single_rate"
     ],
@@ -943,7 +1072,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 60156.0,
+      "amountUsd": 60156,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -956,7 +1085,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "MA",
-  "studentFacultyRatio": 3.0,
+  "studentFacultyRatio": 3,
   "topPrograms": [
     "Computer Science",
     "Mechanical Engineering",

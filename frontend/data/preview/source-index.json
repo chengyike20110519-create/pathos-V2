@@ -3957,6 +3957,20 @@
       "sourceType": "official_undergraduate_catalog",
       "status": "verified",
       "url": "https://ua.princeton.edu/fields-study"
+    },
+    {
+      "universityId": "candidate-v2:massachusetts-institute-of-technology",
+      "publisher": "MIT Course Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degree charts",
+        "SB degree programs",
+        "graduate degrees and minors excluded"
+      ],
+      "sourceId": "official-source-ab57cc69ad90a7721203e50d",
+      "sourceType": "official_undergraduate_degree_charts",
+      "status": "verified",
+      "url": "https://catalog.mit.edu/degree-charts/"
     }
   ]
 }
