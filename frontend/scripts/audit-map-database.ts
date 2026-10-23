@@ -11,7 +11,11 @@ async function main() {
     const rows = await client.query(`
       SELECT u.id,u.name,u.latitude,u.longitude,
         jsonb_array_length(COALESCE(d.payload->'allMajors','[]'::jsonb))::int AS majors,
-        jsonb_array_length(COALESCE(d.payload->'sources','[]'::jsonb))::int AS sources
+        (
+          COALESCE(jsonb_array_length(d.payload->'allMajors'), 0)
+          + COALESCE(jsonb_array_length(d.payload->'programs'), 0)
+          + COALESCE(jsonb_array_length(d.payload->'topPrograms'), 0)
+        )::int AS sourced_sections
       FROM universities u LEFT JOIN university_details d ON d.university_id=u.id
       ORDER BY u.name
     `);
@@ -19,7 +23,7 @@ async function main() {
     const summary = {
       checkedAt: new Date().toISOString(), total: rows.rows.length, passed: rows.rows.length - failures.length, failed: failures.length,
       totalMajors: rows.rows.reduce((sum, row) => sum + (row.majors ?? 0), 0),
-      schoolsWithSources: rows.rows.filter((row) => (row.sources ?? 0) > 0).length,
+      schoolsWithProgramSections: rows.rows.filter((row) => (row.sourced_sections ?? 0) > 0).length,
       invalidCoordinates: rows.rows.filter((row) => row.latitude === null || row.longitude === null).length,
       failures,
     };

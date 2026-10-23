@@ -10,8 +10,16 @@ async function main() {
   try {
     const websites = await client.query(`
       SELECT COUNT(*)::int AS schools,
-        COUNT(*) FILTER (WHERE jsonb_path_exists(d.payload, '$.sources[*] ? (@.url like_regex "^https?://")'))::int AS with_official_source,
-        COUNT(*) FILTER (WHERE NOT jsonb_path_exists(d.payload, '$.sources[*] ? (@.url like_regex "^https?://")'))::int AS missing_official_source
+        COUNT(*) FILTER (WHERE
+          jsonb_path_exists(d.payload, '$.allMajors[*].sourceIds[*]') OR
+          jsonb_path_exists(d.payload, '$.programs[*].sourceIds[*]') OR
+          jsonb_path_exists(d.payload, '$.topPrograms[*].sourceIds[*]')
+        )::int AS with_official_source,
+        COUNT(*) FILTER (WHERE NOT (
+          jsonb_path_exists(d.payload, '$.allMajors[*].sourceIds[*]') OR
+          jsonb_path_exists(d.payload, '$.programs[*].sourceIds[*]') OR
+          jsonb_path_exists(d.payload, '$.topPrograms[*].sourceIds[*]')
+        ))::int AS missing_official_source
       FROM universities u JOIN university_details d ON d.university_id=u.id
     `);
     const spotlights = await client.query(`
@@ -29,7 +37,11 @@ async function main() {
         EXISTS (
           SELECT 1 FROM university_details d
           WHERE d.university_id=u.id
-            AND jsonb_path_exists(d.payload, '$.sources[*] ? (@.url like_regex "^https?://")')
+            AND (
+              jsonb_path_exists(d.payload, '$.allMajors[*].sourceIds[*]') OR
+              jsonb_path_exists(d.payload, '$.programs[*].sourceIds[*]') OR
+              jsonb_path_exists(d.payload, '$.topPrograms[*].sourceIds[*]')
+            )
         ) AS has_official_source,
         EXISTS (
           SELECT 1 FROM college_guides g

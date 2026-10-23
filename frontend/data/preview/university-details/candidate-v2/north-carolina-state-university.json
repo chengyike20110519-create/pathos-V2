@@ -68,11 +68,3000 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agribusiness Management (AAS)",
+      "listType": "official_undergraduate_major",
+      "name": "Agribusiness Management (AAS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Business Management (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Business Management (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Business Management (BS): Biological Sciences Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Business Management (BS): Biological Sciences Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agribusiness Management (AAS)",
+      "listType": "official_undergraduate_major",
+      "name": "Agribusiness Management (AAS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Business Management (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Business Management (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Business Management (BS): Biological Sciences Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Business Management (BS): Biological Sciences Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Education (BS): Agricultural Business Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Education (BS): Agricultural Business Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Education (BS): Agricultural Engineering Technology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Education (BS): Agricultural Engineering Technology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Education (BS): Agronomy Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Education (BS): Agronomy Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Education (BS): Animal Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Education (BS): Animal Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Education (BS): Horticultural Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Education (BS): Horticultural Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Education (BS): Natural Resources Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Education (BS): Natural Resources Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Education (BS): Poultry Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Education (BS): Poultry Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Science (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Science (BS): Online",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Science (BS): Online",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agroecology & Sustainable Food Systems (BS): Agroecology Research & Production Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agroecology & Sustainable Food Systems (BS): Agroecology Research & Production Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agroecology & Sustainable Food Systems (BS): Community Food Systems Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agroecology & Sustainable Food Systems (BS): Community Food Systems Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agroecology & Sustainable Food Systems (BS): Urban Horticulture Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Agroecology & Sustainable Food Systems (BS): Urban Horticulture Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Science (BS): Industry Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Animal Science (BS): Industry Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Science (BS): Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Animal Science (BS): Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Science (BS): Veterinary Bioscience Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Animal Science (BS): Veterinary Bioscience Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology (BA): General Anthropology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology (BA): General Anthropology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Education Studies (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Education Studies (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Education Studies (BS): Learning Design and Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Education Studies (BS): Learning Design and Technology",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics (BS): Financial Mathematics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics (BS): Financial Mathematics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics (BS): Mathematical Foundations of Data Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics (BS): Mathematical Foundations of Data Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture (Bachelor): One-Year Professional Degree",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture (Bachelor): One-Year Professional Degree",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arts Studies (BA): Film Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Arts Studies (BA): Film Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arts Studies (BA): Music Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Arts Studies (BA): Music Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arts Studies (BA): Theater Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Arts Studies (BA): Theater Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arts Studies (BA): Visual Arts Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Arts Studies (BA): Visual Arts Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological and Agricultural Engineering Technology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological and Agricultural Engineering Technology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological and Agricultural Engineering Technology (BS): Agricultural Systems Management Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological and Agricultural Engineering Technology (BS): Agricultural Systems Management Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological and Agricultural Engineering Technology (BS): Environmental Systems Management Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological and Agricultural Engineering Technology (BS): Environmental Systems Management Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Engineering (BS): Agricultural Engineering Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Engineering (BS): Agricultural Engineering Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Engineering (BS): Bioprocessing Engineering Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Engineering (BS): Bioprocessing Engineering Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Engineering (BS): Ecological Engineering Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Engineering (BS): Ecological Engineering Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Engineering (BS): Environmental Engineering Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Engineering (BS): Environmental Engineering Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BS): Ecology, Evolution and Conservation Biology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BS): Ecology, Evolution and Conservation Biology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BS): Human Biology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BS): Human Biology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BS): Integrative Physiology and Neurobiology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BS): Integrative Physiology and Neurobiology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BS): Molecular, Cellular, and Developmental Biology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BS): Molecular, Cellular, and Developmental Biology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological, Agricultural, and Ecological Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological, Agricultural, and Ecological Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Bioprocessing Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Bioprocessing Science (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS): Business Analytics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS): Business Analytics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS): Entrepreneurship Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS): Entrepreneurship Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS): Finance Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS): Finance Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS): Information Technology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS): Information Technology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS): Marketing Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS): Marketing Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS): Operations/Supply Chain Management",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS): Operations/Supply Chain Management",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS): People Management Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS): People Management Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (BS): Undeclared",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (BS): Undeclared",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering (BS): Biomanufacturing Sciences Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering (BS): Biomanufacturing Sciences Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering (BS): Biomolecular Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering (BS): Biomolecular Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering (BS): CHE/TE Dual Major",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering (BS): CHE/TE Dual Major",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering (BS): Honors Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering (BS): Honors Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering (BS): Nanoscience Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering (BS): Nanoscience Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering (BS): Sustainable Engineering, Energy, and the Environment",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering (BS): Sustainable Engineering, Energy, and the Environment",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering (BS): Artificial Intelligence and Machine Learning Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering (BS): Artificial Intelligence and Machine Learning Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering (BS): Computer Architecture and Emerging Systems Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering (BS): Computer Architecture and Emerging Systems Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering (BS): Computer Systems Software Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering (BS): Computer Systems Software Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering (BS): Embedded Systems Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering (BS): Embedded Systems Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering (BS): Networking Hardware Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering (BS): Networking Hardware Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering (BS): Networking Software Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering (BS): Networking Software Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BS): Artificial Intelligence Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BS): Artificial Intelligence Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BS): Cybersecurity Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BS): Cybersecurity Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BS): Game Development Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BS): Game Development Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Construction Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Construction Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminology (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Crop and Soil Sciences (BS): Agronomy",
+      "listType": "official_undergraduate_major",
+      "name": "Crop and Soil Sciences (BS): Agronomy",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Crop and Soil Sciences (BS): Crop Biotechnology",
+      "listType": "official_undergraduate_major",
+      "name": "Crop and Soil Sciences (BS): Crop Biotechnology",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Crop and Soil Sciences (BS): Soil Science",
+      "listType": "official_undergraduate_major",
+      "name": "Crop and Soil Sciences (BS): Soil Science",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Crop and Soil Sciences (BS): Turfgrass Science",
+      "listType": "official_undergraduate_major",
+      "name": "Crop and Soil Sciences (BS): Turfgrass Science",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Design Studies (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design Studies (BA): Business Administration Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Design Studies (BA): Business Administration Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design Studies (BA): Nonprofit Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Design Studies (BA): Nonprofit Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BA): Business Analytics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BA): Business Analytics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BA): Finance Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BA): Finance Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BS): Business Analytics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BS): Business Analytics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BS): Finance Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BS): Finance Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Analog Circuits Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Analog Circuits Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Artificial Intelligence and Machine Learning Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Artificial Intelligence and Machine Learning Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Biomedical Instrumentation Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Biomedical Instrumentation Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Communications and Signal Processing Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Communications and Signal Processing Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Controls and Robotics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Controls and Robotics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Digital Circuits Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Digital Circuits Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Electronic Devices Concentrations",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Electronic Devices Concentrations",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Music Technology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Music Technology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Optics and Photonics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Optics and Photonics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Power Systems Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Power Systems Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Radio Frequency Circuits Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Radio Frequency Circuits Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS): Renewable Electric Energy Systems Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering (BS): Renewable Electric Energy Systems Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Elementary Education (BS): Science, Technology, Engineering, and Mathematics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary Education (BS): Science, Technology, Engineering, and Mathematics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (BS): Electrical Engineering Systems Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (BS): Electrical Engineering Systems Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (BS): Mechanical Engineering Systems Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (BS): Mechanical Engineering Systems Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (BS): Mechatronics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (BS): Mechatronics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA): Creative Writing Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA): Creative Writing Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA): Film Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA): Film Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA): Linguistics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA): Linguistics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA): Literature Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA): Literature Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA): Rhetoric and Professional Writing Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA): Rhetoric and Professional Writing Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA): Teacher Education Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA): Teacher Education Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Design in Architecture (Bachelor)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Design in Architecture (Bachelor)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Sciences (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Sciences (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Technology and Management (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Technology and Management (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion and Textile Design (BS): Fashion Design Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion and Textile Design (BS): Fashion Design Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion and Textile Design (BS): Textile Design Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion and Textile Design (BS): Textile Design Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion and Textile Management (BS): Brand Management and Marketing Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion and Textile Management (BS): Brand Management and Marketing Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion and Textile Management (BS): Fashion Development and Product Management Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion and Textile Management (BS): Fashion Development and Product Management Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Field Crops Technology (AAS)",
+      "listType": "official_undergraduate_major",
+      "name": "Field Crops Technology (AAS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fisheries, Wildlife, and Conservation Biology (BS): Conservation Biology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Fisheries, Wildlife, and Conservation Biology (BS): Conservation Biology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fisheries, Wildlife, and Conservation Biology (BS): Fisheries Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Fisheries, Wildlife, and Conservation Biology (BS): Fisheries Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fisheries, Wildlife, and Conservation Biology (BS): Wildlife Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Fisheries, Wildlife, and Conservation Biology (BS): Wildlife Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Food Science (BS): Business & Technology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Food Science (BS): Business & Technology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Food Science (BS): Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Food Science (BS): Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Forest Management (BS): Ecology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Forest Management (BS): Ecology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Forest Management (BS): Production Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Forest Management (BS): Production Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "General Agriculture (AAS)",
+      "listType": "official_undergraduate_major",
+      "name": "General Agriculture (AAS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Genetics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Genetics (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Geology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Graphic & Experience Design (Bachelor)",
+      "listType": "official_undergraduate_major",
+      "name": "Graphic & Experience Design (Bachelor)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "History (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History (BA): Legal History Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "History (BA): Legal History Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History (BA): Teacher Education Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "History (BA): Teacher Education Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "History (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Horticultural Science (BS): Landscape Design, Construction, and Management Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Horticultural Science (BS): Landscape Design, Construction, and Management Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Horticultural Science (BS): Plant Breeding and Biotechnology in Horticulture Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Horticultural Science (BS): Plant Breeding and Biotechnology in Horticulture Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Horticultural Science (BS): Production Systems and Entrepreneurship in Horticulture Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Horticultural Science (BS): Production Systems and Entrepreneurship in Horticulture Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Horticultural Science Management (AAS): Ornamentals and Landscape Technology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Horticultural Science Management (AAS): Ornamentals and Landscape Technology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Horticultural Science Management (AAS): Small Scale Farming Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Horticultural Science Management (AAS): Small Scale Farming Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Design (Bachelor)",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Design (Bachelor)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Studies (BA): Africana Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Studies (BA): Africana Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Studies (BA): Self Design Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Studies (BA): Self Design Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Studies (BA): Women's, Gender and Sexuality Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Studies (BA): Women's, Gender and Sexuality Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Studies (BS): Self Design Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Studies (BS): Self Design Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Studies (BS): Women’s, Gender and Sexuality Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Studies (BS): Women’s, Gender and Sexuality Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA): Africa and the African Diaspora Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA): Africa and the African Diaspora Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA): East and Southeast Asia Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA): East and Southeast Asia Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA): Europe Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA): Europe Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA): Global Cultural Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA): Global Cultural Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA): Global Relations Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA): Global Relations Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA): Global Sustainability and Development Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA): Global Sustainability and Development Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA): Latin America Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA): Latin America Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA): South Asia and Middle East Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA): South Asia and Middle East Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Leadership in the Public Sector (BA): Distance Education",
+      "listType": "official_undergraduate_major",
+      "name": "Leadership in the Public Sector (BA): Distance Education",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Livestock and Poultry Management (AAS)",
+      "listType": "official_undergraduate_major",
+      "name": "Livestock and Poultry Management (AAS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Sciences (BS): Biological Oceanography Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Sciences (BS): Biological Oceanography Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Sciences (BS): Chemistry Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Sciences (BS): Chemistry Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Sciences (BS): Geology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Sciences (BS): Geology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Sciences (BS): Meteorology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Sciences (BS): Meteorology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Sciences (BS): Physics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Sciences (BS): Physics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science and Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Science and Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science and Engineering (BS): Biomaterials Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Science and Engineering (BS): Biomaterials Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science and Engineering (BS): Nanomaterials Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Science and Engineering (BS): Nanomaterials Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Education (BS) and Mathematics (BS) (Double Major)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Education (BS) and Mathematics (BS) (Double Major)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Education (BS) and Statistics (BS) (Double Major)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Education (BS) and Statistics (BS) (Double Major)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Education (BS): Computer Specialization",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Education (BS): Computer Specialization",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Education (BS): Mathematics Specialization",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Education (BS): Mathematics Specialization",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Education (BS): Middle Grades Mathematics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Education (BS): Middle Grades Mathematics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Education (BS): Statistics Specialization",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Education (BS): Statistics Specialization",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Media Arts, Design and Technology (Bachelor)",
+      "listType": "official_undergraduate_major",
+      "name": "Media Arts, Design and Technology (Bachelor)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Meteorology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Meteorology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Meteorology (BS): Marine Sciences Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Meteorology (BS): Marine Sciences Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Microbiology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Microbiology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Microbiology (BS): Microbial Biotechnology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Microbiology (BS): Microbial Biotechnology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Microbiology (BS): Microbial Health Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Microbiology (BS): Microbial Health Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Microbiology (BS): Microbial Research Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Microbiology (BS): Microbial Research Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Middle Grades Education (BS): English Language Arts and Social Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Middle Grades Education (BS): English Language Arts and Social Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Middle Grades Education (BS): Mathematics and Sciences Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Middle Grades Education (BS): Mathematics and Sciences Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Technology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Technology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Natural Resources (BS): Ecosystem Assessment Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Natural Resources (BS): Ecosystem Assessment Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Natural Resources (BS): Marine and Coastal Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Natural Resources (BS): Marine and Coastal Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Natural Resources (BS): Policy and Administration Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Natural Resources (BS): Policy and Administration Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Natural Resources (BS): Soil, Water and Land Use Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Natural Resources (BS): Soil, Water and Land Use Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nuclear Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Nuclear Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nuclear Engineering (BS): Nuclear Fuels and Materials",
+      "listType": "official_undergraduate_major",
+      "name": "Nuclear Engineering (BS): Nuclear Fuels and Materials",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nuclear Engineering (BS): Plasma Sciences and Fusion Energy",
+      "listType": "official_undergraduate_major",
+      "name": "Nuclear Engineering (BS): Plasma Sciences and Fusion Energy",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nuclear Engineering (BS): Radiological Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Nuclear Engineering (BS): Radiological Engineering",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition Sciences (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition Sciences (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition Sciences (BS): Applied Nutrition Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition Sciences (BS): Applied Nutrition Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Paper Science and Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Paper Science and Engineering (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Paper Science and Engineering (BS): Dual Major",
+      "listType": "official_undergraduate_major",
+      "name": "Paper Science and Engineering (BS): Dual Major",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Paper Science and Engineering (BS): Sustainable Packaging Production",
+      "listType": "official_undergraduate_major",
+      "name": "Paper Science and Engineering (BS): Sustainable Packaging Production",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Parks, Recreation and Tourism Management (BS): Recreation and Park Management Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Parks, Recreation and Tourism Management (BS): Recreation and Park Management Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Parks, Recreation, and Tourism Management (BS): Tourism and Event Management Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Parks, Recreation, and Tourism Management (BS): Tourism and Event Management Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BA): Ethics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy (BA): Ethics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BA): Philosophy and Law Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy (BA): Philosophy and Law Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BS): Logic, Representation and Reasoning Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy (BS): Logic, Representation and Reasoning Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BS): Interdisciplinary Physics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BS): Interdisciplinary Physics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Plant Biology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Plant Biology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science (BA): American Politics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science (BA): American Politics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science (BA): International Politics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science (BA): International Politics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science (BA): Law and Justice Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science (BA): Law and Justice Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science (BA): Public Policy Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science (BA): Public Policy Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Polymer and Color Chemistry (BS): ACS Certification Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Polymer and Color Chemistry (BS): ACS Certification Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Polymer and Color Chemistry (BS): Medical Sciences Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Polymer and Color Chemistry (BS): Medical Sciences Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Polymer and Color Chemistry (BS): Science and Operations Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Polymer and Color Chemistry (BS): Science and Operations Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Poultry Science (BS): Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Poultry Science (BS): Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Poultry Science (BS): Technology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Poultry Science (BS): Technology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (BA): General Psychology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology (BA): General Psychology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Religious Studies (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science Education (BS): Biology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Science Education (BS): Biology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science Education (BS): Chemistry Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Science Education (BS): Chemistry Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science Education (BS): Earth Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Science Education (BS): Earth Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science Education (BS): Middle Grades Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Science Education (BS): Middle Grades Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science Education (BS): Physics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Science Education (BS): Physics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science, Technology and Society (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Science, Technology and Society (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science, Technology and Society (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Science, Technology and Society (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Work (Bachelor)",
+      "listType": "official_undergraduate_major",
+      "name": "Social Work (Bachelor)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology (BA)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Management (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Management (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Management (BS): Professional Golf Management Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Management (BS): Professional Golf Management Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics (BS): Data Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics (BS): Data Science Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sustainable Materials and Technology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Sustainable Materials and Technology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sustainable Materials and Technology (BS): SMT Wood Products Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Sustainable Materials and Technology (BS): SMT Wood Products Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sustainable Materials and Technology (BS): Sustainable Packaging Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Sustainable Materials and Technology (BS): Sustainable Packaging Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Technology, Engineering and Design Education (BS): Graphic Communication Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Technology, Engineering and Design Education (BS): Graphic Communication Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Technology, Engineering and Design Education (BS): Licensure Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Technology, Engineering and Design Education (BS): Licensure Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textile Engineering (BS): Chemical Processing Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Textile Engineering (BS): Chemical Processing Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textile Engineering (BS): Information Systems Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Textile Engineering (BS): Information Systems Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textile Engineering (BS): Product Engineering Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Textile Engineering (BS): Product Engineering Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textile Technology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Textile Technology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textile Technology (BS): Medical Textiles Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Textile Technology (BS): Medical Textiles Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textile Technology (BS): Supply Chain Operations Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Textile Technology (BS): Supply Chain Operations Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textile Technology (BS): Technical Textiles Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Textile Technology (BS): Technical Textiles Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Turfgrass Management (AAS)",
+      "listType": "official_undergraduate_major",
+      "name": "Turfgrass Management (AAS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): Arabic Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): Arabic Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): Asian Language Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): Asian Language Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): Chinese Education Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): Chinese Education Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): French Education Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): French Education Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): French Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): French Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): German Education Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): German Education Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): German Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): German Studies Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): German Studies International Economics Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): German Studies International Economics Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): German Studies Science and Technology Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): German Studies Science and Technology Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): Spanish Education Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): Spanish Education Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages and Cultures (BA): Spanish Language and Literature Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages and Cultures (BA): Spanish Language and Literature Concentration",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Zoology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Zoology (BS)",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Zoology (BS): Applied Zoology",
+      "listType": "official_undergraduate_major",
+      "name": "Zoology (BS): Applied Zoology",
+      "sourceIds": [
+        "official-source-876d132f0409945ba91a449e"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-876d132f0409945ba91a449e"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {

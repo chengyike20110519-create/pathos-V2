@@ -68,11 +68,778 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Africana Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Africana Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics & Statistics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics & Statistics",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History & Criticism",
+      "listType": "official_undergraduate_major",
+      "name": "Art History & Criticism",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Africana Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Africana Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics & Statistics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics & Statistics",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History & Criticism",
+      "listType": "official_undergraduate_major",
+      "name": "Art History & Criticism",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art, Studio",
+      "listType": "official_undergraduate_major",
+      "name": "Art, Studio",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian & Asian American Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Asian & Asian American Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy/Planetary Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy/Planetary Sciences",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Atmospheric and Oceanic Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Atmospheric and Oceanic Sciences",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Biology",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Management",
+      "listType": "official_undergraduate_major",
+      "name": "Business Management",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical & Molecular Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical & Molecular Engineering",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Climate Science",
+      "listType": "official_undergraduate_major",
+      "name": "Climate Science",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Clinical Laboratory Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Clinical Laboratory Sciences",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Coastal Environmental Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Coastal Environmental Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication",
+      "listType": "official_undergraduate_major",
+      "name": "Communication",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Creative Writing",
+      "listType": "official_undergraduate_major",
+      "name": "Creative Writing",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth & Space Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Earth & Space Sciences",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education (Teacher Certification)",
+      "listType": "official_undergraduate_major",
+      "name": "Education (Teacher Certification)",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering Chemistry",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering Science",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering Science",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English",
+      "listType": "official_undergraduate_major",
+      "name": "English",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Design, Policy & Planning",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Design, Policy & Planning",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French Language and Literature",
+      "listType": "official_undergraduate_major",
+      "name": "French Language and Literature",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology",
+      "listType": "official_undergraduate_major",
+      "name": "Geology",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Globalization Studies & International Relations",
+      "listType": "official_undergraduate_major",
+      "name": "Globalization Studies & International Relations",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Science",
+      "listType": "official_undergraduate_major",
+      "name": "Health Science",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History",
+      "listType": "official_undergraduate_major",
+      "name": "History",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Evolutionary Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Human Evolutionary Biology",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Systems",
+      "listType": "official_undergraduate_major",
+      "name": "Information Systems",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Italian Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics",
+      "listType": "official_undergraduate_major",
+      "name": "Linguistics",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Sciences",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine Vertebrate Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Marine Vertebrate Biology",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mass Communication",
+      "listType": "official_undergraduate_major",
+      "name": "Mass Communication",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Media/Art/Culture",
+      "listType": "official_undergraduate_major",
+      "name": "Media/Art/Culture",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Multidisciplinary Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Multidisciplinary Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music",
+      "listType": "official_undergraduate_major",
+      "name": "Music",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Physics",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Respiratory Care",
+      "listType": "official_undergraduate_major",
+      "name": "Respiratory Care",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rhetoric and Writing",
+      "listType": "official_undergraduate_major",
+      "name": "Rhetoric and Writing",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Work",
+      "listType": "official_undergraduate_major",
+      "name": "Social Work",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish Language and Literature",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish Language and Literature",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sustainability Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Sustainability Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Technological Systems Management",
+      "listType": "official_undergraduate_major",
+      "name": "Technological Systems Management",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Women's and Gender Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Women's and Gender Studies",
+      "sourceIds": [
+        "official-source-0a6d8871c44fd9025230c52e"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-0a6d8871c44fd9025230c52e"
+    ],
+    "warnings": [
+      "Official page lists undergraduate majors; degree title variants are preserved as displayed."
+    ]
   },
   "enrollment": {
     "undergraduate": {
