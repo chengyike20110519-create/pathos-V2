@@ -5321,6 +5321,17 @@
         "official undergraduate majors and co-majors"
       ],
       "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:johns-hopkins-university",
+      "universityName": "Johns Hopkins University",
+      "sourceUrl": "https://apply.jhu.edu/academics/majors-minors-programs/",
+      "publisher": "Johns Hopkins University Admissions",
+      "sourceType": "official_admissions_majors",
+      "scope": [
+        "official undergraduate majors explicitly labeled Major"
+      ],
+      "checkedOn": "2026-10-24"
     }
   ]
 }
