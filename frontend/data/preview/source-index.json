@@ -2658,6 +2658,20 @@
       "sourceType": "official_undergraduate_major_directory",
       "status": "verified",
       "url": "https://advising.uw.edu/degree-overview/majors/list-of-undergraduate-majors/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-miami",
+      "publisher": "University of Miami Academic Bulletin",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "strict Undergraduate + Major rows",
+        "2026-2027 bulletin"
+      ],
+      "sourceId": "official-source-462ba3ba8508a7dffe63deb7",
+      "sourceType": "official_program_index",
+      "status": "verified",
+      "url": "https://bulletin.miami.edu/program-index/"
     }
   ]
 }
