@@ -3971,6 +3971,20 @@
       "sourceType": "official_undergraduate_degree_charts",
       "status": "verified",
       "url": "https://catalog.mit.edu/degree-charts/"
+    },
+    {
+      "universityId": "candidate-v2:yale-university",
+      "publisher": "Yale University Yale College Programs of Study",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree types",
+        "minors excluded"
+      ],
+      "sourceId": "official-source-5993bfcb3588810b7f3d371e",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://catalog.yale.edu/ycps/majors-in-yale-college/"
     }
   ]
 }
