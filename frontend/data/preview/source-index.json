@@ -3439,6 +3439,18 @@
       "sourceType": "official_bulletin_programs",
       "status": "verified",
       "url": "https://students.tufts.edu/registrar/forms-and-policies/departments-and-programs"
+    },
+    {
+      "universityId": "candidate-v2:johns-hopkins-university",
+      "publisher": "Johns Hopkins University Admissions",
+      "referenceYear": 2026,
+      "scope": [
+        "official undergraduate majors explicitly labeled Major"
+      ],
+      "sourceId": "official-source-e0bfc4a6cbf5c0c9ee1c7834",
+      "sourceType": "official_admissions_majors",
+      "status": "verified",
+      "url": "https://apply.jhu.edu/academics/majors-minors-programs/"
     }
   ]
 }
