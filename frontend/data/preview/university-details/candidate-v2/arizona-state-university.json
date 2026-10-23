@@ -1825,6 +1825,45 @@
       "warnings": [
         "scope_asu_degree_search_keyword_page"
       ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering",
+      "sourceIds": [
+        "official-source-cdbf9129bdbe9feb28958c21"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_official_program_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-06b0752a4e89b8d2caf53c66"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_official_program_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering",
+      "sourceIds": [
+        "official-source-8d6be28c6c5706ccf37baf06"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_official_program_page"
+      ]
     }
   ],
   "allMajorsStatus": {
