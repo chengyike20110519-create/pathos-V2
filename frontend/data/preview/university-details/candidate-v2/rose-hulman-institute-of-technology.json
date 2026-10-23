@@ -149,307 +149,234 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
+      "displayName": "Artificial Intelligence",
+      "listType": "official_undergraduate_programs",
+      "name": "Artificial Intelligence",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-fe4fb73c8ebe873af47a22b1"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Software Engineering",
-      "listType": "areas_of_study",
-      "name": "Computer Software Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Laser and Optical Engineering",
-      "listType": "areas_of_study",
-      "name": "Laser and Optical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Molecular Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Molecular Biochemistry",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Data Science, General",
-      "listType": "areas_of_study",
-      "name": "Data Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer and Information Sciences, Other",
-      "listType": "areas_of_study",
-      "name": "Computer and Information Sciences, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Physics/Applied Physics",
-      "listType": "areas_of_study",
-      "name": "Engineering Physics/Applied Physics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Biochemistry",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_programs",
       "name": "Biochemistry",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-fe4fb73c8ebe873af47a22b1"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
+      "displayName": "Biochemistry and Molecular Biology (Second Major Only)",
+      "listType": "official_undergraduate_programs",
+      "name": "Biochemistry and Molecular Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-fe4fb73c8ebe873af47a22b1"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "availability": "second_major_only"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biomathematics, Bioinformatics, and Computational Biology, Other",
-      "listType": "areas_of_study",
-      "name": "Biomathematics, Bioinformatics, and Computational Biology, Other",
+      "displayName": "Biology",
+      "listType": "official_undergraduate_programs",
+      "name": "Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-fe4fb73c8ebe873af47a22b1"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
+      "displayName": "Biomathematics",
+      "listType": "official_undergraduate_programs",
+      "name": "Biomathematics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-fe4fb73c8ebe873af47a22b1"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computational Science",
-      "listType": "areas_of_study",
+      "displayName": "Biomedical Engineering",
+      "listType": "official_undergraduate_programs",
+      "name": "Biomedical Engineering",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemical Engineering",
+      "listType": "official_undergraduate_programs",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_programs",
+      "name": "Chemistry",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_programs",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computational Science (Second Major Only)",
+      "listType": "official_undergraduate_programs",
       "name": "Computational Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-fe4fb73c8ebe873af47a22b1"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "availability": "second_major_only"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_programs",
+      "name": "Computer Engineering",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_programs",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Data Science & Artificial Intelligence (Second Major Only)",
+      "listType": "official_undergraduate_programs",
+      "name": "Data Science & Artificial Intelligence",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified",
+      "availability": "second_major_only"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_programs",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering Design",
+      "listType": "official_undergraduate_programs",
+      "name": "Engineering Design",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "International Computer Science",
+      "listType": "official_undergraduate_programs",
+      "name": "International Computer Science",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "International Studies (Second Major Only)",
+      "listType": "official_undergraduate_programs",
+      "name": "International Studies",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified",
+      "availability": "second_major_only"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics",
+      "listType": "official_undergraduate_programs",
+      "name": "Mathematics",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_programs",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "NanoEngineering",
+      "listType": "official_undergraduate_programs",
+      "name": "NanoEngineering",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Optical Engineering",
+      "listType": "official_undergraduate_programs",
+      "name": "Optical Engineering",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics",
+      "listType": "official_undergraduate_programs",
+      "name": "Physics",
+      "sourceIds": [
+        "official-source-fe4fb73c8ebe873af47a22b1"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_programs",
+    "referenceYear": 2026,
+    "scope": "Rose-Hulman official undergraduate majors page; second-major-only restrictions preserved"
   },
   "anecdotes": [
     {
@@ -467,8 +394,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$54,174",
-    "maximumUsd": 54174.0,
-    "minimumUsd": 54174.0,
+    "maximumUsd": 54174,
+    "minimumUsd": 54174,
     "scopes": [
       "private_single_rate"
     ],
@@ -711,7 +638,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 54174.0,
+      "amountUsd": 54174,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -724,7 +651,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "IN",
-  "studentFacultyRatio": 11.0,
+  "studentFacultyRatio": 11,
   "topPrograms": [
     "Civil Engineering",
     "Electrical Engineering",
