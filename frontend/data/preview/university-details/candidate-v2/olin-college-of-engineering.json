@@ -146,10 +146,50 @@
   "aliases": [
     "Olin College"
   ],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering",
+      "sourceIds": [
+        "official-source-4dbe1568e5178db87d120e62"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical and Computer Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical and Computer Engineering",
+      "sourceIds": [
+        "official-source-4dbe1568e5178db87d120e62"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-4dbe1568e5178db87d120e62"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "nullReason": "identity_ipeds_match_not_resolved",
-    "status": "not_reported"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-4dbe1568e5178db87d120e62"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "anecdotes": [
     {
@@ -167,8 +207,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$61,802",
-    "maximumUsd": 61802.0,
-    "minimumUsd": 61802.0,
+    "maximumUsd": 61802,
+    "minimumUsd": 61802,
     "scopes": [
       "private_single_rate"
     ],
@@ -398,7 +438,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 61802.0,
+      "amountUsd": 61802,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -411,7 +451,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "MA",
-  "studentFacultyRatio": 9.0,
+  "studentFacultyRatio": 9,
   "topPrograms": [
     "Undergraduate Engineering Programs (No Doctorate)",
     "Mechanical Engineering",
