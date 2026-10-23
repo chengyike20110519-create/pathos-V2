@@ -3943,6 +3943,20 @@
       "sourceType": "official_undergraduate_options",
       "status": "verified",
       "url": "https://www.admissions.caltech.edu/why-caltech/academics/majors-minors"
+    },
+    {
+      "universityId": "candidate-v2:princeton-university",
+      "publisher": "Princeton University Undergraduate Announcement",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "A.B. and B.S.E. programs",
+        "minors excluded"
+      ],
+      "sourceId": "official-source-a345e9365d1347abaaa1ae12",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://ua.princeton.edu/fields-study"
     }
   ]
 }
