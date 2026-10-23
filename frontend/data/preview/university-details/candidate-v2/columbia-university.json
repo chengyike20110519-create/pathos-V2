@@ -1021,7 +1021,11 @@
     "Business",
     "Classics",
     "Cognitive Science",
-    "Biological Sciences"
+    "Biological Sciences",
+    "Chemical Physics",
+    "Environmental Chemistry",
+    "Classical Studies",
+    "Medical Humanities"
   ],
   "allMajorsStatus": {
     "status": "verified_official_catalog",
@@ -1033,7 +1037,7 @@
       "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
     ],
     "scope": "General Studies, Columbia Engineering, and selected Columbia College majors; remaining College departments pending",
-    "observedProgramCount": 105
+    "observedProgramCount": 109
   },
   "anecdotes": [
     {
@@ -1354,7 +1358,9 @@
       "displayName": "Chemical Physics",
       "listType": "official_undergraduate_major",
       "name": "Chemical Physics",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-f643b403c77b9e3bc9f3a333"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1613,7 +1619,9 @@
       "displayName": "Environmental Chemistry",
       "listType": "official_undergraduate_major",
       "name": "Environmental Chemistry",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-f643b403c77b9e3bc9f3a333"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1824,7 +1832,9 @@
       "displayName": "Medical Humanities",
       "listType": "official_undergraduate_major",
       "name": "Medical Humanities",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-0d47913bdf7b3ec8f7241524"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -2408,6 +2418,58 @@
       "name": "Biological Sciences",
       "sourceIds": [
         "official-source-254cb2917dca9a6ea10e1110"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Physics",
+      "sourceIds": [
+        "official-source-f643b403c77b9e3bc9f3a333"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Chemistry",
+      "sourceIds": [
+        "official-source-f643b403c77b9e3bc9f3a333"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Studies",
+      "sourceIds": [
+        "official-source-0b161cde0ba01c40d265b835"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medical Humanities",
+      "listType": "official_undergraduate_major",
+      "name": "Medical Humanities",
+      "sourceIds": [
+        "official-source-0d47913bdf7b3ec8f7241524"
       ],
       "status": "verified",
       "warnings": [
