@@ -551,11 +551,336 @@
       "warnings": [
         "scope_asu_degree_search_current_page_slice"
       ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Military and Veterans Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Military and Veterans Studies",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art (Art History)",
+      "listType": "official_undergraduate_major",
+      "name": "Art (Art History)",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art (Textiles)",
+      "listType": "official_undergraduate_major",
+      "name": "Art (Textiles)",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asia Studies (East Asia)",
+      "listType": "official_undergraduate_major",
+      "name": "Asia Studies (East Asia)",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Pacific American Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Pacific American Studies",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (Biology and Society)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (Biology and Society)",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civic and Economic Thought and Leadership",
+      "listType": "official_undergraduate_major",
+      "name": "Civic and Economic Thought and Leadership",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Counseling and Applied Psychological Science",
+      "listType": "official_undergraduate_major",
+      "name": "Counseling and Applied Psychological Science",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Counseling and Applied Psychological Science (Counseling Military Members and Veterans)",
+      "listType": "official_undergraduate_major",
+      "name": "Counseling and Applied Psychological Science (Counseling Military Members and Veterans)",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Educational Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Educational Studies",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Family and Human Development",
+      "listType": "official_undergraduate_major",
+      "name": "Family and Human Development",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Film (Filmmaking Practices)",
+      "listType": "official_undergraduate_major",
+      "name": "Film (Filmmaking Practices)",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Forensic Science",
+      "listType": "official_undergraduate_major",
+      "name": "Forensic Science",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Health Sciences",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Sciences (Healthy Lifestyles and Fitness Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Health Sciences (Healthy Lifestyles and Fitness Science)",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Systems Engineering (User Experience)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Systems Engineering (User Experience)",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medical Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Medical Studies",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Organizational Leadership",
+      "listType": "official_undergraduate_major",
+      "name": "Organizational Leadership",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Justice and Human Rights",
+      "listType": "official_undergraduate_major",
+      "name": "Social Justice and Human Rights",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social and Behavioral Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Social and Behavioral Sciences",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish",
+      "sourceIds": [
+        "official-source-70bc0589da4773d56007c5ce"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
     }
   ],
   "allMajorsStatus": {
     "status": "official_degree_search_observed_partial_scope",
-    "scope": "selected programs shown by ASU official Degree Search; ASU has 400+ undergraduate programs and remaining pages are pending extraction"
+    "scope": "selected programs shown by ASU official Degree Search keyword pages; ASU has 400+ undergraduate programs and remaining pages are pending extraction"
   },
   "anecdotes": [
     {
