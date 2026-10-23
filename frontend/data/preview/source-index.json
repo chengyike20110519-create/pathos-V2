@@ -742,13 +742,15 @@
       "url": "https://www.nd.edu/about/history/"
     },
     {
-      "publisher": "The Ohio State University",
-      "referenceYear": null,
+      "universityId": "candidate-v2:ohio-state-university",
+      "publisher": "The Ohio State University Undergraduate Admissions",
+      "referenceYear": 2026,
       "scope": [
-        "top_programs"
+        "undergraduate majors",
+        "major list by college or school"
       ],
-      "sourceId": "source_ohio_state_undergraduate_majors",
-      "sourceType": "official_institutional",
+      "sourceId": "official-source-eedb42c53338128a362031eb",
+      "sourceType": "official_undergraduate_major_directory",
       "status": "verified",
       "url": "https://undergrad.osu.edu/majors-and-academics/majors-by-college"
     },
