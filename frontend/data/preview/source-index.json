@@ -2367,15 +2367,14 @@
     },
     {
       "universityId": "candidate-v2:university-of-delaware",
-      "publisher": "University of Delaware",
+      "publisher": "University of Delaware Undergraduate Admissions",
       "referenceYear": 2026,
       "scope": [
-        "undergraduate majors",
-        "associate programs",
-        "STEM eligibility"
+        "bachelor degree programs",
+        "official Major Finder bachelor filter"
       ],
       "sourceId": "official-source-0c9b96c7cc50fccacbe46c9f",
-      "sourceType": "official_major_finder",
+      "sourceType": "official_undergraduate_major_finder",
       "status": "verified",
       "url": "https://www.udel.edu/majorfinder/"
     },
@@ -2701,6 +2700,19 @@
       "sourceType": "official_undergraduate_program_search",
       "status": "verified",
       "url": "https://catalog.tamu.edu/programs/"
+    },
+    {
+      "universityId": "candidate-v2:georgia-institute-of-technology",
+      "publisher": "Georgia Tech Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "bachelor degree programs",
+        "2026-2027 catalog edition"
+      ],
+      "sourceId": "official-source-c0d2e52ea1b71cd0df18ab1d",
+      "sourceType": "official_undergraduate_program_catalog",
+      "status": "verified",
+      "url": "https://catalog.gatech.edu/programs/"
     }
   ]
 }

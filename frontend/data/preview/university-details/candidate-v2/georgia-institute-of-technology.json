@@ -150,10 +150,479 @@
     "Georgia Tech College of Engineering",
     "Georgia Tech Scheller College of Business"
   ],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Languages and Intercultural Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Languages and Intercultural Studies",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Physics",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arts, Entertainment, and Creative Technologies",
+      "listType": "official_undergraduate_major",
+      "name": "Arts, Entertainment, and Creative Technologies",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astrophysics",
+      "listType": "official_undergraduate_major",
+      "name": "Astrophysics",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Atmospheric and Oceanic Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Atmospheric and Oceanic Sciences",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Biology",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical and Biomolecular Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical and Biomolecular Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computational Media",
+      "listType": "official_undergraduate_major",
+      "name": "Computational Media",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Construction Science and Management",
+      "listType": "official_undergraduate_major",
+      "name": "Construction Science and Management",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics and International Affairs",
+      "listType": "official_undergraduate_major",
+      "name": "Economics and International Affairs",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Science",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Science",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Economics and Modern Languages",
+      "listType": "official_undergraduate_major",
+      "name": "Global Economics and Modern Languages",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History, Technology, and Society",
+      "listType": "official_undergraduate_major",
+      "name": "History, Technology, and Society",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Design",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Design",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs and Modern Language",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs and Modern Language",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Literature, Media, and Communication",
+      "listType": "official_undergraduate_major",
+      "name": "Literature, Media, and Communication",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science and Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Science and Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics and Computing",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics and Computing",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Music Technology",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nuclear and Radiological Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Nuclear and Radiological Engineering",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Physics",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Policy",
+      "listType": "official_undergraduate_major",
+      "name": "Public Policy",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Solid Earth and Planetary Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Solid Earth and Planetary Sciences",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Planning and Spatial Analytics",
+      "listType": "official_undergraduate_major",
+      "name": "Urban Planning and Spatial Analytics",
+      "sourceIds": [
+        "official-source-c0d2e52ea1b71cd0df18ab1d"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "nullReason": "identity_ipeds_match_not_resolved",
-    "status": "not_reported"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-c0d2e52ea1b71cd0df18ab1d"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "anecdotes": [
     {
@@ -171,8 +640,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$11,764–$32,876",
-    "maximumUsd": 32876.0,
-    "minimumUsd": 11764.0,
+    "maximumUsd": 32876,
+    "minimumUsd": 11764,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -420,7 +889,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 11764.0,
+      "amountUsd": 11764,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -429,7 +898,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 32876.0,
+      "amountUsd": 32876,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -442,7 +911,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "GA",
-  "studentFacultyRatio": 18.0,
+  "studentFacultyRatio": 18,
   "topPrograms": [
     "Biomedical Engineering",
     "Environmental Engineering",
