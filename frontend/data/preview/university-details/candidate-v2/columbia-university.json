@@ -1020,7 +1020,8 @@
     "Astrophysics",
     "Business",
     "Classics",
-    "Cognitive Science"
+    "Cognitive Science",
+    "Biological Sciences"
   ],
   "allMajorsStatus": {
     "status": "verified_official_catalog",
@@ -1032,7 +1033,7 @@
       "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
     ],
     "scope": "General Studies, Columbia Engineering, and selected Columbia College majors; remaining College departments pending",
-    "observedProgramCount": 104
+    "observedProgramCount": 105
   },
   "anecdotes": [
     {
@@ -2367,7 +2368,7 @@
       "listType": "official_undergraduate_major",
       "name": "Business",
       "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
+        "official-source-64102d888d0f79e471913832"
       ],
       "status": "verified",
       "warnings": [
@@ -2394,6 +2395,19 @@
       "name": "Cognitive Science",
       "sourceIds": [
         "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences",
+      "sourceIds": [
+        "official-source-254cb2917dca9a6ea10e1110"
       ],
       "status": "verified",
       "warnings": [

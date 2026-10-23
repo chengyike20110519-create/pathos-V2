@@ -2868,6 +2868,34 @@
       "sourceType": "official_undergraduate_bulletin_general_studies",
       "status": "verified",
       "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/"
+    },
+    {
+      "universityId": "candidate-v2:columbia-university",
+      "publisher": "Columbia University School of General Studies Bulletin 2026-2027",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "General Studies, Columbia Engineering, and Columbia College official bulletins",
+        "Columbia College entries taken only from pages with explicit Major in headings"
+      ],
+      "sourceId": "official-source-254cb2917dca9a6ea10e1110",
+      "sourceType": "official_undergraduate_bulletin_general_studies",
+      "status": "verified",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/biological-sciences/"
+    },
+    {
+      "universityId": "candidate-v2:columbia-university",
+      "publisher": "Columbia University School of General Studies Bulletin 2026-2027",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "General Studies, Columbia Engineering, and Columbia College official bulletins",
+        "Columbia College entries taken only from pages with explicit Major in headings"
+      ],
+      "sourceId": "official-source-64102d888d0f79e471913832",
+      "sourceType": "official_undergraduate_bulletin_general_studies",
+      "status": "verified",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/business/"
     }
   ]
 }
