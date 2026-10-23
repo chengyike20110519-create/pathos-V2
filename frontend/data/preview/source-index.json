@@ -3211,6 +3211,19 @@
       "sourceType": "official_undergraduate_catalog",
       "status": "verified",
       "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/health"
+    },
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "publisher": "Arizona State University Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degree programs",
+        "major catalog"
+      ],
+      "sourceId": "official-source-3273402cb9347cf879ea7e66",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/biology%20"
     }
   ]
 }
