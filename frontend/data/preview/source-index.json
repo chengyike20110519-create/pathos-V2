@@ -3185,6 +3185,19 @@
       "sourceType": "official_undergraduate_catalog",
       "status": "verified",
       "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/forensic%20science%20"
+    },
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "publisher": "Arizona State University Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degree programs",
+        "major catalog"
+      ],
+      "sourceId": "official-source-b7269814d3d25c68e8b2c3e6",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/humanities?init=false&nopassive=true"
     }
   ]
 }
