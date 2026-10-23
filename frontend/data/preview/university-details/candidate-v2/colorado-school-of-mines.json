@@ -68,11 +68,305 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics and Statistics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics and Statistics",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Engineering and Management Science",
+      "listType": "official_undergraduate_major",
+      "name": "Business Engineering and Management Science",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ceramic Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Ceramic Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics and Statistics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics and Statistics",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Engineering and Management Science",
+      "listType": "official_undergraduate_major",
+      "name": "Business Engineering and Management Science",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ceramic Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Ceramic Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Construction Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Construction Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Design Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering Physics",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geological Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Geological Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geophysical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Geophysical Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Metallurgical and Materials Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Metallurgical and Materials Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mining Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mining Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Petroleum Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Petroleum Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Quantitative Biosciences and Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Quantitative Biosciences and Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Quantum Systems Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Quantum Systems Engineering",
+      "sourceIds": [
+        "official-source-1c70e6f162403b65957a7403"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-1c70e6f162403b65957a7403"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {

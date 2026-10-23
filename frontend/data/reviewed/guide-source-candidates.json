@@ -3,6 +3,18 @@
   "status": "source_verified_pending_field_extraction",
   "records": [
     {
+      "universityId": "candidate-v2:colorado-school-of-mines",
+      "universityName": "Colorado School of Mines",
+      "sourceUrl": "https://catalog.mines.edu/undergraduate/degreerequirementsgraduationinfo/",
+      "sourceType": "official_undergraduate_catalog",
+      "publisher": "Colorado School of Mines Catalog",
+      "scope": ["undergraduate bachelor degrees", "2026-2027 academic catalog"],
+      "observedProgramNames": ["Applied Mathematics and Statistics","Biochemistry","Business Engineering and Management Science","Ceramic Engineering","Chemical Engineering","Chemistry","Civil Engineering","Computer Science","Construction Engineering","Design Engineering","Electrical Engineering","Engineering Physics","Environmental Engineering","Geological Engineering","Geophysical Engineering","Mechanical Engineering","Metallurgical and Materials Engineering","Mining Engineering","Petroleum Engineering","Quantitative Biosciences and Engineering","Quantum Systems Engineering"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "observedProgramCount": 21,
+      "checkedOn": "2026-10-23"
+    },
+    {
       "universityId": "candidate-v2:virginia-polytechnic-institute-and-state-university",
       "universityName": "Virginia Polytechnic Institute and State University",
       "sourceUrl": "https://student.advising.vt.edu/major-exploration/majors-exploreatvt/majors-alphabetical.html",

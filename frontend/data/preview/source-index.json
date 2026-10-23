@@ -2603,6 +2603,19 @@
       "sourceType": "official_undergraduate_bulletin",
       "status": "verified",
       "url": "https://bulletin.wfu.edu/undergraduate/requirements-degrees/majors-minors/"
+    },
+    {
+      "universityId": "candidate-v2:colorado-school-of-mines",
+      "publisher": "Colorado School of Mines Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate bachelor degrees",
+        "2026-2027 academic catalog"
+      ],
+      "sourceId": "official-source-1c70e6f162403b65957a7403",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://catalog.mines.edu/undergraduate/degreerequirementsgraduationinfo/"
     }
   ]
 }
