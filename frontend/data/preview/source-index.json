@@ -2093,7 +2093,7 @@
     },
     {
       "universityId": "candidate-v2:marquette-university",
-      "publisher": "Marquette University Klingler College of Arts and Sciences",
+      "publisher": "Marquette University",
       "referenceYear": 2026,
       "scope": [
         "undergraduate majors",
@@ -2101,7 +2101,7 @@
         "academic programs"
       ],
       "sourceId": "official-source-03fe60fbbf66293020a8712c",
-      "sourceType": "official_undergraduate_programs",
+      "sourceType": "official_university_majors_directory",
       "status": "verified",
       "url": "https://www.marquette.edu/arts-sciences/programs.php"
     },
@@ -2518,6 +2518,48 @@
       "sourceType": "official_undergraduate_bulletin",
       "status": "verified",
       "url": "https://bulletin.gwu.edu/public-health/undergraduate-programs/"
+    },
+    {
+      "universityId": "candidate-v2:marquette-university",
+      "publisher": "Marquette University",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "minors",
+        "academic programs"
+      ],
+      "sourceId": "official-source-bfd2452e0266f200eef06bc1",
+      "sourceType": "official_university_majors_directory",
+      "status": "verified",
+      "url": "https://www.marquette.edu/academics/majors/"
+    },
+    {
+      "universityId": "candidate-v2:marquette-university",
+      "publisher": "Marquette University",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "minors",
+        "academic programs"
+      ],
+      "sourceId": "official-source-a98114344701fdc59f0743b3",
+      "sourceType": "official_university_majors_directory",
+      "status": "verified",
+      "url": "https://www.marquette.edu/engineering/undergraduate-degrees.php"
+    },
+    {
+      "universityId": "candidate-v2:marquette-university",
+      "publisher": "Marquette University",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "minors",
+        "academic programs"
+      ],
+      "sourceId": "official-source-1e36a69ebc129e136144030b",
+      "sourceType": "official_university_majors_directory",
+      "status": "verified",
+      "url": "https://bulletin.marquette.edu/health-sciences/policies/degrees-offered/"
     }
   ]
 }

@@ -150,9 +150,14 @@
     {
       "universityId": "candidate-v2:marquette-university",
       "universityName": "Marquette University",
-      "sourceUrl": "https://www.marquette.edu/arts-sciences/programs.php",
-      "sourceType": "official_undergraduate_programs",
-      "publisher": "Marquette University Klingler College of Arts and Sciences",
+      "sourceUrl": "https://www.marquette.edu/academics/majors/",
+      "sourceType": "official_university_majors_directory",
+      "publisher": "Marquette University",
+      "supportingSourceUrls": [
+        "https://www.marquette.edu/arts-sciences/programs.php",
+        "https://www.marquette.edu/engineering/undergraduate-degrees.php",
+        "https://bulletin.marquette.edu/health-sciences/policies/degrees-offered/"
+      ],
       "scope": ["undergraduate majors", "minors", "academic programs"],
       "observedProgramNames": ["Anthropology", "Applied Artificial Intelligence in Business", "Applied Investment Management", "Applied Mathematical Economics", "Applied Physics", "Athletic Training", "Biochemistry and Molecular Biology", "Biological Sciences", "Biomedical Engineering", "Biomedical Sciences", "Biophysics", "Business Administration", "Business Analytics", "Business Economics", "Chemistry", "Civil Engineering", "Classics", "Cognitive Science", "Communication Studies", "Computational Mathematics", "Computer Engineering", "Computer Science", "Construction Engineering", "Corporate Communication", "Criminology and Law Studies", "Data Science", "Digital Media", "Economics", "Education", "Educational Studies", "Electrical Engineering", "English", "Environmental Engineering", "Environmental Science", "Environmental Studies", "Exercise Physiology", "Film and Media Studies", "Finance", "French", "German", "History", "Information Systems", "International Business", "Marketing", "Mathematics", "Mechanical Engineering", "Medical Laboratory Science", "Music", "Nursing", "Philosophy", "Physics", "Political Science", "Psychology", "Public Relations", "Real Estate", "Social Welfare and Justice", "Sociology", "Spanish Language, Literature and Culture", "Spanish for the Professions", "Speech Pathology and Audiology", "Statistical Science", "Theatre Arts", "Theology and Religion"],
       "programStatus": "official_catalog_observed_not_strength_claim",
