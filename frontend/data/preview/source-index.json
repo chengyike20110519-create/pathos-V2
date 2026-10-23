@@ -2798,6 +2798,20 @@
       "sourceType": "official_undergraduate_majors_brochure",
       "status": "verified",
       "url": "https://admissions.ucsc.edu/sites/default/files/2025-07/Nonresident%20Brochure%202026%20Final%20for%20Web.pdf"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-riverside",
+      "publisher": "UC Riverside Undergraduate Admissions",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors A-Z",
+        "official majors directory",
+        "minor markers retained as metadata but entries are majors"
+      ],
+      "sourceId": "official-source-e223a7b4ebd9b94d6a498701",
+      "sourceType": "official_undergraduate_major_directory",
+      "status": "verified",
+      "url": "https://admissions.ucr.edu/majors/a-z"
     }
   ]
 }
