@@ -2426,6 +2426,45 @@
       "sourceType": "official_undergraduate_catalog",
       "status": "verified",
       "url": "https://catalog.wm.edu/undergraduate/requirements-degrees/"
+    },
+    {
+      "universityId": "candidate-v2:stevens-institute-of-technology",
+      "publisher": "Stevens Institute of Technology",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "engineering and science programs"
+      ],
+      "sourceId": "official-source-deabc72b40839285e31cd194",
+      "sourceType": "official_undergraduate_programs",
+      "status": "verified",
+      "url": "https://www.stevens.edu/school-business/undergraduate-programs"
+    },
+    {
+      "universityId": "candidate-v2:stevens-institute-of-technology",
+      "publisher": "Stevens Institute of Technology",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "engineering and science programs"
+      ],
+      "sourceId": "official-source-26a8674cb8a7b5fd3336aa42",
+      "sourceType": "official_undergraduate_programs",
+      "status": "verified",
+      "url": "https://www.stevens.edu/hass"
+    },
+    {
+      "universityId": "candidate-v2:stevens-institute-of-technology",
+      "publisher": "Stevens Institute of Technology",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "engineering and science programs"
+      ],
+      "sourceId": "official-source-2d54d0eea8d7812662f58801",
+      "sourceType": "official_undergraduate_programs",
+      "status": "verified",
+      "url": "https://www.stevens.edu/academics/academic-catalog"
     }
   ]
 }

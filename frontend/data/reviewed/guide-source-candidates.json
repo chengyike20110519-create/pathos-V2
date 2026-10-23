@@ -87,8 +87,13 @@
       "sourceUrl": "https://www.stevens.edu/school-engineering-science/undergraduate-studies/programs",
       "sourceType": "official_undergraduate_programs",
       "publisher": "Stevens Institute of Technology",
+      "supportingSourceUrls": [
+        "https://www.stevens.edu/school-business/undergraduate-programs",
+        "https://www.stevens.edu/hass",
+        "https://www.stevens.edu/academics/academic-catalog"
+      ],
       "scope": ["undergraduate majors", "engineering and science programs"],
-      "observedProgramNames": ["Computer Science", "Chemical Engineering", "Biomedical Engineering", "Mechanical Engineering", "Physics", "Mathematics", "Accelerated Chemical Biology"],
+      "observedProgramNames": ["Aerospace Engineering", "Biomedical Engineering", "Chemical Engineering", "Civil Engineering", "Computer Engineering", "Electrical Engineering", "Engineering Management", "Environmental Engineering", "Industrial and Systems Engineering", "Mechanical Engineering", "Ocean Engineering", "Software Engineering", "Biology", "Chemistry", "Chemical Biology", "Accelerated Chemical Biology", "Mathematics", "Physics", "Accounting and Analytics", "Business and Artificial Intelligence", "Business and Technology", "Economics", "Finance", "Management", "Marketing Innovation and Analytics", "Quantitative Finance", "Music and Technology", "Visual Arts and Technology", "Science, Technology and Society", "Science Communication", "Quantitative Social Science", "Literature, Culture and Media", "Philosophy"],
       "programStatus": "official_catalog_observed_not_strength_claim",
       "checkedOn": "2026-10-23"
     },

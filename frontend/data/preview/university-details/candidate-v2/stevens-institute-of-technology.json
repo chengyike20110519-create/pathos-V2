@@ -68,11 +68,437 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering Management",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering Management",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial and Systems Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial and Systems Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ocean Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Ocean Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Software Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Software Engineering",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Biology",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Biology",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accelerated Chemical Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Accelerated Chemical Biology",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Physics",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting and Analytics",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting and Analytics",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business and Artificial Intelligence",
+      "listType": "official_undergraduate_major",
+      "name": "Business and Artificial Intelligence",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business and Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Business and Technology",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance",
+      "listType": "official_undergraduate_major",
+      "name": "Finance",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management",
+      "listType": "official_undergraduate_major",
+      "name": "Management",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing Innovation and Analytics",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing Innovation and Analytics",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Quantitative Finance",
+      "listType": "official_undergraduate_major",
+      "name": "Quantitative Finance",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music and Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Music and Technology",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Visual Arts and Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Visual Arts and Technology",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science, Technology and Society",
+      "listType": "official_undergraduate_major",
+      "name": "Science, Technology and Society",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science Communication",
+      "listType": "official_undergraduate_major",
+      "name": "Science Communication",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Quantitative Social Science",
+      "listType": "official_undergraduate_major",
+      "name": "Quantitative Social Science",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Literature, Culture and Media",
+      "listType": "official_undergraduate_major",
+      "name": "Literature, Culture and Media",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy",
+      "sourceIds": [
+        "official-source-11a42cf736e6996b302fb9a0"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-11a42cf736e6996b302fb9a0"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {
