@@ -2771,6 +2771,19 @@
       "sourceType": "official_undergraduate_program_catalog_az",
       "status": "verified",
       "url": "https://catalog.utexas.edu/undergraduate/programs/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-merced",
+      "publisher": "University of California, Merced",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "official majors and minors page"
+      ],
+      "sourceId": "official-source-4f7eb8e91de398a23f53293a",
+      "sourceType": "official_undergraduate_majors_directory",
+      "status": "verified",
+      "url": "https://www.ucmerced.edu/majors-and-minors/trees"
     }
   ]
 }

@@ -69,11 +69,558 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Artificial Intelligence, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Artificial Intelligence, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Liberal Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Liberal Studies, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Artificial Intelligence, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Artificial Intelligence, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Liberal Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Liberal Studies, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science, Technology, and Ethics, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Science, Technology, and Ethics, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience, B.S., B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience, B.S., B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication and Media, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Communication and Media, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ecology, Evolution, and Conservation Biology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Ecology, Evolution, and Conservation Biology, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management of Innovation, Sustainability, and Technology (MIST), B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Management of Innovation, Sustainability, and Technology (MIST), B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemical and Biomolecular Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemical and Biomolecular Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Humanities, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Humanities, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science and Analytics, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science and Analytics, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science and Computing, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science and Computing, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Writing Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Writing Studies, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management and Business Economics, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Management and Business Economics, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "History, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Arts Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Global Arts Studies, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Literatures in English, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Literatures in English, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics, B.S., B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Economics, B.S., B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Critical Race and Ethnic Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Critical Race and Ethnic Studies, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cognitive Science, B.S., B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Cognitive Science, B.S., B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Systems Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Systems Science, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Sciences, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematical Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematical Sciences, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science & Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science & Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Bioengineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Bioengineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.A.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science and Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Science and Engineering, B.S.",
+      "sourceIds": [
+        "official-source-4f7eb8e91de398a23f53293a"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-4f7eb8e91de398a23f53293a"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {
