@@ -5,7 +5,9 @@ if (!universityId || !slug || !sourceId) throw new Error("Usage: node scripts/pr
 const candidates = JSON.parse(fs.readFileSync("data/reviewed/guide-source-candidates.json", "utf8"));
 const candidate = candidates.records.find((item) => item.universityId === universityId);
 if (!candidate?.observedProgramNames?.length) throw new Error(`No extracted catalog names for ${universityId}`);
-const path = `data/preview/university-details/${slug}.json`;
+const candidatePath = `data/preview/university-details/candidate-v2/${slug}.json`;
+const legacyPath = `data/preview/university-details/${slug}.json`;
+const path = fs.existsSync(candidatePath) ? candidatePath : legacyPath;
 const detail = JSON.parse(fs.readFileSync(path, "utf8"));
 const sourceIds = [sourceId];
 detail.allMajors = candidate.observedProgramNames.map((name) => ({

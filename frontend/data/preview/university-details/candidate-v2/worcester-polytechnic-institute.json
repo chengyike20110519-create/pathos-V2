@@ -68,11 +68,404 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Actuarial Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Actuarial Mathematics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Physics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architectural Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Architectural Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Artificial Intelligence",
+      "listType": "official_undergraduate_major",
+      "name": "Artificial Intelligence",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Actuarial Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Actuarial Mathematics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Physics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architectural Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Architectural Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Artificial Intelligence",
+      "listType": "official_undergraduate_major",
+      "name": "Artificial Intelligence",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology and Biotechnology",
+      "listType": "official_undergraduate_major",
+      "name": "Biology and Biotechnology",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical & Computer Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical & Computer Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental & Sustainability Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental & Sustainability Studies",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Financial Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Financial Mathematics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Financial Technology (FinTech)",
+      "listType": "official_undergraduate_major",
+      "name": "Financial Technology (FinTech)",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Humanities & Arts",
+      "listType": "official_undergraduate_major",
+      "name": "Humanities & Arts",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Systems and Technologies",
+      "listType": "official_undergraduate_major",
+      "name": "Information Systems and Technologies",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interactive Media & Game Development",
+      "listType": "official_undergraduate_major",
+      "name": "Interactive Media & Game Development",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International & Global Studies",
+      "listType": "official_undergraduate_major",
+      "name": "International & Global Studies",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Liberal Arts & Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Liberal Arts & Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Management Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing Analytics",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing Analytics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematical Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematical Sciences",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Physics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Robotics Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Robotics Engineering",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "System Dynamics",
+      "listType": "official_undergraduate_major",
+      "name": "System Dynamics",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "User Experience and Interaction Design",
+      "listType": "official_undergraduate_major",
+      "name": "User Experience and Interaction Design",
+      "sourceIds": [
+        "official-source-f78f7506e9672f41ee878877"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-f78f7506e9672f41ee878877"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {

@@ -2317,6 +2317,74 @@
       "sourceType": "official_undergraduate_bulletin",
       "status": "verified",
       "url": "https://academicbulletins.sc.edu/undergraduate/programs-az/"
+    },
+    {
+      "universityId": "candidate-v2:clemson-university",
+      "publisher": "Clemson University",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree programs"
+      ],
+      "sourceId": "official-source-b624e480e7f623f8f2f9f2cb",
+      "sourceType": "official_undergraduate_programs",
+      "status": "verified",
+      "url": "https://www.clemson.edu/science/academics/undergraduate/majors.html"
+    },
+    {
+      "universityId": "candidate-v2:clemson-university",
+      "publisher": "Clemson University",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree programs"
+      ],
+      "sourceId": "official-source-bb82709a39aa62e27e9e2a45",
+      "sourceType": "official_undergraduate_programs",
+      "status": "verified",
+      "url": "https://www.clemson.edu/cecas/departments/computing/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-connecticut",
+      "publisher": "University of Connecticut Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree types",
+        "A-Z program index"
+      ],
+      "sourceId": "official-source-b7dbd875c6c752b05a7e3458",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://catalog.uconn.edu/undergraduate/programs/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-delaware",
+      "publisher": "University of Delaware",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "associate programs",
+        "STEM eligibility"
+      ],
+      "sourceId": "official-source-0c9b96c7cc50fccacbe46c9f",
+      "sourceType": "official_major_finder",
+      "status": "verified",
+      "url": "https://www.udel.edu/majorfinder/"
+    },
+    {
+      "universityId": "candidate-v2:worcester-polytechnic-institute",
+      "publisher": "Worcester Polytechnic Institute",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degrees",
+        "bachelor programs",
+        "area of study directory"
+      ],
+      "sourceId": "official-source-f78f7506e9672f41ee878877",
+      "sourceType": "official_degree_directory",
+      "status": "verified",
+      "url": "https://www.wpi.edu/academics/study"
     }
   ]
 }
