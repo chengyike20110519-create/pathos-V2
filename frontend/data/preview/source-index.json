@@ -2784,6 +2784,20 @@
       "sourceType": "official_undergraduate_majors_directory",
       "status": "verified",
       "url": "https://www.ucmerced.edu/majors-and-minors/trees"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-santa-cruz",
+      "publisher": "UC Santa Cruz Admissions, 2026 Nonresident Brochure",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "official Explore Our Majors & Minors list",
+        "minor-only entries excluded"
+      ],
+      "sourceId": "official-source-24dba844400fae8598dfc804",
+      "sourceType": "official_undergraduate_majors_brochure",
+      "status": "verified",
+      "url": "https://admissions.ucsc.edu/sites/default/files/2025-07/Nonresident%20Brochure%202026%20Final%20for%20Web.pdf"
     }
   ]
 }
