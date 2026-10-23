@@ -5299,6 +5299,17 @@
       "programStatus": "official_bulletin_observed_not_strength_claim",
       "observedProgramCount": 49,
       "checkedOn": "2026-10-23"
+    },
+    {
+      "universityId": "candidate-v2:boston-university",
+      "universityName": "Boston University",
+      "sourceUrl": "https://www.bu.edu/admissions/why-bu/academics/majors/",
+      "publisher": "Boston University Admissions",
+      "sourceType": "official_admissions_majors",
+      "scope": [
+        "official undergraduate majors with explicit degree labels"
+      ],
+      "checkedOn": "2026-10-24"
     }
   ]
 }
