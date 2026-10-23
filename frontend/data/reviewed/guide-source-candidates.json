@@ -10,8 +10,8 @@
       "publisher": "Columbia University School of General Studies Bulletin 2026-2027",
       "scope": [
         "undergraduate majors",
-        "General Studies and Columbia Engineering official bulletins",
-        "Columbia College still pending separate extraction"
+        "General Studies, Columbia Engineering, and Columbia College official bulletins",
+        "Columbia College entries taken only from pages with explicit Major in headings"
       ],
       "observedProgramNames": [
         "African-American Studies",
@@ -104,13 +104,18 @@
         "Industrial Engineering",
         "Materials Science and Engineering",
         "Mechanical Engineering",
-        "Operations Research"
+        "Operations Research",
+        "African American and African Diaspora Studies",
+        "Art History+Visual Arts",
+        "Business"
       ],
       "programStatus": "official_directory_observed_partial_scope",
-      "observedProgramCount": 91,
+      "observedProgramCount": 94,
       "checkedOn": "2026-10-23",
       "supportingSourceUrls": [
-        "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/"
+        "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/",
+        "https://bulletin.columbia.edu/columbia-college/departments-instruction/",
+        "https://bulletin.columbia.edu/columbia-college/departments-instruction/"
       ]
     },
     {

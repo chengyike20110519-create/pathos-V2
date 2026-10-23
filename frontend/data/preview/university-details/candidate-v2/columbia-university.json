@@ -1009,7 +1009,18 @@
     "Industrial Engineering",
     "Materials Science and Engineering",
     "Mechanical Engineering",
-    "Operations Research"
+    "Operations Research",
+    "African American and African Diaspora Studies",
+    "Archaeology",
+    "Architecture",
+    "Art History",
+    "History and Theory of Architecture",
+    "Art History+Visual Arts",
+    "Astronomy",
+    "Astrophysics",
+    "Business",
+    "Classics",
+    "Cognitive Science"
   ],
   "allMajorsStatus": {
     "status": "verified_official_catalog",
@@ -1020,8 +1031,8 @@
     "warnings": [
       "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
     ],
-    "scope": "General Studies and Columbia Engineering; Columbia College still pending separate extraction",
-    "observedProgramCount": 93
+    "scope": "General Studies, Columbia Engineering, and selected Columbia College majors; remaining College departments pending",
+    "observedProgramCount": 104
   },
   "anecdotes": [
     {
@@ -1233,7 +1244,9 @@
       "displayName": "Archaeology",
       "listType": "official_undergraduate_major",
       "name": "Archaeology",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1244,7 +1257,9 @@
       "displayName": "Architecture",
       "listType": "official_undergraduate_major",
       "name": "Architecture",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1255,7 +1270,9 @@
       "displayName": "Art History",
       "listType": "official_undergraduate_major",
       "name": "Art History",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1277,7 +1294,9 @@
       "displayName": "Astronomy",
       "listType": "official_undergraduate_major",
       "name": "Astronomy",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1288,7 +1307,9 @@
       "displayName": "Astrophysics",
       "listType": "official_undergraduate_major",
       "name": "Astrophysics",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1354,7 +1375,9 @@
       "displayName": "Classics",
       "listType": "official_undergraduate_major",
       "name": "Classics",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1387,7 +1410,9 @@
       "displayName": "Cognitive Science",
       "listType": "official_undergraduate_major",
       "name": "Cognitive Science",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1708,7 +1733,9 @@
       "displayName": "History and Theory of Architecture",
       "listType": "official_undergraduate_major",
       "name": "History and Theory of Architecture",
-      "sourceIds": [],
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -2228,6 +2255,149 @@
       "status": "verified",
       "warnings": [
         "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African American and African Diaspora Studies",
+      "listType": "official_undergraduate_major",
+      "name": "African American and African Diaspora Studies",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Archaeology",
+      "listType": "official_undergraduate_major",
+      "name": "Archaeology",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History",
+      "listType": "official_undergraduate_major",
+      "name": "Art History",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History and Theory of Architecture",
+      "listType": "official_undergraduate_major",
+      "name": "History and Theory of Architecture",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History+Visual Arts",
+      "listType": "official_undergraduate_major",
+      "name": "Art History+Visual Arts",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astrophysics",
+      "listType": "official_undergraduate_major",
+      "name": "Astrophysics",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business",
+      "listType": "official_undergraduate_major",
+      "name": "Business",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics",
+      "listType": "official_undergraduate_major",
+      "name": "Classics",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cognitive Science",
+      "listType": "official_undergraduate_major",
+      "name": "Cognitive Science",
+      "sourceIds": [
+        "official-source-67875fa38788dc1afc9b566d"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_columbia_college"
       ]
     }
   ],
