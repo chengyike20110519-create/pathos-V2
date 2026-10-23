@@ -3,6 +3,18 @@
   "status": "source_verified_pending_field_extraction",
   "records": [
     {
+      "universityId": "candidate-v2:tulane-university",
+      "universityName": "Tulane University",
+      "sourceUrl": "https://catalog.tulane.edu/programs/programs.pdf",
+      "sourceType": "official_academic_programs_catalog_pdf",
+      "publisher": "Tulane University 2026-2027 Catalog",
+      "scope": ["undergraduate majors", "2026-2027 academic catalog", "major rows only; minors and certificates excluded"],
+      "observedProgramNames": ["Accounting","Africana Studies","Anthropology, BA","Anthropology, BS","Architecture, B.Arch","Architecture, BSA","Art History, BA","Asian Studies","Biological Chemistry","Biomedical Engineering","Cell and Molecular Biology","Chemical Engineering","Chemistry","Cinema Studies","Civil Engineering - Water and Environment","Classical Studies, BA","Cognitive Studies Coordinate","Communication","Comparative Literature, BA","Computer Science Interdisciplinary Coordinate","Computer Science, BS","Dance, BA","Dance, BFA","Design, BA","Digital Design, BA","Digital Media & Marketing Communications, BA","Digital Media Practices Coordinate","Earth and Environmental Sciences","Ecology and Evolutionary Biology","Economics, BA","Economics, BS","Elementary Education, BA","Engineering Physics","English","Environmental Biology","Environmental Studies","Exercise Science, BS","Finance","French","Gender and Sexuality Studies","German Studies","Greek, BA","Health and Wellness, BA","Health Policy and Management, BS","History","Homeland Security, BA","Human Resources, BA","Humanities, BA","Information Technology, BS","Interdisciplinary Studies with Concentrations, BIS","Italian","Jewish Studies","Latin American Studies","Latin","Legal Studies in Business","Linguistics, BA","Linguistics, BS","Management","Marketing","Mathematics","Medieval and Early Modern Studies","Middle East & North African Studies","Music, BA","Music, BFA","Neuroscience","Nursing, BSN","Nutrition Science, BS","Organizational Behavior and Management Studies, BS","Paralegal Studies, BA","Paralegal Studies, BIS","Philosophy","Philosophy with Concentration in Language, Mind, and Knowledge","Philosophy with Concentration in Law, Morality, and Society","Physics","Political Economy with Concentration in Economics and Public Policy","Political Economy with Concentration in International Perspectives","Political Economy with Concentration in Law, Economics, and Policy","Political Economy with Concentration in Moral and Historical Perspectives","Political Science","Political Science/International Development","Political Science/International Relations","Portuguese Coordinate","Psychology","Public Health, BSPH","Public Relations, BA","Real Estate, BS","Russian","Secondary Education (Grades 6-12), Coordinate","Secondary Education, BA","Social Policy and Practice Coordinate","Social Sciences, BA","Sociology","Spanish and Portuguese","Spanish","Studio Art, BA","Studio Art, BFA","Sustainable Urbanism, BS","Theatre Design, BFA","Theatre, BA"],
+      "programStatus": "official_catalog_observed_not_strength_claim",
+      "observedProgramCount": 99,
+      "checkedOn": "2026-10-23"
+    },
+    {
       "universityId": "candidate-v2:rensselaer-polytechnic-institute",
       "universityName": "Rensselaer Polytechnic Institute",
       "sourceUrl": "https://www.rpi.edu/academics",

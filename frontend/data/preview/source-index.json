@@ -2631,6 +2631,20 @@
       "sourceType": "official_undergraduate_programs_pdf",
       "status": "verified",
       "url": "https://www.buffalo.edu/content/dam/www/admissions/apply/International_1-Pager_2025_web.pdf"
+    },
+    {
+      "universityId": "candidate-v2:tulane-university",
+      "publisher": "Tulane University 2026-2027 Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "2026-2027 academic catalog",
+        "major rows only; minors and certificates excluded"
+      ],
+      "sourceId": "official-source-b892179a07a36db3d3d44e19",
+      "sourceType": "official_academic_programs_catalog_pdf",
+      "status": "verified",
+      "url": "https://catalog.tulane.edu/programs/programs.pdf"
     }
   ]
 }
