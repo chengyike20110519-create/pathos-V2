@@ -3,6 +3,18 @@
   "status": "source_verified_pending_field_extraction",
   "records": [
     {
+      "universityId": "candidate-v2:university-at-buffalo",
+      "universityName": "University at Buffalo",
+      "sourceUrl": "https://www.buffalo.edu/content/dam/www/admissions/apply/International_1-Pager_2025_web.pdf",
+      "sourceType": "official_undergraduate_programs_pdf",
+      "publisher": "University at Buffalo Office of International Admissions",
+      "scope": ["undergraduate majors and programs", "current as of 2025-07-01"],
+      "observedProgramNames": ["Accounting","Acting","Aerospace Engineering","African-American Studies","AI and Geospatial Analytics","AI and Language and Intercultural Competence","AI and Language Technology","AI and Logic and Ontology","AI and Policy Analysis","AI and Quantitative Economics","AI and Responsible Communication","American Studies","Anthropology","Architecture","Art (Studio Art)","Art (Fine Arts)","Art History","Asian Studies","Biochemistry","Bioinformatics and Computational Biology","Biological Sciences","Biomedical Engineering","Biomedical Sciences","Biotechnology","Business Administration","Chemical Engineering","Chemistry","Civil Engineering","Classics","Cognitive Science","Communication","Computational Linguistics","Computational Physics","Computer Engineering","Computer Science","Criminology","Dance","Economics","Electrical Engineering","Engineering Physics","Engineering Science","English","Environmental Design","Environmental Engineering","Environmental Science","Environmental Studies","Environmental Sustainability","Exercise Science","Film Studies","French","Geographic Information Science","Geography","Geological Sciences","German","Global Affairs","Global Gender Studies","Health and Human Services","History","Indigenous Studies","Industrial Engineering","Information Technology and Management","International Studies","International Trade","Italian","Jewish Studies","Law","Legal Studies","Linguistics","Material Science and Engineering","Mathematical Physics","Mathematics","Mathematics-Economics","Mechanical Engineering","Media Study","Medical Laboratory Science","Medicinal Chemistry","Music","Music Performance","Music Theatre","Neuroscience","Nuclear Medicine Technology","Nursing (accelerated program)","Nursing (RN to BS)","Nursing (traditional program)","Nutrition Science","Occupational Therapy","Pharmaceutical Sciences","Pharmacology and Toxicology","Pharmacy","Philosophy","Philosophy, Politics and Economics","Physics","Political Science","Psychology","Public Health","Sociology","Spanish","Special Studies","Speech and Hearing Science","Statistics","Theatre","Theatre Design/Technology","Undecided/Major Explorer","Urban and Public Policy Studies"],
+      "programStatus": "official_programs_list_observed_not_strength_claim",
+      "observedProgramCount": 104,
+      "checkedOn": "2026-10-23"
+    },
+    {
       "universityId": "candidate-v2:colorado-school-of-mines",
       "universityName": "Colorado School of Mines",
       "sourceUrl": "https://catalog.mines.edu/undergraduate/degreerequirementsgraduationinfo/",
