@@ -149,983 +149,510 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
+      "displayName": "Art History",
+      "listType": "official_undergraduate_majors",
+      "name": "Art History",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
+      "displayName": "Film and Media Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Film and Media Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
+      "displayName": "Music",
+      "listType": "official_undergraduate_majors",
+      "name": "Music",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
+      "displayName": "Studio Art",
+      "listType": "official_undergraduate_majors",
+      "name": "Studio Art",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Science",
-      "listType": "areas_of_study",
-      "name": "Engineering Science",
+      "displayName": "Theater",
+      "listType": "official_undergraduate_majors",
+      "name": "Theater",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography and Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Geography and Environmental Studies",
+      "displayName": "Engineering Sciences",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
+      "displayName": "Biomedical Engineering Sciences",
+      "listType": "official_undergraduate_majors",
+      "name": "Biomedical Engineering Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Statistics, General",
-      "listType": "areas_of_study",
-      "name": "Applied Statistics, General",
+      "displayName": "Engineering Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering Physics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Experimental Psychology",
-      "listType": "areas_of_study",
-      "name": "Experimental Psychology",
+      "displayName": "Human-Centered Design",
+      "listType": "official_undergraduate_majors",
+      "name": "Human-Centered Design",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
+      "displayName": "Materials Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Materials Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
+      "displayName": "Bachelor of Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Bachelor of Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
+      "displayName": "Asian Societies, Cultures, and Languages",
+      "listType": "official_undergraduate_majors",
+      "name": "Asian Societies, Cultures, and Languages",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
+      "displayName": "Classics",
+      "listType": "official_undergraduate_majors",
+      "name": "Classics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "East European, Eurasian, and Russian Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "East European, Eurasian, and Russian Studies",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "English",
+      "listType": "official_undergraduate_majors",
+      "name": "English",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "French and Italian",
+      "listType": "official_undergraduate_majors",
+      "name": "French and Italian",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "German Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "German Studies",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Philosophy",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_majors",
       "name": "Philosophy",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cognitive Science, General",
-      "listType": "areas_of_study",
-      "name": "Cognitive Science, General",
+      "displayName": "Religion",
+      "listType": "official_undergraduate_majors",
+      "name": "Religion",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
+      "displayName": "Spanish and Portuguese",
+      "listType": "official_undergraduate_majors",
+      "name": "Spanish and Portuguese",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
+      "displayName": "African and African American Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "African and African American Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
+      "displayName": "Cognitive Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Cognitive Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Asian Studies/Civilization",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "American Indian/Native American Studies",
-      "listType": "areas_of_study",
-      "name": "American Indian/Native American Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Women's Studies",
-      "listType": "areas_of_study",
-      "name": "Women's Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology",
-      "listType": "areas_of_study",
-      "name": "Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
-      "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American and Caribbean Studies",
-      "listType": "areas_of_study",
-      "name": "Latin American and Caribbean Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geological and Earth Sciences/Geosciences, Other",
-      "listType": "areas_of_study",
-      "name": "Geological and Earth Sciences/Geosciences, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Near and Middle Eastern Studies",
-      "listType": "areas_of_study",
-      "name": "Near and Middle Eastern Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hispanic and Latin American Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Hispanic and Latin American Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Data Science, General",
-      "listType": "areas_of_study",
-      "name": "Data Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
-      "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Romance Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Romance Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Astronomy",
-      "listType": "areas_of_study",
-      "name": "Astronomy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Studies",
-      "listType": "areas_of_study",
-      "name": "Russian Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Comparative Literature",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_majors",
       "name": "Comparative Literature",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Studies",
-      "listType": "areas_of_study",
-      "name": "French Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Physics/Applied Physics",
-      "listType": "areas_of_study",
-      "name": "Engineering Physics/Applied Physics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
-      "listType": "areas_of_study",
-      "name": "German Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Ancient Studies/Civilization",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_majors",
       "name": "Environmental Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American Studies",
-      "listType": "areas_of_study",
-      "name": "Latin American Studies",
+      "displayName": "International Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "International Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Studies",
-      "listType": "areas_of_study",
-      "name": "Italian Studies",
+      "displayName": "Jewish Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Jewish Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish and Iberian Studies",
-      "listType": "areas_of_study",
-      "name": "Spanish and Iberian Studies",
+      "displayName": "Latin American, Latino, & Caribbean Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Latin American, Latino, & Caribbean Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "East Asian Languages, Literatures, and Linguistics, General",
+      "displayName": "Linguistics",
+      "listType": "official_undergraduate_majors",
+      "name": "Linguistics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chinese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Chinese Language and Literature",
+      "displayName": "Medieval and Renaissance Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Medieval and Renaissance Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Japanese Language and Literature",
+      "displayName": "Middle Eastern Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Middle Eastern Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Languages, Literatures, and Linguistics, Other",
-      "listType": "areas_of_study",
-      "name": "East Asian Languages, Literatures, and Linguistics, Other",
+      "displayName": "Native American Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Native American Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Portuguese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Portuguese Language and Literature",
+      "displayName": "Quantitative Social Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Quantitative Social Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
+      "displayName": "Women’s, Gender, & Sexuality Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Women’s, Gender, & Sexuality Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Arabic Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Arabic Language and Literature",
+      "displayName": "Biological Sciences",
+      "listType": "official_undergraduate_majors",
+      "name": "Biological Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hebrew Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Hebrew Language and Literature",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_majors",
+      "name": "Chemistry",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Latin Language and Literature",
+      "displayName": "Climate Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Climate Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Foreign Languages, Literatures, and Linguistics, Other",
-      "listType": "areas_of_study",
-      "name": "Foreign Languages, Literatures, and Linguistics, Other",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Computer Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Creative Writing",
-      "listType": "areas_of_study",
-      "name": "Creative Writing",
+      "displayName": "Earth Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Earth Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Liberal Arts and Sciences, General Studies and Humanities, Other",
-      "listType": "areas_of_study",
-      "name": "Liberal Arts and Sciences, General Studies and Humanities, Other",
+      "displayName": "Mathematics",
+      "listType": "official_undergraduate_majors",
+      "name": "Mathematics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Molecular Biology",
+      "displayName": "Physics and Astronomy",
+      "listType": "official_undergraduate_majors",
+      "name": "Physics and Astronomy",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cell/Cellular Biology and Histology",
-      "listType": "areas_of_study",
-      "name": "Cell/Cellular Biology and Histology",
+      "displayName": "Anthropology",
+      "listType": "official_undergraduate_majors",
+      "name": "Anthropology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Biology",
-      "listType": "areas_of_study",
-      "name": "Environmental Biology",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_majors",
+      "name": "Economics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Statistics",
-      "listType": "areas_of_study",
-      "name": "Mathematics and Statistics",
+      "displayName": "Education",
+      "listType": "official_undergraduate_majors",
+      "name": "Education",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physical Chemistry",
-      "listType": "areas_of_study",
-      "name": "Physical Chemistry",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, Other",
-      "listType": "areas_of_study",
-      "name": "Chemistry, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Geography",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_majors",
       "name": "Geography",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-c1d49d866707800bcb9409ad"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Government",
+      "listType": "official_undergraduate_majors",
+      "name": "Government",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History",
+      "listType": "official_undergraduate_majors",
+      "name": "History",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Neuroscience",
+      "listType": "official_undergraduate_majors",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Psychological and Brain Sciences",
+      "listType": "official_undergraduate_majors",
+      "name": "Psychological and Brain Sciences",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Public Policy",
+      "listType": "official_undergraduate_majors",
+      "name": "Public Policy",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sociology",
+      "listType": "official_undergraduate_majors",
+      "name": "Sociology",
+      "sourceIds": [
+        "official-source-c1d49d866707800bcb9409ad"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "sourceScope": "Dartmouth official undergraduate majors page, including Arts and Sciences and engineering major offerings",
+    "referenceYear": 2026
   },
   "anecdotes": [
     {
@@ -1143,8 +670,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$65,511",
-    "maximumUsd": 65511.0,
-    "minimumUsd": 65511.0,
+    "maximumUsd": 65511,
+    "minimumUsd": 65511,
     "scopes": [
       "private_single_rate"
     ],
@@ -1256,7 +783,7 @@
       "name": "Hanover"
     },
     {
-      "distance": 2.0,
+      "distance": 2,
       "name": "Norwich"
     },
     {
@@ -1389,7 +916,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 65511.0,
+      "amountUsd": 65511,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -1402,7 +929,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "NH",
-  "studentFacultyRatio": 7.0,
+  "studentFacultyRatio": 7,
   "topPrograms": [
     "Econometrics and Quantitative Economics",
     "Political Science and Government, General",
