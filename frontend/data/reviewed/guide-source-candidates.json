@@ -344,6 +344,18 @@
       "observedProgramNames": ["Computer Science", "Data Science", "Aerospace Engineering", "Biomedical Engineering", "Chemical Engineering", "Civil Engineering", "Computer Engineering", "Electrical Engineering", "Cyber Intelligence", "Cyber Policy and Ethics"],
       "programStatus": "official_catalog_observed_not_strength_claim",
       "checkedOn": "2026-10-20"
+    },
+    {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "universityName": "University of Massachusetts Amherst",
+      "sourceUrl": "https://www.umass.edu/ours/majors",
+      "sourceType": "official_complete_major_guide",
+      "publisher": "UMass Amherst Office of Undergraduate Research and Studies",
+      "scope": ["complete undergraduate major guide", "bachelor programs"],
+      "observedProgramNames": ["Arboriculture & Community Forest Management", "Accounting", "W.E.B. Du Bois Afro-American Studies", "Animal Science", "Anthropology", "Architecture", "Art", "Art Education", "Astronomy", "Bachelor Degree with Individualized Concentration - BDIC", "Biochemistry and Molecular Biology", "Biology", "Biomedical Engineering", "Biostatistics", "Building & Construction Technology", "Chemical Engineering", "Chemistry", "Civil and Environmental Engineering", "Classics", "Communication", "Speech, Language and Hearing Sciences", "Health Promotion and Policy", "Comparative Literature", "Computer Science", "Dance", "Earth Systems", "East Asian Languages and Cultures", "Economics", "Education", "Electrical and Computer Engineering", "English", "Environmental Conservation", "Environmental Health Sciences", "Environmental Science", "Biostatistics and Epidemiology", "Film Studies", "Finance", "Food Science", "French and Francophone Studies", "Geography", "Geology", "Earth, Geographic, and Climate Sciences", "German and Scandinavian Studies", "History", "History of Art and Architecture", "Horticultural Science", "Hospitality and Tourism Management", "Informatics", "Journalism", "Judaic and Near Eastern Studies", "Kinesiology", "Labor Studies", "Landscape Architecture and Regional Planning", "Landscape Contracting", "Languages, Literatures, and Cultures", "Legal Studies", "Linguistics", "Management", "Managerial Economics", "Marketing", "Mathematics and Statistics", "Mechanical and Industrial Engineering", "Microbiology", "Music", "Music and Dance", "Nursing", "Nutrition", "Operations and Information Management", "Plant & Soil Science", "Philosophy", "Physics", "Political Science", "Psychological and Brain Sciences", "Public Health Sciences", "Public Policy", "Resource Economics", "Russian, Eurasian and Polish Studies", "Social Thought and Political Economy", "Sociology", "Spanish and Portuguese", "Sport Management", "Stockbridge School of Agriculture", "Studio Arts", "Sustainable Community Development", "Sustainable Food & Farming", "Sustainable Horticulture", "Theater", "Turfgrass Science & Management", "Veterinary and Animal Sciences", "Women, Gender, Sexuality Studies"],
+      "programStatus": "official_complete_major_guide_observed_not_strength_claim",
+      "observedProgramCount": 90,
+      "checkedOn": "2026-10-23"
     }
   ]
 }

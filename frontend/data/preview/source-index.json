@@ -2560,6 +2560,19 @@
       "sourceType": "official_university_majors_directory",
       "status": "verified",
       "url": "https://bulletin.marquette.edu/health-sciences/policies/degrees-offered/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "publisher": "UMass Amherst Office of Undergraduate Research and Studies",
+      "referenceYear": 2026,
+      "scope": [
+        "complete undergraduate major guide",
+        "bachelor programs"
+      ],
+      "sourceId": "official-source-fb892cb8e9e83865118f30b6",
+      "sourceType": "official_complete_major_guide",
+      "status": "verified",
+      "url": "https://www.umass.edu/ours/majors"
     }
   ]
 }
