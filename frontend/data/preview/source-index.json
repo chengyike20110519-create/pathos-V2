@@ -3120,6 +3120,19 @@
       "sourceType": "official_undergraduate_catalog",
       "status": "verified",
       "url": "https://coursecatalog.syracuse.edu/undergraduate/citizenship-public-affairs/"
+    },
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "publisher": "Arizona State University Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degree programs",
+        "major catalog"
+      ],
+      "sourceId": "official-source-97840443dbb10d1c8c2597e9",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/undergraduate"
     }
   ]
 }

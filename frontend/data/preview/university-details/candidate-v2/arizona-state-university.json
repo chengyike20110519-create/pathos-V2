@@ -109,10 +109,323 @@
     "Arizona State University",
     "W. P. Carey School of Business"
   ],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Biological Sciences (Pre-Dental)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Biological Sciences (Pre-Dental)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Biological Sciences (Preveterinary Medicine)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Biological Sciences (Preveterinary Medicine)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Business and Technology Solutions",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Business and Technology Solutions",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Science (Early Childhood Studies)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Science (Early Childhood Studies)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Science (Operations Management)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Science (Operations Management)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology",
+      "listType": "official_undergraduate_major",
+      "name": "Biology",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biophysics",
+      "listType": "official_undergraduate_major",
+      "name": "Biophysics",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (Environmental Chemistry)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry (Environmental Chemistry)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Complexity Science",
+      "listType": "official_undergraduate_major",
+      "name": "Complexity Science",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Construction Management and Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Construction Management and Technology",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminology and Criminal Justice",
+      "listType": "official_undergraduate_major",
+      "name": "Criminology and Criminal Justice",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Early Childhood and Early Childhood Special Education",
+      "listType": "official_undergraduate_major",
+      "name": "Early Childhood and Early Childhood Special Education",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Educational Studies (Early Childhood Studies)",
+      "listType": "official_undergraduate_major",
+      "name": "Educational Studies (Early Childhood Studies)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Educational Studies (Instructional Design)",
+      "listType": "official_undergraduate_major",
+      "name": "Educational Studies (Instructional Design)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (Creative Writing)",
+      "listType": "official_undergraduate_major",
+      "name": "English (Creative Writing)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography",
+      "listType": "official_undergraduate_major",
+      "name": "Geography",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Management",
+      "listType": "official_undergraduate_major",
+      "name": "Global Management",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Care Compliance and Regulations",
+      "listType": "official_undergraduate_major",
+      "name": "Health Care Compliance and Regulations",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Landscape Architecture",
+      "listType": "official_undergraduate_major",
+      "name": "Landscape Architecture",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Speech and Hearing Science",
+      "listType": "official_undergraduate_major",
+      "name": "Speech and Hearing Science",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth and Space Exploration (Astrobiology and Biogeosciences)",
+      "listType": "official_undergraduate_major",
+      "name": "Earth and Space Exploration (Astrobiology and Biogeosciences)",
+      "sourceIds": [
+        "official-source-97840443dbb10d1c8c2597e9"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_current_page_slice"
+      ]
+    }
+  ],
   "allMajorsStatus": {
-    "nullReason": "identity_ipeds_match_not_resolved",
-    "status": "not_reported"
+    "status": "official_degree_search_observed_partial_scope",
+    "scope": "selected programs shown by ASU official Degree Search; ASU has 400+ undergraduate programs and remaining pages are pending extraction"
   },
   "anecdotes": [
     {
@@ -130,8 +443,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$12,051–$32,193",
-    "maximumUsd": 32193.0,
-    "minimumUsd": 12051.0,
+    "maximumUsd": 32193,
+    "minimumUsd": 12051,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -367,7 +680,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 12051.0,
+      "amountUsd": 12051,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -376,7 +689,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 32193.0,
+      "amountUsd": 32193,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -386,10 +699,10 @@
   ],
   "region": "Southwest",
   "schoolType": "public",
-  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceCommit": "2026-10-23-asu-degree-search-page-slice",
+  "sourceStatus": "official_degree_search_partial",
   "state": "AZ",
-  "studentFacultyRatio": 18.0,
+  "studentFacultyRatio": 18,
   "topPrograms": [
     "Supply Chain Management/Logistics",
     "Analytics",
