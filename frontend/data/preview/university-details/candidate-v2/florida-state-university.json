@@ -38,7 +38,16 @@
     "academicYear": "2025-26",
     "currency": "USD"
   },
-  "topPrograms": ["Biological Science", "Chemistry", "Computer Science", "Accounting", "Finance", "Management Information Systems", "Psychology", "Political Science"],
+  "topPrograms": [
+    "Biological Science",
+    "Chemistry",
+    "Computer Science",
+    "Accounting",
+    "Finance",
+    "Management Information Systems",
+    "Psychology",
+    "Political Science"
+  ],
   "studentFacultyRatio": 1,
   "acceptanceRate": 24.22,
   "sat25": null,
@@ -70,19 +79,1900 @@
     ]
   },
   "programs": [
-    {"id": "fsu:program:biological-science", "name": "Biological Science", "sourceIds": ["official-fsu-undergraduate-programs-2025"]},
-    {"id": "fsu:program:chemistry", "name": "Chemistry", "sourceIds": ["official-fsu-undergraduate-programs-2025"]},
-    {"id": "fsu:program:computer-science", "name": "Computer Science", "sourceIds": ["official-fsu-undergraduate-programs-2025"]},
-    {"id": "fsu:program:accounting", "name": "Accounting", "sourceIds": ["official-fsu-undergraduate-programs-2025"]},
-    {"id": "fsu:program:finance", "name": "Finance", "sourceIds": ["official-fsu-undergraduate-programs-2025"]},
-    {"id": "fsu:program:management-information-systems", "name": "Management Information Systems", "sourceIds": ["official-fsu-undergraduate-programs-2025"]},
-    {"id": "fsu:program:psychology", "name": "Psychology", "sourceIds": ["official-fsu-undergraduate-programs-2025"]},
-    {"id": "fsu:program:political-science", "name": "Political Science", "sourceIds": ["official-fsu-undergraduate-programs-2025"]}
+    {
+      "id": "fsu:program:biological-science",
+      "name": "Biological Science",
+      "sourceIds": [
+        "official-fsu-undergraduate-programs-2025"
+      ]
+    },
+    {
+      "id": "fsu:program:chemistry",
+      "name": "Chemistry",
+      "sourceIds": [
+        "official-fsu-undergraduate-programs-2025"
+      ]
+    },
+    {
+      "id": "fsu:program:computer-science",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-fsu-undergraduate-programs-2025"
+      ]
+    },
+    {
+      "id": "fsu:program:accounting",
+      "name": "Accounting",
+      "sourceIds": [
+        "official-fsu-undergraduate-programs-2025"
+      ]
+    },
+    {
+      "id": "fsu:program:finance",
+      "name": "Finance",
+      "sourceIds": [
+        "official-fsu-undergraduate-programs-2025"
+      ]
+    },
+    {
+      "id": "fsu:program:management-information-systems",
+      "name": "Management Information Systems",
+      "sourceIds": [
+        "official-fsu-undergraduate-programs-2025"
+      ]
+    },
+    {
+      "id": "fsu:program:psychology",
+      "name": "Psychology",
+      "sourceIds": [
+        "official-fsu-undergraduate-programs-2025"
+      ]
+    },
+    {
+      "id": "fsu:program:political-science",
+      "name": "Political Science",
+      "sourceIds": [
+        "official-fsu-undergraduate-programs-2025"
+      ]
+    }
   ],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Actuarial Science",
+      "listType": "official_undergraduate_major",
+      "name": "Actuarial Science",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Advertising (Communication)",
+      "listType": "official_undergraduate_major",
+      "name": "Advertising (Communication)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African American Studies",
+      "listType": "official_undergraduate_major",
+      "name": "African American Studies",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ancient History",
+      "listType": "official_undergraduate_major",
+      "name": "Ancient History",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History",
+      "listType": "official_undergraduate_major",
+      "name": "Art History",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art, Studio BA",
+      "listType": "official_undergraduate_major",
+      "name": "Art, Studio BA",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art, Studio BFA",
+      "listType": "official_undergraduate_major",
+      "name": "Art, Studio BFA",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Athletic Training",
+      "listType": "official_undergraduate_major",
+      "name": "Athletic Training",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Science",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Science",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Biomathematics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Blindness and Low Vision",
+      "listType": "official_undergraduate_major",
+      "name": "Blindness and Low Vision",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration (Panama City Campus Only)",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration (Panama City Campus Only)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Science",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Science",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civics and Liberty Studies (Conscience Liberty)",
+      "listType": "official_undergraduate_major",
+      "name": "Civics and Liberty Studies (Conscience Liberty)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civics and Liberty Studies (Constitutional Liberty)",
+      "listType": "official_undergraduate_major",
+      "name": "Civics and Liberty Studies (Constitutional Liberty)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civics and Liberty Studies (Economic Liberty)",
+      "listType": "official_undergraduate_major",
+      "name": "Civics and Liberty Studies (Economic Liberty)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civics and Liberty Studies (Educational Liberty)",
+      "listType": "official_undergraduate_major",
+      "name": "Civics and Liberty Studies (Educational Liberty)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Archaeology",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Archaeology",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Civilization",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Civilization",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics and Religion",
+      "listType": "official_undergraduate_major",
+      "name": "Classics and Religion",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication (Digital Media Production)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication (Digital Media Production)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication (Media and Communication Studies)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication (Media and Communication Studies)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication (Professional Communication) (Panama City Campus Only)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication (Professional Communication) (Panama City Campus Only)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Science & Disorders (Audiology & Speech Pathology)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Science & Disorders (Audiology & Speech Pathology)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computational Biology (Biology)",
+      "listType": "official_undergraduate_major",
+      "name": "Computational Biology (Biology)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computational Biology (Computer Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Computational Biology (Computer Science)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computational Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computational Science",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Programming and Applications BA (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Programming and Applications BA (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, BA (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, BA (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, BS (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, BS (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Crime Scene Investigation : Public Safety and Security",
+      "listType": "official_undergraduate_major",
+      "name": "Crime Scene Investigation : Public Safety and Security",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminology - Criminal Justice",
+      "listType": "official_undergraduate_major",
+      "name": "Criminology - Criminal Justice",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cyber Criminology (Computer Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Cyber Criminology (Computer Science)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cyber Criminology (Criminology)",
+      "listType": "official_undergraduate_major",
+      "name": "Cyber Criminology (Criminology)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dance",
+      "listType": "official_undergraduate_major",
+      "name": "Dance",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design and Visual Communication",
+      "listType": "official_undergraduate_major",
+      "name": "Design and Visual Communication",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dietetics",
+      "listType": "official_undergraduate_major",
+      "name": "Dietetics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Elementary Education",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary Education",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Elementary Education PC (Panama City Campus Only)",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary Education PC (Panama City Campus Only)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Emergency Management",
+      "listType": "official_undergraduate_major",
+      "name": "Emergency Management",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (Biomedical)",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (Biomedical)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (Chemical)",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (Chemical)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (Civil) (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (Civil) (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (Computer) (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (Computer) (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (Electrical) (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (Electrical) (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (Industrial)",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (Industrial)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering (Mechanical) (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering (Mechanical) (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (Creative Writing)",
+      "listType": "official_undergraduate_major",
+      "name": "English (Creative Writing)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (Editing, Writing, & Media)",
+      "listType": "official_undergraduate_major",
+      "name": "English (Editing, Writing, & Media)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (Literature, Media, and Culture)",
+      "listType": "official_undergraduate_major",
+      "name": "English (Literature, Media, and Culture)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English Education",
+      "listType": "official_undergraduate_major",
+      "name": "English Education",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Entrepreneurship (Commercial) (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Entrepreneurship (Commercial) (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Entrepreneurship (STEM)",
+      "listType": "official_undergraduate_major",
+      "name": "Entrepreneurship (STEM)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environment and Society",
+      "listType": "official_undergraduate_major",
+      "name": "Environment and Society",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Chemistry",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Science & Policy",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Science & Policy",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Science",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Science",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Event Management",
+      "listType": "official_undergraduate_major",
+      "name": "Event Management",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Exercise Physiology",
+      "listType": "official_undergraduate_major",
+      "name": "Exercise Physiology",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Exploratory",
+      "listType": "official_undergraduate_major",
+      "name": "Exploratory",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion, Merchandising, and Product Development",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion, Merchandising, and Product Development",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance",
+      "listType": "official_undergraduate_major",
+      "name": "Finance",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography",
+      "listType": "official_undergraduate_major",
+      "name": "Geography",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology",
+      "listType": "official_undergraduate_major",
+      "name": "Geology",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Club Management and Leadership",
+      "listType": "official_undergraduate_major",
+      "name": "Global Club Management and Leadership",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Greek and Latin",
+      "listType": "official_undergraduate_major",
+      "name": "Greek and Latin",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Greek",
+      "listType": "official_undergraduate_major",
+      "name": "Greek",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History",
+      "listType": "official_undergraduate_major",
+      "name": "History",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hospitality and Tourism Management (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Hospitality and Tourism Management (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Sciences",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Sciences",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Resource Management",
+      "listType": "official_undergraduate_major",
+      "name": "Human Resource Management",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Rights and Social Justice",
+      "listType": "official_undergraduate_major",
+      "name": "Human Rights and Social Justice",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Humanities",
+      "listType": "official_undergraduate_major",
+      "name": "Humanities",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Information Technology",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information, Communication & Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Information, Communication & Technology",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Intelligence Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Intelligence Studies",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Medical Sciences: Clinical Professions (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Medical Sciences: Clinical Professions (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Medical Sciences: Community Patient Care",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Medical Sciences: Community Patient Care",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Medical Sciences: Health Management, Policy and Information",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Medical Sciences: Health Management, Policy and Information",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Social Science (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Social Science (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interior Design",
+      "listType": "official_undergraduate_major",
+      "name": "Interior Design",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs (Asian Studies with Emphasis in Business)",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs (Asian Studies with Emphasis in Business)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs (Asian Studies)",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs (Asian Studies)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs (Broad Curriculum)",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs (Broad Curriculum)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs (Latin American and Caribbean Studies with Emphasis in Business)",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs (Latin American and Caribbean Studies with Emphasis in Business)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs (Latin American and Caribbean Studies)",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs (Latin American and Caribbean Studies)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Affairs (Russian and East European Studies)",
+      "listType": "official_undergraduate_major",
+      "name": "International Affairs (Russian and East European Studies)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Latin",
+      "listType": "official_undergraduate_major",
+      "name": "Latin",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Law Enforcement Intelligence : Public Safety and Security",
+      "listType": "official_undergraduate_major",
+      "name": "Law Enforcement Intelligence : Public Safety and Security",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Law Enforcement Operations : Public Safety and Security",
+      "listType": "official_undergraduate_major",
+      "name": "Law Enforcement Operations : Public Safety and Security",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics (General Linguistics, Linguistics & Languages)",
+      "listType": "official_undergraduate_major",
+      "name": "Linguistics (General Linguistics, Linguistics & Languages)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management (General)",
+      "listType": "official_undergraduate_major",
+      "name": "Management (General)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management Information Systems",
+      "listType": "official_undergraduate_major",
+      "name": "Management Information Systems",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Chemistry",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Chemistry",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Meteorology",
+      "listType": "official_undergraduate_major",
+      "name": "Meteorology",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Middle Eastern Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Middle Eastern Studies",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (Chinese)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (Chinese)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (Dual Languages)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (Dual Languages)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (French)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (French)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (German)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (German)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (Italian)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (Italian)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (Japanese)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (Japanese)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (Russian)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (Russian)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (Spanish)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (Spanish)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Modern Languages, Literatures, and Cultures (World Literature & Cultural Studies)",
+      "listType": "official_undergraduate_major",
+      "name": "Modern Languages, Literatures, and Cultures (World Literature & Cultural Studies)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Motion Picture Arts (Animation & Digital Arts)",
+      "listType": "official_undergraduate_major",
+      "name": "Motion Picture Arts (Animation & Digital Arts)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Motion Picture Arts (Production)",
+      "listType": "official_undergraduate_major",
+      "name": "Motion Picture Arts (Production)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (Business)",
+      "listType": "official_undergraduate_major",
+      "name": "Music (Business)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (Commercial)",
+      "listType": "official_undergraduate_major",
+      "name": "Music (Commercial)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (Community)",
+      "listType": "official_undergraduate_major",
+      "name": "Music (Community)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (General)",
+      "listType": "official_undergraduate_major",
+      "name": "Music (General)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (Jazz)",
+      "listType": "official_undergraduate_major",
+      "name": "Music (Jazz)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (Sacred)",
+      "listType": "official_undergraduate_major",
+      "name": "Music (Sacred)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Composition",
+      "listType": "official_undergraduate_major",
+      "name": "Music Composition",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Education (Choral)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Education (Choral)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Education (General)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Education (General)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Education (Instrumental)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Education (Instrumental)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (Guitar)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (Guitar)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (Harp)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (Harp)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (Jazz)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (Jazz)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (Organ)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (Organ)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (Piano)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (Piano)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (String)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (String)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (Voice)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (Voice)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (Woodwind, Brass, Percussion)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (Woodwind, Brass, Percussion)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Theatre (College of Music)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Theatre (College of Music)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Theatre (School of Theatre)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Theatre (School of Theatre)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Theory",
+      "listType": "official_undergraduate_major",
+      "name": "Music Theory",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Therapy",
+      "listType": "official_undergraduate_major",
+      "name": "Music Therapy",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience: Behavioral Neuroscience",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience: Behavioral Neuroscience",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience: Cell and Molecular Neuroscience",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience: Cell and Molecular Neuroscience",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition and Food Science",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition and Food Science",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physical Science",
+      "listType": "official_undergraduate_major",
+      "name": "Physical Science",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics & Astrophysics",
+      "listType": "official_undergraduate_major",
+      "name": "Physics & Astrophysics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Physics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Professional Communication (Panama City Campus Only)",
+      "listType": "official_undergraduate_major",
+      "name": "Professional Communication (Panama City Campus Only)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Professional Sales",
+      "listType": "official_undergraduate_major",
+      "name": "Professional Sales",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Relations (Communication)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Relations (Communication)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Real Estate",
+      "listType": "official_undergraduate_major",
+      "name": "Real Estate",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Recreation and Tourism Management",
+      "listType": "official_undergraduate_major",
+      "name": "Recreation and Tourism Management",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religion & Classics",
+      "listType": "official_undergraduate_major",
+      "name": "Religion & Classics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religion",
+      "listType": "official_undergraduate_major",
+      "name": "Religion",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Risk Management and Insurance",
+      "listType": "official_undergraduate_major",
+      "name": "Risk Management and Insurance",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Science Education",
+      "listType": "official_undergraduate_major",
+      "name": "Social Science Education",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Work (Also offered at Panama City Campus)",
+      "listType": "official_undergraduate_major",
+      "name": "Social Work (Also offered at Panama City Campus)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Special Education Teaching",
+      "listType": "official_undergraduate_major",
+      "name": "Special Education Teaching",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Management",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Management",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Stage Management",
+      "listType": "official_undergraduate_major",
+      "name": "Stage Management",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre, BA",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre, BA",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre, BFA (Acting)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre, BFA (Acting)",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Women’s Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Women’s Studies",
+      "sourceIds": [
+        "official-source-cd6c8562ad80f15a0757ec15"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-cd6c8562ad80f15a0757ec15"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {

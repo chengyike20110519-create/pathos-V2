@@ -2729,6 +2729,19 @@
       "sourceType": "official_undergraduate_program_catalog",
       "status": "verified",
       "url": "https://unc-public.courseleaf.com/undergraduate/programs-study/"
+    },
+    {
+      "universityId": "candidate-v2:florida-state-university",
+      "publisher": "Florida State University Academic Program Guide",
+      "referenceYear": 2026,
+      "scope": [
+        "A-Z list of academic programs",
+        "undergraduate program guide"
+      ],
+      "sourceId": "official-source-cd6c8562ad80f15a0757ec15",
+      "sourceType": "official_undergraduate_academic_program_guide",
+      "status": "verified",
+      "url": "https://academic-guide.fsu.edu/all-programs"
     }
   ]
 }
