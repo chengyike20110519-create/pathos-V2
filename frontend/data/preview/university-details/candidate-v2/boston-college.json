@@ -151,749 +151,778 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Finance, General",
-      "listType": "areas_of_study",
-      "name": "Finance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Speech Communication and Rhetoric",
-      "listType": "areas_of_study",
-      "name": "Speech Communication and Rhetoric",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Psychology",
-      "listType": "areas_of_study",
-      "name": "Applied Psychology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Registered Nursing/Registered Nurse",
-      "listType": "areas_of_study",
-      "name": "Registered Nursing/Registered Nurse",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Sciences and Quantitative Methods, Other",
-      "listType": "areas_of_study",
-      "name": "Management Sciences and Quantitative Methods, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration, Management and Operations, Other",
-      "listType": "areas_of_study",
-      "name": "Business Administration, Management and Operations, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marketing/Marketing Management, General",
-      "listType": "areas_of_study",
-      "name": "Marketing/Marketing Management, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Accounting",
-      "listType": "areas_of_study",
+      "displayName": "Accounting (B.S.)",
+      "listType": "official_undergraduate_major",
       "name": "Accounting",
+      "degree": "B.S.",
+      "division": "Carroll School of Management",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Information Science/Studies",
-      "listType": "areas_of_study",
-      "name": "Information Science/Studies",
+      "displayName": "Accounting for Finance and Consulting (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting for Finance and Consulting",
+      "degree": "B.S.",
+      "division": "Carroll School of Management",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
+      "displayName": "Business Analytics (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Business Analytics",
+      "degree": "B.S.",
+      "division": "Carroll School of Management",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
+      "displayName": "Finance (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Finance",
+      "degree": "B.S.",
+      "division": "Carroll School of Management",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Entrepreneurship/Entrepreneurial Studies",
-      "listType": "areas_of_study",
-      "name": "Entrepreneurship/Entrepreneurial Studies",
+      "displayName": "General Management (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "General Management",
+      "degree": "B.S.",
+      "division": "Carroll School of Management",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
+      "displayName": "Management and Leadership (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Management and Leadership",
+      "degree": "B.S.",
+      "division": "Carroll School of Management",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Environmental Studies",
+      "displayName": "Marketing (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing",
+      "degree": "B.S.",
+      "division": "Carroll School of Management",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
+      "displayName": "Operations Management (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Operations Management",
+      "degree": "B.S.",
+      "division": "Carroll School of Management",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Nursing (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing",
+      "degree": "B.S.",
+      "division": "Connell School of Nursing",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Global Public Health and the Common Good (B.A./B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Global Public Health and the Common Good",
+      "degree": "B.A./B.S.",
+      "division": "Connell School of Nursing",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "American Heritages (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "American Heritages",
+      "degree": "B.A.",
+      "division": "Lynch School of Education and Human Development",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Applied Psychology and Human Development (B.A./B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Psychology and Human Development",
+      "degree": "B.A./B.S.",
+      "division": "Lynch School of Education and Human Development",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Elementary Education (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary Education",
+      "degree": "B.A.",
+      "division": "Lynch School of Education and Human Development",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics/Computer Science (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics/Computer Science",
+      "degree": "B.A.",
+      "division": "Lynch School of Education and Human Development",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Perspectives on Spanish America (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Perspectives on Spanish America",
+      "degree": "B.A.",
+      "division": "Lynch School of Education and Human Development",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Secondary Education (B.A./B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Secondary Education",
+      "degree": "B.A./B.S.",
+      "division": "Lynch School of Education and Human Development",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Transformative Educational Studies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Transformative Educational Studies",
+      "degree": "B.A.",
+      "division": "Lynch School of Education and Human Development",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "African and African Diaspora Studies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "African and African Diaspora Studies",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Applied Physics (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Physics",
+      "degree": "B.S.",
+      "division": "Morrissey College of Arts and Sciences",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Art History (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Art History",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biochemistry (B.S.)",
+      "listType": "official_undergraduate_major",
       "name": "Biochemistry",
+      "degree": "B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Elementary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Elementary Education and Teaching",
+      "displayName": "Biology (B.A./B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology",
+      "degree": "B.A./B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
+      "displayName": "Chemistry (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry",
+      "degree": "B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
+      "displayName": "Classics (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Classics",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Secondary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Secondary Education and Teaching",
+      "displayName": "Communication (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
+      "displayName": "Computer Science (B.A./B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "degree": "B.A./B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Operations Management and Supervision",
-      "listType": "areas_of_study",
-      "name": "Operations Management and Supervision",
+      "displayName": "Economics (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration and Management, General",
-      "listType": "areas_of_study",
-      "name": "Business Administration and Management, General",
+      "displayName": "English (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "English",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education, General",
-      "listType": "areas_of_study",
-      "name": "Education, General",
+      "displayName": "Environmental Geoscience (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Geoscience",
+      "degree": "B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
+      "displayName": "Environmental Studies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Studies",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Theology/Theological Studies",
-      "listType": "areas_of_study",
-      "name": "Theology/Theological Studies",
+      "displayName": "Film Studies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Film Studies",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
+      "displayName": "French (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "French",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
+      "displayName": "Geological Sciences (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Geological Sciences",
+      "degree": "B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
+      "displayName": "German Studies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "German Studies",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "displayName": "Hispanic Studies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Hispanic Studies",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
+      "displayName": "History (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "History",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Criminal Justice/Safety Studies",
-      "listType": "areas_of_study",
-      "name": "Criminal Justice/Safety Studies",
+      "displayName": "Human-Centered Engineering (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Human-Centered Engineering",
+      "degree": "B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
-      "listType": "areas_of_study",
-      "name": "German Language and Literature",
+      "displayName": "Independent Major (B.A./B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Independent Major",
+      "degree": "B.A./B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
+      "displayName": "International Studies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
-      "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
+      "displayName": "Islamic Civilization and Societies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Islamic Civilization and Societies",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
+      "displayName": "Italian (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Italian",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Linguistics (B.A.)",
+      "listType": "official_undergraduate_major",
       "name": "Linguistics",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
+      "displayName": "Mathematics (B.A./B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics",
+      "degree": "B.A./B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
+      "displayName": "Music (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Music",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Liberal Arts and Sciences/Liberal Studies",
-      "listType": "areas_of_study",
-      "name": "Liberal Arts and Sciences/Liberal Studies",
+      "displayName": "Neuroscience (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience",
+      "degree": "B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Mathematics Teacher Education",
+      "displayName": "Philosophy (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Islamic Studies",
-      "listType": "areas_of_study",
-      "name": "Islamic Studies",
+      "displayName": "Physics (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics",
+      "degree": "B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Social Sciences, General",
+      "displayName": "Political Science (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Studies",
-      "listType": "areas_of_study",
-      "name": "Russian Studies",
+      "displayName": "Psychology (B.A./B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology",
+      "degree": "B.A./B.S.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Spanish Language Teacher Education",
+      "displayName": "Russian (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Russian",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education, Other",
-      "listType": "areas_of_study",
-      "name": "Education, Other",
+      "displayName": "Slavic Studies (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Slavic Studies",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Slavic Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Slavic Languages, Literatures, and Linguistics, General",
+      "displayName": "Sociology (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
+      "displayName": "Studio Art (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Studio Art",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
+      "displayName": "Theatre (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Natural Sciences",
-      "listType": "areas_of_study",
-      "name": "Natural Sciences",
+      "displayName": "Theology (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Theology",
+      "degree": "B.A.",
+      "division": "Morrissey College of Arts and Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-b4109f0b97808c875320f1f2"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Applied Data Science (B.S.)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Data Science",
+      "degree": "B.S.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Applied Liberal Arts (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Liberal Arts",
+      "degree": "B.A.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Business (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Business",
+      "degree": "B.A.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Criminal and Social Justice (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal and Social Justice",
+      "degree": "B.A.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Cybersecurity (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Cybersecurity",
+      "degree": "B.A.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Digital Communications (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Digital Communications",
+      "degree": "B.A.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Economics (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "degree": "B.A.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Information Technology (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Information Technology",
+      "degree": "B.A.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Psychology (B.A.)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology",
+      "degree": "B.A.",
+      "division": "Woods College of Advancing Studies",
+      "sourceIds": [
+        "official-source-b4109f0b97808c875320f1f2"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "referenceYear": 2026,
+    "scope": "Boston College official undergraduate programs across current undergraduate divisions; minors and concentrations excluded"
   },
   "anecdotes": [
     {
@@ -911,8 +940,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$67,680",
-    "maximumUsd": 67680.0,
-    "minimumUsd": 67680.0,
+    "maximumUsd": 67680,
+    "minimumUsd": 67680,
     "scopes": [
       "private_single_rate"
     ],
@@ -1149,7 +1178,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 67680.0,
+      "amountUsd": 67680,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -1162,7 +1191,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "MA",
-  "studentFacultyRatio": 13.0,
+  "studentFacultyRatio": 13,
   "topPrograms": [
     "Finance",
     "Accounting",
