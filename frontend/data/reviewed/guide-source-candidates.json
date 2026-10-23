@@ -185,15 +185,16 @@
     {
       "universityId": "candidate-v2:clemson-university",
       "universityName": "Clemson University",
-      "sourceUrl": "https://www.clemson.edu/undergraduate/majors.html",
-      "sourceType": "official_undergraduate_programs",
+      "sourceUrl": "https://www.clemson.edu/brand/writing/fact-guide.html",
+      "sourceType": "official_fact_guide_undergraduate_majors",
       "publisher": "Clemson University",
       "supportingSourceUrls": [
+        "https://www.clemson.edu/cafls/academics/undergraduate-majors/",
         "https://www.clemson.edu/science/academics/undergraduate/majors.html",
         "https://www.clemson.edu/cecas/departments/computing/"
       ],
       "scope": ["undergraduate majors", "degree programs"],
-      "observedProgramNames": ["Computer Science", "Packaging Science", "Environmental Engineering", "Industrial Engineering", "Animal and Veterinary Sciences", "Food Science and Human Nutrition", "Wildlife and Fisheries Biology"],
+      "observedProgramNames": ["Agribusiness", "Agricultural Education", "Agricultural Mechanization and Business", "Animal and Veterinary Sciences", "Environmental and Natural Resources", "Food Science and Human Nutrition", "Forest Resource Management", "Horticulture", "Packaging Science", "Plant and Environmental Sciences", "Preveterinary Medicine", "Turfgrass", "Wildlife and Fisheries Biology", "Architecture", "Art", "Construction Science and Management", "Landscape Architecture", "Visual Arts", "English", "History", "Language and International Business", "Language and International Health", "Modern Languages", "American Sign Language", "Chinese", "French", "German", "Italian", "Japanese", "Spanish", "Performing Arts", "Philosophy", "Religious Studies", "Women's Leadership", "World Cinema", "Anthropology", "Communication", "Criminal Justice", "Health Science", "Nursing", "Parks, Recreation and Tourism Management", "Political Science", "Psychology", "Sociology", "Sports Communication", "Accounting", "Economics", "Financial Management", "Graphic Communications", "Management", "Marketing", "Automotive Engineering", "Biomedical Engineering", "Biosystems Engineering", "Chemical Engineering", "Civil Engineering", "Computer Engineering", "Computer Information Systems", "Computer Science", "Electrical Engineering", "Environmental Engineering", "Geology", "Industrial Engineering", "Materials Science and Engineering", "Mechanical Engineering", "Early Childhood Education", "Elementary Education", "Human Capital Education and Development", "Mathematics Teaching", "Middle Level Education", "Modern Languages Education", "Science Teaching", "Secondary Education", "Special Education", "Biochemistry", "Biological Sciences", "Chemistry", "Data Science", "Genetics", "Mathematical Sciences", "Microbiology", "Physics", "Prepharmacy", "Preprofessional Health Studies"],
       "programStatus": "official_catalog_observed_not_strength_claim",
       "checkedOn": "2026-10-23"
     },

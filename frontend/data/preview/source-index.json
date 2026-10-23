@@ -2327,7 +2327,7 @@
         "degree programs"
       ],
       "sourceId": "official-source-b624e480e7f623f8f2f9f2cb",
-      "sourceType": "official_undergraduate_programs",
+      "sourceType": "official_fact_guide_undergraduate_majors",
       "status": "verified",
       "url": "https://www.clemson.edu/science/academics/undergraduate/majors.html"
     },
@@ -2340,7 +2340,7 @@
         "degree programs"
       ],
       "sourceId": "official-source-bb82709a39aa62e27e9e2a45",
-      "sourceType": "official_undergraduate_programs",
+      "sourceType": "official_fact_guide_undergraduate_majors",
       "status": "verified",
       "url": "https://www.clemson.edu/cecas/departments/computing/"
     },
@@ -2385,6 +2385,32 @@
       "sourceType": "official_degree_directory",
       "status": "verified",
       "url": "https://www.wpi.edu/academics/study"
+    },
+    {
+      "universityId": "candidate-v2:clemson-university",
+      "publisher": "Clemson University",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree programs"
+      ],
+      "sourceId": "official-source-ea6db14d2dbf5805e2a93390",
+      "sourceType": "official_fact_guide_undergraduate_majors",
+      "status": "verified",
+      "url": "https://www.clemson.edu/brand/writing/fact-guide.html"
+    },
+    {
+      "universityId": "candidate-v2:clemson-university",
+      "publisher": "Clemson University",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree programs"
+      ],
+      "sourceId": "official-source-bf51d64e8e22ba9431f3f77f",
+      "sourceType": "official_fact_guide_undergraduate_majors",
+      "status": "verified",
+      "url": "https://www.clemson.edu/cafls/academics/undergraduate-majors/"
     }
   ]
 }
