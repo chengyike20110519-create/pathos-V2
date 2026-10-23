@@ -149,1633 +149,1870 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration and Management, General",
-      "listType": "areas_of_study",
-      "name": "Business Administration and Management, General",
+      "displayName": "Acting (Performance)",
+      "listType": "official_undergraduate_majors",
+      "name": "Acting (Performance)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Radio and Television",
-      "listType": "areas_of_study",
-      "name": "Radio and Television",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Relations and Affairs",
-      "listType": "areas_of_study",
-      "name": "International Relations and Affairs",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Health Services/Allied Health/Health Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Health Services/Allied Health/Health Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Relations/Image Management",
-      "listType": "areas_of_study",
-      "name": "Public Relations/Image Management",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Advertising",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_majors",
       "name": "Advertising",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
+      "displayName": "African American & Black Diaspora Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "African American & Black Diaspora Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
+      "displayName": "American Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "American Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
+      "displayName": "Ancient Greek & Latin",
+      "listType": "official_undergraduate_majors",
+      "name": "Ancient Greek & Latin",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
+      "displayName": "Ancient Greek Language & Culture",
+      "listType": "official_undergraduate_majors",
+      "name": "Ancient Greek Language & Culture",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
+      "displayName": "Anthropology & Religion",
+      "listType": "official_undergraduate_majors",
+      "name": "Anthropology & Religion",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physiology, General",
-      "listType": "areas_of_study",
-      "name": "Physiology, General",
+      "displayName": "Anthropology—Specialization in Anthropology, Health & Medicine",
+      "listType": "official_undergraduate_majors",
+      "name": "Anthropology—Specialization in Anthropology, Health & Medicine",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Journalism",
-      "listType": "areas_of_study",
-      "name": "Journalism",
+      "displayName": "Anthropology—Specialization in Biological Anthropology",
+      "listType": "official_undergraduate_majors",
+      "name": "Anthropology—Specialization in Biological Anthropology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Molecular Biology",
+      "displayName": "Anthropology—Specialization in Sociocultural Anthropology",
+      "listType": "official_undergraduate_majors",
+      "name": "Anthropology—Specialization in Sociocultural Anthropology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematical Economics",
-      "listType": "areas_of_study",
-      "name": "Mathematical Economics",
+      "displayName": "Archaeological & Environmental Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Archaeological & Environmental Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hospitality Administration/Management, General",
-      "listType": "areas_of_study",
-      "name": "Hospitality Administration/Management, General",
+      "displayName": "Archaeology",
+      "listType": "official_undergraduate_majors",
+      "name": "Archaeology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
+      "displayName": "Architectural Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Architectural Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Communication, General",
-      "listType": "areas_of_study",
-      "name": "Communication, General",
+      "displayName": "Art",
+      "listType": "official_undergraduate_majors",
+      "name": "Art",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
+      "displayName": "Art Education",
+      "listType": "official_undergraduate_majors",
+      "name": "Art Education",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry and Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Biochemistry and Molecular Biology",
+      "displayName": "Asian Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Asian Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Graphic Design",
-      "listType": "areas_of_study",
-      "name": "Graphic Design",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computational Mathematics",
-      "listType": "areas_of_study",
-      "name": "Computational Mathematics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Sciences, Other",
-      "listType": "areas_of_study",
-      "name": "Social Sciences, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marine Biology and Biological Oceanography",
-      "listType": "areas_of_study",
-      "name": "Marine Biology and Biological Oceanography",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Rehabilitation Science",
-      "listType": "areas_of_study",
-      "name": "Rehabilitation Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Health Professions and Related Clinical Sciences, Other",
-      "listType": "areas_of_study",
-      "name": "Health Professions and Related Clinical Sciences, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Performance, General",
-      "listType": "areas_of_study",
-      "name": "Music Performance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Nutrition Sciences",
-      "listType": "areas_of_study",
-      "name": "Nutrition Sciences",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Acting",
-      "listType": "areas_of_study",
-      "name": "Acting",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Painting",
-      "listType": "areas_of_study",
-      "name": "Painting",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pre-Medicine/Pre-Medical Studies",
-      "listType": "areas_of_study",
-      "name": "Pre-Medicine/Pre-Medical Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Astronomy",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_majors",
       "name": "Astronomy",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architectural History and Criticism, General",
-      "listType": "areas_of_study",
-      "name": "Architectural History and Criticism, General",
+      "displayName": "Astronomy and Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Astronomy and Physics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Technical Theatre/Theatre Design and Technology",
-      "listType": "areas_of_study",
-      "name": "Technical Theatre/Theatre Design and Technology",
+      "displayName": "Behavior and Health",
+      "listType": "official_undergraduate_majors",
+      "name": "Behavior and Health",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Early Childhood Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Early Childhood Education and Teaching",
+      "displayName": "Biochemistry & Molecular Biology",
+      "listType": "official_undergraduate_majors",
+      "name": "Biochemistry & Molecular Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Audiology/Audiologist and Speech-Language Pathology/Pathologist",
-      "listType": "areas_of_study",
-      "name": "Audiology/Audiologist and Speech-Language Pathology/Pathologist",
+      "displayName": "Biology",
+      "listType": "official_undergraduate_majors",
+      "name": "Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cultural Anthropology",
-      "listType": "areas_of_study",
-      "name": "Cultural Anthropology",
+      "displayName": "Biology with Specialization in Behavioral Biology",
+      "listType": "official_undergraduate_majors",
+      "name": "Biology with Specialization in Behavioral Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
+      "displayName": "Biology with Specialization in Cell Biology, Molecular Biology & Genetics",
+      "listType": "official_undergraduate_majors",
+      "name": "Biology with Specialization in Cell Biology, Molecular Biology & Genetics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Ancient Studies/Civilization",
+      "displayName": "Biology with Specialization in Ecology & Conservation Biology",
+      "listType": "official_undergraduate_majors",
+      "name": "Biology with Specialization in Ecology & Conservation Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hospitality Administration/Management, Other",
-      "listType": "areas_of_study",
-      "name": "Hospitality Administration/Management, Other",
+      "displayName": "Biology with Specialization in Neurobiology",
+      "listType": "official_undergraduate_majors",
+      "name": "Biology with Specialization in Neurobiology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Conservation Biology",
-      "listType": "areas_of_study",
-      "name": "Conservation Biology",
+      "displayName": "Biomedical Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Biomedical Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
+      "displayName": "Business Administration & Management (Business Analytics)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Business Analytics)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Japanese Language and Literature",
+      "displayName": "Business Administration & Management (Independent Concentration)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Independent Concentration)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
+      "displayName": "Business Administration & Management (Information Systems Concentration)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Information Systems Concentration)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, Other",
-      "listType": "areas_of_study",
-      "name": "Chemistry, Other",
+      "displayName": "Business Administration & Management (Management & Organizations)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Management & Organizations)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Elementary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Elementary Education and Teaching",
+      "displayName": "Business Administration & Management (Operations & Supply Chain Management)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Operations & Supply Chain Management)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bilingual and Multilingual Education",
-      "listType": "areas_of_study",
-      "name": "Bilingual and Multilingual Education",
+      "displayName": "Business Administration & Management (Accounting Concentration)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Accounting Concentration)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Directing and Theatrical Production",
-      "listType": "areas_of_study",
-      "name": "Directing and Theatrical Production",
+      "displayName": "Business Administration & Management (Finance Concentration)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Finance Concentration)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American Studies",
-      "listType": "areas_of_study",
-      "name": "Latin American Studies",
+      "displayName": "Business Administration & Management (Global Business Concentration)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Global Business Concentration)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Archeology",
-      "listType": "areas_of_study",
-      "name": "Archeology",
+      "displayName": "Business Administration & Management (Innovation & Entrepreneurship)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Innovation & Entrepreneurship)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "American/United States Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "American/United States Studies/Civilization",
+      "displayName": "Business Administration & Management (Law Concentration)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Law Concentration)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer and Information Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Computer and Information Sciences, General",
+      "displayName": "Business Administration & Management (Marketing Concentration)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Marketing Concentration)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Special Education and Teaching, General",
-      "listType": "areas_of_study",
-      "name": "Special Education and Teaching, General",
+      "displayName": "Business Administration & Management (Real Estate)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Real Estate)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "English/Language Arts Teacher Education",
-      "listType": "areas_of_study",
-      "name": "English/Language Arts Teacher Education",
+      "displayName": "Business Administration & Management (Strategy)",
+      "listType": "official_undergraduate_majors",
+      "name": "Business Administration & Management (Strategy)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BSBA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Music Teacher Education",
+      "displayName": "Chemistry",
+      "listType": "official_undergraduate_majors",
+      "name": "Chemistry",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
+      "displayName": "Chemistry & Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Chemistry & Physics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physical and Biological Anthropology",
-      "listType": "areas_of_study",
-      "name": "Physical and Biological Anthropology",
+      "displayName": "Chemistry with Specialization in Chemical Biology",
+      "listType": "official_undergraduate_majors",
+      "name": "Chemistry with Specialization in Chemical Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education/Teaching of Individuals with Hearing Impairments Including Deafness",
-      "listType": "areas_of_study",
-      "name": "Education/Teaching of Individuals with Hearing Impairments Including Deafness",
+      "displayName": "Chinese Language & Literature",
+      "listType": "official_undergraduate_majors",
+      "name": "Chinese Language & Literature",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Studies Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Social Studies Teacher Education",
+      "displayName": "Cinema & Media Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Cinema & Media Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Physics/Applied Physics",
-      "listType": "areas_of_study",
-      "name": "Engineering Physics/Applied Physics",
+      "displayName": "Classical Civilization",
+      "listType": "official_undergraduate_majors",
+      "name": "Classical Civilization",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
-      "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
+      "displayName": "Classics & Archaeology",
+      "listType": "official_undergraduate_majors",
+      "name": "Classics & Archaeology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
+      "displayName": "Classics & Philosophy",
+      "listType": "official_undergraduate_majors",
+      "name": "Classics & Philosophy",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Medical Anthropology",
-      "listType": "areas_of_study",
-      "name": "Medical Anthropology",
+      "displayName": "Classics & Religion",
+      "listType": "official_undergraduate_majors",
+      "name": "Classics & Religion",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Printmaking",
-      "listType": "areas_of_study",
-      "name": "Printmaking",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Theory and Composition",
-      "listType": "areas_of_study",
-      "name": "Music Theory and Composition",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Clinical/Medical Laboratory Technician",
-      "listType": "areas_of_study",
-      "name": "Clinical/Medical Laboratory Technician",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Near and Middle Eastern Studies",
-      "listType": "areas_of_study",
-      "name": "Near and Middle Eastern Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Comparative Literature",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_majors",
       "name": "Comparative Literature",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chinese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Chinese Language and Literature",
+      "displayName": "Composition & Theory",
+      "listType": "official_undergraduate_majors",
+      "name": "Composition & Theory",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "MusB"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Criminal Justice/Safety Studies",
-      "listType": "areas_of_study",
-      "name": "Criminal Justice/Safety Studies",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Computer Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education, General",
-      "listType": "areas_of_study",
-      "name": "Education, General",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Computer Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Art Teacher Education",
+      "displayName": "Computer Science & Economics",
+      "listType": "official_undergraduate_majors",
+      "name": "Computer Science & Economics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Foreign Language Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Foreign Language Teacher Education",
+      "displayName": "Costume Design and Production (Design, Production & Management)",
+      "listType": "official_undergraduate_majors",
+      "name": "Costume Design and Production (Design, Production & Management)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Mathematics Teacher Education",
+      "displayName": "Data Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Data Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistic, Comparative, and Related Language Studies and Services, Other",
-      "listType": "areas_of_study",
-      "name": "Linguistic, Comparative, and Related Language Studies and Services, Other",
+      "displayName": "Earth & Environmental Sciences",
+      "listType": "official_undergraduate_majors",
+      "name": "Earth & Environmental Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Languages, Literatures, and Linguistics, Other",
-      "listType": "areas_of_study",
-      "name": "East Asian Languages, Literatures, and Linguistics, Other",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_majors",
+      "name": "Economics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
+      "displayName": "Economics & Mathematics",
+      "listType": "official_undergraduate_majors",
+      "name": "Economics & Mathematics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
-      "listType": "areas_of_study",
-      "name": "German Language and Literature",
+      "displayName": "Education & Human Development",
+      "listType": "official_undergraduate_majors",
+      "name": "Education & Human Development",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Biochemistry",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Electrical Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physical Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Physical Sciences, General",
+      "displayName": "English",
+      "listType": "official_undergraduate_majors",
+      "name": "English",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA",
+        "BA/MusB"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Counseling Psychology",
-      "listType": "areas_of_study",
-      "name": "Counseling Psychology",
+      "displayName": "Environmental Analysis & Policy",
+      "listType": "official_undergraduate_majors",
+      "name": "Environmental Analysis & Policy",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
+      "displayName": "European Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "European Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art/Art Studies, General",
-      "listType": "areas_of_study",
-      "name": "Art/Art Studies, General",
+      "displayName": "Film & Television",
+      "listType": "official_undergraduate_majors",
+      "name": "Film & Television",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sculpture",
-      "listType": "areas_of_study",
-      "name": "Sculpture",
+      "displayName": "French & Linguistics",
+      "listType": "official_undergraduate_majors",
+      "name": "French & Linguistics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Asian Studies/Civilization",
+      "displayName": "French Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "French Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Studies",
-      "listType": "areas_of_study",
-      "name": "East Asian Studies",
+      "displayName": "German Language & Literature",
+      "listType": "official_undergraduate_majors",
+      "name": "German Language & Literature",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "European Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "European Studies/Civilization",
+      "displayName": "Graphic Design",
+      "listType": "official_undergraduate_majors",
+      "name": "Graphic Design",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Health Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Health Science",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History",
+      "listType": "official_undergraduate_majors",
+      "name": "History",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History of Art & Architecture",
+      "listType": "official_undergraduate_majors",
+      "name": "History of Art & Architecture",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Holocaust, Genocide and Human Rights Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Holocaust, Genocide and Human Rights Studies",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Hospitality Administration",
+      "listType": "official_undergraduate_majors",
+      "name": "Hospitality Administration",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Hospitality Communications",
+      "listType": "official_undergraduate_majors",
+      "name": "Hospitality Communications",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Human Physiology",
+      "listType": "official_undergraduate_majors",
+      "name": "Human Physiology",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Independent Major",
+      "listType": "official_undergraduate_majors",
+      "name": "Independent Major",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "International Relations",
+      "listType": "official_undergraduate_majors",
+      "name": "International Relations",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Italian & Linguistics",
+      "listType": "official_undergraduate_majors",
+      "name": "Italian & Linguistics",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Italian Studies",
-      "listType": "areas_of_study",
+      "listType": "official_undergraduate_majors",
       "name": "Italian Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Area Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Area Studies, Other",
+      "displayName": "Japanese & Linguistics",
+      "listType": "official_undergraduate_majors",
+      "name": "Japanese & Linguistics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Science Teacher Education/General Science Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Science Teacher Education/General Science Teacher Education",
+      "displayName": "Japanese Language & Literature",
+      "listType": "official_undergraduate_majors",
+      "name": "Japanese Language & Literature",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education, Other",
-      "listType": "areas_of_study",
-      "name": "Education, Other",
+      "displayName": "Journalism",
+      "listType": "official_undergraduate_majors",
+      "name": "Journalism",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Engineering, General",
+      "displayName": "Korean Language & Literature",
+      "listType": "official_undergraduate_majors",
+      "name": "Korean Language & Literature",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hispanic and Latin American Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Hispanic and Latin American Languages, Literatures, and Linguistics, General",
+      "displayName": "Latin American Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Latin American Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Romance Languages, Literatures, and Linguistics, Other",
-      "listType": "areas_of_study",
-      "name": "Romance Languages, Literatures, and Linguistics, Other",
+      "displayName": "Latin Language & Culture",
+      "listType": "official_undergraduate_majors",
+      "name": "Latin Language & Culture",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics, Other",
-      "listType": "areas_of_study",
-      "name": "Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics, Other",
+      "displayName": "Lighting Design (Design, Production & Management)",
+      "listType": "official_undergraduate_majors",
+      "name": "Lighting Design (Design, Production & Management)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "displayName": "Linguistics",
+      "listType": "official_undergraduate_majors",
+      "name": "Linguistics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Latin Language and Literature",
+      "displayName": "Linguistics & African Languages",
+      "listType": "official_undergraduate_majors",
+      "name": "Linguistics & African Languages",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, Other",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, Other",
+      "displayName": "Linguistics & Computer Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Linguistics & Computer Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Biology",
-      "listType": "areas_of_study",
-      "name": "Environmental Biology",
+      "displayName": "Linguistics & Philosophy",
+      "listType": "official_undergraduate_majors",
+      "name": "Linguistics & Philosophy",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Financial Mathematics",
-      "listType": "areas_of_study",
-      "name": "Financial Mathematics",
+      "displayName": "Linguistics and Speech, Language & Hearing Sciences",
+      "listType": "official_undergraduate_majors",
+      "name": "Linguistics and Speech, Language & Hearing Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
+      "displayName": "Marine Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Marine Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geophysics and Seismology",
-      "listType": "areas_of_study",
-      "name": "Geophysics and Seismology",
+      "displayName": "Materials & Nanoscience",
+      "listType": "official_undergraduate_majors",
+      "name": "Materials & Nanoscience",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Youth Services/Administration",
-      "listType": "areas_of_study",
-      "name": "Youth Services/Administration",
+      "displayName": "Mathematics & Computer Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Mathematics & Computer Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography",
-      "listType": "areas_of_study",
-      "name": "Geography",
+      "displayName": "Mathematics & Mathematics Education",
+      "listType": "official_undergraduate_majors",
+      "name": "Mathematics & Mathematics Education",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Urban Studies/Affairs",
-      "listType": "areas_of_study",
-      "name": "Urban Studies/Affairs",
+      "displayName": "Mathematics & Philosophy",
+      "listType": "official_undergraduate_majors",
+      "name": "Mathematics & Philosophy",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Visual and Performing Arts, General",
-      "listType": "areas_of_study",
-      "name": "Visual and Performing Arts, General",
+      "displayName": "Mathematics & Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Mathematics & Physics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Musicology and Ethnomusicology",
-      "listType": "areas_of_study",
-      "name": "Musicology and Ethnomusicology",
+      "displayName": "Mathematics (includes Statistics)",
+      "listType": "official_undergraduate_majors",
+      "name": "Mathematics (includes Statistics)",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Keyboard Instruments",
-      "listType": "areas_of_study",
-      "name": "Keyboard Instruments",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Mechanical Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Athletic Training/Trainer",
-      "listType": "areas_of_study",
-      "name": "Athletic Training/Trainer",
+      "displayName": "Media Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Media Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pre-Dentistry Studies",
-      "listType": "areas_of_study",
-      "name": "Pre-Dentistry Studies",
+      "displayName": "Middle East & North Africa Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Middle East & North Africa Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BS"
       ]
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Rehabilitation and Therapeutic Professions, Other",
-      "listType": "areas_of_study",
-      "name": "Rehabilitation and Therapeutic Professions, Other",
+      "displayName": "Middle Eastern and South Asian Languages & Literatures",
+      "listType": "official_undergraduate_majors",
+      "name": "Middle Eastern and South Asian Languages & Literatures",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music (Nonperformance)",
+      "listType": "official_undergraduate_majors",
+      "name": "Music (Nonperformance)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music (Performance)",
+      "listType": "official_undergraduate_majors",
+      "name": "Music (Performance)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "MusB"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Education",
+      "listType": "official_undergraduate_majors",
+      "name": "Music Education",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "MusB"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Neuroscience",
+      "listType": "official_undergraduate_majors",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Nutrition (Dietetics Track)",
+      "listType": "official_undergraduate_majors",
+      "name": "Nutrition (Dietetics Track)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Nutrition (Nutrition & Health Track)",
+      "listType": "official_undergraduate_majors",
+      "name": "Nutrition (Nutrition & Health Track)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Nutrition (Nutrition Science Track)",
+      "listType": "official_undergraduate_majors",
+      "name": "Nutrition (Nutrition Science Track)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Painting",
+      "listType": "official_undergraduate_majors",
+      "name": "Painting",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy",
+      "listType": "official_undergraduate_majors",
+      "name": "Philosophy",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy & Neuroscience",
+      "listType": "official_undergraduate_majors",
+      "name": "Philosophy & Neuroscience",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy & Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Philosophy & Physics",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy & Political Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Philosophy & Political Science",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy & Psychology",
+      "listType": "official_undergraduate_majors",
+      "name": "Philosophy & Psychology",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy & Religion",
+      "listType": "official_undergraduate_majors",
+      "name": "Philosophy & Religion",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physical Therapy (Six-Year Program)",
+      "listType": "official_undergraduate_majors",
+      "name": "Physical Therapy (Six-Year Program)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS/DPT"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Physics",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics & Computer Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Physics & Computer Science",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Political Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Political Science",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Pre-Dentistry",
+      "listType": "official_undergraduate_majors",
+      "name": "Pre-Dentistry",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Pre-Law",
+      "listType": "official_undergraduate_majors",
+      "name": "Pre-Law",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Pre-Medicine",
+      "listType": "official_undergraduate_majors",
+      "name": "Pre-Medicine",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Pre-Veterinary Medicine",
+      "listType": "official_undergraduate_majors",
+      "name": "Pre-Veterinary Medicine",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Printmaking",
+      "listType": "official_undergraduate_majors",
+      "name": "Printmaking",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Psychology",
+      "listType": "official_undergraduate_majors",
+      "name": "Psychology",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Public Relations",
+      "listType": "official_undergraduate_majors",
+      "name": "Public Relations",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Religion",
+      "listType": "official_undergraduate_majors",
+      "name": "Religion",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Russian Language and Literature",
+      "listType": "official_undergraduate_majors",
+      "name": "Russian Language and Literature",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Scene Design (Design, Production & Management)",
+      "listType": "official_undergraduate_majors",
+      "name": "Scene Design (Design, Production & Management)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Science Education with Specialization in Biology, Chemistry, or Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Science Education with Specialization in Biology, Chemistry, or Physics",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sculpture",
+      "listType": "official_undergraduate_majors",
+      "name": "Sculpture",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sociology",
+      "listType": "official_undergraduate_majors",
+      "name": "Sociology",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sound Design (Design, Production & Management)",
+      "listType": "official_undergraduate_majors",
+      "name": "Sound Design (Design, Production & Management)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Spanish",
+      "listType": "official_undergraduate_majors",
+      "name": "Spanish",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Spanish & Linguistics",
+      "listType": "official_undergraduate_majors",
+      "name": "Spanish & Linguistics",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Speech, Language & Hearing Sciences",
+      "listType": "official_undergraduate_majors",
+      "name": "Speech, Language & Hearing Sciences",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Stage Management (Design, Production & Management)",
+      "listType": "official_undergraduate_majors",
+      "name": "Stage Management (Design, Production & Management)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Statistics & Computer Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Statistics & Computer Science",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Technical Production (Design, Production & Management)",
+      "listType": "official_undergraduate_majors",
+      "name": "Technical Production (Design, Production & Management)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Theatre Arts",
+      "listType": "official_undergraduate_majors",
+      "name": "Theatre Arts",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Theatre Arts Design & Production (Design, Production & Management)",
+      "listType": "official_undergraduate_majors",
+      "name": "Theatre Arts Design & Production (Design, Production & Management)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Theatre Arts/Performance (Performance)",
+      "listType": "official_undergraduate_majors",
+      "name": "Theatre Arts/Performance (Performance)",
+      "sourceIds": [
+        "official-source-459ebf61814d138e2e8a04e5"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BFA"
       ]
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "sourceScope": "Boston University Admissions majors page; entries with an explicit undergraduate degree label",
+    "referenceYear": 2026
   },
   "anecdotes": [
     {
@@ -1793,8 +2030,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$65,168",
-    "maximumUsd": 65168.0,
-    "minimumUsd": 65168.0,
+    "maximumUsd": 65168,
+    "minimumUsd": 65168,
     "scopes": [
       "private_single_rate"
     ],
@@ -2010,7 +2247,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 65168.0,
+      "amountUsd": 65168,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -2021,9 +2258,9 @@
   "region": "New England",
   "schoolType": "private_nonprofit",
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceStatus": "verified_official",
   "state": "MA",
-  "studentFacultyRatio": 10.0,
+  "studentFacultyRatio": 10,
   "topPrograms": [
     "Business Administration and Management, General",
     "Economics, General",
