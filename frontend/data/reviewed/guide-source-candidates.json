@@ -201,11 +201,11 @@
     {
       "universityId": "candidate-v2:college-of-william-and-mary",
       "universityName": "College of William and Mary",
-      "sourceUrl": "https://catalog.wm.edu/programs/undergraduate/",
+      "sourceUrl": "https://catalog.wm.edu/undergraduate/requirements-degrees/",
       "sourceType": "official_undergraduate_catalog",
       "publisher": "William & Mary Academic Catalog",
       "scope": ["undergraduate programs", "majors", "minors", "pre-professional programs"],
-      "observedProgramNames": ["Computer Science", "Data Science", "Physics", "Business Analytics", "Global Studies", "Environment and Sustainability", "Film and Media Studies"],
+      "observedProgramNames": ["American Studies", "Anthropology", "Art and Art History", "Chinese Language and Culture", "Classical Studies", "Computer Science", "Economics", "English Language and Literature", "French and Francophone Studies", "Global Studies", "Government", "Hispanic Studies", "History", "Interdisciplinary Studies", "International Relations", "Japanese Studies", "Linguistics", "Music", "Philosophy", "Psychology", "Public Health", "Public Policy", "Religious Studies", "Sociology", "Theatre", "Biology", "Chemistry", "Coastal and Marine Sciences", "Computational and Applied Mathematics and Statistics", "Data Science", "Geology", "Human Health and Physiology", "Mathematics", "Neuroscience", "Physics", "Accounting", "Business Analytics", "Finance", "Marketing", "Elementary Education", "Africana Studies", "Environment and Sustainability", "Film and Media Studies", "Gender, Sexuality and Women's Studies", "Integrative Conservation", "Medieval and Renaissance Studies", "Self-Designed Major"],
       "programStatus": "official_catalog_observed_not_strength_claim",
       "checkedOn": "2026-10-23"
     },

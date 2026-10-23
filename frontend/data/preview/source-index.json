@@ -2411,6 +2411,21 @@
       "sourceType": "official_fact_guide_undergraduate_majors",
       "status": "verified",
       "url": "https://www.clemson.edu/cafls/academics/undergraduate-majors/"
+    },
+    {
+      "universityId": "candidate-v2:college-of-william-and-mary",
+      "publisher": "William & Mary Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate programs",
+        "majors",
+        "minors",
+        "pre-professional programs"
+      ],
+      "sourceId": "official-source-396bd9208a5b5a3b6118efe3",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://catalog.wm.edu/undergraduate/requirements-degrees/"
     }
   ]
 }
