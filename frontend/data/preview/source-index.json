@@ -2826,6 +2826,20 @@
       "sourceType": "official_undergraduate_degree_directory",
       "status": "verified",
       "url": "https://www.smu.edu/academics/degrees-and-programs"
+    },
+    {
+      "universityId": "candidate-v2:columbia-university",
+      "publisher": "Columbia University School of General Studies Bulletin 2026-2027",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "General Studies only",
+        "Columbia College and Engineering pending separate extraction"
+      ],
+      "sourceId": "official-source-ddc2089b53b67104c8e84039",
+      "sourceType": "official_undergraduate_bulletin_general_studies",
+      "status": "verified",
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/"
     }
   ]
 }
