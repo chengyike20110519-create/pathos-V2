@@ -10,8 +10,8 @@
       "publisher": "Columbia University School of General Studies Bulletin 2026-2027",
       "scope": [
         "undergraduate majors",
-        "General Studies only",
-        "Columbia College and Engineering pending separate extraction"
+        "General Studies and Columbia Engineering official bulletins",
+        "Columbia College still pending separate extraction"
       ],
       "observedProgramNames": [
         "African-American Studies",
@@ -90,11 +90,28 @@
         "Urban Studies",
         "Visual Arts",
         "Women’s and Gender Studies",
-        "Yiddish Studies"
+        "Yiddish Studies",
+        "Applied Physics",
+        "Biomedical Engineering",
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Computer Engineering",
+        "Earth and Environmental Engineering",
+        "Electrical Engineering",
+        "Engineering Management Systems",
+        "Engineering Mechanics",
+        "Financial Engineering",
+        "Industrial Engineering",
+        "Materials Science and Engineering",
+        "Mechanical Engineering",
+        "Operations Research"
       ],
       "programStatus": "official_directory_observed_partial_scope",
-      "observedProgramCount": 77,
-      "checkedOn": "2026-10-23"
+      "observedProgramCount": 91,
+      "checkedOn": "2026-10-23",
+      "supportingSourceUrls": [
+        "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/"
+      ]
     },
     {
       "universityId": "candidate-v2:southern-methodist-university",

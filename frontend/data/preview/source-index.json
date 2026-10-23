@@ -2833,13 +2833,27 @@
       "referenceYear": 2026,
       "scope": [
         "undergraduate majors",
-        "General Studies only",
-        "Columbia College and Engineering pending separate extraction"
+        "General Studies and Columbia Engineering official bulletins",
+        "Columbia College still pending separate extraction"
       ],
       "sourceId": "official-source-ddc2089b53b67104c8e84039",
       "sourceType": "official_undergraduate_bulletin_general_studies",
       "status": "verified",
       "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/"
+    },
+    {
+      "universityId": "candidate-v2:columbia-university",
+      "publisher": "Columbia University School of General Studies Bulletin 2026-2027",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "General Studies and Columbia Engineering official bulletins",
+        "Columbia College still pending separate extraction"
+      ],
+      "sourceId": "official-source-15722fd0c4e16669130778d7",
+      "sourceType": "official_undergraduate_bulletin_general_studies",
+      "status": "verified",
+      "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/"
     }
   ]
 }

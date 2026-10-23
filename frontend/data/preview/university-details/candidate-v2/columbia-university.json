@@ -993,7 +993,23 @@
       ],
       "status": "verified",
       "warnings": []
-    }
+    },
+    "Applied Mathematics",
+    "Applied Physics",
+    "Biomedical Engineering",
+    "Chemical Engineering",
+    "Civil Engineering",
+    "Computer Engineering",
+    "Computer Science",
+    "Earth and Environmental Engineering",
+    "Electrical Engineering",
+    "Engineering Management Systems",
+    "Engineering Mechanics",
+    "Financial Engineering",
+    "Industrial Engineering",
+    "Materials Science and Engineering",
+    "Mechanical Engineering",
+    "Operations Research"
   ],
   "allMajorsStatus": {
     "status": "verified_official_catalog",
@@ -1003,7 +1019,9 @@
     ],
     "warnings": [
       "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
-    ]
+    ],
+    "scope": "General Studies and Columbia Engineering; Columbia College still pending separate extraction",
+    "observedProgramCount": 93
   },
   "anecdotes": [
     {
@@ -1202,7 +1220,9 @@
       "displayName": "Applied Mathematics",
       "listType": "official_undergraduate_major",
       "name": "Applied Mathematics",
-      "sourceIds": [],
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1400,7 +1420,9 @@
       "displayName": "Computer Science",
       "listType": "official_undergraduate_major",
       "name": "Computer Science",
-      "sourceIds": [],
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
       "status": "verified",
       "warnings": [
         "scope_general_studies"
@@ -1998,6 +2020,214 @@
       "status": "verified",
       "warnings": [
         "scope_general_studies"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Mathematics",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Physics",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Physics",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth and Environmental Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Earth and Environmental Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering Management Systems",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering Management Systems",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering Mechanics",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering Mechanics",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Financial Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Financial Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science and Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Science and Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Operations Research",
+      "listType": "official_undergraduate_major",
+      "name": "Operations Research",
+      "sourceIds": [
+        "source_columbia_engineering_undergraduate_catalog"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_engineering"
       ]
     }
   ],
