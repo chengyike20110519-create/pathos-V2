@@ -2465,6 +2465,20 @@
       "sourceType": "official_undergraduate_programs",
       "status": "verified",
       "url": "https://www.stevens.edu/academics/academic-catalog"
+    },
+    {
+      "universityId": "candidate-v2:michigan-state-university",
+      "publisher": "Michigan State University Academic Programs",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degrees",
+        "academic programs",
+        "college and department listings"
+      ],
+      "sourceId": "official-source-a00853bac70577e5e21fd82e",
+      "sourceType": "official_undergraduate_programs",
+      "status": "verified",
+      "url": "https://reg.msu.edu/AcademicPrograms/Programs.aspx?PType=UC"
     }
   ]
 }
