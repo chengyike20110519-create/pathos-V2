@@ -1,31 +1,31 @@
 {
   "acceptanceRate": {
     "nullReason": null,
-    "referenceYear": 2025,
+    "referenceYear": 2024,
     "scope": "institution_undergraduate_admissions",
     "sourceIds": [
-      "source_stage4b_college_scorecard_2025_05_19"
+      "official-osu-columbus-cds-2024-25"
     ],
     "status": "verified",
     "unit": "ratio",
-    "value": 0.5082,
+    "value": 0.6057477103900919,
     "warnings": [
-      "uniform source-variable cohort year is not available in the frozen 2025 release metadata"
+      "Computed from official Common Data Set Fall 2024 applicants and admitted counts; this is not a current-cycle prediction."
     ]
   },
   "admissions": {
     "acceptanceRate": {
       "nullReason": null,
-      "referenceYear": 2025,
+      "referenceYear": 2024,
       "scope": "institution_undergraduate_admissions",
       "sourceIds": [
-        "source_stage4b_college_scorecard_2025_05_19"
+        "official-osu-columbus-cds-2024-25"
       ],
       "status": "verified",
       "unit": "ratio",
-      "value": 0.5082,
+      "value": 0.6057477103900919,
       "warnings": [
-        "uniform source-variable cohort year is not available in the frozen 2025 release metadata"
+        "Computed from official Common Data Set Fall 2024 applicants and admitted counts; this is not a current-cycle prediction."
       ]
     },
     "act": {
@@ -168,8 +168,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$12,859–$38,365",
-    "maximumUsd": 38365.0,
-    "minimumUsd": 12859.0,
+    "maximumUsd": 38365,
+    "minimumUsd": 12859,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -413,7 +413,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 12859.0,
+      "amountUsd": 12859,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -422,7 +422,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 38365.0,
+      "amountUsd": 38365,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -435,7 +435,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "OH",
-  "studentFacultyRatio": 18.0,
+  "studentFacultyRatio": 18,
   "topPrograms": [
     "Undergraduate Business Programs",
     "Computer and Information Science",

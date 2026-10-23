@@ -29,9 +29,8 @@ Scorecard 中以下学校的 SAT/ACT 分数为空或不完整，需要到学校�
 
 ### 2. 录取率
 
-以下两所学校的官方机构数据中 ADM_RATE 为空，需要确认是否为不报告、招生口径变化，还是应使用学校 Common Data Set：
+以下一所学校的官方机构数据中 ADM_RATE 为空，需要确认是否为不报告、招生口径变化，还是应使用学校 Common Data Set：
 
-- The Ohio State University
 - University of South Carolina
 
 ### 3. 学费
