@@ -2674,6 +2674,20 @@
       "sourceType": "official_program_index",
       "status": "verified",
       "url": "https://bulletin.miami.edu/program-index/"
+    },
+    {
+      "universityId": "candidate-v2:pennsylvania-state-university",
+      "publisher": "Penn State Undergraduate Bulletin",
+      "referenceYear": 2026,
+      "scope": [
+        "baccalaureate degree programs",
+        "all campuses and academic colleges",
+        "2026-2027 catalog"
+      ],
+      "sourceId": "official-source-7763f6e81901a0d7202da363",
+      "sourceType": "official_undergraduate_programs_catalog_pdf",
+      "status": "verified",
+      "url": "https://bulletins.psu.edu/programs/programs.pdf"
     }
   ]
 }

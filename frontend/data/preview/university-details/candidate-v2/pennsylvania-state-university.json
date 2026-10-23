@@ -69,11 +69,3187 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Business)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Business)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Business)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Business)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Acting, B.F.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Acting, B.F.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Actuarial Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Actuarial Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Administration of Justice, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Administration of Justice, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Administration of Justice, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Administration of Justice, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African American Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "African American Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "African Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agribusiness Management, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Agribusiness Management, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural and Biorenewable Systems Management, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural and Biorenewable Systems Management, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Agricultural Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies, B.A. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "American Studies, B.A. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies, B.A. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "American Studies, B.A. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Animal Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropological Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropological Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Linguistics, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Linguistics, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture, B.Arch.",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture, B.Arch.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art Education, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Art Education, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Art History, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art, B.A. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Art, B.A. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art, B.A. (Arts and Architecture)",
+      "listType": "official_undergraduate_major",
+      "name": "Art, B.A. (Arts and Architecture)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art, B.F.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Art, B.F.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Artificial Intelligence Methods and Applications, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Artificial Intelligence Methods and Applications, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Artificial Intelligence Methods and Applications, B.S. (Information Sciences and Technology)",
+      "listType": "official_undergraduate_major",
+      "name": "Artificial Intelligence Methods and Applications, B.S. (Information Sciences and Technology)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arts Administration, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Arts Administration, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy and Astrophysics, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy and Astrophysics, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biobehavioral Health, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Biobehavioral Health, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biobehavioral Health, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Biobehavioral Health, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biobehavioral Health, B.S. (Health and Human Development)",
+      "listType": "official_undergraduate_major",
+      "name": "Biobehavioral Health, B.S. (Health and Human Development)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, B.S. (Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, B.S. (Science)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, B.S. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, B.S. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biotechnology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Biotechnology, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Brain and Behavioral Neuroscience, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Brain and Behavioral Neuroscience, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Economics, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Business Economics, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Business, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Business, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Business, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry, B.S. (Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry, B.S. (Science)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chinese, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Chinese, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Arts and Sciences, B.A. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Arts and Sciences, B.A. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Arts and Sciences, B.A. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Arts and Sciences, B.A. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Arts and Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Arts and Sciences, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communications, B.A. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Communications, B.A. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Comparative Literature, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Comparative Literature, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Creative Writing, B.F.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Creative Writing, B.F.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminal Justice, B.A. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal Justice, B.A. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminal Justice, B.A. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal Justice, B.A. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminal Justice, B.A. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal Justice, B.A. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminal Justice, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal Justice, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminal Justice, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal Justice, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminal Justice, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal Justice, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminal Justice, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Criminal Justice, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminology, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Criminology, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Criminology, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cybersecurity Analytics and Operations, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Cybersecurity Analytics and Operations, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cybersecurity Analytics and Operations, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Cybersecurity Analytics and Operations, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cybersecurity Analytics and Operations, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Cybersecurity Analytics and Operations, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cybersecurity Analytics and Operations, B.S. (Information Sciences and Technology)",
+      "listType": "official_undergraduate_major",
+      "name": "Cybersecurity Analytics and Operations, B.S. (Information Sciences and Technology)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cybersecurity Analytics and Operations, B.S. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Cybersecurity Analytics and Operations, B.S. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Sciences, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Data Sciences, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Sciences, B.S. (Information Sciences and Technology)",
+      "listType": "official_undergraduate_major",
+      "name": "Data Sciences, B.S. (Information Sciences and Technology)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Sciences, B.S. (Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Data Sciences, B.S. (Science)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Digital Arts and Media Design, B.Des.",
+      "listType": "official_undergraduate_major",
+      "name": "Digital Arts and Media Design, B.Des.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Digital Journalism and Media, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Digital Journalism and Media, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Digital Multimedia Design, B.Des.",
+      "listType": "official_undergraduate_major",
+      "name": "Digital Multimedia Design, B.Des.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth Science and Policy, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Earth Science and Policy, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Earth Sciences, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics, B.A. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics, B.A. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics, B.A. (Liberal Arts)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics, B.A. (Liberal Arts)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Economics, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electro-Mechanical Engineering Technology, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Electro-Mechanical Engineering Technology, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electro-Mechanical Engineering Technology, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Electro-Mechanical Engineering Technology, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electro-Mechanical Engineering Technology, B.S. (Engineering)",
+      "listType": "official_undergraduate_major",
+      "name": "Electro-Mechanical Engineering Technology, B.S. (Engineering)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Elementary and Early Childhood Education, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary and Early Childhood Education, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Elementary and Kindergarten Education, B.S. (Education)",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary and Kindergarten Education, B.S. (Education)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Elementary Education, B.El.Ed.",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary Education, B.El.Ed.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Energy and Sustainability Policy, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Energy and Sustainability Policy, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Energy and Sustainability Policy, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Energy and Sustainability Policy, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Energy Business and Finance, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Energy Business and Finance, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Energy Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Energy Engineering, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English, B.A. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "English, B.A. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English, B.A. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "English, B.A. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English, B.A. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "English, B.A. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English, B.A. (Liberal Arts)",
+      "listType": "official_undergraduate_major",
+      "name": "English, B.A. (Liberal Arts)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English, B.A. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "English, B.A. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English, B.Hum.",
+      "listType": "official_undergraduate_major",
+      "name": "English, B.Hum.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Enterprise Technology Integration, B.S. (Information Sciences and Technology)",
+      "listType": "official_undergraduate_major",
+      "name": "Enterprise Technology Integration, B.S. (Information Sciences and Technology)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Studies, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Studies, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Systems Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Systems Engineering, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Film Production, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Film Production, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Finance, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Finance, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance, B.S. (Business)",
+      "listType": "official_undergraduate_major",
+      "name": "Finance, B.S. (Business)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Finance, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Food Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Food Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Forensic Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Forensic Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Forest Ecosystems, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Forest Ecosystems, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French and Francophone Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "French and Francophone Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French and Francophone Studies, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "French and Francophone Studies, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geobiology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Geobiology, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Geography, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Geography, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geosciences, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Geosciences, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geosciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Geosciences, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "German, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "German, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global and International Studies Major",
+      "listType": "official_undergraduate_major",
+      "name": "Global and International Studies Major",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global and International Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Global and International Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global and International Studies, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Global and International Studies, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Global Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Graphic Design, B.Des.",
+      "listType": "official_undergraduate_major",
+      "name": "Graphic Design, B.Des.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Humanities, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Health Humanities, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Humanities, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Health Humanities, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Policy and Administration, B.S. (Health and Human Development)",
+      "listType": "official_undergraduate_major",
+      "name": "Health Policy and Administration, B.S. (Health and Human Development)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Policy and Administration, B.S. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Health Policy and Administration, B.S. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History, B.A. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "History, B.A. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History, B.A. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "History, B.A. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History, B.A. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "History, B.A. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History, B.A. (Liberal Arts)",
+      "listType": "official_undergraduate_major",
+      "name": "History, B.A. (Liberal Arts)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hospitality Management, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Hospitality Management, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hospitality Management, B.S. (Health and Human Development)",
+      "listType": "official_undergraduate_major",
+      "name": "Hospitality Management, B.S. (Health and Human Development)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Capital Management, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Human Capital Management, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Studies, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Studies, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Studies, B.S. (Health and Human Development)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Studies, B.S. (Health and Human Development)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Studies, B.S. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Studies, B.S. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human-Centered Design and Development, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Human-Centered Design and Development, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human-Centered Design and Development, B.S. (Information Sciences and Technology)",
+      "listType": "official_undergraduate_major",
+      "name": "Human-Centered Design and Development, B.S. (Information Sciences and Technology)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Humanities, B.A. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Humanities, B.A. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Humanities, B.A. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Humanities, B.A. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Systems, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Information Systems, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Technology Ethics and Compliance, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Information Technology Ethics and Compliance, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Technology, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Information Technology, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Technology, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Information Technology, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Technology, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Information Technology, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Integrated Social Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Integrated Social Sciences, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Integrative Arts, B.A. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Integrative Arts, B.A. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Integrative Science, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Integrative Science, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Integrative Science, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Integrative Science, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Integrative Science, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Integrative Science, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Integrative Science, B.S. (Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Integrative Science, B.S. (Science)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Business with Engineering Studies, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Business with Engineering Studies, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Business with Engineering Studies, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Business with Engineering Studies, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Science and Business, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Science and Business, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Business, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "International Business, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Politics, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "International Politics, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Italian, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Italian, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Japanese, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Japanese, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Jewish Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Jewish Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Korean, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Korean, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Labor and Human Resources, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Labor and Human Resources, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Labor and Human Resources, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Labor and Human Resources, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Landscape Architecture, B.L.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Landscape Architecture, B.L.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Landscape Contracting, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Landscape Contracting, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Latin American Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Latin American Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Law and Society, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Law and Society, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Linguistics, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management, B.S. (Business)",
+      "listType": "official_undergraduate_major",
+      "name": "Management, B.S. (Business)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Management, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing, B.S. (Business)",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing, B.S. (Business)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science and Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Materials Science and Engineering, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematical Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematical Sciences, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, B.S. (Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, B.S. (Science)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Media Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Media Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medieval Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Medieval Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Microbiology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Microbiology, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Middle East Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Middle East Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Middle Level Education, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Middle Level Education, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mining Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Mining Engineering, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Multidisciplinary Arts, Social Sciences, Sciences, and Humanities, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Multidisciplinary Arts, Social Sciences, Sciences, and Humanities, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Multidisciplinary Studies, B.A. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Multidisciplinary Studies, B.A. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Multidisciplinary Studies, B.A. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Multidisciplinary Studies, B.A. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Education, B.M.E.",
+      "listType": "official_undergraduate_major",
+      "name": "Music Education, B.M.E.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Technology, B.M.",
+      "listType": "official_undergraduate_major",
+      "name": "Music Technology, B.M.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Music, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music, B.M.",
+      "listType": "official_undergraduate_major",
+      "name": "Music, B.M.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Musical Arts, B.M.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Musical Arts, B.M.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Musical Theatre, B.F.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Musical Theatre, B.F.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neurobiology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Neurobiology, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing, B.S.N.",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing, B.S.N.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutritional Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Nutritional Sciences, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Occupational Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Occupational Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Organizational Leadership, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Organizational Leadership, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Organizational Leadership, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Organizational Leadership, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Pharmacology and Toxicology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Pharmacology and Toxicology, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, B.S. (Science)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, B.S. (Science)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Planetary Science and Astronomy, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Planetary Science and Astronomy, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Plant Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Plant Sciences, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Plastics Engineering Technology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Plastics Engineering Technology, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science, B.A. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science, B.A. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science, B.A. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science, B.A. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science, B.A. (Liberal Arts)",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science, B.A. (Liberal Arts)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Premedical-Medical, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Premedical-Medical, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Premedicine, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Premedicine, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Professional Photography, B.Des.",
+      "listType": "official_undergraduate_major",
+      "name": "Professional Photography, B.Des.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Project and Supply Chain Management, B.S. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Project and Supply Chain Management, B.S. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychological and Social Sciences, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Psychological and Social Sciences, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychological and Social Sciences, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Psychological and Social Sciences, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.A. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.A. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.A. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.A. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.A. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.A. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.A. (Liberal Arts)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.A. (Liberal Arts)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.S. (Altoona)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.S. (Altoona)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology, B.S. (Liberal Arts)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology, B.S. (Liberal Arts)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Policy, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Public Policy, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Race and Ethnic Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Race and Ethnic Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rail Transportation Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Rail Transportation Engineering, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Real Estate, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Real Estate, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Recreation, Park, and Tourism Management, B.S. (Abington)",
+      "listType": "official_undergraduate_major",
+      "name": "Recreation, Park, and Tourism Management, B.S. (Abington)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Recreation, Park, and Tourism Management, B.S. (Health and Human Development)",
+      "listType": "official_undergraduate_major",
+      "name": "Recreation, Park, and Tourism Management, B.S. (Health and Human Development)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Recreation, Park, and Tourism Management, B.S. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Recreation, Park, and Tourism Management, B.S. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rehabilitation and Human Services, B.S. (University College)",
+      "listType": "official_undergraduate_major",
+      "name": "Rehabilitation and Human Services, B.S. (University College)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Risk Management, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Risk Management, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Russian, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Russian, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Science, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Secondary Education, B.S. (Behrend)",
+      "listType": "official_undergraduate_major",
+      "name": "Secondary Education, B.S. (Behrend)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Security and Risk Analysis, B.S. (Berks)",
+      "listType": "official_undergraduate_major",
+      "name": "Security and Risk Analysis, B.S. (Berks)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Security and Risk Analysis, B.S. (Information Sciences and Technology)",
+      "listType": "official_undergraduate_major",
+      "name": "Security and Risk Analysis, B.S. (Information Sciences and Technology)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Data Analytics, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Social Data Analytics, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Work, B.S.W.",
+      "listType": "official_undergraduate_major",
+      "name": "Social Work, B.S.W.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology, B.S. (Capital)",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology, B.S. (Capital)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology, B.S. (Liberal Arts)",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology, B.S. (Liberal Arts)",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Software Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Software Engineering, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Special Education, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Special Education, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Strategic Communications, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Strategic Communications, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Structural Design and Construction Engineering Technology, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Structural Design and Construction Engineering Technology, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Surveying Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Surveying Engineering, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sustainability, Society, and Environmental Geography, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Sustainability, Society, and Environmental Geography, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Systems Neuroscience, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Systems Neuroscience, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Telecommunications and Media Industries, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Telecommunications and Media Industries, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre, B.F.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre, B.F.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Turfgrass Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Turfgrass Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Visual Art Studies, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Visual Art Studies, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Wildlife and Fisheries Science, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Wildlife and Fisheries Science, B.S.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Writing and Digital Media, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Writing and Digital Media, B.A.",
+      "sourceIds": [
+        "official-source-7763f6e81901a0d7202da363"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-7763f6e81901a0d7202da363"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {
