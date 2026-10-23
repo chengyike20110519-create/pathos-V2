@@ -2812,6 +2812,20 @@
       "sourceType": "official_undergraduate_major_directory",
       "status": "verified",
       "url": "https://admissions.ucr.edu/majors/a-z"
+    },
+    {
+      "universityId": "candidate-v2:southern-methodist-university",
+      "publisher": "Southern Methodist University Academic Programs",
+      "referenceYear": 2026,
+      "scope": [
+        "official degree directory",
+        "bachelor programs only",
+        "all non-bachelor degree types excluded"
+      ],
+      "sourceId": "official-source-c71d2d4a0f31a1730738179b",
+      "sourceType": "official_undergraduate_degree_directory",
+      "status": "verified",
+      "url": "https://www.smu.edu/academics/degrees-and-programs"
     }
   ]
 }

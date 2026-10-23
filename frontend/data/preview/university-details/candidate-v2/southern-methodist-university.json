@@ -49,7 +49,7 @@
   "displayTier": "preview",
   "previewOnly": true,
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "pending_source_review",
+  "sourceStatus": "source_verified_pending_field_extraction",
   "datasetVersion": "stage5-preview-ec8c66e",
   "warningSummary": {
     "codes": [
@@ -68,11 +68,2159 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting (BBA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Advertising (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Advertising (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African/African-American Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "African/African-American Studies (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Physiology and Health Management (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Physiology and Health Management (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arabic (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Arabic (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Art (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Art (BFA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Art History (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Bassoon Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Bassoon Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biophysics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biophysics (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Business (BBA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Analytics and Supply Chain Management (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Business Analytics and Supply Chain Management (BBA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cello Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Cello Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chinese (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Chinese (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering (BSCE)",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering (BSCE)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Clarinet Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Clarinet Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Studies (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Corporate Communication and Public Affairs (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Corporate Communication and Public Affairs (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Creative Computing (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Creative Computing (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dance Performance (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Dance Performance (BFA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Double Bass Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Double Bass Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth Sciences (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Earth Sciences (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth Sciences (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Earth Sciences (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics with Finance Applications (BSFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics with Finance Applications (BSFA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics with Management Information Applications (BSMIA)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics with Management Information Applications (BSMIA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Educational Studies (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Educational Studies (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical and Computer Engineering (BSECE)",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical and Computer Engineering (BSECE)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Euphonium Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Euphonium Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion Media (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion Media (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Film and Media Arts (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Film and Media Arts (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Film and Media Arts (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Film and Media Arts (BFA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Finance (BBA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Flute Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Flute Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "French (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French Horn Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "French Horn Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "French Studies (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Game Development (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Game Development (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "General Business (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "General Business (BBA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "German (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Guitar Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Guitar Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Harp Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Harp Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health and Society (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Health and Society (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "History (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Rights (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Rights (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Individualized Studies in Liberal Arts (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Individualized Studies in Liberal Arts (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Studies in the Arts (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Studies in the Arts (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Italian (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Management (BBA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Management Science (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing (BBA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Markets and Culture (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Markets and Culture (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematical economics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematical economics (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering (BSME)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering (BSME)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medieval Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Medieval Studies (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mexican-American Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Mexican-American Studies (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Music (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Composition (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Composition (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Education (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Education (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Therapy (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Therapy (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Oboe Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Oboe Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Organ Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Organ Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Percussion Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Percussion Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Piano Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Piano Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Policy (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Policy (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Relations and Strategic Communication (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Relations and Strategic Communication (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Real Estate (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Real Estate (BBA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Religious Studies (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Saxophone Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Saxophone Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Management (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Management (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Performance Leadership (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Performance Leadership (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistical Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Statistical Science (BS)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre (BFA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Trombone Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Trombone Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Trumpet Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Trumpet Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Tuba Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Tuba Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Viola Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Viola Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Violin Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Violin Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Voice Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Voice Performance (BM)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Women's and Gender Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Women's and Gender Studies (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages (BA)",
+      "sourceIds": [],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting (BBA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Advertising (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Advertising (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African/African-American Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "African/African-American Studies (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Physiology and Health Management (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Physiology and Health Management (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arabic (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Arabic (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Art (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Art (BFA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Art History (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Bassoon Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Bassoon Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biophysics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Biophysics (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Business (BBA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Analytics and Supply Chain Management (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Business Analytics and Supply Chain Management (BBA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cello Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Cello Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chinese (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Chinese (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering (BSCE)",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering (BSCE)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Clarinet Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Clarinet Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Studies (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Corporate Communication and Public Affairs (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Corporate Communication and Public Affairs (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Creative Computing (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Creative Computing (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dance Performance (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Dance Performance (BFA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Double Bass Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Double Bass Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth Sciences (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Earth Sciences (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth Sciences (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Earth Sciences (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics with Finance Applications (BSFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics with Finance Applications (BSFA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics with Management Information Applications (BSMIA)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics with Management Information Applications (BSMIA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Educational Studies (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Educational Studies (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical and Computer Engineering (BSECE)",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical and Computer Engineering (BSECE)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Euphonium Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Euphonium Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion Media (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion Media (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Film and Media Arts (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Film and Media Arts (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Film and Media Arts (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Film and Media Arts (BFA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Finance (BBA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Flute Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Flute Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "French (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French Horn Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "French Horn Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "French Studies (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Game Development (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Game Development (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "General Business (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "General Business (BBA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "German (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Guitar Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Guitar Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Harp Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Harp Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health and Society (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Health and Society (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "History (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Rights (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Rights (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Individualized Studies in Liberal Arts (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Individualized Studies in Liberal Arts (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Studies in the Arts (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Studies in the Arts (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "International Studies (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Italian (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Management (BBA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Management Science (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing (BBA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Markets and Culture (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Markets and Culture (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematical economics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematical economics (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering (BSME)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering (BSME)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medieval Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Medieval Studies (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mexican-American Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Mexican-American Studies (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Music (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Composition (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Composition (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Education (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Education (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Therapy (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Therapy (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Oboe Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Oboe Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Organ Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Organ Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Percussion Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Percussion Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Piano Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Piano Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Policy (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Policy (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Relations and Strategic Communication (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Relations and Strategic Communication (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Real Estate (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Real Estate (BBA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Religious Studies (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Saxophone Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Saxophone Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Management (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Management (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Performance Leadership (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Performance Leadership (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistical Science (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Statistical Science (BS)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre (BFA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Trombone Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Trombone Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Trumpet Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Trumpet Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Tuba Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Tuba Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Viola Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Viola Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Violin Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Violin Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Voice Performance (BM)",
+      "listType": "official_undergraduate_major",
+      "name": "Voice Performance (BM)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Women's and Gender Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Women's and Gender Studies (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "World Languages (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "World Languages (BA)",
+      "sourceIds": [
+        "official-source-c71d2d4a0f31a1730738179b"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-c71d2d4a0f31a1730738179b"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {
