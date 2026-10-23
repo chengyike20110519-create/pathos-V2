@@ -146,10 +146,1062 @@
   "aliases": [
     "University of North Carolina—Chapel Hill"
   ],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African, African American, and Diaspora Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "African, African American, and Diaspora Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "American Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies Major, B.A.–American Indian and Indigenous Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "American Studies Major, B.A.–American Indian and Indigenous Studies Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Archaeology Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Archaeology Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Art History Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies Major, B.A.–Arab Cultures Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies Major, B.A.–Arab Cultures Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies Major, B.A.–Chinese Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies Major, B.A.–Chinese Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies Major, B.A.–Interdisciplinary Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies Major, B.A.–Interdisciplinary Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies Major, B.A.–Japanese Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies Major, B.A.–Japanese Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies Major, B.A.–Korean Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies Major, B.A.–Korean Studies Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies Major, B.A.–Persian Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies Major, B.A.–Persian Studies Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies Major, B.A.–South Asian Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies Major, B.A.–South Asian Studies Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Biology Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Biology Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology Major, B.S.–Quantitative Biology Track",
+      "listType": "official_undergraduate_major",
+      "name": "Biology Major, B.S.–Quantitative Biology Track",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biostatistics Major, B.S.P.H.",
+      "listType": "official_undergraduate_major",
+      "name": "Biostatistics Major, B.S.P.H.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration Major, B.S.B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration Major, B.S.B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry Major, B.S.–Biochemistry Track",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry Major, B.S.–Biochemistry Track",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry Major, B.S.–Polymer Track",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry Major, B.S.–Polymer Track",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics Major, B.A.–Classical Archaeology",
+      "listType": "official_undergraduate_major",
+      "name": "Classics Major, B.A.–Classical Archaeology",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics Major, B.A.–Classical Civilization",
+      "listType": "official_undergraduate_major",
+      "name": "Classics Major, B.A.–Classical Civilization",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics Major, B.A.–Greek, Latin, and Combined Greek and Latin",
+      "listType": "official_undergraduate_major",
+      "name": "Classics Major, B.A.–Greek, Latin, and Combined Greek and Latin",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Clinical Laboratory Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Clinical Laboratory Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Community and Global Public Health Major, B.S.P.H.",
+      "listType": "official_undergraduate_major",
+      "name": "Community and Global Public Health Major, B.S.P.H.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Contemporary European Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Contemporary European Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Data Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dental Hygiene Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Dental Hygiene Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dramatic Art Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Dramatic Art Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth and Marine Sciences Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Earth and Marine Sciences Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Economics Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Economics Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Elementary Education Major, B.A.Ed.",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary Education Major, B.A.Ed.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English and Comparative Literature Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "English and Comparative Literature Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Health Sciences Major, B.S.P.H.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Health Sciences Major, B.S.P.H.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Exercise and Sport Science Major, B.A.–Fitness Professional",
+      "listType": "official_undergraduate_major",
+      "name": "Exercise and Sport Science Major, B.A.–Fitness Professional",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Exercise and Sport Science Major, B.A.–General",
+      "listType": "official_undergraduate_major",
+      "name": "Exercise and Sport Science Major, B.A.–General",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Exercise and Sport Science Major, B.A.–Sport Administration",
+      "listType": "official_undergraduate_major",
+      "name": "Exercise and Sport Science Major, B.A.–Sport Administration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Exercise and Sport Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Exercise and Sport Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography and Environment Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Geography and Environment Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geological Sciences Major, B.A.–Earth Science Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Geological Sciences Major, B.A.–Earth Science Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geospatial Data Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Geospatial Data Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Germanic and Slavic Languages and Literatures Major, B.A.–German Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Germanic and Slavic Languages and Literatures Major, B.A.–German Studies Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Germanic and Slavic Languages and Literatures Major, B.A.–Russian Language and Culture Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Germanic and Slavic Languages and Literatures Major, B.A.–Russian Language and Culture Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Germanic and Slavic Languages and Literatures Major, B.A.–Slavic and East European Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Germanic and Slavic Languages and Literatures Major, B.A.–Slavic and East European Studies Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Global Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Policy and Management Major, B.S.P.H.",
+      "listType": "official_undergraduate_major",
+      "name": "Health Policy and Management Major, B.S.P.H.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "History Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human and Organizational Leadership Development Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Human and Organizational Leadership Development Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Science Major, B.A.Ed.",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Science Major, B.A.Ed.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Information Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Latin American Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Latin American Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Linguistics Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management and Society Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Management and Society Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Media and Journalism Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Media and Journalism Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medical Anthropology Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Medical Anthropology Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Music Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Major, Bachelor of Music (B.Mus.)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Major, Bachelor of Music (B.Mus.)",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neurodiagnostics and Sleep Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Neurodiagnostics and Sleep Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing Major, B.S.N.",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing Major, B.S.N.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition Major, B.S.P.H.",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition Major, B.S.P.H.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Peace, War, and Defense Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Peace, War, and Defense Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Physics Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Physics Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Policy Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Public Policy Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Radiologic Science Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Radiologic Science Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Religious Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies Major, B.A.–Jewish Studies Concentration",
+      "listType": "official_undergraduate_major",
+      "name": "Religious Studies Major, B.A.–Jewish Studies Concentration",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Romance Languages Major, B.A.–French and Francophone Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Romance Languages Major, B.A.–French and Francophone Studies",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Romance Languages Major, B.A.–Hispanic Linguistics",
+      "listType": "official_undergraduate_major",
+      "name": "Romance Languages Major, B.A.–Hispanic Linguistics",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Romance Languages Major, B.A.–Hispanic Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Romance Languages Major, B.A.–Hispanic Studies",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Romance Languages Major, B.A.–Italian",
+      "listType": "official_undergraduate_major",
+      "name": "Romance Languages Major, B.A.–Italian",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Romance Languages Major, B.A.–Portuguese",
+      "listType": "official_undergraduate_major",
+      "name": "Romance Languages Major, B.A.–Portuguese",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics and Analytics Major, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics and Analytics Major, B.S.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Studio Art Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Studio Art Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Studio Art Major, Bachelor of Fine Arts (B.F.A)",
+      "listType": "official_undergraduate_major",
+      "name": "Studio Art Major, Bachelor of Fine Arts (B.F.A)",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Women’s and Gender Studies Major, B.A.",
+      "listType": "official_undergraduate_major",
+      "name": "Women’s and Gender Studies Major, B.A.",
+      "sourceIds": [
+        "official-source-1ae34a718bd2e67bcedd01ba"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "nullReason": "identity_ipeds_match_not_resolved",
-    "status": "not_reported"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-1ae34a718bd2e67bcedd01ba"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "anecdotes": [
     {
@@ -167,8 +1219,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$8,989–$39,330",
-    "maximumUsd": 39330.0,
-    "minimumUsd": 8989.0,
+    "maximumUsd": 39330,
+    "minimumUsd": 8989,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -378,7 +1430,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 8989.0,
+      "amountUsd": 8989,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -387,7 +1439,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 39330.0,
+      "amountUsd": 39330,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -400,7 +1452,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "NC",
-  "studentFacultyRatio": 15.0,
+  "studentFacultyRatio": 15,
   "topPrograms": [
     "Asian Studies, B.A. — Japanese Concentration",
     "Asian Studies, B.A. — Korean Studies Concentration",

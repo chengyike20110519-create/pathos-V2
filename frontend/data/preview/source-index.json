@@ -2715,6 +2715,20 @@
       "sourceType": "official_undergraduate_program_catalog",
       "status": "verified",
       "url": "https://catalog.gatech.edu/programs/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-north-carolina-at-chapel-hill",
+      "publisher": "UNC-Chapel Hill 2026-2027 Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "2026-2027 Academic Catalog",
+        "baccalaureate degree programs"
+      ],
+      "sourceId": "official-source-1ae34a718bd2e67bcedd01ba",
+      "sourceType": "official_undergraduate_program_catalog",
+      "status": "verified",
+      "url": "https://unc-public.courseleaf.com/undergraduate/programs-study/"
     }
   ]
 }
