@@ -38,7 +38,16 @@
     "academicYear": "2025-26",
     "currency": "USD"
   },
-  "topPrograms": ["Computer Science", "Architecture", "Health Information Management", "Kinesiology", "Nutrition", "Biomedical Engineering", "Accounting", "Psychology"],
+  "topPrograms": [
+    "Computer Science",
+    "Architecture",
+    "Health Information Management",
+    "Kinesiology",
+    "Nutrition",
+    "Biomedical Engineering",
+    "Accounting",
+    "Psychology"
+  ],
   "studentFacultyRatio": null,
   "acceptanceRate": 77.4,
   "sat25": null,
@@ -70,19 +79,1031 @@
     ]
   },
   "programs": [
-    {"id": "uic:program:computer-science", "name": "Computer Science", "sourceIds": ["official-uic-undergraduate-catalog-2025"]},
-    {"id": "uic:program:architecture", "name": "Architecture", "sourceIds": ["official-uic-undergraduate-catalog-2025"]},
-    {"id": "uic:program:health-information-management", "name": "Health Information Management", "sourceIds": ["official-uic-undergraduate-catalog-2025"]},
-    {"id": "uic:program:kinesiology", "name": "Kinesiology", "sourceIds": ["official-uic-undergraduate-catalog-2025"]},
-    {"id": "uic:program:nutrition", "name": "Nutrition", "sourceIds": ["official-uic-undergraduate-catalog-2025"]},
-    {"id": "uic:program:biomedical-engineering", "name": "Biomedical Engineering", "sourceIds": ["official-uic-undergraduate-catalog-2025"]},
-    {"id": "uic:program:accounting", "name": "Accounting", "sourceIds": ["official-uic-undergraduate-catalog-2025"]},
-    {"id": "uic:program:psychology", "name": "Psychology", "sourceIds": ["official-uic-undergraduate-catalog-2025"]}
+    {
+      "id": "uic:program:computer-science",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-uic-undergraduate-catalog-2025"
+      ]
+    },
+    {
+      "id": "uic:program:architecture",
+      "name": "Architecture",
+      "sourceIds": [
+        "official-uic-undergraduate-catalog-2025"
+      ]
+    },
+    {
+      "id": "uic:program:health-information-management",
+      "name": "Health Information Management",
+      "sourceIds": [
+        "official-uic-undergraduate-catalog-2025"
+      ]
+    },
+    {
+      "id": "uic:program:kinesiology",
+      "name": "Kinesiology",
+      "sourceIds": [
+        "official-uic-undergraduate-catalog-2025"
+      ]
+    },
+    {
+      "id": "uic:program:nutrition",
+      "name": "Nutrition",
+      "sourceIds": [
+        "official-uic-undergraduate-catalog-2025"
+      ]
+    },
+    {
+      "id": "uic:program:biomedical-engineering",
+      "name": "Biomedical Engineering",
+      "sourceIds": [
+        "official-uic-undergraduate-catalog-2025"
+      ]
+    },
+    {
+      "id": "uic:program:accounting",
+      "name": "Accounting",
+      "sourceIds": [
+        "official-uic-undergraduate-catalog-2025"
+      ]
+    },
+    {
+      "id": "uic:program:psychology",
+      "name": "Psychology",
+      "sourceIds": [
+        "official-uic-undergraduate-catalog-2025"
+      ]
+    }
   ],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Information Management - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Health Information Management - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Disability and Human Development - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Disability and Human Development - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health and Rehabilitation Sciences - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Health and Rehabilitation Sciences - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Kinesiology - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Kinesiology - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architectural Studies - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Architectural Studies - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art - BFA",
+      "listType": "official_undergraduate_major",
+      "name": "Art - BFA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art Education - BFA",
+      "listType": "official_undergraduate_major",
+      "name": "Art Education - BFA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interdisciplinary Education in the Arts - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Interdisciplinary Education in the Arts - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Art History - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Graphic Design - BDes",
+      "listType": "official_undergraduate_major",
+      "name": "Graphic Design - BDes",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Design - BDes",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Design - BDes",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design Studies - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Design Studies - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Music - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Business - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Music Business - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre and Performance - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre and Performance - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre Design Production and Technology - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre Design Production and Technology - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Acting - BFA",
+      "listType": "official_undergraduate_major",
+      "name": "Acting - BFA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Finance - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information and Decision Sciences - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Information and Decision Sciences - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Entrepreneurship - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Entrepreneurship - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Resource Management - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Human Resource Management - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Management - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Real Estate - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Real Estate - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Education - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Urban Education - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Learning - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Learning - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Inclusive and Special Education - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Inclusive and Special Education - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science and Design - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science and Design - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering Physics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering Physics - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Industrial Engineering - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Industrial Engineering - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Engineering Management - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Engineering Management - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Black Studies - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Black Studies - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Studies - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Studies - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Communication - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminology Law and Justice - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Criminology Law and Justice - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Earth and Environmental Sciences - BS with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Earth and Environmental Sciences - BS with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Economics - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science and Economics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science and Economics - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "English - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching of English - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Teaching of English - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French and Francophone Studies - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "French and Francophone Studies - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching of French - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Teaching of French - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Gender and Women’s Studies - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Gender and Women’s Studies - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Germanic Studies - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Germanic Studies - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching of German - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Teaching of German - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Asian Studies - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Global Asian Studies - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching of Spanish - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Teaching of Spanish - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "History - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching of History - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Teaching of History - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Liberal Studies - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Liberal Studies - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Latin American and Latino Studies - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Latin American and Latino Studies - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Linguistics - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science and Linguistics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science and Linguistics - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics - BS with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics - BS with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics - BS with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics - BS with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching of Mathematics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Teaching of Mathematics - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics and Computer Science - BS with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics and Computer Science - BS with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science and Philosophy - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science and Philosophy - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Physics - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Psychology - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Psychology - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology - BS with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology - BS with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology - BA with a Major",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology - BA with a Major",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Policy - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Public Policy - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Studies - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Urban Studies - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Pharmaceutical Sciences - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Pharmaceutical Sciences - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health Practice - BA",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health Practice - BA",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health Sciences - BS",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health Sciences - BS",
+      "sourceIds": [
+        "official-source-40ea40efcbd5ccdeb3d4ea01"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-40ea40efcbd5ccdeb3d4ea01"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {

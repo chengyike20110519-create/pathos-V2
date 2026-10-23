@@ -1973,13 +1973,15 @@
       "url": "https://www.rpi.edu/academics"
     },
     {
-      "publisher": "University of Illinois Chicago Undergraduate Catalog",
-      "referenceYear": 2025,
+      "universityId": "candidate-v2:university-of-illinois-at-chicago",
+      "publisher": "UIC 2026-2027 Undergraduate Catalog",
+      "referenceYear": 2026,
       "scope": [
-        "university-of-illinois-at-chicago-programs"
+        "degree program list",
+        "undergraduate bachelor degree programs"
       ],
-      "sourceId": "official-uic-undergraduate-catalog-2025",
-      "sourceType": "official_institutional_catalog",
+      "sourceId": "official-source-40ea40efcbd5ccdeb3d4ea01",
+      "sourceType": "official_undergraduate_degree_program_catalog",
       "status": "verified",
       "url": "https://catalog.uic.edu/ucat/degree-programs/degree-minors/"
     },
