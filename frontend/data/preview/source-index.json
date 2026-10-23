@@ -1920,13 +1920,16 @@
       "url": "https://egc.yale.edu/news/egc-celebrates-class-2023"
     },
     {
+      "universityId": "candidate-v2:virginia-polytechnic-institute-and-state-university",
       "publisher": "Virginia Tech Student Academic Advising",
       "referenceYear": 2026,
       "scope": [
-        "virginia-polytechnic-institute-and-state-university-programs"
+        "undergraduate majors",
+        "associate programs",
+        "major exploration directory"
       ],
-      "sourceId": "official-vt-undergraduate-majors-2026",
-      "sourceType": "official_institutional_catalog",
+      "sourceId": "official-source-6aa67bb933cccead728479af",
+      "sourceType": "official_undergraduate_major_directory",
       "status": "verified",
       "url": "https://student.advising.vt.edu/major-exploration/majors-exploreatvt/majors-alphabetical.html"
     },
