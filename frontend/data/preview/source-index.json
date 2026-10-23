@@ -2573,6 +2573,20 @@
       "sourceType": "official_complete_major_guide",
       "status": "verified",
       "url": "https://www.umass.edu/ours/majors"
+    },
+    {
+      "universityId": "candidate-v2:university-of-pittsburgh",
+      "publisher": "University of Pittsburgh Undergraduate Programs",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree types",
+        "school and college offerings"
+      ],
+      "sourceId": "official-source-f74d240f3fd11cd88e43e852",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://www.academics.pitt.edu/undergraduate-programs"
     }
   ]
 }

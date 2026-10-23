@@ -356,6 +356,18 @@
       "programStatus": "official_complete_major_guide_observed_not_strength_claim",
       "observedProgramCount": 90,
       "checkedOn": "2026-10-23"
+    },
+    {
+      "universityId": "candidate-v2:university-of-pittsburgh",
+      "universityName": "University of Pittsburgh",
+      "sourceUrl": "https://www.academics.pitt.edu/undergraduate-programs",
+      "sourceType": "official_undergraduate_bulletin",
+      "publisher": "University of Pittsburgh Undergraduate Programs",
+      "scope": ["undergraduate majors", "degree types", "school and college offerings"],
+      "observedProgramNames": ["Accounting", "Actuarial Mathematics", "Africana Studies", "Africana Studies–English", "Anthropology", "Applied Developmental Psychology", "Applied Mathematics", "Arabic", "Architecture", "Architectural Studies", "Astronomy", "Biochemistry", "Bioengineering", "Biological Sciences", "Business Information Systems", "CASE Teacher Preparation", "Chemical Engineering", "Chemistry", "Chinese", "Civil Engineering", "Classics", "Communication: Rhetoric and Communication", "Communication Science", "Computational Biology", "Computer Engineering", "Computer Science", "Computational Social Science", "Data Science", "Dental Hygiene", "Dietician Nutritionist Program", "Digital Narrative and Interactive Design", "Ecology and Evolution", "Economics", "Economics–Statistics", "Electrical Engineering", "Emergency Medicine", "Engineering Science", "English Literature", "English Writing", "Environmental Science", "Environmental Studies", "Exercise Science", "Film and Media Studies", "Finance", "French", "Gender, Sexuality, and Women's Studies", "Geology", "German", "Global Management", "Health Informatics", "Health Services", "Health and Physical Activity", "History", "History and Philosophy of Science", "History of Art and Architecture", "Human Resources Management", "Industrial Engineering", "Information Science", "International and Area Studies", "International Studies Co-Major", "Italian", "Italian Studies", "Japanese", "Law, Criminal Justice, and Society", "Linguistics", "Marketing", "Materials Science and Engineering", "Mathematics", "Mathematical Biology", "Mathematics-Economics", "Mechanical Engineering", "Media and Professional Communications", "Microbiology", "Molecular Biology", "Museum Studies", "Music", "Natural Sciences", "Neuroscience", "Nursing", "Nutrition Science", "Philosophy", "Physics", "Physics and Astronomy", "Physics and Quantum Computing", "Political Science", "Politics and Philosophy", "Psychology", "Public and Professional Writing", "Public Policy", "Public Service", "Rehabilitation Science"],
+      "programStatus": "official_bulletin_observed_not_strength_claim",
+      "observedProgramCount": 91,
+      "checkedOn": "2026-10-23"
     }
   ]
 }
