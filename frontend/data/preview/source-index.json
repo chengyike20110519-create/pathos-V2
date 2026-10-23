@@ -3263,6 +3263,19 @@
       "sourceType": "official_undergraduate_catalog",
       "status": "verified",
       "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/sports%20management"
+    },
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "publisher": "Arizona State University Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degree programs",
+        "major catalog"
+      ],
+      "sourceId": "official-source-2ace056862906b11c02a2188",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/ARINDBSD/title/fetchpdf"
     }
   ]
 }
