@@ -2587,6 +2587,19 @@
       "sourceType": "official_undergraduate_bulletin",
       "status": "verified",
       "url": "https://www.academics.pitt.edu/undergraduate-programs"
+    },
+    {
+      "universityId": "candidate-v2:wake-forest-university",
+      "publisher": "Wake Forest University Academic Bulletin",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors",
+        "degree requirements"
+      ],
+      "sourceId": "official-source-e697647c50a87f814ee00de7",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.wfu.edu/undergraduate/requirements-degrees/majors-minors/"
     }
   ]
 }

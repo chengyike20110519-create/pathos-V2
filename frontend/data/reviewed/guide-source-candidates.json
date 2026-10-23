@@ -368,6 +368,18 @@
       "programStatus": "official_bulletin_observed_not_strength_claim",
       "observedProgramCount": 91,
       "checkedOn": "2026-10-23"
+    },
+    {
+      "universityId": "candidate-v2:wake-forest-university",
+      "universityName": "Wake Forest University",
+      "sourceUrl": "https://bulletin.wfu.edu/undergraduate/requirements-degrees/majors-minors/",
+      "sourceType": "official_undergraduate_bulletin",
+      "publisher": "Wake Forest University Academic Bulletin",
+      "scope": ["undergraduate majors", "degree requirements"],
+      "observedProgramNames": ["Accountancy", "African American and African Studies", "Anthropology", "Applied Mathematics", "Applied Statistics", "Art History", "Biochemistry and Molecular Biology", "Biology", "Biophysics", "Business and Enterprise Management", "Chemistry", "Chinese Language and Culture", "Classical Languages", "Classical Studies", "Communication", "Computer Science", "Critical and Creative Media", "Decision Analytics", "Economics", "Education", "Engineering", "English", "Environment and Sustainability Studies", "Environmental Science", "Finance", "French Studies", "German", "German Studies", "Greek", "Health and Exercise Science", "History", "Interdisciplinary Major", "Japanese Language and Culture", "Latin", "Mathematics", "Music", "Neuroscience", "Philosophy", "Physics", "Politics and International Affairs", "Psychology", "Religious Studies", "Russian", "Sociology", "Spanish", "Statistics", "Studio Art", "Theatre", "Women's, Gender, and Sexuality Studies"],
+      "programStatus": "official_bulletin_observed_not_strength_claim",
+      "observedProgramCount": 49,
+      "checkedOn": "2026-10-23"
     }
   ]
 }
