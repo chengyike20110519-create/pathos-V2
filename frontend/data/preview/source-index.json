@@ -2757,6 +2757,20 @@
       "sourceType": "official_undergraduate_program_catalog",
       "status": "verified",
       "url": "https://live-villanova-catalog.cleancatalog.io/programs"
+    },
+    {
+      "universityId": "candidate-v2:university-of-texas-austin",
+      "publisher": "UT Austin Undergraduate Catalog 2026-2027",
+      "referenceYear": 2026,
+      "scope": [
+        "A-Z undergraduate programs",
+        "2026-27 edition",
+        "bachelor degree programs and official tracks"
+      ],
+      "sourceId": "official-source-c15fd3ed6613e58747c2dcfe",
+      "sourceType": "official_undergraduate_program_catalog_az",
+      "status": "verified",
+      "url": "https://catalog.utexas.edu/undergraduate/programs/"
     }
   ]
 }

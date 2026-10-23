@@ -146,10 +146,2943 @@
   "aliases": [
     "University of Texas—Austin"
   ],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting (BBA/MPA)",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting (BBA/MPA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Acting (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Acting (BFA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Advertising (BSAdv)",
+      "listType": "official_undergraduate_major",
+      "name": "Advertising (BSAdv)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering (BSAsE)",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering (BSAsE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African and African Diaspora Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "African and African Diaspora Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "American Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology (BA/MA)",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology (BA/MA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Movement Science (BSKin&Health)",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Movement Science (BSKin&Health)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architectural Engineering (BSArchE)",
+      "listType": "official_undergraduate_major",
+      "name": "Architectural Engineering (BSArchE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architectural Studies (BSAS)",
+      "listType": "official_undergraduate_major",
+      "name": "Architectural Studies (BSAS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture (BArch)",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture (BArch)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture (BArch)/Architectural Engineering (BSArchE)",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture (BArch)/Architectural Engineering (BSArchE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Architecture (BArch)/Plan II Honors (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Architecture (BArch)/Plan II Honors (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art Education (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Art Education (BFA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History (BAArtHist)",
+      "listType": "official_undergraduate_major",
+      "name": "Art History (BAArtHist)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arts and Entertainment Technologies (BSAET)",
+      "listType": "official_undergraduate_major",
+      "name": "Arts and Entertainment Technologies (BSAET)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Cultures and Languages, Bengali (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Cultures and Languages, Bengali (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Cultures and Languages, Chinese (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Cultures and Languages, Chinese (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Cultures and Languages, Hindi/Urdu (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Cultures and Languages, Hindi/Urdu (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Cultures and Languages, Japanese (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Cultures and Languages, Japanese (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Cultures and Languages, Korean (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Cultures and Languages, Korean (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Cultures and Languages, Malayalam (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Cultures and Languages, Malayalam (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Cultures and Languages, Sanskrit (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Cultures and Languages, Sanskrit (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Cultures and Languages, Tamil (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Cultures and Languages, Tamil (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies, East Asia, General (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies, East Asia, General (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies, East Asia, Taiwan (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies, East Asia, Taiwan (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies, South Asia (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies, South Asia (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy, Astronomy (BSAst)",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy, Astronomy (BSAst)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy, Astronomy Honors (BSAst)",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy, Astronomy Honors (BSAst)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Athletic Training (BSAthTrng)",
+      "listType": "official_undergraduate_major",
+      "name": "Athletic Training (BSAthTrng)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Behavioral and Social Data Science, Humanities (BSBSDS)",
+      "listType": "official_undergraduate_major",
+      "name": "Behavioral and Social Data Science, Humanities (BSBSDS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Behavioral and Social Data Science, Psychology (BSBSDS)",
+      "listType": "official_undergraduate_major",
+      "name": "Behavioral and Social Data Science, Psychology (BSBSDS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry, Biochemistry (BSBioch)",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry, Biochemistry (BSBioch)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry, Biochemistry Honors (BSBioch)",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry, Biochemistry Honors (BSBioch)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry: Integrated Program (BSBioch/MA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry: Integrated Program (BSBioch/MA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences (BSEnvirSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences (BSEnvirSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences, Honors (BSEnvirSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Biological Sciences, Honors (BSEnvirSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Biochemistry (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Biochemistry (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Biology Honors (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Biology Honors (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Cell and Molecular Biology (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Cell and Molecular Biology (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Computational Biology (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Computational Biology (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Ecology, Evolution, and Behavior (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Ecology, Evolution, and Behavior (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Ecology, Evolution, and Biodiversity (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Ecology, Evolution, and Biodiversity (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Genetics and Genomics (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Genetics and Genomics (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Genetics, Genomics, and Computational Biology (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Genetics, Genomics, and Computational Biology (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Human Biology (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Human Biology (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Marine Science (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Marine Science (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Microbiology and Infectious Disease (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Microbiology and Infectious Disease (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Microbiology and Infectious Diseases (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Microbiology and Infectious Diseases (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Molecular, Cell, and Developmental Biology (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Molecular, Cell, and Developmental Biology (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Organismal Biology and Physiology (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Organismal Biology and Physiology (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Plant Biology (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Plant Biology (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology, Teaching (BSBio)",
+      "listType": "official_undergraduate_major",
+      "name": "Biology, Teaching (BSBio)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering (BSBiomedE/MSE)",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering (BSBiomedE/MSE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering, Biomedical Imaging and Instrumentation (BSBiomedE)",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering, Biomedical Imaging and Instrumentation (BSBiomedE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering, Cellular and Biomolecular Engineering (BSBiomedE)",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering, Cellular and Biomolecular Engineering (BSBiomedE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering, Computational Biomedical Engineering (BSBiomedE)",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering, Computational Biomedical Engineering (BSBiomedE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering, Molecular, Cellular, and Tissue Biomechanics (BSBiomedE)",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering, Molecular, Cellular, and Tissue Biomechanics (BSBiomedE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Administration, Honors (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Business Administration, Honors (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Analytics (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Business Analytics (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering (BSChE)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering (BSChE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering, Honors (BSChE)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering, Honors (BSChE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry, Chemical Physics and Instrumentation (BSCh)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry, Chemical Physics and Instrumentation (BSCh)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry, Chemistry Honors (BSCh)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry, Chemistry Honors (BSCh)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry, Materials Chemistry (BSCh)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry, Materials Chemistry (BSCh)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry, Molecular Theory and Simulation (BSCh)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry, Molecular Theory and Simulation (BSCh)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry, Synthesis and Chemical Biology (BSCh)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry, Synthesis and Chemical Biology (BSCh)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry, Teaching (BSCh)",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry, Teaching (BSCh)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civics Honors (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Civics Honors (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering (BSCE)",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering (BSCE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Languages, Classics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Languages, Classics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Languages, Greek (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Languages, Greek (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Languages, Latin (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Languages, Latin (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Studies, Ancient History (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Studies, Ancient History (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Studies, Classical Archaeology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Studies, Classical Archaeology (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Climate System Science (BSGS)",
+      "listType": "official_undergraduate_major",
+      "name": "Climate System Science (BSGS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication and Leadership (BSComm&Lead)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication and Leadership (BSComm&Lead)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Studies, Corporate Communication (BSCommStds)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Studies, Corporate Communication (BSCommStds)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Studies, Global and Intercultural Communication (BSCommStds)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Studies, Global and Intercultural Communication (BSCommStds)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Studies, Human Relations Communication (BSCommStds)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Studies, Human Relations Communication (BSCommStds)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Studies, Political Communication (BSCommStds)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Studies, Political Communication (BSCommStds)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Studies, Strategic and Risk Communication (BSCommStds)",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Studies, Strategic and Risk Communication (BSCommStds)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Composition (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Composition (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computational Engineering (BSCompE)",
+      "listType": "official_undergraduate_major",
+      "name": "Computational Engineering (BSCompE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computational Engineering (BSCompE/MSCSEM)",
+      "listType": "official_undergraduate_major",
+      "name": "Computational Engineering (BSCompE/MSCSEM)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, Computer Science (BSCompSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, Computer Science (BSCompSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, Honors (BSCompSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, Honors (BSCompSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, Honors/Business Administration, Honors (BSCompSci/BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, Honors/Business Administration, Honors (BSCompSci/BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science, Turing Scholars Honors (BSCompSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science, Turing Scholars Honors (BSCompSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science: Integrated Program (BSCompSci/MSCompSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science: Integrated Program (BSCompSci/MSCompSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dance, Dance Education (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Dance, Dance Education (BFA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dance, Performance and Choreography (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Dance, Performance and Choreography (BFA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design (BADesign)",
+      "listType": "official_undergraduate_major",
+      "name": "Design (BADesign)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Design (BFA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BSEco)",
+      "listType": "official_undergraduate_major",
+      "name": "Economics (BSEco)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education, All-Level Generic Special Education (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Education, All-Level Generic Special Education (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education, Early Childhood Through Grade Six ESL Bilingual Generalist (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Education, Early Childhood Through Grade Six ESL Bilingual Generalist (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education, Early Childhood Through Grade Six ESL Generalist (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Education, Early Childhood Through Grade Six ESL Generalist (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical and Computer Engineering (BSECE)",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical and Computer Engineering (BSECE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical and Computer Engineering (BSECE/MSE)",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical and Computer Engineering (BSECE/MSE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical and Computer Engineering, Honors (BSECE)",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical and Computer Engineering, Honors (BSECE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical and Computer Engineering/Business Administration, Honors (BSECE/BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical and Computer Engineering/Business Administration, Honors (BSECE/BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "English (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering (BSEnvE)",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering (BSEnvE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ethnic Studies, Asian American Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Ethnic Studies, Asian American Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "European Studies, European Thought (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "European Studies, European Thought (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "European Studies, Post-1700 Europe (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "European Studies, Post-1700 Europe (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "European Studies, Pre-1700 Europe (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "European Studies, Pre-1700 Europe (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Exercise Science (BSKin&Health)",
+      "listType": "official_undergraduate_major",
+      "name": "Exercise Science (BSKin&Health)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Finance (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "French Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "General Geology (BSGS)",
+      "listType": "official_undergraduate_major",
+      "name": "General Geology (BSGS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geographical Sciences (BSEnvirSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Geographical Sciences (BSEnvirSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Geography (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geophysics (BSGS)",
+      "listType": "official_undergraduate_major",
+      "name": "Geophysics (BSGS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geosciences (BAGS)",
+      "listType": "official_undergraduate_major",
+      "name": "Geosciences (BAGS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geosciences (BSEnvirSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Geosciences (BSEnvirSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geosciences, Teaching (BSGS)",
+      "listType": "official_undergraduate_major",
+      "name": "Geosciences, Teaching (BSGS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geosystems Engineering (BSGE)",
+      "listType": "official_undergraduate_major",
+      "name": "Geosystems Engineering (BSGE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "German (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Government (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Government (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Great Books (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Great Books (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Great Books, Great Books Honors (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Great Books, Great Books Honors (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health and Society (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Health and Society (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health Promotion and Behavioral Science (BSKin&Health)",
+      "listType": "official_undergraduate_major",
+      "name": "Health Promotion and Behavioral Science (BSKin&Health)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "History (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History and Computer Science (BSHisCS)",
+      "listType": "official_undergraduate_major",
+      "name": "History and Computer Science (BSHisCS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Sciences (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Sciences (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Sciences, Honors in Advanced Human Development and Family Sciences (BSHDFS)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Sciences, Honors in Advanced Human Development and Family Sciences (BSHDFS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Sciences, Human Development and Family Sciences (BSHDFS)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Sciences, Human Development and Family Sciences (BSHDFS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development and Family Sciences, Human Development and Family Sciences Honors (BSHDFS)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Development and Family Sciences, Human Development and Family Sciences Honors (BSHDFS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Dimensions of Organizations (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Dimensions of Organizations (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Ecology (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Ecology (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Humanities (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Humanities (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hydrology and Water Resources (BSGS)",
+      "listType": "official_undergraduate_major",
+      "name": "Hydrology and Water Resources (BSGS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Cultural Heritage Informatics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Cultural Heritage Informatics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Cultural Heritage Informatics (BSI)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Cultural Heritage Informatics (BSI)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Health Informatics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Health Informatics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Health Informatics (BSI)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Health Informatics (BSI)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Human-Centered Data Science (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Human-Centered Data Science (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Human-Centered Data Science (BSI)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Human-Centered Data Science (BSI)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Social Informatics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Social Informatics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Social Informatics (BSI)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Social Informatics (BSI)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Social Justice Informatics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Social Justice Informatics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, Social Justice Informatics (BSI)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, Social Justice Informatics (BSI)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, User Experience Design (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, User Experience Design (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Informatics, User Experience Design (BSI)",
+      "listType": "official_undergraduate_major",
+      "name": "Informatics, User Experience Design (BSI)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interior Design (BSID)",
+      "listType": "official_undergraduate_major",
+      "name": "Interior Design (BSID)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Business (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "International Business (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Relations and Global Studies, Culture, Media, and the Arts (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "International Relations and Global Studies, Culture, Media, and the Arts (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Relations and Global Studies, International Political Economy (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "International Relations and Global Studies, International Political Economy (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Relations and Global Studies, International Security (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "International Relations and Global Studies, International Security (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Relations and Global Studies, Science, Technology, and Environment (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "International Relations and Global Studies, Science, Technology, and Environment (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Italian Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Jazz, Composition (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Jazz, Composition (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Jazz, Performance (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Jazz, Performance (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Jewish Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Jewish Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism (BJ)",
+      "listType": "official_undergraduate_major",
+      "name": "Journalism (BJ)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Latin American Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Latin American Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Linguistics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics and Computer Science (BSLinCS)",
+      "listType": "official_undergraduate_major",
+      "name": "Linguistics and Computer Science (BSLinCS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Management (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management Information Systems (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Management Information Systems (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, Actuarial Science (BSMath)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, Actuarial Science (BSMath)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, Mathematics (BSMath)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, Mathematics (BSMath)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, Mathematics Honors (BSMath)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, Mathematics Honors (BSMath)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, Middle Grades and Secondary School Teaching (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, Middle Grades and Secondary School Teaching (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, Standard (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, Standard (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics, Teaching (BSMath)",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics, Teaching (BSMath)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering (BSME)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering (BSME)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering (BSME/MSE)",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering (BSME/MSE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medical Laboratory Science (BSMedLabSci)",
+      "listType": "official_undergraduate_major",
+      "name": "Medical Laboratory Science (BSMedLabSci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mexican American and Latina/o Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Mexican American and Latina/o Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Middle Eastern Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Middle Eastern Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Education, Choral (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Education, Choral (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Education, Instrumental (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Education, Instrumental (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance, Harp (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance, Harp (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance, Orchestral Instrument (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance, Orchestral Instrument (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance, Organ or Harpsichord (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance, Organ or Harpsichord (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance, Piano (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance, Piano (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Performance, Voice (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Performance, Voice (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Studies (BMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music Studies (BMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music, Composition (BAMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music, Composition (BAMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music, Music (BAMusic)",
+      "listType": "official_undergraduate_major",
+      "name": "Music, Music (BAMusic)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience and Computer Science (BSNeuCS)",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience and Computer Science (BSNeuCS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience, Neuroscience (BSNeurosci)",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience, Neuroscience (BSNeurosci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience, Neuroscience Honors (BSNeurosci)",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience, Neuroscience Honors (BSNeurosci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neuroscience, Neuroscience Scholars (BSNeurosci)",
+      "listType": "official_undergraduate_major",
+      "name": "Neuroscience, Neuroscience Scholars (BSNeurosci)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing (BSN)",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing (BSN)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition, Didactic Program in Dietetics (BSNtr)",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition, Didactic Program in Dietetics (BSNtr)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition, Integrated Coordinated Program in Dietetics/Nutritional Sciences (BSNtr/MSNS)",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition, Integrated Coordinated Program in Dietetics/Nutritional Sciences (BSNtr/MSNS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition, Nutrition Honors: Dean's Scholars Honors Program, Polymathic Scholars, and Health Science Scholars Programs (BSNtr)",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition, Nutrition Honors: Dean's Scholars Honors Program, Polymathic Scholars, and Health Science Scholars Programs (BSNtr)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition, Nutritional Sciences (BSNtr)",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition, Nutritional Sciences (BSNtr)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition, Public Health Nutrition (BSNtr)",
+      "listType": "official_undergraduate_major",
+      "name": "Nutrition, Public Health Nutrition (BSNtr)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Petroleum Engineering (BSPE)",
+      "listType": "official_undergraduate_major",
+      "name": "Petroleum Engineering (BSPE)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physical Culture and Sports Studies (BSKin&Health)",
+      "listType": "official_undergraduate_major",
+      "name": "Physical Culture and Sports Studies (BSKin&Health)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BSA)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics (BSA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, Biophysics (BSPhy)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, Biophysics (BSPhy)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, Computation (BSPhy)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, Computation (BSPhy)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, Physics (BSPhy)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, Physics (BSPhy)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, Physics Honors (BSPhy)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, Physics Honors (BSPhy)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, Radiation Physics (BSPhy)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, Radiation Physics (BSPhy)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, Space Sciences (BSPhy)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, Space Sciences (BSPhy)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics, Teaching (BSPhy)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics, Teaching (BSPhy)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Plan II Honors (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Plan II Honors (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (BSPsy)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology (BSPsy)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Affairs (BAPubAff)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Affairs (BAPubAff)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health, Advanced (BSPublichealth)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health, Advanced (BSPublichealth)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health, Honors (BSPublichealth)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health, Honors (BSPublichealth)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health, Public Health (BSPublichealth)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health, Public Health (BSPublichealth)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Relations (BSPR)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Relations (BSPR)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Race, Indigeneity, and Migration (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Race, Indigeneity, and Migration (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Radio-Television-Film (BSRTF)",
+      "listType": "official_undergraduate_major",
+      "name": "Radio-Television-Film (BSRTF)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies, Comparative Religious Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Religious Studies, Comparative Religious Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies, Global Intereligious Dynamics (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Religious Studies, Global Intereligious Dynamics (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies, Religion, Ethics, and Social Justice (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Religious Studies, Religion, Ethics, and Social Justice (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Rhetoric and Writing (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Rhetoric and Writing (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Russian, East European, and Eurasian Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Russian, East European, and Eurasian Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Russian, East European, and Eurasian Studies, Language (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Russian, East European, and Eurasian Studies, Language (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Work (BSW)",
+      "listType": "official_undergraduate_major",
+      "name": "Social Work (BSW)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Speech, Language, and Hearing Sciences, Audiology (BSSLH)",
+      "listType": "official_undergraduate_major",
+      "name": "Speech, Language, and Hearing Sciences, Audiology (BSSLH)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Speech, Language, and Hearing Sciences, Speech/Language Pathology (BSSLH)",
+      "listType": "official_undergraduate_major",
+      "name": "Speech, Language, and Hearing Sciences, Speech/Language Pathology (BSSLH)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Management (BSKin&Health)",
+      "listType": "official_undergraduate_major",
+      "name": "Sport Management (BSKin&Health)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics and Data Science (BSSDS)",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics and Data Science (BSSDS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics and Data Science Honors (BSSDS)",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics and Data Science Honors (BSSDS)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Strategy and Statecraft (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Strategy and Statecraft (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Studio Art (BAStudioArt)",
+      "listType": "official_undergraduate_major",
+      "name": "Studio Art (BAStudioArt)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Studio Art (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Studio Art (BFA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Supply Chain Management (BBA)",
+      "listType": "official_undergraduate_major",
+      "name": "Supply Chain Management (BBA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sustainability Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Sustainability Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textiles and Apparel, Merchandising (BSTA)",
+      "listType": "official_undergraduate_major",
+      "name": "Textiles and Apparel, Merchandising (BSTA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textiles and Apparel, Product Development and Design (BSTA)",
+      "listType": "official_undergraduate_major",
+      "name": "Textiles and Apparel, Product Development and Design (BSTA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Textiles and Apparel, Textiles and Apparel Honors (BSTA)",
+      "listType": "official_undergraduate_major",
+      "name": "Textiles and Apparel, Textiles and Apparel Honors (BSTA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre and Dance, Dance (BATD)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre and Dance, Dance (BATD)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre and Dance, Theatre, Acting, Directing and Playwriting (BATD)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre and Dance, Theatre, Acting, Directing and Playwriting (BATD)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre and Dance, Theatre, Performance Studies (BATD)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre and Dance, Theatre, Performance Studies (BATD)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre and Dance, Theatre, Production (BATD)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre and Dance, Theatre, Production (BATD)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre and Dance, Theatre, Self-Directed Study (BATD)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre and Dance, Theatre, Self-Directed Study (BATD)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre Education (BFA)",
+      "listType": "official_undergraduate_major",
+      "name": "Theatre Education (BFA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Urban Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Women’s and Gender Studies, Integrated Program (BA/MA)",
+      "listType": "official_undergraduate_major",
+      "name": "Women’s and Gender Studies, Integrated Program (BA/MA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Women's and Gender Studies (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Women's and Gender Studies (BA)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Youth and Community Studies, Coaching (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Youth and Community Studies, Coaching (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Youth and Community Studies, Early Childhood (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Youth and Community Studies, Early Childhood (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Youth and Community Studies, Educational Leadership and Policy (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Youth and Community Studies, Educational Leadership and Policy (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Youth and Community Studies, Physical Education (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Youth and Community Studies, Physical Education (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Youth and Community Studies, Special Populations (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Youth and Community Studies, Special Populations (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Youth and Community Studies, UTeach Urban Teachers English Language Arts and Reading (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Youth and Community Studies, UTeach Urban Teachers English Language Arts and Reading (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Youth and Community Studies, UTeach Urban Teachers Social Studies (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Youth and Community Studies, UTeach Urban Teachers Social Studies (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Youth and Community Studies, Youth and Social Services (BSEd)",
+      "listType": "official_undergraduate_major",
+      "name": "Youth and Community Studies, Youth and Social Services (BSEd)",
+      "sourceIds": [
+        "official-source-c15fd3ed6613e58747c2dcfe"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "nullReason": "identity_ipeds_match_not_resolved",
-    "status": "not_reported"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-c15fd3ed6613e58747c2dcfe"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "anecdotes": [
     {
@@ -167,8 +3100,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$11,678–$42,778",
-    "maximumUsd": 42778.0,
-    "minimumUsd": 11678.0,
+    "maximumUsd": 42778,
+    "minimumUsd": 11678,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -409,7 +3342,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 11678.0,
+      "amountUsd": 11678,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -418,7 +3351,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 42778.0,
+      "amountUsd": 42778,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -431,7 +3364,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "TX",
-  "studentFacultyRatio": 18.0,
+  "studentFacultyRatio": 18,
   "topPrograms": [
     "Business Administration",
     "Computer Science",
