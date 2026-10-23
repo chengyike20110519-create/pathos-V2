@@ -3078,6 +3078,48 @@
       "sourceType": "official_undergraduate_bulletin_general_studies",
       "status": "verified",
       "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/sustainable-development/"
+    },
+    {
+      "universityId": "candidate-v2:syracuse-university",
+      "publisher": "Syracuse University Course Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate programs",
+        "majors",
+        "degree requirements"
+      ],
+      "sourceId": "official-source-7f2246e16e350f8afd2168e4",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/"
+    },
+    {
+      "universityId": "candidate-v2:syracuse-university",
+      "publisher": "Syracuse University Course Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate programs",
+        "majors",
+        "degree requirements"
+      ],
+      "sourceId": "official-source-14b142beb2d05f3334b22a83",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://coursecatalog.syracuse.edu/undergraduate/information-studies/"
+    },
+    {
+      "universityId": "candidate-v2:syracuse-university",
+      "publisher": "Syracuse University Course Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate programs",
+        "majors",
+        "degree requirements"
+      ],
+      "sourceId": "official-source-52e19b8cee5506bd5846d88a",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://coursecatalog.syracuse.edu/undergraduate/citizenship-public-affairs/"
     }
   ]
 }

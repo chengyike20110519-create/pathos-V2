@@ -48,8 +48,8 @@
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
-  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "pending_source_review",
+  "sourceCommit": "2026-10-23-syracuse-official-catalog-pages",
+  "sourceStatus": "official_catalog_partial",
   "datasetVersion": "stage5-preview-ec8c66e",
   "warningSummary": {
     "codes": [
@@ -69,10 +69,336 @@
     ]
   },
   "programs": [],
-  "allMajors": [],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Aerospace Engineering",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Bioengineering",
+      "listType": "official_undergraduate_major",
+      "name": "Bioengineering",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Engineering",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "official-source-7f2246e16e350f8afd2168e4"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Data Science",
+      "listType": "official_undergraduate_major",
+      "name": "Applied Data Science",
+      "sourceIds": [
+        "official-source-14b142beb2d05f3334b22a83"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Management and Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Information Management and Technology",
+      "sourceIds": [
+        "official-source-14b142beb2d05f3334b22a83"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Innovation, Society, and Technology",
+      "listType": "official_undergraduate_major",
+      "name": "Innovation, Society, and Technology",
+      "sourceIds": [
+        "official-source-14b142beb2d05f3334b22a83"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Integrative Artificial Intelligence",
+      "listType": "official_undergraduate_major",
+      "name": "Integrative Artificial Intelligence",
+      "sourceIds": [
+        "official-source-14b142beb2d05f3334b22a83"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology",
+      "listType": "official_undergraduate_major",
+      "name": "Anthropology",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Citizenship & Civic Engagement",
+      "listType": "official_undergraduate_major",
+      "name": "Citizenship & Civic Engagement",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "official_undergraduate_major",
+      "name": "Economics",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environment, Sustainability, and Policy",
+      "listType": "official_undergraduate_major",
+      "name": "Environment, Sustainability, and Policy",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography",
+      "listType": "official_undergraduate_major",
+      "name": "Geography",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History",
+      "listType": "official_undergraduate_major",
+      "name": "History",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Relations",
+      "listType": "official_undergraduate_major",
+      "name": "International Relations",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Law, Society and Policy",
+      "listType": "official_undergraduate_major",
+      "name": "Law, Society and Policy",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Policy Studies",
+      "listType": "official_undergraduate_major",
+      "name": "Policy Studies",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Health",
+      "listType": "official_undergraduate_major",
+      "name": "Public Health",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology",
+      "sourceIds": [
+        "official-source-52e19b8cee5506bd5846d88a"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_syracuse_selected_official_catalog_pages"
+      ]
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "official_catalog_observed_partial_scope",
+    "scope": "selected Syracuse undergraduate majors from official Engineering and Computer Science, Information Studies, and Maxwell catalog pages; remaining schools and colleges pending"
   },
   "enrollment": {
     "undergraduate": {
