@@ -1956,13 +1956,15 @@
       "url": "https://catalog.tulane.edu/programs/"
     },
     {
+      "universityId": "candidate-v2:rensselaer-polytechnic-institute",
       "publisher": "Rensselaer Polytechnic Institute",
       "referenceYear": 2026,
       "scope": [
-        "rensselaer-polytechnic-institute-programs"
+        "undergraduate majors",
+        "school-by-school major and degree directory"
       ],
-      "sourceId": "official-rpi-academics-2026",
-      "sourceType": "official_institutional_catalog",
+      "sourceId": "official-source-ccd88ea327843994cbde2882",
+      "sourceType": "official_academics_major_directory",
       "status": "verified",
       "url": "https://www.rpi.edu/academics"
     },

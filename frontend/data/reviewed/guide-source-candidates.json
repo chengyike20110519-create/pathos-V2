@@ -3,6 +3,18 @@
   "status": "source_verified_pending_field_extraction",
   "records": [
     {
+      "universityId": "candidate-v2:rensselaer-polytechnic-institute",
+      "universityName": "Rensselaer Polytechnic Institute",
+      "sourceUrl": "https://www.rpi.edu/academics",
+      "sourceType": "official_academics_major_directory",
+      "publisher": "Rensselaer Polytechnic Institute",
+      "scope": ["undergraduate majors", "school-by-school major and degree directory"],
+      "observedProgramNames": ["Business Analytics","Business and Management","Finance, Markets, and Emerging Technologies","Information Technology and Web Science","Marketing and Advanced Computing","Applied Physics","Biochemistry and Biophysics","Biological Neuroscience","Computational Biology","Biology","Chemistry","Computer Science","Environmental Science","Geology","Hydrogeology","Interdisciplinary Science","Mathematics","Physics","Aeronautical Engineering","Aerospace Engineering","Biomedical Engineering","Chemical Engineering","Civil Engineering","Computer and Systems Engineering","Electrical Engineering","Environmental Engineering","Industrial and Management Engineering","Materials Engineering","Mechanical Engineering","Nuclear Engineering","Cognitive Science","Communication, Media, and Design","Design, Innovation, and Society","Electronic Arts","Games and Simulation Arts and Sciences","Music","Philosophy","Psychological Science","Science and Technology Studies","Sustainability Studies"],
+      "programStatus": "official_directory_observed_not_strength_claim",
+      "observedProgramCount": 40,
+      "checkedOn": "2026-10-23"
+    },
+    {
       "universityId": "candidate-v2:university-at-buffalo",
       "universityName": "University at Buffalo",
       "sourceUrl": "https://www.buffalo.edu/content/dam/www/admissions/apply/International_1-Pager_2025_web.pdf",
