@@ -3929,6 +3929,20 @@
       "sourceType": "official_institutional_catalog",
       "status": "verified",
       "url": "https://catalog.uic.edu/ucat/degree-programs/degree-minors/"
+    },
+    {
+      "universityId": "candidate-v2:california-institute-of-technology",
+      "publisher": "Caltech Undergraduate Admissions",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate options",
+        "majors",
+        "minors excluded"
+      ],
+      "sourceId": "official-source-ff7ae721cd644a2aa67b5492",
+      "sourceType": "official_undergraduate_options",
+      "status": "verified",
+      "url": "https://www.admissions.caltech.edu/why-caltech/academics/majors-minors"
     }
   ]
 }
