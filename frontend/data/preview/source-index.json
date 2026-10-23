@@ -2744,6 +2744,19 @@
       "sourceType": "official_undergraduate_academic_program_guide",
       "status": "verified",
       "url": "https://academic-guide.fsu.edu/all-programs"
+    },
+    {
+      "universityId": "candidate-v2:villanova-university",
+      "publisher": "Villanova University Undergraduate Catalog 2026-2027",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate majors and degree programs",
+        "2026-2027 catalog"
+      ],
+      "sourceId": "official-source-5738e5b06ba7da43738cc706",
+      "sourceType": "official_undergraduate_program_catalog",
+      "status": "verified",
+      "url": "https://live-villanova-catalog.cleancatalog.io/programs"
     }
   ]
 }

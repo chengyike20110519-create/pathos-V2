@@ -69,11 +69,888 @@
       "candidate-v2_added_from_iecg_seed"
     ]
   },
-  "programs": [],
-  "allMajors": [],
+  "programs": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting Major",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Africana Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Africana Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Analytics & Artificial Intelligence Co-Major",
+      "listType": "official_undergraduate_major",
+      "name": "Analytics & Artificial Intelligence Co-Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arab and Islamic Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Arab and Islamic Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History Major",
+      "listType": "official_undergraduate_major",
+      "name": "Art History Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
+  "allMajors": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Accounting Major",
+      "listType": "official_undergraduate_major",
+      "name": "Accounting Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Africana Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Africana Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Analytics & Artificial Intelligence Co-Major",
+      "listType": "official_undergraduate_major",
+      "name": "Analytics & Artificial Intelligence Co-Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Arab and Islamic Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Arab and Islamic Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History Major",
+      "listType": "official_undergraduate_major",
+      "name": "Art History Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Asian Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Astronomy & Astrophysics Major",
+      "listType": "official_undergraduate_major",
+      "name": "Astronomy & Astrophysics Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry Major",
+      "listType": "official_undergraduate_major",
+      "name": "Biochemistry Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology BA",
+      "listType": "official_undergraduate_major",
+      "name": "Biology BA",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology BS",
+      "listType": "official_undergraduate_major",
+      "name": "Biology BS",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Biomedical Engineering, B.S.",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business Analytics Co-Major",
+      "listType": "official_undergraduate_major",
+      "name": "Business Analytics Co-Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Chemical Engineering, B.S.",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry Major",
+      "listType": "official_undergraduate_major",
+      "name": "Chemistry Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chinese Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Chinese Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Civil Engineering, B.S.",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Studies Major",
+      "listType": "official_undergraduate_major",
+      "name": "Classical Studies Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cognitive and Behavioral Neuroscience Major",
+      "listType": "official_undergraduate_major",
+      "name": "Cognitive and Behavioral Neuroscience Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication Major",
+      "listType": "official_undergraduate_major",
+      "name": "Communication Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Comprehensive Science Major",
+      "listType": "official_undergraduate_major",
+      "name": "Comprehensive Science Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Engineering, B.S.",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science Major",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Criminology Major",
+      "listType": "official_undergraduate_major",
+      "name": "Criminology Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cultural Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Cultural Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics Major",
+      "listType": "official_undergraduate_major",
+      "name": "Economics Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Electrical Engineering, B.S.",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Elementary Education Major",
+      "listType": "official_undergraduate_major",
+      "name": "Elementary Education Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English Major",
+      "listType": "official_undergraduate_major",
+      "name": "English Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Entrepreneurship Major (BIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Entrepreneurship Major (BIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Science Major",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Science Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Studies Major",
+      "listType": "official_undergraduate_major",
+      "name": "Environmental Studies Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Finance Major",
+      "listType": "official_undergraduate_major",
+      "name": "Finance Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French and Francophone Studies Major",
+      "listType": "official_undergraduate_major",
+      "name": "French and Francophone Studies Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Gender and Women's Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Gender and Women's Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "General Studies Major (BIS)",
+      "listType": "official_undergraduate_major",
+      "name": "General Studies Major (BIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geography Major",
+      "listType": "official_undergraduate_major",
+      "name": "Geography Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History Major",
+      "listType": "official_undergraduate_major",
+      "name": "History Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Resource Management Major (BIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Human Resource Management Major (BIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Humanities Major",
+      "listType": "official_undergraduate_major",
+      "name": "Humanities Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Individually Designed Major",
+      "listType": "official_undergraduate_major",
+      "name": "Individually Designed Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Systems and Technology Major (BIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Information Systems and Technology Major (BIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Business Co-Major",
+      "listType": "official_undergraduate_major",
+      "name": "International Business Co-Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Irish Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Irish Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian Major",
+      "listType": "official_undergraduate_major",
+      "name": "Italian Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Japanese Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Japanese Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Latin American Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Latin American Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Leadership Major (BA or BIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Leadership Major (BA or BIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Liberal Arts Major",
+      "listType": "official_undergraduate_major",
+      "name": "Liberal Arts Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Liberal Arts Major (SCI Phoenix)",
+      "listType": "official_undergraduate_major",
+      "name": "Liberal Arts Major (SCI Phoenix)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management Information Systems Major",
+      "listType": "official_undergraduate_major",
+      "name": "Management Information Systems Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Management Major",
+      "listType": "official_undergraduate_major",
+      "name": "Management Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing Major",
+      "listType": "official_undergraduate_major",
+      "name": "Marketing Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics Major",
+      "listType": "official_undergraduate_major",
+      "name": "Mathematics Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering, B.S.",
+      "listType": "official_undergraduate_major",
+      "name": "Mechanical Engineering, B.S.",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing, B.S.N. (Traditional)",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing, B.S.N. (Traditional)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing, B.S.N. Second Degree 14-month (Express)",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing, B.S.N. Second Degree 14-month (Express)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing, B.S.N. Second Degree 23-month (Flex)",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing, B.S.N. Second Degree 23-month (Flex)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing, B.S.N., Honors",
+      "listType": "official_undergraduate_major",
+      "name": "Nursing, B.S.N., Honors",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Organizational Development & Management Major (BIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Organizational Development & Management Major (BIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Peace and Justice Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Peace and Justice Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy Major",
+      "listType": "official_undergraduate_major",
+      "name": "Philosophy Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics Major (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Physics Major (BS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science Major",
+      "listType": "official_undergraduate_major",
+      "name": "Political Science Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology Major (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology Major (BA)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology Major (BS)",
+      "listType": "official_undergraduate_major",
+      "name": "Psychology Major (BS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Relations and Advertising Major (BA or BIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Relations and Advertising Major (BA or BIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Service & Administration Major (BA)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Service & Administration Major (BA)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Service & Administration Major (BIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Public Service & Administration Major (BIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Real Estate Major",
+      "listType": "official_undergraduate_major",
+      "name": "Real Estate Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Russian Area Studies Major (GIS)",
+      "listType": "official_undergraduate_major",
+      "name": "Russian Area Studies Major (GIS)",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology Major",
+      "listType": "official_undergraduate_major",
+      "name": "Sociology Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish Studies Major",
+      "listType": "official_undergraduate_major",
+      "name": "Spanish Studies Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics Major",
+      "listType": "official_undergraduate_major",
+      "name": "Statistics Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theology and Religious Studies Major",
+      "listType": "official_undergraduate_major",
+      "name": "Theology and Religious Studies Major",
+      "sourceIds": [
+        "official-source-5738e5b06ba7da43738cc706"
+      ],
+      "status": "verified",
+      "warnings": []
+    }
+  ],
   "allMajorsStatus": {
-    "status": "not_reported",
-    "nullReason": "detail_artifact_not_available"
+    "status": "verified_official_catalog",
+    "referenceYear": 2026,
+    "sourceIds": [
+      "official-source-5738e5b06ba7da43738cc706"
+    ],
+    "warnings": [
+      "Official catalog item preserved as displayed; degree and concentration labels are not collapsed."
+    ]
   },
   "enrollment": {
     "undergraduate": {
