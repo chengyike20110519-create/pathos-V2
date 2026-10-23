@@ -5310,6 +5310,17 @@
         "official undergraduate majors with explicit degree labels"
       ],
       "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:tufts-university",
+      "universityName": "Tufts University",
+      "sourceUrl": "https://students.tufts.edu/registrar/forms-and-policies/departments-and-programs",
+      "publisher": "Tufts University AS&E Registrar",
+      "sourceType": "official_bulletin_programs",
+      "scope": [
+        "official undergraduate majors and co-majors"
+      ],
+      "checkedOn": "2026-10-24"
     }
   ]
 }

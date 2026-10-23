@@ -3427,6 +3427,18 @@
       "sourceType": "official_admissions_majors",
       "status": "verified",
       "url": "https://www.bu.edu/admissions/why-bu/academics/majors/"
+    },
+    {
+      "universityId": "candidate-v2:tufts-university",
+      "publisher": "Tufts University AS&E Registrar",
+      "referenceYear": 2026,
+      "scope": [
+        "official undergraduate majors and co-majors"
+      ],
+      "sourceId": "official-source-905276a8bed98de66f51271c",
+      "sourceType": "official_bulletin_programs",
+      "status": "verified",
+      "url": "https://students.tufts.edu/registrar/forms-and-policies/departments-and-programs"
     }
   ]
 }
