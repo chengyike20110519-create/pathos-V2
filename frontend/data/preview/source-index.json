@@ -3159,6 +3159,32 @@
       "sourceType": "official_undergraduate_catalog",
       "status": "verified",
       "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/online%20bachelor%20programs"
+    },
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "publisher": "Arizona State University Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degree programs",
+        "major catalog"
+      ],
+      "sourceId": "official-source-9246ab49ab1ce41197396986",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/retail"
+    },
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "publisher": "Arizona State University Academic Catalog",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate degree programs",
+        "major catalog"
+      ],
+      "sourceId": "official-source-e837fa840b337074744a78ab",
+      "sourceType": "official_undergraduate_catalog",
+      "status": "verified",
+      "url": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/forensic%20science%20"
     }
   ]
 }

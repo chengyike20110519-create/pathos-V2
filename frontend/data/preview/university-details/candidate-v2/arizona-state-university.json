@@ -896,7 +896,7 @@
       "listType": "official_undergraduate_major",
       "name": "Supply Chain Management",
       "sourceIds": [
-        "official-source-4eb64638b36ce967d491604e"
+        "official-source-9246ab49ab1ce41197396986"
       ],
       "status": "verified",
       "warnings": [
@@ -909,7 +909,137 @@
       "listType": "official_undergraduate_major",
       "name": "User Experience",
       "sourceIds": [
-        "official-source-4eb64638b36ce967d491604e"
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business (Business Administration)",
+      "listType": "official_undergraduate_major",
+      "name": "Business (Business Administration)",
+      "sourceIds": [
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business (Communication)",
+      "listType": "official_undergraduate_major",
+      "name": "Business (Communication)",
+      "sourceIds": [
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business (Food Industry Management)",
+      "listType": "official_undergraduate_major",
+      "name": "Business (Food Industry Management)",
+      "sourceIds": [
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business (Language and Culture)",
+      "listType": "official_undergraduate_major",
+      "name": "Business (Language and Culture)",
+      "sourceIds": [
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business (Retail Management)",
+      "listType": "official_undergraduate_major",
+      "name": "Business (Retail Management)",
+      "sourceIds": [
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Entrepreneurial Leadership",
+      "listType": "official_undergraduate_major",
+      "name": "Entrepreneurial Leadership",
+      "sourceIds": [
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion",
+      "sourceIds": [
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Fashion (Apparel Product Development)",
+      "listType": "official_undergraduate_major",
+      "name": "Fashion (Apparel Product Development)",
+      "sourceIds": [
+        "official-source-9246ab49ab1ce41197396986"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (Cybersecurity)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Science (Cybersecurity)",
+      "sourceIds": [
+        "official-source-e837fa840b337074744a78ab"
+      ],
+      "status": "verified",
+      "warnings": [
+        "scope_asu_degree_search_keyword_page"
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Systems Engineering (Cybersecurity)",
+      "listType": "official_undergraduate_major",
+      "name": "Computer Systems Engineering (Cybersecurity)",
+      "sourceIds": [
+        "official-source-e837fa840b337074744a78ab"
       ],
       "status": "verified",
       "warnings": [
