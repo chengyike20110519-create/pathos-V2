@@ -953,13 +953,15 @@
       "url": "https://catalog.utexas.edu/undergraduate/the-university/degree-programs/"
     },
     {
+      "universityId": "candidate-v2:university-of-virginia",
       "publisher": "University of Virginia",
-      "referenceYear": null,
+      "referenceYear": 2026,
       "scope": [
-        "top_programs"
+        "undergraduate majors",
+        "official Undergraduate Majors and Minors page"
       ],
-      "sourceId": "source_uva_undergraduate_majors",
-      "sourceType": "official_institutional",
+      "sourceId": "official-source-4d079f337bd5d165e464639e",
+      "sourceType": "official_undergraduate_majors_directory",
       "status": "verified",
       "url": "https://www.virginia.edu/majors-minors/"
     },
