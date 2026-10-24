@@ -426,11 +426,12 @@ describe("Stage 5 frontend/backend integration contract", () => {
   });
 
   it("24b all-major gaps preserve not-reported semantics", async () => {
-    const detail = parseStage5Detail(
-      await artifact(
-        "university-details/candidate-v2/arizona-state-university.json",
-      ),
-    );
+    // A missing directory is a deliberate test fixture. ASU now has reviewed
+    // program data and must not be forced back to the original empty snapshot.
+    const raw = await artifact<Record<string, unknown>>("university-details/candidate-v2/arizona-state-university.json");
+    const detail = parseStage5Detail({ ...raw, allMajors: [], allMajorsStatus: {
+      status: "not_reported", nullReason: "identity_ipeds_match_not_resolved",
+    } });
     const normalized = normalizeStage5Detail(
       detail,
       parseStage5SourceIndex(await artifact("source-index.json")),
@@ -520,7 +521,7 @@ describe("Stage 5 frontend/backend integration contract", () => {
     for (const [query, expectedId] of [
       ["Southwest", "candidate-v2:arizona-state-university"],
       ["Supply Chain Management", "candidate-v2:arizona-state-university"],
-      ["Islamic Studies", "candidate-v2:boston-college"],
+      ["Symbolic Systems", "candidate-v2:stanford-university"],
     ]) {
       const response = await handler(
         new Request(

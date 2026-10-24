@@ -8,6 +8,7 @@ import type {
   UniversitySummary,
 } from "@/domain/dataset";
 import { FALLBACK_STATUS_DICTIONARY } from "@/config/status-dictionary";
+import { MAJOR_DIRECTORY_STATUSES } from "@/domain/dataset";
 
 export const STAGE5_CONTRACT_VERSION = "pathos-preview-v1";
 const RMB_PER_USD = 7.2;
@@ -94,19 +95,8 @@ export interface Stage5Detail extends Stage5Summary {
     rank: number | null;
     sourceIds: string[];
   }>;
-  allMajors: Array<{
-    name: string;
-    displayName: string;
-    degreeType: string | null;
-    listType: string | null;
-    sourceIds: string[];
-    status: string;
-    warnings: string[];
-  }>;
-  allMajorsStatus: {
-    status: "source_limited" | "not_reported";
-    nullReason: string | null;
-  };
+  allMajors: NonNullable<PreviewMetadata["allMajors"]>;
+  allMajorsStatus: NonNullable<PreviewMetadata["allMajorsStatus"]>;
   enrollment: PreviewMetadata["enrollment"];
   admissions: PreviewMetadata["admissions"];
   geography: PreviewMetadata["geography"];
@@ -317,7 +307,12 @@ function validateStatuses(raw: unknown, path: string): void {
   }
   if (!raw || typeof raw !== "object") return;
   for (const [key, value] of Object.entries(raw as Record<string, unknown>)) {
-    if (key === "status" || key === "verificationStatus") {
+    if (key === "allMajorsStatus") {
+      const directory = object(value, `${path}.allMajorsStatus`);
+      if (!MAJOR_DIRECTORY_STATUSES.includes(directory.status as typeof MAJOR_DIRECTORY_STATUSES[number])) {
+        throw new Error(`${path}.allMajorsStatus.status has unknown status: ${String(directory.status)}`);
+      }
+    } else if (key === "status" || key === "verificationStatus") {
       if (typeof value !== "string" || !KNOWN_DETAIL_STATUSES.has(value)) {
         throw new Error(`${path}.${key} has unknown status: ${String(value)}`);
       }

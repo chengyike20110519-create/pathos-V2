@@ -617,6 +617,12 @@ function parsePreviewMetadata(raw: unknown): PreviewMetadata | undefined {
         sourceIds: Array.isArray(row.sourceIds) ? row.sourceIds.filter((id): id is string => typeof id === "string") : [],
         status: typeof row.status === "string" ? row.status : "source_review_not_completed",
         warnings: Array.isArray(row.warnings) ? row.warnings.filter((value): value is string => typeof value === "string") : [],
+        ...(Array.isArray(row.degreePaths) ? { degreePaths: row.degreePaths.filter((v): v is string => typeof v === "string") } : {}),
+        ...(typeof row.officialUrl === "string" && /^https?:\/\//.test(row.officialUrl) ? { officialUrl: row.officialUrl } : {}),
+        ...(Array.isArray(row.officialUrls) ? { officialUrls: row.officialUrls.filter((v): v is string => typeof v === "string" && /^https?:\/\//.test(v)) } : {}),
+        ...(Array.isArray(row.officialProgramCodes) ? { officialProgramCodes: row.officialProgramCodes.filter((v): v is string => typeof v === "string") } : {}),
+        ...(Array.isArray(row.officialProgramLabels) ? { officialProgramLabels: row.officialProgramLabels.filter((v): v is string => typeof v === "string") } : {}),
+        ...(typeof row.programType === "string" ? { programType: row.programType } : {}),
       }];
     }),
   };

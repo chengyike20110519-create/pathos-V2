@@ -254,6 +254,14 @@ export interface PreviewField<T = unknown> {
   nullReason?: string | null;
 }
 
+export const MAJOR_DIRECTORY_STATUSES = [
+  "source_limited", "not_reported",
+  "verified_official_undergraduate_majors", "verified_official_catalog",
+  "verified_official_undergraduate_options", "verified_official_undergraduate_degree_charts",
+  "verified_official_undergraduate_programs", "official_catalog_observed_partial_scope",
+  "official_degree_search_observed_partial_scope",
+] as const;
+
 export interface PreviewMetadata {
   allMajors?: Array<{
     name: string;
@@ -263,10 +271,21 @@ export interface PreviewMetadata {
     sourceIds: string[];
     status: string;
     warnings: string[];
+    degreePaths?: string[];
+    officialUrl?: string;
+    officialUrls?: string[];
+    officialProgramCodes?: string[];
+    officialProgramLabels?: string[];
+    programType?: string;
   }>;
   allMajorsStatus?: {
-    status: "source_limited" | "not_reported";
+    status: typeof MAJOR_DIRECTORY_STATUSES[number];
     nullReason: string | null;
+    sourceScope?: string;
+    referenceYear?: number | string;
+    checkedOn?: string;
+    officialProgramRecords?: number;
+    directoryEntries?: number;
   };
   enrollment: {
     undergraduate: PreviewField<number>;

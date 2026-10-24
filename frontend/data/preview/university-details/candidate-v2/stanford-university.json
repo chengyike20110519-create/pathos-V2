@@ -153,13 +153,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Aeronautics and Astronautics",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-f62805ddb9bf766d56db90ac"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/aeronautics-and-astronautics"
+      "officialUrl": "https://bulletin.stanford.edu/programs/AA-BS",
+      "officialProgramCodes": [
+        "AA-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/AA-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -167,13 +174,20 @@
       "listType": "official_undergraduate_majors",
       "name": "African and African American Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-9845f1a41746b1450fe2d3c3"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/african-and-african-american-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/AFRAM-BA",
+      "officialProgramCodes": [
+        "AFRAM-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/AFRAM-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -181,13 +195,20 @@
       "listType": "official_undergraduate_majors",
       "name": "American Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-efe4417dab80930943aff1ed"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/american-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/AMSTU-BA",
+      "officialProgramCodes": [
+        "AMSTU-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/AMSTU-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -195,13 +216,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Anthropology",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-af5aa774e050cc294dfaa72b"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/anthropology"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ANTHR-BA",
+      "officialProgramCodes": [
+        "ANTHR-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ANTHR-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -209,13 +237,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Archaeology",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-9b9ad96fac1c4d89c048f9c5"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/archaeology"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ARCHA-BA",
+      "officialProgramCodes": [
+        "ARCHA-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ARCHA-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -223,13 +258,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Art History",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-b14749553a1c6612173665bc"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/art-history"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ARTHS-BA",
+      "officialProgramCodes": [
+        "ARTHS-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ARTHS-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -237,13 +279,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Art Practice",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-664a81a14fe548ad830f1b27"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/art-practice"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ARTP-BA",
+      "officialProgramCodes": [
+        "ARTP-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ARTP-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -251,27 +300,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Asian American Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-828d3d0d9b467344c60be925"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/asian-american-studies"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Atmosphere/Energy",
-      "listType": "official_undergraduate_majors",
-      "name": "Atmosphere/Energy",
-      "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ASAM-BA",
+      "officialProgramCodes": [
+        "ASAM-BA"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BS"
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ASAM-BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/atmosphereenergy"
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -279,13 +321,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Bioengineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-4da6d150b1adda05c68b8a6b"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/bioengineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/BIOE-BS",
+      "officialProgramCodes": [
+        "BIOE-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/BIOE-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -293,41 +342,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Biology",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-3eeeb59c98858ecf5688b723"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/biology"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biomechanical Engineering",
-      "listType": "official_undergraduate_majors",
-      "name": "Biomechanical Engineering",
-      "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+      "officialUrl": "https://bulletin.stanford.edu/programs/BIO-BS",
+      "officialProgramCodes": [
+        "BIO-BS"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BS"
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/BIO-BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/biomechanical-engineering"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biomedical Computation",
-      "listType": "official_undergraduate_majors",
-      "name": "Biomedical Computation",
-      "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BS"
-      ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/biomedical-computation"
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -335,13 +363,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Chemical Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-3e9a68c3651b281549721479"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/chemical-engineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/CHEME-BS",
+      "officialProgramCodes": [
+        "CHEME-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/CHEME-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -349,13 +384,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Chemistry",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-c5869d96c82a75bc3ca9ff73"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/chemistry"
+      "officialUrl": "https://bulletin.stanford.edu/programs/CHEM-BS",
+      "officialProgramCodes": [
+        "CHEM-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/CHEM-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -363,27 +405,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Chicana/o - Latina/o Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-f836c830708a69a68f8d8275"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/chicanao-latinao-studies"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "China Studies",
-      "listType": "official_undergraduate_majors",
-      "name": "China Studies",
-      "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+      "officialUrl": "https://bulletin.stanford.edu/programs/CHILT-BA",
+      "officialProgramCodes": [
+        "CHILT-BA"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/CHILT-BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/china-studies"
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -391,13 +426,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Civil Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-39a4d854c25b92c482963571"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/civil-engineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/CE-BS",
+      "officialProgramCodes": [
+        "CE-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/CE-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -405,13 +447,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Classics",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-75cd96cbd1f272a30a35edf6"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/classics"
+      "officialUrl": "https://bulletin.stanford.edu/programs/CLASS-BA",
+      "officialProgramCodes": [
+        "CLASS-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/CLASS-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -419,13 +468,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Communication",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-28bec65dbd816543960ee5d0"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/communication"
+      "officialUrl": "https://bulletin.stanford.edu/programs/COMMU-BA",
+      "officialProgramCodes": [
+        "COMMU-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/COMMU-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -433,13 +489,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Comparative Literature",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-95b76669c2701270ab26386f"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/comparative-literature"
+      "officialUrl": "https://bulletin.stanford.edu/programs/CPLIT-BA",
+      "officialProgramCodes": [
+        "CPLIT-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/CPLIT-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -447,13 +510,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Comparative Studies in Race and Ethnicity",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-67541bd094e9c64606448384"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/comparative-studies-race-and-ethnicity"
+      "officialUrl": "https://bulletin.stanford.edu/programs/CSRE-BA",
+      "officialProgramCodes": [
+        "CSRE-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/CSRE-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -461,14 +531,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Computer Science",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-23dcb33168d40d7da8ee9f85"
       ],
       "status": "verified",
       "degreePaths": [
-        "BS",
-        "Joint Major / BAS"
+        "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/computer-science"
+      "officialUrl": "https://bulletin.stanford.edu/programs/CS-BS",
+      "officialProgramCodes": [
+        "CS-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/CS-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -476,27 +552,24 @@
       "listType": "official_undergraduate_majors",
       "name": "Data Science",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-d8abddc9d24d1e5aa2a3fd9c",
+        "official-source-7d6f11989a2dd1a2924b113c"
       ],
       "status": "verified",
       "degreePaths": [
+        "BA",
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/data-science"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Data Science & Social Systems",
-      "listType": "official_undergraduate_majors",
-      "name": "Data Science & Social Systems",
-      "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+      "officialUrl": "https://bulletin.stanford.edu/programs/DATSC-BA",
+      "officialProgramCodes": [
+        "DATSC-BA",
+        "DATSC-BS"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/DATSC-BA",
+        "https://bulletin.stanford.edu/programs/DATSC-BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/data-science-social-systems"
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -504,13 +577,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Design",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-7e98a207821a5e30930095be"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/design"
+      "officialUrl": "https://bulletin.stanford.edu/programs/DESIGN-BS",
+      "officialProgramCodes": [
+        "DESIGN-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/DESIGN-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -518,13 +598,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Earth and Planetary Sciences",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-6eed204a083ac42792e4b114"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/earth-systems"
+      "officialUrl": "https://bulletin.stanford.edu/programs/EPS-BS",
+      "officialProgramCodes": [
+        "EPS-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/EPS-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -532,13 +619,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Earth Systems",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-318e41e31686f3b444b0bce8"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/earth-systems"
+      "officialUrl": "https://bulletin.stanford.edu/programs/EASYS-BS",
+      "officialProgramCodes": [
+        "EASYS-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/EASYS-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -546,13 +640,20 @@
       "listType": "official_undergraduate_majors",
       "name": "East Asian Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-2a41d23fef45a52f7bad9b56"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/east-asian-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/EASST-BA",
+      "officialProgramCodes": [
+        "EASST-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/EASST-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -560,13 +661,24 @@
       "listType": "official_undergraduate_majors",
       "name": "Economics",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-42aa75510a17060026931dc7",
+        "official-source-5e17c1344b121b5c5b864512"
       ],
       "status": "verified",
       "degreePaths": [
-        "BA"
+        "BA",
+        "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/economics"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ECON-BA",
+      "officialProgramCodes": [
+        "ECON-BA",
+        "ECON-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ECON-BA",
+        "https://bulletin.stanford.edu/programs/ECON-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -574,13 +686,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Electrical Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-41c34db22cc9b0175cbc7ba5"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/electrical-engineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/EE-BS",
+      "officialProgramCodes": [
+        "EE-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/EE-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -588,27 +707,167 @@
       "listType": "official_undergraduate_majors",
       "name": "Energy Science and Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-a0e887dd88c5f9f25a0e4f69"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/energy-science-and-engineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ENERGY-BS",
+      "officialProgramCodes": [
+        "ENERGY-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ENERGY-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Physics",
+      "displayName": "Engineering",
       "listType": "official_undergraduate_majors",
-      "name": "Engineering Physics",
+      "name": "Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-2af8eb63de831da5d9f36a0a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/engineering-physics"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ENGR-BS",
+      "officialProgramCodes": [
+        "ENGR-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ENGR-BS"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering: Architectural Design",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering: Architectural Design",
+      "sourceIds": [
+        "official-source-309ea48d1eeae80106cba0fe"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://bulletin.stanford.edu/programs/66QEfbYoXsDQomIHquBE",
+      "officialProgramCodes": [
+        "ENGRBS17"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/66QEfbYoXsDQomIHquBE"
+      ],
+      "programType": "engineering_subplan"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering: Atmosphere and Energy",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering: Atmosphere and Energy",
+      "sourceIds": [
+        "official-source-ad31b69b6ccfdf1b4649aad8"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://bulletin.stanford.edu/programs/BhS0crb5iSOey59K4pEu",
+      "officialProgramCodes": [
+        "ENGRBS19"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/BhS0crb5iSOey59K4pEu"
+      ],
+      "programType": "engineering_subplan"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering: Biomechanical Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering: Biomechanical Engineering",
+      "sourceIds": [
+        "official-source-5c7bae5b1bf5f62d4b1b87d0"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://bulletin.stanford.edu/programs/amgyvgz1HuZ5s5gEbkq0",
+      "officialProgramCodes": [
+        "ENGRBS4"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/amgyvgz1HuZ5s5gEbkq0"
+      ],
+      "programType": "engineering_subplan"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering: Biomedical Computation",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering: Biomedical Computation",
+      "sourceIds": [
+        "official-source-357e12422760cd938aeead0e"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://bulletin.stanford.edu/programs/16kZ1nSLynUYAQA95BOf",
+      "officialProgramCodes": [
+        "ENGRBS16"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/16kZ1nSLynUYAQA95BOf"
+      ],
+      "programType": "engineering_subplan"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering: Engineering Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering: Engineering Physics",
+      "sourceIds": [
+        "official-source-6bccbc542146b2866571c227"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://bulletin.stanford.edu/programs/jaikpuy4s2o1AEGK4tcF",
+      "officialProgramCodes": [
+        "ENGRBS18"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/jaikpuy4s2o1AEGK4tcF"
+      ],
+      "programType": "engineering_subplan"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering: Sustainable Architecture and Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering: Sustainable Architecture and Engineering",
+      "sourceIds": [
+        "official-source-9f8269714b334bec7da26243"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://bulletin.stanford.edu/programs/JzNNOUhLu7KQWAKTAHcK",
+      "officialProgramCodes": [
+        "ENGRBS21"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/JzNNOUhLu7KQWAKTAHcK"
+      ],
+      "programType": "engineering_subplan"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -616,13 +875,20 @@
       "listType": "official_undergraduate_majors",
       "name": "English",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-9f3ef8d78209a402ad59ed48"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/english"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ENGL-BA",
+      "officialProgramCodes": [
+        "ENGL-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ENGL-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -630,13 +896,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Environmental Systems Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-dde61704e8c7b6863f44b680"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/environmental-systems-engineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ENVSE-BS",
+      "officialProgramCodes": [
+        "ENVSE-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ENVSE-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -644,13 +917,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Feminist, Gender, and Sexuality Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-73423c9c742b297896f63cc6"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/feminist-gender-and-sexuality-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/FGSS-BA",
+      "officialProgramCodes": [
+        "FGSS-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/FGSS-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -658,13 +938,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Film and Media Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-3c72b0b22610d8ab252bce71"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/film-and-media-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/FILM-BA",
+      "officialProgramCodes": [
+        "FILM-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/FILM-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -672,13 +959,20 @@
       "listType": "official_undergraduate_majors",
       "name": "French",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-469538104763cf72d053daee"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/french"
+      "officialUrl": "https://bulletin.stanford.edu/programs/FRENC-BA",
+      "officialProgramCodes": [
+        "FRENC-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/FRENC-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -686,13 +980,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Geophysics",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-5bae49e808cccfdf039ed8b1"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/geophysics"
+      "officialUrl": "https://bulletin.stanford.edu/programs/GEOPH-BS",
+      "officialProgramCodes": [
+        "GEOPH-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/GEOPH-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -700,13 +1001,20 @@
       "listType": "official_undergraduate_majors",
       "name": "German Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-344e6e504d09c917e1b96bd3"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/german-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/GERST-BA",
+      "officialProgramCodes": [
+        "GERST-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/GERST-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -714,13 +1022,20 @@
       "listType": "official_undergraduate_majors",
       "name": "History",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-d59f147083897cab644e195f"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/history"
+      "officialUrl": "https://bulletin.stanford.edu/programs/HSTRY-BA",
+      "officialProgramCodes": [
+        "HSTRY-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/HSTRY-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -728,14 +1043,24 @@
       "listType": "official_undergraduate_majors",
       "name": "Human Biology",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-9879e41787385dea144fcf07",
+        "official-source-83ba570a38148fa386e65b01"
       ],
       "status": "verified",
       "degreePaths": [
         "BA",
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/human-biology"
+      "officialUrl": "https://bulletin.stanford.edu/programs/HUMBI-BA",
+      "officialProgramCodes": [
+        "HUMBI-BA",
+        "HUMBI-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/HUMBI-BA",
+        "https://bulletin.stanford.edu/programs/HUMBI-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -743,13 +1068,41 @@
       "listType": "official_undergraduate_majors",
       "name": "Iberian and Latin American Cultures",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-e832d07239ff8212b0c7b3c5"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/iberian-and-latin-american-cultures"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ILAC-BA",
+      "officialProgramCodes": [
+        "ILAC-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ILAC-BA"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Individually Designed Major in Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Individually Designed Major in Engineering",
+      "sourceIds": [
+        "official-source-2eaecda2a655af14a459a63d"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://bulletin.stanford.edu/programs/IDMEN-BS",
+      "officialProgramCodes": [
+        "IDMEN-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/IDMEN-BS"
+      ],
+      "programType": "individually_designed_major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -757,13 +1110,20 @@
       "listType": "official_undergraduate_majors",
       "name": "International Relations",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-4cacaf3eab436debb5d58049"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/international-relations"
+      "officialUrl": "https://bulletin.stanford.edu/programs/INTLR-BA",
+      "officialProgramCodes": [
+        "INTLR-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/INTLR-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -771,27 +1131,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Italian",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-fef40a6f19398623a92926ad"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/italian"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese",
-      "listType": "official_undergraduate_majors",
-      "name": "Japanese",
-      "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ITAL-BA",
+      "officialProgramCodes": [
+        "ITAL-BA"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ITAL-BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/japanese"
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -799,27 +1152,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Jewish Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-a1d569a7c674270aae841a0f"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/jewish-studies"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Korean",
-      "listType": "official_undergraduate_majors",
-      "name": "Korean",
-      "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+      "officialUrl": "https://bulletin.stanford.edu/programs/JEWSH-BA",
+      "officialProgramCodes": [
+        "JEWSH-BA"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/JEWSH-BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/korean"
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -827,13 +1173,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Linguistics",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-f498beee92f03873e85674d9"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/linguistics"
+      "officialUrl": "https://bulletin.stanford.edu/programs/LING-BA",
+      "officialProgramCodes": [
+        "LING-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/LING-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -841,13 +1194,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Management Science and Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-c72dc6c03994ce79c5fd1ac2"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/management-science-and-engineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/MGTSC-BS",
+      "officialProgramCodes": [
+        "MGTSC-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/MGTSC-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -855,13 +1215,41 @@
       "listType": "official_undergraduate_majors",
       "name": "Materials Science and Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-78c157c2b1265461dde09291"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/materials-science-and-engineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/MATSC-BS",
+      "officialProgramCodes": [
+        "MATSC-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/MATSC-BS"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics",
+      "listType": "official_undergraduate_majors",
+      "name": "Mathematics",
+      "sourceIds": [
+        "official-source-53a42f02531ba8a783d4d085"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://bulletin.stanford.edu/programs/MATH-BS",
+      "officialProgramCodes": [
+        "MATH-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/MATH-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -869,13 +1257,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Mechanical Engineering",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-e987acbea7d463af0053221b"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/mechanical-engineering"
+      "officialUrl": "https://bulletin.stanford.edu/programs/ME-BS",
+      "officialProgramCodes": [
+        "ME-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/ME-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -883,13 +1278,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Music",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-7d6321808548fedb04f443ad"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/music"
+      "officialUrl": "https://bulletin.stanford.edu/programs/MUSIC-BA",
+      "officialProgramCodes": [
+        "MUSIC-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/MUSIC-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -897,13 +1299,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Native American Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-9bbb0848474c7cb7c0e59ac6"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/native-american-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/NATAM-BA",
+      "officialProgramCodes": [
+        "NATAM-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/NATAM-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -911,13 +1320,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Philosophy",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-657b48f0ff38ca15744f64be"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/philosophy"
+      "officialUrl": "https://bulletin.stanford.edu/programs/PHILO-BA",
+      "officialProgramCodes": [
+        "PHILO-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/PHILO-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -925,13 +1341,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Philosophy and Religious Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-64689f2fca5e736603c222ea"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/philosophy-and-religious-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/PHREL-BA",
+      "officialProgramCodes": [
+        "PHREL-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/PHREL-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -939,13 +1362,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Physics",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-2e6e83f00e6a3033e331cd5d"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/physics"
+      "officialUrl": "https://bulletin.stanford.edu/programs/PHYS-BS",
+      "officialProgramCodes": [
+        "PHYS-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/PHYS-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -953,13 +1383,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Political Science",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-f538a813029573789ca49c60"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/political-science"
+      "officialUrl": "https://bulletin.stanford.edu/programs/POLSC-BA",
+      "officialProgramCodes": [
+        "POLSC-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/POLSC-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -967,13 +1404,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Psychology",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-d736103b98b6dca50dba5710"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/psychology"
+      "officialUrl": "https://bulletin.stanford.edu/programs/PSYCH-BA",
+      "officialProgramCodes": [
+        "PSYCH-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/PSYCH-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -981,13 +1425,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Public Policy",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-c0a7841cc9ef0892c4d61a66"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/public-policy"
+      "officialUrl": "https://bulletin.stanford.edu/programs/PUBPO-BA",
+      "officialProgramCodes": [
+        "PUBPO-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/PUBPO-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -995,13 +1446,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Religious Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-e0de68b0b656d86b5b39bad2"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/religious-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/RELST-BA",
+      "officialProgramCodes": [
+        "RELST-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/RELST-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1009,14 +1467,24 @@
       "listType": "official_undergraduate_majors",
       "name": "Science, Technology, and Society",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-24c19a84b3628f8b14fda7c2",
+        "official-source-595df8a4c0ca7bf4d2f5070e"
       ],
       "status": "verified",
       "degreePaths": [
         "BA",
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/science-technology-and-society"
+      "officialUrl": "https://bulletin.stanford.edu/programs/STS-BA",
+      "officialProgramCodes": [
+        "STS-BA",
+        "STS-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/STS-BA",
+        "https://bulletin.stanford.edu/programs/STS-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1024,13 +1492,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Slavic Languages and Literatures",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-329a5f9137a00c95c828b774"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/slavic-languages-and-literatures"
+      "officialUrl": "https://bulletin.stanford.edu/programs/SLAV-BA",
+      "officialProgramCodes": [
+        "SLAV-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/SLAV-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1038,13 +1513,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Sociology",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-ba483630299ae2c2a9631afd"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/sociology"
+      "officialUrl": "https://bulletin.stanford.edu/programs/SOCIO-BA",
+      "officialProgramCodes": [
+        "SOCIO-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/SOCIO-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1052,27 +1534,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Spanish",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-f06ebd58c1156cf8989c5683"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/spanish"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sustainable Architecture + Engineering",
-      "listType": "official_undergraduate_majors",
-      "name": "Sustainable Architecture + Engineering",
-      "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+      "officialUrl": "https://bulletin.stanford.edu/programs/SPAN-BA",
+      "officialProgramCodes": [
+        "SPAN-BA"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BS"
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/SPAN-BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/sustainable-architecture-engineering"
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1080,13 +1555,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Symbolic Systems",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-efbd700aab9abe7544b87356"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/symbolic-systems"
+      "officialUrl": "https://bulletin.stanford.edu/programs/SYMBO-BS",
+      "officialProgramCodes": [
+        "SYMBO-BS"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/SYMBO-BS"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1094,13 +1576,20 @@
       "listType": "official_undergraduate_majors",
       "name": "Theater and Performance Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-59e6e936e69901ad79b98ded"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/theater-and-performance-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/THPST-BA",
+      "officialProgramCodes": [
+        "THPST-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/THPST-BA"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1108,20 +1597,30 @@
       "listType": "official_undergraduate_majors",
       "name": "Urban Studies",
       "sourceIds": [
-        "official-source-730810af08b4483f085a6eb0"
+        "official-source-bcb6462f8762253b0b190ffe"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
       ],
-      "officialUrl": "https://majors.stanford.edu/opportunities/urban-studies"
+      "officialUrl": "https://bulletin.stanford.edu/programs/URBST-BA",
+      "officialProgramCodes": [
+        "URBST-BA"
+      ],
+      "officialUrls": [
+        "https://bulletin.stanford.edu/programs/URBST-BA"
+      ],
+      "programType": "major"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
     "status": "verified_official_undergraduate_majors",
-    "sourceScope": "Stanford Explore Majors official offerings; entries with BA, BS, or Joint Major/BAS degree labels",
-    "referenceYear": 2026
+    "referenceYear": "2026-27",
+    "checkedOn": "2026-10-24",
+    "sourceScope": "2026-27 Stanford Bulletin: active undergraduate BA/BS major and individually designed major records. Same-name BA/BS paths are merged; Engineering subplans remain explicitly named under Engineering.",
+    "officialProgramRecords": 73,
+    "directoryEntries": 69
   },
   "anecdotes": [
     {
@@ -1391,7 +1890,7 @@
   "region": "Far West",
   "schoolType": "private_nonprofit",
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_official",
+  "sourceStatus": "verified_frozen_with_warnings",
   "state": "CA",
   "studentFacultyRatio": 6,
   "topPrograms": [

@@ -156,9 +156,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/anthropology/current-students/undergraduate-programs/ba-anthropology"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -169,9 +171,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://chem.tufts.edu/current-students/undergraduate-programs/bs-biochemistry"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -182,9 +186,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/biology/current-students/undergraduate-programs/bs-biology"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -195,9 +201,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/psychology/current-students/undergraduate-programs/babs-biopsychology"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -208,9 +216,46 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
+      "programType": "co_or_second_major",
+      "officialProgramLabels": [
+        "Undergraduate Co-Major for AS",
+        "Undergraduate Second Major for AS"
+      ],
+      "officialUrl": "https://as.tufts.edu/biology/academics/undergraduate-programs/babs-biotechnology-co-major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biotechnology Engineering Track",
+      "listType": "official_undergraduate_majors",
+      "name": "Biotechnology Engineering Track",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "programType": "co_or_second_major",
+      "officialProgramLabels": [
+        "Undergraduate Co- Major for EN",
+        "Undergraduate Second Major for EN"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/chbe/current/undergraduate"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biomedical Engineering (BED)",
+      "listType": "official_undergraduate_majors",
+      "name": "Biomedical Engineering (BED)",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
       "degreePaths": [
-        "Undergraduate Co-Major for AS"
-      ]
+        "BED"
+      ],
+      "programType": "co_or_second_major",
+      "officialProgramLabels": [
+        "Undergraduate EN Second Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/bme/current/undergraduate"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -223,7 +268,30 @@
       "status": "verified",
       "degreePaths": [
         "BSBME"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/bme/current/undergraduate"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biomedical Sciences (BES)",
+      "listType": "official_undergraduate_majors",
+      "name": "Biomedical Sciences (BES)",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BES"
+      ],
+      "programType": "co_or_second_major",
+      "officialProgramLabels": [
+        "Undergraduate AS Co-Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/bme/current/undergraduate"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -236,7 +304,12 @@
       "status": "verified",
       "degreePaths": [
         "BSCHE"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/chbe/current/undergraduate"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -247,9 +320,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://chem.tufts.edu/current-students/undergraduate-programs/bs-chemistry"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -260,9 +335,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/physics/current-students/undergraduate-programs/bs-chemical-physics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -273,9 +350,26 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://chem.tufts.edu/undergraduate/gen-chem-major.html"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Civic Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Civic Studies",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "programType": "co_or_second_major",
+      "officialProgramLabels": [
+        "Undergraduate Second Major"
+      ],
+      "officialUrl": "https://tischcollege.tufts.edu/civic-studies/civic-studies-major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -288,7 +382,12 @@
       "status": "verified",
       "degreePaths": [
         "BSE"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Major"
+      ],
+      "officialUrl": "https://as.tufts.edu/art-architecture/current-students/undergraduate-programs/joint-bse-architectural-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -301,7 +400,12 @@
       "status": "verified",
       "degreePaths": [
         "BSCE"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/cee/current/undergraduate/majors/bsce"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -314,7 +418,30 @@
       "status": "verified",
       "degreePaths": [
         "BSEVE"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/cee/current/undergraduate/majors/bseve"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Public Health Engineering (BSE)",
+      "listType": "official_undergraduate_majors",
+      "name": "Public Health Engineering (BSE)",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BSE"
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/cee/current/undergraduate/majors/bseeh"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -325,9 +452,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/archaeology/requirements/ba-archaeology"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -338,9 +467,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/classicalstudies/academics/undergraduate-programs/ba-ancient-world-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -351,9 +482,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/classicalstudies/current-students/undergraduate-programs/ba-greek"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -364,9 +497,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/classicalstudies/current-students/undergraduate-programs/ba-greek-latin"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -377,9 +512,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/classicalstudies/current-students/undergraduate-programs/ba-latin"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -390,9 +527,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/commhealth/current-students/undergraduate-programs/ba-community-health"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -406,7 +545,12 @@
       "degreePaths": [
         "BA",
         "BS"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/cs/bachelor-artsbachelor-science-major-computer-science-arts-sciences"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -419,7 +563,12 @@
       "status": "verified",
       "degreePaths": [
         "BSCS"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/cs/bachelor-science-computer-science-school-engineering"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -432,7 +581,12 @@
       "status": "verified",
       "degreePaths": [
         "BSDS"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/cs/current-students/undergraduate/bachelor-science-data-science"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -443,9 +597,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ecs/academics/undergraduate-programs/bs-climate-science"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -456,9 +612,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ecs/academics/undergraduate-programs/bs-earth-science"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -469,9 +627,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/economics/current-students/undergraduate-programs/ba-economics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -482,9 +642,26 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/economics/current-students/undergraduate-programs/babs-quantitative-economics"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Education",
+      "listType": "official_undergraduate_majors",
+      "name": "Education",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "programType": "co_or_second_major",
+      "officialProgramLabels": [
+        "Undergraduate Second Major"
+      ],
+      "officialUrl": "https://as.tufts.edu/education/academics/undergraduate-programs"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -495,9 +672,63 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/psychology/current-students/undergraduate-programs/babs-cognitive-and-brain-science"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Computer Engineering",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BSCPE"
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Degree (BSCPE) and Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/ece/current/undergraduate/bscpe"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Electrical Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Electrical Engineering",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BSEE"
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Degree (BSEE) and Major"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/ece/current/undergraduate/bsee"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering Physics",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering Physics",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "programType": "major",
+      "officialProgramLabels": [
+        "Degree (BSEP) and Major",
+        "Undergraduate Degree"
+      ],
+      "officialUrl": "https://as.tufts.edu/physics/academics/undergraduate-programs/bs-engineering-physics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -508,9 +739,47 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/epcshd/current-students/undergraduate-programs/ba-child-study-and-human-development"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BSE"
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Degree (BSE)"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/ece/current-students/undergraduate-program/bachelor-science-engineering-bse"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering Science",
+      "listType": "official_undergraduate_majors",
+      "name": "Engineering Science",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BSES"
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Degree (BSES)"
+      ],
+      "officialUrl": "https://engineering.tufts.edu/undergraduate/degrees/other"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -521,9 +790,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/english/current-students/undergraduate-programs/ba-english"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -534,9 +805,26 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/environmentalstudies/current-students/undergraduate-programs/babs-applied-environmental-studies"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Environmental Studies",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "programType": "co_or_second_major",
+      "officialProgramLabels": [
+        "Undergraduate Second Major"
+      ],
+      "officialUrl": "https://as.tufts.edu/environmentalstudies/current-students/undergraduate-programs/babs-environmental-studies-co-major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -547,9 +835,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/fms/current-students/undergraduate-programs/ba-film-and-media-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -560,9 +850,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/history/current-students/undergraduate-programs/ba-history"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -573,9 +865,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/art-architecture/academics/undergraduate-programs/ba-art-history"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -586,7 +880,8 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
       ]
     },
@@ -599,9 +894,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/interdisciplinary-undergraduate-studies/requirements"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -612,9 +909,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/current-students/undergraduate-programs/ba-german-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -625,9 +924,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/academics/majors/ba-international-literary-cultural-studies-arabic"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -638,9 +939,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/academics/majors/ba-international-literary-cultural-studies-chinese"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -651,9 +954,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/academics/majors"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -664,9 +969,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/academics/majors/ba-international-literary-cultural-studies-german"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -677,9 +984,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/academics/majors"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -690,9 +999,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/academics/majors"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -703,9 +1014,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/academics/majors"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -716,9 +1029,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/current-students/undergraduate-programs/ba-international-literary-visual-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -729,9 +1044,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/judaic-studies/requirements/ba-judaic-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -742,9 +1059,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/ilcs/current-students/undergraduate-programs/ba-russian-eastern-european-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -755,9 +1074,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://ase.tufts.edu/ir/academics/"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -768,9 +1089,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://math.tufts.edu/current-students/undergraduate-programs/babs-applied-mathematics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -781,9 +1104,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://math.tufts.edu/current-students/undergraduate-programs/babs-mathematics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -794,9 +1119,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://math.tufts.edu/academics/undergraduate-programs/babs-pure-mathematics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -807,9 +1134,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/psychology/current-students/undergraduate-programs/babs-engineering-psychology"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -820,9 +1149,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Degree and Major"
-      ]
+      ],
+      "officialUrl": "https://engineering.tufts.edu/me/current/undergraduate/human-factors-engineering"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -833,9 +1164,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Degree and Major"
-      ]
+      ],
+      "officialUrl": "https://engineering.tufts.edu/me/current-students/undergraduate-program/bachelor-science-mechanical-engineering-bsme"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -846,9 +1179,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/middle-eastern-studies/requirements/ba-middle-eastern-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -859,9 +1194,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/music/current-students/undergraduate-programs/ba-music-sound-and-culture"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -872,9 +1209,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/philosophy/current-students/undergraduate-programs/ba-philosophy"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -885,9 +1224,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/physics/current-students/undergraduate-programs/bs-applied-physics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -898,22 +1239,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Physics",
-      "listType": "official_undergraduate_majors",
-      "name": "Engineering Physics",
-      "sourceIds": [
-        "official-source-905276a8bed98de66f51271c"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "Undergraduate Degree"
-      ]
+      "officialUrl": "https://as.tufts.edu/physics/current-students/undergraduate-programs/bs-astrophysics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -924,9 +1254,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/physics/current-students/undergraduate-programs/bs-physics"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -937,9 +1269,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/politicalscience/undergraduate/major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -950,9 +1284,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/psychology/academics/undergraduate-programs/babs-human-factors-psychology"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -963,9 +1299,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://ase.tufts.edu/psychology/undergraduate/concPsychology.htm"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -976,9 +1314,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://ase.tufts.edu/psychology/undergraduate/concClinicalPsych.htm"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -989,9 +1329,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/rcd/academics/major-requirements"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1002,9 +1344,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/rcd/academics/major-requirements"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1015,9 +1359,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/rcd/academics/major-requirements"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1028,9 +1374,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://ase.tufts.edu/religion/undergraduate/majorRequirements.htm"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1041,7 +1389,8 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
       ]
     },
@@ -1054,9 +1403,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/romancestudies/current-students/undergraduate-programs/ba-italian-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1067,9 +1418,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/latin-american-studies/requirements/ba-latin-american-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1080,9 +1433,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/romancestudies/academics/undergraduate-programs/ba-romance-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1093,9 +1448,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/romancestudies/current-students/undergraduate-programs/ba-spanish"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1106,9 +1463,26 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/romancestudies/current-students/undergraduate-programs/ba-spanish"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Science, Technology, and Society",
+      "listType": "official_undergraduate_majors",
+      "name": "Science, Technology, and Society",
+      "sourceIds": [
+        "official-source-905276a8bed98de66f51271c"
+      ],
+      "status": "verified",
+      "programType": "co_or_second_major",
+      "officialProgramLabels": [
+        "Undergraduate Second Major"
+      ],
+      "officialUrl": "https://as.tufts.edu/science-technology-and-society/requirements/babs-science-technology-and-society-co-major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1121,7 +1495,12 @@
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "programType": "major",
+      "officialProgramLabels": [
+        "Undergraduate Degree Program"
+      ],
+      "officialUrl": "https://smfa.tufts.edu/undergraduate/BFA/graduation-requirements"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1132,9 +1511,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/sociology/current-students/undergraduate-programs/ba-sociology"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1145,9 +1526,11 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://tdps.tufts.edu/current-students/undergraduate-programs/ba-theatre-and-performance-studies"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1158,16 +1541,20 @@
         "official-source-905276a8bed98de66f51271c"
       ],
       "status": "verified",
-      "degreePaths": [
+      "programType": "major",
+      "officialProgramLabels": [
         "Undergraduate Major"
-      ]
+      ],
+      "officialUrl": "https://as.tufts.edu/wgss/current-students/undergraduate-programs/ba-womens-gender-and-sexuality-studies"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
     "status": "verified_official_undergraduate_majors",
-    "sourceScope": "Tufts AS&E Bulletin departments and programs page; undergraduate major and co-major entries",
-    "referenceYear": 2026
+    "sourceScope": "Tufts AS&E Bulletin departments/programs: undergraduate majors, co-majors, second majors and bachelor degree programs. Official program labels are preserved; minors, graduate programs and No Major are excluded. Degree paths are recorded only when explicit.",
+    "referenceYear": 2026,
+    "checkedOn": "2026-10-24",
+    "directoryEntries": 90
   },
   "anecdotes": [
     {
@@ -1421,7 +1808,7 @@
   "region": "New England",
   "schoolType": "private_nonprofit",
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_official",
+  "sourceStatus": "verified_frozen_with_warnings",
   "state": "MA",
   "studentFacultyRatio": 10,
   "topPrograms": [

@@ -149,55 +149,75 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Acting (Performance)",
+      "displayName": "Acting",
       "listType": "official_undergraduate_majors",
-      "name": "Acting (Performance)",
+      "name": "Acting",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/acting/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/acting/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Advertising",
+      "displayName": "Advertising COM",
       "listType": "official_undergraduate_majors",
-      "name": "Advertising",
+      "name": "Advertising COM",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/com/programs/advertising/advertising-bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/com/programs/advertising/advertising-bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "African American & Black Diaspora Studies",
+      "displayName": "African American & Black Diaspora Studies CAS",
       "listType": "official_undergraduate_majors",
-      "name": "African American & Black Diaspora Studies",
+      "name": "African American & Black Diaspora Studies CAS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/african-american-black-diaspora-studies/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/african-american-black-diaspora-studies/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "American Studies",
+      "displayName": "American Studies CAS",
       "listType": "official_undergraduate_majors",
-      "name": "American Studies",
+      "name": "American Studies CAS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/american-new-england-studies/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/american-new-england-studies/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -205,25 +225,71 @@
       "listType": "official_undergraduate_majors",
       "name": "Ancient Greek & Latin",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ancient-greek-latin/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ancient-greek-latin/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient Greek Language & Culture",
+      "displayName": "Anthropology with a Specialization in Anthropology, Health & Medicine",
       "listType": "official_undergraduate_majors",
-      "name": "Ancient Greek Language & Culture",
+      "name": "Anthropology with a Specialization in Anthropology, Health & Medicine",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/anthropology/anthropology-health-medicine/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/anthropology/anthropology-health-medicine/"
+      ],
+      "programType": "major_specialization"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Anthropology with a Specialization in Biological Anthropology",
+      "listType": "official_undergraduate_majors",
+      "name": "Anthropology with a Specialization in Biological Anthropology",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/anthropology/biological-anthropology/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/anthropology/biological-anthropology/"
+      ],
+      "programType": "major_specialization"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Anthropology with a Specialization in Sociocultural Anthropology",
+      "listType": "official_undergraduate_majors",
+      "name": "Anthropology with a Specialization in Sociocultural Anthropology",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/anthropology/sociocultural-anthropology/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/anthropology/sociocultural-anthropology/"
+      ],
+      "programType": "major_specialization"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -231,64 +297,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Anthropology & Religion",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/anthropology/ba-anthropology-religion/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/anthropology/ba-anthropology-religion/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology—Specialization in Anthropology, Health & Medicine",
+      "displayName": "Archaeological & Environmental Sciences",
       "listType": "official_undergraduate_majors",
-      "name": "Anthropology—Specialization in Anthropology, Health & Medicine",
+      "name": "Archaeological & Environmental Sciences",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology—Specialization in Biological Anthropology",
-      "listType": "official_undergraduate_majors",
-      "name": "Anthropology—Specialization in Biological Anthropology",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology—Specialization in Sociocultural Anthropology",
-      "listType": "official_undergraduate_majors",
-      "name": "Anthropology—Specialization in Sociocultural Anthropology",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/archaeology/ba-in-archaeological-environmental-sciences/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/archaeology/ba-in-archaeological-environmental-sciences/"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Archaeological & Environmental Science",
-      "listType": "official_undergraduate_majors",
-      "name": "Archaeological & Environmental Science",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -296,12 +333,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Archaeology",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/archaeology/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/archaeology/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -309,12 +351,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Architectural Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/art-history/ba-architectural-studies/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/art-history/ba-architectural-studies/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -322,12 +369,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Art",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/ba-in-art/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/ba-in-art/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -335,12 +387,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Art Education",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/art-education/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/art-education/bfa/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Art History",
+      "listType": "official_undergraduate_majors",
+      "name": "Art History",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BLS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/art-history/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/art-history/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Art & Architecture, History of",
+      "listType": "official_undergraduate_majors",
+      "name": "Art & Architecture, History of",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/art-history/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/art-history/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -348,12 +441,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Asian Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/asian-studies/ba-in-asian-studies/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/asian-studies/ba-in-asian-studies/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -361,38 +459,71 @@
       "listType": "official_undergraduate_majors",
       "name": "Astronomy",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/astronomy/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/astronomy/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Astronomy and Physics",
+      "displayName": "Astronomy & Physics",
       "listType": "official_undergraduate_majors",
-      "name": "Astronomy and Physics",
+      "name": "Astronomy & Physics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/astronomy/ba-astronomy-physics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/astronomy/ba-astronomy-physics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Behavior and Health",
+      "displayName": "Behavior & Health",
       "listType": "official_undergraduate_majors",
-      "name": "Behavior and Health",
+      "name": "Behavior & Health",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/sar/programs/bs-in-behavior-and-health/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/sar/programs/bs-in-behavior-and-health/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Bilingual Education/Teaching English to Speakers of Other Languages",
+      "listType": "official_undergraduate_majors",
+      "name": "Bilingual Education/Teaching English to Speakers of Other Languages",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/bilingual-education/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/bilingual-education/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -400,77 +531,125 @@
       "listType": "official_undergraduate_majors",
       "name": "Biochemistry & Molecular Biology",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/biochemistry-molecular-biology/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/biochemistry-molecular-biology/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology",
+      "displayName": "Biology CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Biology",
+      "name": "Biology CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/biology/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/biology/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology with Specialization in Behavioral Biology",
+      "displayName": "Biology MET",
       "listType": "official_undergraduate_majors",
-      "name": "Biology with Specialization in Behavioral Biology",
+      "name": "Biology MET",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "BA"
-      ]
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/biology/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/biology/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology with Specialization in Cell Biology, Molecular Biology & Genetics",
+      "displayName": "Biology with a Specialization in Behavioral Biology",
       "listType": "official_undergraduate_majors",
-      "name": "Biology with Specialization in Cell Biology, Molecular Biology & Genetics",
+      "name": "Biology with a Specialization in Behavioral Biology",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/biology/ba-behavioral/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/biology/ba-behavioral/"
+      ],
+      "programType": "major_specialization"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology with Specialization in Ecology & Conservation Biology",
+      "displayName": "Biology with a Specialization in Biodiversity, Conservation & Global Change Biology",
       "listType": "official_undergraduate_majors",
-      "name": "Biology with Specialization in Ecology & Conservation Biology",
+      "name": "Biology with a Specialization in Biodiversity, Conservation & Global Change Biology",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/biology/ba-in-biology-biodiversity-conservation-global-change-biology-specialization/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/biology/ba-in-biology-biodiversity-conservation-global-change-biology-specialization/"
+      ],
+      "programType": "major_specialization"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology with Specialization in Neurobiology",
+      "displayName": "Biology with a Specialization in Cell Biology, Molecular Biology & Genetics",
       "listType": "official_undergraduate_majors",
-      "name": "Biology with Specialization in Neurobiology",
+      "name": "Biology with a Specialization in Cell Biology, Molecular Biology & Genetics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/"
+      ],
+      "programType": "major_specialization"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biology with a Specialization in Neurobiology",
+      "listType": "official_undergraduate_majors",
+      "name": "Biology with a Specialization in Neurobiology",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/biology/ba-neurobiology/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/biology/ba-neurobiology/"
+      ],
+      "programType": "major_specialization"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -478,194 +657,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Biomedical Engineering",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/eng/programs/biomedical-engineering/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/eng/programs/biomedical-engineering/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Business Analytics)",
+      "displayName": "Business Administration",
       "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Business Analytics)",
+      "name": "Business Administration",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Independent Concentration)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Independent Concentration)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "BS"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Information Systems Concentration)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Information Systems Concentration)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+      "officialUrl": "https://www.bu.edu/academics/questrom/programs/undergrad/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/questrom/programs/undergrad/"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Management & Organizations)",
+      "displayName": "Chemistry CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Management & Organizations)",
+      "name": "Chemistry CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Operations & Supply Chain Management)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Operations & Supply Chain Management)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Accounting Concentration)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Accounting Concentration)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Finance Concentration)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Finance Concentration)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Global Business Concentration)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Global Business Concentration)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Innovation & Entrepreneurship)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Innovation & Entrepreneurship)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Law Concentration)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Law Concentration)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Marketing Concentration)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Marketing Concentration)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Real Estate)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Real Estate)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration & Management (Strategy)",
-      "listType": "official_undergraduate_majors",
-      "name": "Business Administration & Management (Strategy)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BSBA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry",
-      "listType": "official_undergraduate_majors",
-      "name": "Chemistry",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/chemistry/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/chemistry/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -673,25 +711,71 @@
       "listType": "official_undergraduate_majors",
       "name": "Chemistry & Physics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/physics/ba-in-chemistry-physics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/physics/ba-in-chemistry-physics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry with Specialization in Chemical Biology",
+      "displayName": "Chemistry: Chemical Biology",
       "listType": "official_undergraduate_majors",
-      "name": "Chemistry with Specialization in Chemical Biology",
+      "name": "Chemistry: Chemical Biology",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/chemistry/ba-in-chemistry-chemical-biology/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/chemistry/ba-in-chemistry-chemical-biology/"
+      ],
+      "programType": "major_specialization"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemistry: Materials and Nanoscience",
+      "listType": "official_undergraduate_majors",
+      "name": "Chemistry: Materials and Nanoscience",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/chemistry/ba-in-chemistry-materials-and-nanoscience/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/chemistry/ba-in-chemistry-materials-and-nanoscience/"
+      ],
+      "programType": "major_specialization"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Teaching of Chemistry",
+      "listType": "official_undergraduate_majors",
+      "name": "Teaching of Chemistry",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/chemistry/ba-teaching/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/chemistry/ba-teaching/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -699,12 +783,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Chinese Language & Literature",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-chinese/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-chinese/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -712,25 +801,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Cinema & Media Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/cinema-media-studies/ba-in-cinema-media-studies/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/cinema-media-studies/ba-in-cinema-media-studies/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classical Civilization",
+      "displayName": "Classical Studies",
       "listType": "official_undergraduate_majors",
-      "name": "Classical Civilization",
+      "name": "Classical Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classical-civilization/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classical-civilization/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -738,12 +837,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Classics & Archaeology",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-in-classics-archaeology/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/classical-studies/ba-in-classics-archaeology/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -751,12 +855,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Classics & Philosophy",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classics-philosophy/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classics-philosophy/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -764,12 +873,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Classics & Religion",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classics-religion/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classics-religion/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -777,25 +891,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Comparative Literature",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-comparative-literature/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-comparative-literature/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Composition & Theory",
+      "displayName": "Composition & Music Theory",
       "listType": "official_undergraduate_majors",
-      "name": "Composition & Theory",
+      "name": "Composition & Music Theory",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "MusB"
-      ]
+        "BM"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-music/composition/bm/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-music/composition/bm/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -803,25 +927,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Computer Engineering",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "official_undergraduate_majors",
-      "name": "Computer Science",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
+      "officialUrl": "https://www.bu.edu/academics/eng/programs/computer-engineering/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/eng/programs/computer-engineering/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -829,25 +945,89 @@
       "listType": "official_undergraduate_majors",
       "name": "Computer Science & Economics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/economics/ba-in-computer-science-economics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/economics/ba-in-computer-science-economics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Costume Design and Production (Design, Production & Management)",
+      "displayName": "Computer Science CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Costume Design and Production (Design, Production & Management)",
+      "name": "Computer Science CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/computer-science/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/computer-science/ba/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Science MET",
+      "listType": "official_undergraduate_majors",
+      "name": "Computer Science MET",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/computer-science/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/computer-science/bs/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Costume Design & Production",
+      "listType": "official_undergraduate_majors",
+      "name": "Costume Design & Production",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/costume-design-production/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/costume-design-production/bfa/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Criminal Justice",
+      "listType": "official_undergraduate_majors",
+      "name": "Criminal Justice",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/criminal-justice/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/criminal-justice/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -855,12 +1035,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Data Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cds/programs/bs-in-data-science/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cds/programs/bs-in-data-science/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Deaf Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Deaf Studies",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/deaf-studies/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/deaf-studies/bs/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Early Childhood Education",
+      "listType": "official_undergraduate_majors",
+      "name": "Early Childhood Education",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/early-childhood-education/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/early-childhood-education/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -868,25 +1089,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Earth & Environmental Sciences",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/earth-environment/ba-in-earth-environmental-sciences/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/earth-environment/ba-in-earth-environmental-sciences/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics",
+      "displayName": "Economics CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Economics",
+      "name": "Economics CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/economics/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/economics/ba/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Economics MET",
+      "listType": "official_undergraduate_majors",
+      "name": "Economics MET",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/economics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/economics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -894,12 +1143,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Economics & Mathematics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/economics/ba-mathematics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/economics/ba-mathematics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -907,12 +1161,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Education & Human Development",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/bs-in-education-human-development/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/bs-in-education-human-development/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -920,12 +1179,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Electrical Engineering",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/eng/programs/electrical-engineering/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/eng/programs/electrical-engineering/bs/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Elementary Education",
+      "listType": "official_undergraduate_majors",
+      "name": "Elementary Education",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/elementary-education/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/elementary-education/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -933,13 +1215,53 @@
       "listType": "official_undergraduate_majors",
       "name": "English",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "BA",
-        "BA/MusB"
-      ]
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/english/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/english/ba/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "English & American Literature",
+      "listType": "official_undergraduate_majors",
+      "name": "English & American Literature",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BLS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/english-american-literature/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/english-american-literature/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "English Education",
+      "listType": "official_undergraduate_majors",
+      "name": "English Education",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/english-education/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/english-education/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -947,12 +1269,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Environmental Analysis & Policy",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/earth-environment/ba-environmental-analysis-policy/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/earth-environment/ba-environmental-analysis-policy/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -960,12 +1287,17 @@
       "listType": "official_undergraduate_majors",
       "name": "European Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/european-studies/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/european-studies/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -973,12 +1305,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Film & Television",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/com/programs/film-television/film-televisionbs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/com/programs/film-television/film-televisionbs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -986,12 +1323,17 @@
       "listType": "official_undergraduate_majors",
       "name": "French & Linguistics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/linguistics/ba-french-linguistics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/linguistics/ba-french-linguistics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -999,12 +1341,17 @@
       "listType": "official_undergraduate_majors",
       "name": "French Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-french/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/romance-studies/ba-french/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1012,12 +1359,17 @@
       "listType": "official_undergraduate_majors",
       "name": "German Language & Literature",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-german/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-german/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1025,12 +1377,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Graphic Design",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/graphic-design/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/graphic-design/bfa/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Greek—Ancient",
+      "listType": "official_undergraduate_majors",
+      "name": "Greek—Ancient",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ancient-greek/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ancient-greek/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1038,25 +1413,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Health Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/sar/programs/health-science/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/sar/programs/health-science/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "History",
+      "displayName": "History CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "History",
+      "name": "History CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/history/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/history/ba/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History MET",
+      "listType": "official_undergraduate_majors",
+      "name": "History MET",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BLS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/history/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/history/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1064,51 +1467,53 @@
       "listType": "official_undergraduate_majors",
       "name": "History of Art & Architecture",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/art-history/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/art-history/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Holocaust, Genocide and Human Rights Studies",
+      "displayName": "Holocaust, Genocide & Human Rights Studies",
       "listType": "official_undergraduate_majors",
-      "name": "Holocaust, Genocide and Human Rights Studies",
+      "name": "Holocaust, Genocide & Human Rights Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/holocaust-genocide-human-rights-studies/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/holocaust-genocide-human-rights-studies/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hospitality Administration",
+      "displayName": "Hospitality & Communication",
       "listType": "official_undergraduate_majors",
-      "name": "Hospitality Administration",
+      "name": "Hospitality & Communication",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hospitality Communications",
-      "listType": "official_undergraduate_majors",
-      "name": "Hospitality Communications",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BS"
-      ]
+      "officialUrl": "https://www.bu.edu/academics/sha/programs/bs-in-hospitality-communication/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/sha/programs/bs-in-hospitality-communication/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1116,12 +1521,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Human Physiology",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/sar/programs/human-physiology/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/sar/programs/human-physiology/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1129,12 +1539,36 @@
       "listType": "official_undergraduate_majors",
       "name": "Independent Major",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/majors-and-minors/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/majors-and-minors/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Interdisciplinary Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Interdisciplinary Studies",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BLS",
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/interdisciplinary-studies/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/interdisciplinary-studies/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1142,12 +1576,17 @@
       "listType": "official_undergraduate_majors",
       "name": "International Relations",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/international-relations/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/international-relations/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1155,12 +1594,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Italian & Linguistics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/linguistics/ba-italian-linguistics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/linguistics/ba-italian-linguistics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1168,25 +1612,18 @@
       "listType": "official_undergraduate_majors",
       "name": "Italian Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese & Linguistics",
-      "listType": "official_undergraduate_majors",
-      "name": "Japanese & Linguistics",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-italian/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/romance-studies/ba-italian/",
+        "https://www.bu.edu/academics/cas/programs/linguistics/ba-japanese-linguistics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1194,12 +1631,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Japanese Language & Literature",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-japanese/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-japanese/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1207,12 +1649,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Journalism",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/com/programs/journalism/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/com/programs/journalism/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1220,12 +1667,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Korean Language & Literature",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/korean/ba-in-korean-language-literature/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/world-languages-literatures/korean/ba-in-korean-language-literature/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1233,51 +1685,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Latin American Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin Language & Culture",
-      "listType": "official_undergraduate_majors",
-      "name": "Latin Language & Culture",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/latin-american-studies/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/latin-american-studies/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Lighting Design (Design, Production & Management)",
+      "displayName": "Lighting Design",
       "listType": "official_undergraduate_majors",
-      "name": "Lighting Design (Design, Production & Management)",
+      "name": "Lighting Design",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/lighting-design/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/lighting-design/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
+      "displayName": "Linguistics CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Linguistics",
+      "name": "Linguistics CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1285,25 +1739,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Linguistics & African Languages",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics & Computer Science",
-      "listType": "official_undergraduate_majors",
-      "name": "Linguistics & Computer Science",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics-african-languages/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics-african-languages/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1311,25 +1757,71 @@
       "listType": "official_undergraduate_majors",
       "name": "Linguistics & Philosophy",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics-philosophy/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics-philosophy/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics and Speech, Language & Hearing Sciences",
+      "displayName": "Linguistics and Speech, Language & Hearing Sciences CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Linguistics and Speech, Language & Hearing Sciences",
+      "name": "Linguistics and Speech, Language & Hearing Sciences CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/linguistics/ba-in-linguistics-speech-language-and-hearing-sciences/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/linguistics/ba-in-linguistics-speech-language-and-hearing-sciences/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Linguistics and Speech, Language & Hearing Sciences SAR",
+      "listType": "official_undergraduate_majors",
+      "name": "Linguistics and Speech, Language & Hearing Sciences SAR",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/sar/programs/speech-language-hearing-sciences/bs-in-linguistics-speech-language-and-hearing-sciences/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/sar/programs/speech-language-hearing-sciences/bs-in-linguistics-speech-language-and-hearing-sciences/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Management Studies",
+      "listType": "official_undergraduate_majors",
+      "name": "Management Studies",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/administrative-sciences/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/administrative-sciences/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1337,25 +1829,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Marine Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/marine-science/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/marine-science/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Materials & Nanoscience",
+      "displayName": "Mathematics (includes Statistics) CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Materials & Nanoscience",
+      "name": "Mathematics (includes Statistics) CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics MET",
+      "listType": "official_undergraduate_majors",
+      "name": "Mathematics MET",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/mathematics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/mathematics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1363,12 +1883,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Mathematics & Computer Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-computer-science/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-computer-science/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1376,12 +1901,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Mathematics & Mathematics Education",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-education/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-education/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1389,12 +1919,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Mathematics & Philosophy",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-philosophy/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-philosophy/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1402,25 +1937,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Mathematics & Physics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-in-mathematics-physics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-in-mathematics-physics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics (includes Statistics)",
+      "displayName": "Mathematics Education",
       "listType": "official_undergraduate_majors",
-      "name": "Mathematics (includes Statistics)",
+      "name": "Mathematics Education",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "BA"
-      ]
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/mathematics-education/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/mathematics-education/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1428,12 +1973,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Mechanical Engineering",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/eng/programs/mechanical-engineering/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/eng/programs/mechanical-engineering/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1441,12 +1991,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Media Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/com/programs/media-science/bs-in-media-science/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/com/programs/media-science/bs-in-media-science/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1454,12 +2009,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Middle East & North Africa Studies",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "BS"
-      ]
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/ba-in-middle-east-north-africa-studies/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/ba-in-middle-east-north-africa-studies/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1467,38 +2027,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Middle Eastern and South Asian Languages & Literatures",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/bachelor-of-arts-in-middle-eastern-and-south-asian-languages-literatures/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/world-languages-literatures/bachelor-of-arts-in-middle-eastern-and-south-asian-languages-literatures/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music (Nonperformance)",
+      "displayName": "Modern Foreign Language Education",
       "listType": "official_undergraduate_majors",
-      "name": "Music (Nonperformance)",
+      "name": "Modern Foreign Language Education",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/modern-foreign-language-education/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/modern-foreign-language-education/bs/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music",
+      "listType": "official_undergraduate_majors",
+      "name": "Music",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music (Performance)",
-      "listType": "official_undergraduate_majors",
-      "name": "Music (Performance)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "MusB"
-      ]
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-music/music/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-music/music/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1506,12 +2081,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Music Education",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "MusB"
-      ]
+        "BM"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-music/music-education/bm/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-music/music-education/bm/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Performance",
+      "listType": "official_undergraduate_majors",
+      "name": "Music Performance",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BM"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/bm/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/bm/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1519,51 +2117,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Neuroscience",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/neuroscience/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/neuroscience/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Nutrition (Dietetics Track)",
+      "displayName": "Nutrition",
       "listType": "official_undergraduate_majors",
-      "name": "Nutrition (Dietetics Track)",
+      "name": "Nutrition",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Nutrition (Nutrition & Health Track)",
-      "listType": "official_undergraduate_majors",
-      "name": "Nutrition (Nutrition & Health Track)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BS"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Nutrition (Nutrition Science Track)",
-      "listType": "official_undergraduate_majors",
-      "name": "Nutrition (Nutrition Science Track)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+      "officialUrl": "https://www.bu.edu/academics/sar/programs/nutrition-dietetics/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/sar/programs/nutrition-dietetics/bs/"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BS"
-      ]
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1571,25 +2153,71 @@
       "listType": "official_undergraduate_majors",
       "name": "Painting",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/painting/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/painting/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
+      "displayName": "Performance, Music",
       "listType": "official_undergraduate_majors",
-      "name": "Philosophy",
+      "name": "Performance, Music",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BM"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/bm/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/bm/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy CAS/GRS",
+      "listType": "official_undergraduate_majors",
+      "name": "Philosophy CAS/GRS",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/philosophy/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/philosophy/ba/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy MET",
+      "listType": "official_undergraduate_majors",
+      "name": "Philosophy MET",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BLS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/philosophy/bls-in-philosophy/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/philosophy/bls-in-philosophy/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1597,12 +2225,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Philosophy & Neuroscience",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/philosophy/ba-in-philosophy-neuroscience/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/philosophy/ba-in-philosophy-neuroscience/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1610,12 +2243,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Philosophy & Physics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/philosophy/ba-physics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/philosophy/ba-physics/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1623,12 +2261,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Philosophy & Political Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/philosophy/ba-political-science/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/philosophy/ba-political-science/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1636,12 +2279,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Philosophy & Psychology",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/philosophy/ba-psychology/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/philosophy/ba-psychology/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1649,25 +2297,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Philosophy & Religion",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physical Therapy (Six-Year Program)",
-      "listType": "official_undergraduate_majors",
-      "name": "Physical Therapy (Six-Year Program)",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BS/DPT"
-      ]
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/philosophy/ba-philosophy-religion/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/philosophy/ba-philosophy-religion/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1675,12 +2315,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Physics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/physics/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/physics/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1688,12 +2333,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Physics & Computer Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/physics/ba-in-physics-computer-science/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/physics/ba-in-physics-computer-science/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1701,64 +2351,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Political Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pre-Dentistry",
-      "listType": "official_undergraduate_majors",
-      "name": "Pre-Dentistry",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pre-Law",
-      "listType": "official_undergraduate_majors",
-      "name": "Pre-Law",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/political-science/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/political-science/ba/"
       ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pre-Medicine",
-      "listType": "official_undergraduate_majors",
-      "name": "Pre-Medicine",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pre-Veterinary Medicine",
-      "listType": "official_undergraduate_majors",
-      "name": "Pre-Veterinary Medicine",
-      "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
-      ],
-      "status": "verified",
-      "degreePaths": [
-        "BA"
-      ]
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1766,25 +2369,53 @@
       "listType": "official_undergraduate_majors",
       "name": "Printmaking",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/printmaking-2/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/printmaking-2/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology",
+      "displayName": "Psychology CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Psychology",
+      "name": "Psychology CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/psychology/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/psychology/ba/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Psychology MET",
+      "listType": "official_undergraduate_majors",
+      "name": "Psychology MET",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/psychology/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/psychology/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1792,64 +2423,91 @@
       "listType": "official_undergraduate_majors",
       "name": "Public Relations",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/com/programs/public-relations/bs-in-public-relations/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/com/programs/public-relations/bs-in-public-relations/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion",
+      "displayName": "Religion CAS/GRS",
       "listType": "official_undergraduate_majors",
-      "name": "Religion",
+      "name": "Religion CAS/GRS",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/religion/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/religion/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
+      "displayName": "Russian Language & Literature",
       "listType": "official_undergraduate_majors",
-      "name": "Russian Language and Literature",
+      "name": "Russian Language & Literature",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-russian/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-russian/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Scene Design (Design, Production & Management)",
+      "displayName": "Scene Design",
       "listType": "official_undergraduate_majors",
-      "name": "Scene Design (Design, Production & Management)",
+      "name": "Scene Design",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/scene-design/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/scene-design/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Science Education with Specialization in Biology, Chemistry, or Physics",
+      "displayName": "Science Education",
       "listType": "official_undergraduate_majors",
-      "name": "Science Education with Specialization in Biology, Chemistry, or Physics",
+      "name": "Science Education",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "BA"
-      ]
+        "BA",
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/ba-in-science-education/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/ba-in-science-education/",
+        "https://www.bu.edu/academics/wheelock/programs/science-education/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1857,38 +2515,71 @@
       "listType": "official_undergraduate_majors",
       "name": "Sculpture",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/sculpture/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/sculpture/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology",
+      "displayName": "Social Studies Education",
       "listType": "official_undergraduate_majors",
-      "name": "Sociology",
+      "name": "Social Studies Education",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/social-studies-education/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/social-studies-education/bs/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sociology CAS/GRS",
+      "listType": "official_undergraduate_majors",
+      "name": "Sociology CAS/GRS",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/sociology/ba/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/sociology/ba/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sound Design (Design, Production & Management)",
+      "displayName": "Sound Design",
       "listType": "official_undergraduate_majors",
-      "name": "Sound Design (Design, Production & Management)",
+      "name": "Sound Design",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/sound-design/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/sound-design/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1896,12 +2587,17 @@
       "listType": "official_undergraduate_majors",
       "name": "Spanish",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-spanish/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/romance-studies/ba-spanish/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1909,12 +2605,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Spanish & Linguistics",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BA"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/linguistics/ba-spanish-linguistics/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/linguistics/ba-spanish-linguistics/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Special Education",
+      "listType": "official_undergraduate_majors",
+      "name": "Special Education",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/wheelock/programs/special-education/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/wheelock/programs/special-education/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1922,25 +2641,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Speech, Language & Hearing Sciences",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BS"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/sar/programs/speech-language-hearing-sciences/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/sar/programs/speech-language-hearing-sciences/bs/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Stage Management (Design, Production & Management)",
+      "displayName": "Stage Management",
       "listType": "official_undergraduate_majors",
-      "name": "Stage Management (Design, Production & Management)",
+      "name": "Stage Management",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/stage-management/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/stage-management/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1948,25 +2677,35 @@
       "listType": "official_undergraduate_majors",
       "name": "Statistics & Computer Science",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-in-statistics-computer-science/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-in-statistics-computer-science/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Technical Production (Design, Production & Management)",
+      "displayName": "Technical Production",
       "listType": "official_undergraduate_majors",
-      "name": "Technical Production (Design, Production & Management)",
+      "name": "Technical Production",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/technical-production/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/technical-production/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1974,45 +2713,82 @@
       "listType": "official_undergraduate_majors",
       "name": "Theatre Arts",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
-        "BFA"
-      ]
+        "BFA—Design & Production",
+        "BFA—Performance"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/theatre-arts/bfa-design-production/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/theatre-arts/bfa-design-production/",
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/theatre-arts/bfa-performance/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Theatre Arts Design & Production (Design, Production & Management)",
+      "displayName": "Theatre–Stage Management",
       "listType": "official_undergraduate_majors",
-      "name": "Theatre Arts Design & Production (Design, Production & Management)",
+      "name": "Theatre–Stage Management",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/stage-management/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/stage-management/bfa/"
+      ],
+      "programType": "major"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Theatre Arts/Performance (Performance)",
+      "displayName": "Theatre–Technical Production",
       "listType": "official_undergraduate_majors",
-      "name": "Theatre Arts/Performance (Performance)",
+      "name": "Theatre–Technical Production",
       "sourceIds": [
-        "official-source-459ebf61814d138e2e8a04e5"
+        "official-source-3819f9fbae1e1d622a0ae42a"
       ],
       "status": "verified",
       "degreePaths": [
         "BFA"
-      ]
+      ],
+      "officialUrl": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/technical-production/bfa/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/cfa/programs/school-of-theatre/technical-production/bfa/"
+      ],
+      "programType": "major"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Urban Affairs",
+      "listType": "official_undergraduate_majors",
+      "name": "Urban Affairs",
+      "sourceIds": [
+        "official-source-3819f9fbae1e1d622a0ae42a"
+      ],
+      "status": "verified",
+      "degreePaths": [
+        "BS"
+      ],
+      "officialUrl": "https://www.bu.edu/academics/met/programs/urban-affairs/bs/",
+      "officialUrls": [
+        "https://www.bu.edu/academics/met/programs/urban-affairs/bs/"
+      ],
+      "programType": "major"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
     "status": "verified_official_undergraduate_majors",
-    "sourceScope": "Boston University Admissions majors page; entries with an explicit undergraduate degree label",
-    "referenceYear": 2026
+    "sourceScope": "Current BU Bulletin degree directory: Undergraduate Major entries with a standalone bachelor degree link. Includes Metropolitan College and explicitly named specializations; excludes pre-professional advising and combined graduate pathways.",
+    "referenceYear": 2026,
+    "checkedOn": "2026-10-24",
+    "directoryEntries": 146
   },
   "anecdotes": [
     {
@@ -2258,7 +3034,7 @@
   "region": "New England",
   "schoolType": "private_nonprofit",
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_official",
+  "sourceStatus": "verified_frozen_with_warnings",
   "state": "MA",
   "studentFacultyRatio": 10,
   "topPrograms": [

@@ -30,7 +30,7 @@
       "publisher": "University of California, Berkeley Haas School of Business",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "berkeley-haas-2026-business",
+      "sourceId": "berkeley-haas-2026-business-sweep",
       "sourceType": "university_official_news",
       "status": "official_institutional",
       "url": "https://newsroom.haas.berkeley.edu/uc-berkeley-haas-climbs-to-no-10-as-the-top-public-business-school-evening-weekend-mba-holds-no-1-spot-in-u-s-news-rankings/"
@@ -39,7 +39,7 @@
       "publisher": "Boston College",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "boston-college-2026-business-sweep",
+      "sourceId": "boston-college-2026-rankings",
       "sourceType": "university_official_news",
       "status": "official_institutional",
       "url": "https://www.bc.edu/content/bc-web/sites/bc-news/articles/2025/fall/u-s-news-rankings-for-2026.html"
@@ -57,7 +57,7 @@
       "publisher": "University of Minnesota Carlson School of Management",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "carlson-2026-business",
+      "sourceId": "carlson-2026-business-sweep",
       "sourceType": "university_official_rankings",
       "status": "official_institutional",
       "url": "https://carlsonschool.umn.edu/about/rankings"
@@ -115,7 +115,7 @@
       "publisher": "Indiana University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "indiana-2026-business-nursing",
+      "sourceId": "indiana-2026-business-sweep",
       "sourceType": "university_official_news",
       "status": "official_institutional",
       "url": "https://news.iu.edu/live/news/47275-us-news-ranks-2-iu-undergrad-programs-no-1-in"
@@ -189,7 +189,7 @@
       "publisher": "Georgetown University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_batch2_georgetown_anecdote",
+      "sourceId": "source_batch2_georgetown_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.georgetown.edu/about/"
@@ -198,7 +198,7 @@
       "publisher": "Johns Hopkins University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_batch2_jhu_anecdote",
+      "sourceId": "source_batch2_jhu_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.jhu.edu/about/"
@@ -207,7 +207,7 @@
       "publisher": "University of Rochester Admissions",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_batch2_rochester_anecdote",
+      "sourceId": "source_batch2_rochester_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://admissions.rochester.edu/blog/a-brief-history-of-the-university-of-rochester/"
@@ -216,7 +216,7 @@
       "publisher": "University of Chicago",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_batch2_uchicago_anecdote",
+      "sourceId": "source_batch2_uchicago_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.uchicago.edu/who-we-are/history-and-traditions"
@@ -225,7 +225,7 @@
       "publisher": "University of California, Los Angeles",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_batch2_ucla_anecdote",
+      "sourceId": "source_batch2_ucla_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.ucla.edu/about"
@@ -234,7 +234,7 @@
       "publisher": "The University of Texas at Austin",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_batch2_ut_austin_anecdote",
+      "sourceId": "source_batch2_ut_austin_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://tower.utexas.edu/history/"
@@ -243,7 +243,7 @@
       "publisher": "University of Washington",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_batch2_uw_anecdote",
+      "sourceId": "source_batch2_uw_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.washington.edu/about/"
@@ -252,7 +252,7 @@
       "publisher": "Arizona State University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_asu_anecdote",
+      "sourceId": "source_bulk_v2_asu_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.asu.edu/about/university-history-and-milestones"
@@ -279,7 +279,7 @@
       "publisher": "Boston College",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_boston_college_anecdote",
+      "sourceId": "source_bulk_v2_boston_college_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.bc.edu/content/bc-web/about/mission.html"
@@ -288,7 +288,7 @@
       "publisher": "Boston University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_boston_university_anecdote",
+      "sourceId": "source_bulk_v2_boston_university_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.bu.edu/timeline/"
@@ -297,7 +297,7 @@
       "publisher": "Brown University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_brown_anecdote",
+      "sourceId": "source_bulk_v2_brown_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://history-timeline.brown.edu/"
@@ -306,7 +306,7 @@
       "publisher": "Bucknell University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_bucknell_anecdote",
+      "sourceId": "source_bulk_v2_bucknell_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://coursecatalog.bucknell.edu/aboutbucknell/"
@@ -315,7 +315,7 @@
       "publisher": "California Institute of Technology",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_caltech_anecdote",
+      "sourceId": "source_bulk_v2_caltech_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.caltech.edu/about/at-a-glance"
@@ -324,7 +324,7 @@
       "publisher": "Columbia University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_columbia_anecdote",
+      "sourceId": "source_bulk_v2_columbia_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.columbia.edu/content/university-history"
@@ -333,7 +333,7 @@
       "publisher": "Cornell University Undergraduate Admissions Office",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_cornell_anecdote",
+      "sourceId": "source_bulk_v2_cornell_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://faq.enrollment.cornell.edu/kb/article/224-when-was-cornell-founded/"
@@ -342,7 +342,7 @@
       "publisher": "University of Colorado Boulder",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_cu_boulder_anecdote",
+      "sourceId": "source_bulk_v2_cu_boulder_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://catalog.colorado.edu/about-cu-boulder/"
@@ -351,7 +351,7 @@
       "publisher": "Dartmouth Admissions",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_dartmouth_anecdote",
+      "sourceId": "source_bulk_v2_dartmouth_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://admissions.dartmouth.edu/dartmouth-values/history-traditions"
@@ -360,7 +360,7 @@
       "publisher": "Duke University Libraries",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_duke_anecdote",
+      "sourceId": "source_bulk_v2_duke_history",
       "sourceType": "official_archive",
       "status": "high",
       "url": "https://library.duke.edu/rubenstein/collections/creators/corporations/dukeuniversity"
@@ -369,7 +369,7 @@
       "publisher": "University of Florida",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_florida_anecdote",
+      "sourceId": "source_bulk_v2_florida_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.fa.ufl.edu/wp-content/uploads/2019/06/UF_AFR_2017webversion.pdf"
@@ -378,7 +378,7 @@
       "publisher": "University of Georgia Special Collections Libraries",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_georgia_anecdote",
+      "sourceId": "source_bulk_v2_georgia_history",
       "sourceType": "official_archive",
       "status": "high",
       "url": "https://sclfind.libs.uga.edu/catalog/UA22-010"
@@ -387,7 +387,7 @@
       "publisher": "Georgia Tech School of Electrical and Computer Engineering",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_georgia_tech_anecdote",
+      "sourceId": "source_bulk_v2_georgia_tech_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://ece.gatech.edu/news/2023/12/happy-birthday-georgia-tech"
@@ -396,7 +396,7 @@
       "publisher": "Harvey Mudd College",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_harvey_mudd_anecdote",
+      "sourceId": "source_bulk_v2_harvey_mudd_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.hmc.edu/about/history/"
@@ -405,7 +405,7 @@
       "publisher": "University of Illinois Archives",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_illinois_anecdote",
+      "sourceId": "source_bulk_v2_illinois_history",
       "sourceType": "official_archive",
       "status": "high",
       "url": "https://archives.library.illinois.edu/2012/10/08/history-of-the-university-name/"
@@ -414,7 +414,7 @@
       "publisher": "Indiana University Bloomington",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_indiana_anecdote",
+      "sourceId": "source_bulk_v2_indiana_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://bloomington.iu.edu/about/history.html"
@@ -423,7 +423,7 @@
       "publisher": "University of Iowa Libraries",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_iowa_anecdote",
+      "sourceId": "source_bulk_v2_iowa_history",
       "sourceType": "official_archive",
       "status": "high",
       "url": "https://www.lib.uiowa.edu/sc/archives/chronohistory/"
@@ -432,7 +432,7 @@
       "publisher": "Lehigh University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_lehigh_anecdote",
+      "sourceId": "source_bulk_v2_lehigh_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www2.lehigh.edu/about/history"
@@ -441,7 +441,7 @@
       "publisher": "Loyola University Chicago Archives",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_loyola_anecdote",
+      "sourceId": "source_bulk_v2_loyola_history",
       "sourceType": "official_archive",
       "status": "high",
       "url": "https://www.luc.edu/archives/luhistory.shtml"
@@ -450,7 +450,7 @@
       "publisher": "University of Maryland",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_maryland_anecdote",
+      "sourceId": "source_bulk_v2_maryland_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://umd.edu/about/history"
@@ -459,7 +459,7 @@
       "publisher": "University of Michigan Library",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_michigan_anecdote",
+      "sourceId": "source_bulk_v2_michigan_history",
       "sourceType": "official_archive",
       "status": "high",
       "url": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/creating-a-campus/creating-a-campus/founding"
@@ -468,7 +468,7 @@
       "publisher": "University of Minnesota Twin Cities",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_minnesota_anecdote",
+      "sourceId": "source_bulk_v2_minnesota_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://twin-cities.umn.edu/about-us/history"
@@ -477,7 +477,7 @@
       "publisher": "MIT School of Engineering",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_mit_anecdote",
+      "sourceId": "source_bulk_v2_mit_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://engineering.mit.edu/about/history"
@@ -504,7 +504,7 @@
       "publisher": "New York University Archives",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_nyu_anecdote",
+      "sourceId": "source_bulk_v2_nyu_history",
       "sourceType": "official_archive",
       "status": "high",
       "url": "https://findingaids.library.nyu.edu/archives/mc_228/all/"
@@ -513,7 +513,7 @@
       "publisher": "The Ohio State University Libraries",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_ohio_state_anecdote",
+      "sourceId": "source_bulk_v2_ohio_state_history",
       "sourceType": "official_archive",
       "status": "high",
       "url": "https://library.osu.edu/site/anniversaries/founding-of-ohio-state-faqs/"
@@ -522,7 +522,7 @@
       "publisher": "Olin College of Engineering",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_olin_anecdote",
+      "sourceId": "source_bulk_v2_olin_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://olin.edu/about/history/founding-precepts"
@@ -531,7 +531,7 @@
       "publisher": "Purdue University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_purdue_anecdote",
+      "sourceId": "source_bulk_v2_purdue_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://stories.purdue.edu/purdue-global-pphs-carry-on-tradition-that-dates-back-to-purdues-founding/"
@@ -540,7 +540,7 @@
       "publisher": "Rice University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_rice_anecdote",
+      "sourceId": "source_bulk_v2_rice_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.rice.edu/about"
@@ -549,7 +549,7 @@
       "publisher": "Rose-Hulman Institute of Technology",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_rose_hulman_anecdote",
+      "sourceId": "source_bulk_v2_rose_hulman_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.rose-hulman.edu/about-us/history-and-leadership/index.html"
@@ -558,7 +558,7 @@
       "publisher": "Rutgers University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_rutgers_anecdote",
+      "sourceId": "source_bulk_v2_rutgers_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.rutgers.edu/about/our-revolutionary-roots-history"
@@ -567,7 +567,7 @@
       "publisher": "University of South Carolina",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_south_carolina_anecdote",
+      "sourceId": "source_bulk_v2_south_carolina_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://sc.edu/about/our_history/university_history/timeline/"
@@ -576,7 +576,7 @@
       "publisher": "Texas A&M University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_tamu_anecdote",
+      "sourceId": "source_bulk_v2_tamu_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.tamu.edu/about/history.html"
@@ -585,7 +585,7 @@
       "publisher": "Tufts University Admissions",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_tufts_anecdote",
+      "sourceId": "source_bulk_v2_tufts_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://admissions.tufts.edu/discover-tufts/tufts-history/"
@@ -594,7 +594,7 @@
       "publisher": "University of California, Davis",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_uc_davis_anecdote",
+      "sourceId": "source_bulk_v2_uc_davis_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.ucdavis.edu/about/history"
@@ -603,7 +603,7 @@
       "publisher": "University of California, Irvine",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_uc_irvine_anecdote",
+      "sourceId": "source_bulk_v2_uc_irvine_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://news.uci.edu/2026/05/18/building-uc-irvine/"
@@ -612,7 +612,7 @@
       "publisher": "University of California San Diego",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_uc_san_diego_anecdote",
+      "sourceId": "source_bulk_v2_uc_san_diego_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://today.ucsd.edu/story/uc-san-diego-turns-60"
@@ -621,7 +621,7 @@
       "publisher": "University of California, Santa Barbara",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_uc_santa_barbara_anecdote",
+      "sourceId": "source_bulk_v2_uc_santa_barbara_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.ucsb.edu/about/history"
@@ -630,7 +630,7 @@
       "publisher": "University of North Carolina at Chapel Hill",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_unc_anecdote",
+      "sourceId": "source_bulk_v2_unc_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://cicbdd.web.unc.edu/wp-content/uploads/sites/9892/2018/03/unc-ch_visitors_guide.pdf"
@@ -639,7 +639,7 @@
       "publisher": "University of Southern California",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_usc_anecdote",
+      "sourceId": "source_bulk_v2_usc_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://usc.edu/we-are-usc/the-university/our-history/"
@@ -648,7 +648,7 @@
       "publisher": "University of Virginia",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_virginia_anecdote",
+      "sourceId": "source_bulk_v2_virginia_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://mel.virginia.edu/history"
@@ -657,7 +657,7 @@
       "publisher": "Washington University in St. Louis",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_washu_anecdote",
+      "sourceId": "source_bulk_v2_washu_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://campusnext.wustl.edu/history/"
@@ -666,7 +666,7 @@
       "publisher": "University of Wisconsin-Madison",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_wisconsin_anecdote",
+      "sourceId": "source_bulk_v2_wisconsin_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.wisc.edu/about/historical-timeline/"
@@ -675,7 +675,7 @@
       "publisher": "Yale University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_bulk_v2_yale_anecdote",
+      "sourceId": "source_bulk_v2_yale_history",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.yale.edu/about-yale/traditions-history"
@@ -684,7 +684,7 @@
       "publisher": "Carnegie Mellon University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_cmu_official_anecdote_2026",
+      "sourceId": "source_cmu_official_history_2026",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.cmu.edu/about/history"
@@ -704,17 +704,22 @@
       "publisher": "Harvard University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_harvard_official_anecdote_2026",
+      "sourceId": "source_harvard_official_history_2026",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.harvard.edu/about/history/"
     },
     {
       "publisher": "National Center for Education Statistics",
-      "referenceYear": null,
-      "scope": [],
-      "sourceId": "source_ipeds_ic2023_ay",
-      "sourceType": "ipeds_federal",
+      "referenceYear": 2024,
+      "scope": [
+        "institution",
+        "county",
+        "cbsa",
+        "campus_setting"
+      ],
+      "sourceId": "source_stage4b_ipeds_hd2024",
+      "sourceType": "official_federal_dataset",
       "status": "verified",
       "url": "https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx"
     },
@@ -722,7 +727,7 @@
       "publisher": "Northwestern University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_northwestern_official_anecdote_2026",
+      "sourceId": "source_northwestern_official_history_2026",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.northwestern.edu/about/history/"
@@ -731,7 +736,7 @@
       "publisher": "University of Notre Dame",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_notre_dame_official_anecdote_2026",
+      "sourceId": "source_notre_dame_official_history_2026",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.nd.edu/about/history/"
@@ -764,7 +769,7 @@
       "publisher": "University of Pennsylvania",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_penn_official_anecdote_2026",
+      "sourceId": "source_penn_official_history_2026",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.upenn.edu/about/history"
@@ -863,7 +868,7 @@
       "publisher": "Princeton University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_princeton_official_anecdote_2026",
+      "sourceId": "source_princeton_official_history_2026",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.princeton.edu/meet-princeton/history"
@@ -900,7 +905,7 @@
       "publisher": "Stanford University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_stanford_official_anecdote_2026",
+      "sourceId": "source_stanford_official_history_2026",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.stanford.edu/about/history"
@@ -975,7 +980,7 @@
       "publisher": "Vanderbilt University",
       "referenceYear": null,
       "scope": [],
-      "sourceId": "source_vanderbilt_official_anecdote_2026",
+      "sourceId": "source_vanderbilt_official_history_2026",
       "sourceType": "official_institutional",
       "status": "high",
       "url": "https://www.vanderbilt.edu/about/history/"
@@ -1065,9 +1070,9 @@
       "publisher": "University of Florida",
       "referenceYear": null,
       "scope": [
-        "business-real-estate-batch-01"
+        "business-marketing-batch-03"
       ],
-      "sourceId": "uf-2026-business-batch01",
+      "sourceId": "uf-2026-marketing-batch03",
       "sourceType": "university_official_news",
       "status": "verified",
       "url": "https://warrington.ufl.edu/news/2026-us-news-best-colleges/"
@@ -3273,6 +3278,659 @@
       "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/ARINDBSD/title/fetchpdf"
     },
     {
+      "publisher": "University of California, Berkeley Haas School of Business",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "berkeley-haas-2026-business",
+      "sourceType": "university_official_news",
+      "status": "official_institutional",
+      "url": "https://newsroom.haas.berkeley.edu/uc-berkeley-haas-climbs-to-no-10-as-the-top-public-business-school-evening-weekend-mba-holds-no-1-spot-in-u-s-news-rankings/"
+    },
+    {
+      "publisher": "Boston College",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "boston-college-2026-business-sweep",
+      "sourceType": "university_official_news",
+      "status": "official_institutional",
+      "url": "https://www.bc.edu/content/bc-web/sites/bc-news/articles/2025/fall/u-s-news-rankings-for-2026.html"
+    },
+    {
+      "publisher": "University of Minnesota Carlson School of Management",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "carlson-2026-business",
+      "sourceType": "university_official_rankings",
+      "status": "official_institutional",
+      "url": "https://carlsonschool.umn.edu/about/rankings"
+    },
+    {
+      "publisher": "Indiana University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "indiana-2026-business-nursing",
+      "sourceType": "university_official_news",
+      "status": "official_institutional",
+      "url": "https://news.iu.edu/live/news/47275-us-news-ranks-2-iu-undergrad-programs-no-1-in"
+    },
+    {
+      "publisher": "Georgetown University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_batch2_georgetown_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.georgetown.edu/about/"
+    },
+    {
+      "publisher": "Johns Hopkins University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_batch2_jhu_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.jhu.edu/about/"
+    },
+    {
+      "publisher": "University of Rochester Admissions",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_batch2_rochester_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://admissions.rochester.edu/blog/a-brief-history-of-the-university-of-rochester/"
+    },
+    {
+      "publisher": "University of Chicago",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_batch2_uchicago_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.uchicago.edu/who-we-are/history-and-traditions"
+    },
+    {
+      "publisher": "University of California, Los Angeles",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_batch2_ucla_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.ucla.edu/about"
+    },
+    {
+      "publisher": "The University of Texas at Austin",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_batch2_ut_austin_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://tower.utexas.edu/history/"
+    },
+    {
+      "publisher": "University of Washington",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_batch2_uw_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.washington.edu/about/"
+    },
+    {
+      "publisher": "Arizona State University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_asu_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.asu.edu/about/university-history-and-milestones"
+    },
+    {
+      "publisher": "Boston College",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_boston_college_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.bc.edu/content/bc-web/about/mission.html"
+    },
+    {
+      "publisher": "Boston University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_boston_university_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.bu.edu/timeline/"
+    },
+    {
+      "publisher": "Brown University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_brown_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://history-timeline.brown.edu/"
+    },
+    {
+      "publisher": "Bucknell University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_bucknell_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://coursecatalog.bucknell.edu/aboutbucknell/"
+    },
+    {
+      "publisher": "California Institute of Technology",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_caltech_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.caltech.edu/about/at-a-glance"
+    },
+    {
+      "publisher": "Columbia University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_columbia_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.columbia.edu/content/university-history"
+    },
+    {
+      "publisher": "Cornell University Undergraduate Admissions Office",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_cornell_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://faq.enrollment.cornell.edu/kb/article/224-when-was-cornell-founded/"
+    },
+    {
+      "publisher": "University of Colorado Boulder",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_cu_boulder_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://catalog.colorado.edu/about-cu-boulder/"
+    },
+    {
+      "publisher": "Dartmouth Admissions",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_dartmouth_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://admissions.dartmouth.edu/dartmouth-values/history-traditions"
+    },
+    {
+      "publisher": "Duke University Libraries",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_duke_anecdote",
+      "sourceType": "official_archive",
+      "status": "high",
+      "url": "https://library.duke.edu/rubenstein/collections/creators/corporations/dukeuniversity"
+    },
+    {
+      "publisher": "University of Florida",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_florida_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.fa.ufl.edu/wp-content/uploads/2019/06/UF_AFR_2017webversion.pdf"
+    },
+    {
+      "publisher": "University of Georgia Special Collections Libraries",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_georgia_anecdote",
+      "sourceType": "official_archive",
+      "status": "high",
+      "url": "https://sclfind.libs.uga.edu/catalog/UA22-010"
+    },
+    {
+      "publisher": "Georgia Tech School of Electrical and Computer Engineering",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_georgia_tech_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://ece.gatech.edu/news/2023/12/happy-birthday-georgia-tech"
+    },
+    {
+      "publisher": "Harvey Mudd College",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_harvey_mudd_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.hmc.edu/about/history/"
+    },
+    {
+      "publisher": "University of Illinois Archives",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_illinois_anecdote",
+      "sourceType": "official_archive",
+      "status": "high",
+      "url": "https://archives.library.illinois.edu/2012/10/08/history-of-the-university-name/"
+    },
+    {
+      "publisher": "Indiana University Bloomington",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_indiana_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://bloomington.iu.edu/about/history.html"
+    },
+    {
+      "publisher": "University of Iowa Libraries",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_iowa_anecdote",
+      "sourceType": "official_archive",
+      "status": "high",
+      "url": "https://www.lib.uiowa.edu/sc/archives/chronohistory/"
+    },
+    {
+      "publisher": "Lehigh University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_lehigh_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www2.lehigh.edu/about/history"
+    },
+    {
+      "publisher": "Loyola University Chicago Archives",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_loyola_anecdote",
+      "sourceType": "official_archive",
+      "status": "high",
+      "url": "https://www.luc.edu/archives/luhistory.shtml"
+    },
+    {
+      "publisher": "University of Maryland",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_maryland_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://umd.edu/about/history"
+    },
+    {
+      "publisher": "University of Michigan Library",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_michigan_anecdote",
+      "sourceType": "official_archive",
+      "status": "high",
+      "url": "https://apps.lib.umich.edu/online-exhibits/exhibits/show/creating-a-campus/creating-a-campus/founding"
+    },
+    {
+      "publisher": "University of Minnesota Twin Cities",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_minnesota_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://twin-cities.umn.edu/about-us/history"
+    },
+    {
+      "publisher": "MIT School of Engineering",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_mit_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://engineering.mit.edu/about/history"
+    },
+    {
+      "publisher": "New York University Archives",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_nyu_anecdote",
+      "sourceType": "official_archive",
+      "status": "high",
+      "url": "https://findingaids.library.nyu.edu/archives/mc_228/all/"
+    },
+    {
+      "publisher": "The Ohio State University Libraries",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_ohio_state_anecdote",
+      "sourceType": "official_archive",
+      "status": "high",
+      "url": "https://library.osu.edu/site/anniversaries/founding-of-ohio-state-faqs/"
+    },
+    {
+      "publisher": "Olin College of Engineering",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_olin_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://olin.edu/about/history/founding-precepts"
+    },
+    {
+      "publisher": "Purdue University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_purdue_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://stories.purdue.edu/purdue-global-pphs-carry-on-tradition-that-dates-back-to-purdues-founding/"
+    },
+    {
+      "publisher": "Rice University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_rice_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.rice.edu/about"
+    },
+    {
+      "publisher": "Rose-Hulman Institute of Technology",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_rose_hulman_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.rose-hulman.edu/about-us/history-and-leadership/index.html"
+    },
+    {
+      "publisher": "Rutgers University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_rutgers_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.rutgers.edu/about/our-revolutionary-roots-history"
+    },
+    {
+      "publisher": "University of South Carolina",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_south_carolina_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://sc.edu/about/our_history/university_history/timeline/"
+    },
+    {
+      "publisher": "Texas A&M University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_tamu_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.tamu.edu/about/history.html"
+    },
+    {
+      "publisher": "Tufts University Admissions",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_tufts_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://admissions.tufts.edu/discover-tufts/tufts-history/"
+    },
+    {
+      "publisher": "University of California, Davis",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_uc_davis_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.ucdavis.edu/about/history"
+    },
+    {
+      "publisher": "University of California, Irvine",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_uc_irvine_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://news.uci.edu/2026/05/18/building-uc-irvine/"
+    },
+    {
+      "publisher": "University of California San Diego",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_uc_san_diego_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://today.ucsd.edu/story/uc-san-diego-turns-60"
+    },
+    {
+      "publisher": "University of California, Santa Barbara",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_uc_santa_barbara_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.ucsb.edu/about/history"
+    },
+    {
+      "publisher": "University of North Carolina at Chapel Hill",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_unc_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://cicbdd.web.unc.edu/wp-content/uploads/sites/9892/2018/03/unc-ch_visitors_guide.pdf"
+    },
+    {
+      "publisher": "University of Southern California",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_usc_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://usc.edu/we-are-usc/the-university/our-history/"
+    },
+    {
+      "publisher": "University of Virginia",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_virginia_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://mel.virginia.edu/history"
+    },
+    {
+      "publisher": "Washington University in St. Louis",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_washu_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://campusnext.wustl.edu/history/"
+    },
+    {
+      "publisher": "University of Wisconsin-Madison",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_wisconsin_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.wisc.edu/about/historical-timeline/"
+    },
+    {
+      "publisher": "Yale University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_bulk_v2_yale_anecdote",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.yale.edu/about-yale/traditions-history"
+    },
+    {
+      "publisher": "Carnegie Mellon University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_cmu_official_anecdote_2026",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.cmu.edu/about/history"
+    },
+    {
+      "publisher": "Harvard University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_harvard_official_anecdote_2026",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.harvard.edu/about/history/"
+    },
+    {
+      "publisher": "National Center for Education Statistics",
+      "referenceYear": "2022-23",
+      "scope": [
+        "bachelor_degree_award_areas"
+      ],
+      "sourceId": "source_ipeds_c2023_completions",
+      "sourceType": "ipeds_federal",
+      "status": "source_limited",
+      "url": "https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx"
+    },
+    {
+      "publisher": "National Center for Education Statistics",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_ipeds_ic2023_ay",
+      "sourceType": "ipeds_federal",
+      "status": "verified",
+      "url": "https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx"
+    },
+    {
+      "publisher": "Northwestern University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_northwestern_official_anecdote_2026",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.northwestern.edu/about/history/"
+    },
+    {
+      "publisher": "University of Notre Dame",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_notre_dame_official_anecdote_2026",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.nd.edu/about/history/"
+    },
+    {
+      "publisher": "The Ohio State University",
+      "referenceYear": null,
+      "scope": [
+        "top_programs"
+      ],
+      "sourceId": "source_ohio_state_undergraduate_majors",
+      "sourceType": "official_institutional",
+      "status": "verified",
+      "url": "https://undergrad.osu.edu/majors-and-academics/majors-by-college"
+    },
+    {
+      "publisher": "University of Pennsylvania",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_penn_official_anecdote_2026",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.upenn.edu/about/history"
+    },
+    {
+      "publisher": "Princeton University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_princeton_official_anecdote_2026",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.princeton.edu/meet-princeton/history"
+    },
+    {
+      "publisher": "Stanford University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_stanford_official_anecdote_2026",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.stanford.edu/about/history"
+    },
+    {
+      "publisher": "University of Virginia",
+      "referenceYear": null,
+      "scope": [
+        "top_programs"
+      ],
+      "sourceId": "source_uva_undergraduate_majors",
+      "sourceType": "official_institutional",
+      "status": "verified",
+      "url": "https://www.virginia.edu/majors-minors/"
+    },
+    {
+      "publisher": "Vanderbilt University",
+      "referenceYear": null,
+      "scope": [],
+      "sourceId": "source_vanderbilt_official_anecdote_2026",
+      "sourceType": "official_institutional",
+      "status": "high",
+      "url": "https://www.vanderbilt.edu/about/history/"
+    },
+    {
+      "publisher": "University of Florida",
+      "referenceYear": null,
+      "scope": [
+        "business-real-estate-batch-01"
+      ],
+      "sourceId": "uf-2026-business-batch01",
+      "sourceType": "university_official_news",
+      "status": "verified",
+      "url": "https://warrington.ufl.edu/news/2026-us-news-best-colleges/"
+    },
+    {
+      "publisher": "Virginia Tech Student Academic Advising",
+      "referenceYear": 2026,
+      "scope": [
+        "virginia-polytechnic-institute-and-state-university-programs"
+      ],
+      "sourceId": "official-vt-undergraduate-majors-2026",
+      "sourceType": "official_institutional_catalog",
+      "status": "verified",
+      "url": "https://student.advising.vt.edu/major-exploration/majors-exploreatvt/majors-alphabetical.html"
+    },
+    {
+      "publisher": "Rensselaer Polytechnic Institute",
+      "referenceYear": 2026,
+      "scope": [
+        "rensselaer-polytechnic-institute-programs"
+      ],
+      "sourceId": "official-rpi-academics-2026",
+      "sourceType": "official_institutional_catalog",
+      "status": "verified",
+      "url": "https://www.rpi.edu/academics"
+    },
+    {
+      "publisher": "University of Illinois Chicago Undergraduate Catalog",
+      "referenceYear": 2025,
+      "scope": [
+        "university-of-illinois-at-chicago-programs"
+      ],
+      "sourceId": "official-uic-undergraduate-catalog-2025",
+      "sourceType": "official_institutional_catalog",
+      "status": "verified",
+      "url": "https://catalog.uic.edu/ucat/degree-programs/degree-minors/"
+    },
+    {
       "universityId": "candidate-v2:california-institute-of-technology",
       "publisher": "Caltech Undergraduate Admissions",
       "referenceYear": 2026,
@@ -3433,12 +4091,13 @@
       "publisher": "Tufts University AS&E Registrar",
       "referenceYear": 2026,
       "scope": [
-        "official undergraduate majors and co-majors"
+        "Tufts AS&E Bulletin departments/programs: undergraduate majors, co-majors, second majors and bachelor degree programs. Official program labels are preserved; minors, graduate programs and No Major are excluded. Degree paths are recorded only when explicit."
       ],
       "sourceId": "official-source-905276a8bed98de66f51271c",
-      "sourceType": "official_bulletin_programs",
+      "sourceType": "official_undergraduate_bulletin",
       "status": "verified",
-      "url": "https://students.tufts.edu/registrar/forms-and-policies/departments-and-programs"
+      "url": "https://students.tufts.edu/registrar/forms-and-policies/departments-and-programs",
+      "checkedOn": "2026-10-24"
     },
     {
       "universityId": "candidate-v2:johns-hopkins-university",
@@ -3463,6 +4122,981 @@
       "sourceType": "official_major_explorer",
       "status": "verified",
       "url": "https://majors.stanford.edu/majors/text-only-lists-majors-and-offerings"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "active undergraduate BA/BS programs, including Engineering subplans and individually designed majors"
+      ],
+      "sourceId": "official-source-000496819c9c1fb51a42a4e7",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-f62805ddb9bf766d56db90ac",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/AA-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-9845f1a41746b1450fe2d3c3",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/AFRAM-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-efe4417dab80930943aff1ed",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/AMSTU-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-af5aa774e050cc294dfaa72b",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ANTHR-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-9b9ad96fac1c4d89c048f9c5",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ARCHA-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-b14749553a1c6612173665bc",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ARTHS-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-664a81a14fe548ad830f1b27",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ARTP-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-828d3d0d9b467344c60be925",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ASAM-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-3eeeb59c98858ecf5688b723",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/BIO-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-4da6d150b1adda05c68b8a6b",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/BIOE-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-39a4d854c25b92c482963571",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/CE-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-c5869d96c82a75bc3ca9ff73",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/CHEM-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-3e9a68c3651b281549721479",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/CHEME-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-f836c830708a69a68f8d8275",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/CHILT-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-75cd96cbd1f272a30a35edf6",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/CLASS-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-28bec65dbd816543960ee5d0",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/COMMU-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-95b76669c2701270ab26386f",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/CPLIT-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-23dcb33168d40d7da8ee9f85",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/CS-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-67541bd094e9c64606448384",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/CSRE-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-d8abddc9d24d1e5aa2a3fd9c",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/DATSC-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-7d6f11989a2dd1a2924b113c",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/DATSC-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-7e98a207821a5e30930095be",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/DESIGN-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-2a41d23fef45a52f7bad9b56",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/EASST-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-318e41e31686f3b444b0bce8",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/EASYS-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-42aa75510a17060026931dc7",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ECON-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-5e17c1344b121b5c5b864512",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ECON-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-41c34db22cc9b0175cbc7ba5",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/EE-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-a0e887dd88c5f9f25a0e4f69",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ENERGY-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-9f3ef8d78209a402ad59ed48",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ENGL-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-2af8eb63de831da5d9f36a0a",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ENGR-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-357e12422760cd938aeead0e",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/16kZ1nSLynUYAQA95BOf",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-309ea48d1eeae80106cba0fe",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/66QEfbYoXsDQomIHquBE",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-6bccbc542146b2866571c227",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/jaikpuy4s2o1AEGK4tcF",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-ad31b69b6ccfdf1b4649aad8",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/BhS0crb5iSOey59K4pEu",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-9f8269714b334bec7da26243",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/JzNNOUhLu7KQWAKTAHcK",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-5c7bae5b1bf5f62d4b1b87d0",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/amgyvgz1HuZ5s5gEbkq0",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-dde61704e8c7b6863f44b680",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ENVSE-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-6eed204a083ac42792e4b114",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/EPS-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-73423c9c742b297896f63cc6",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/FGSS-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-3c72b0b22610d8ab252bce71",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/FILM-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-469538104763cf72d053daee",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/FRENC-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-5bae49e808cccfdf039ed8b1",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/GEOPH-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-344e6e504d09c917e1b96bd3",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/GERST-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-d59f147083897cab644e195f",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/HSTRY-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-9879e41787385dea144fcf07",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/HUMBI-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-83ba570a38148fa386e65b01",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/HUMBI-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-2eaecda2a655af14a459a63d",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/IDMEN-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-e832d07239ff8212b0c7b3c5",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ILAC-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-4cacaf3eab436debb5d58049",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/INTLR-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-fef40a6f19398623a92926ad",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ITAL-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-a1d569a7c674270aae841a0f",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/JEWSH-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-f498beee92f03873e85674d9",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/LING-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-53a42f02531ba8a783d4d085",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/MATH-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-78c157c2b1265461dde09291",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/MATSC-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-e987acbea7d463af0053221b",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/ME-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-c72dc6c03994ce79c5fd1ac2",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/MGTSC-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-7d6321808548fedb04f443ad",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/MUSIC-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-9bbb0848474c7cb7c0e59ac6",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/NATAM-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-657b48f0ff38ca15744f64be",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/PHILO-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-64689f2fca5e736603c222ea",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/PHREL-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-2e6e83f00e6a3033e331cd5d",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/PHYS-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-f538a813029573789ca49c60",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/POLSC-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-d736103b98b6dca50dba5710",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/PSYCH-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-c0a7841cc9ef0892c4d61a66",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/PUBPO-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-e0de68b0b656d86b5b39bad2",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/RELST-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-329a5f9137a00c95c828b774",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/SLAV-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-ba483630299ae2c2a9631afd",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/SOCIO-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-f06ebd58c1156cf8989c5683",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/SPAN-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-24c19a84b3628f8b14fda7c2",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/STS-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-595df8a4c0ca7bf4d2f5070e",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/STS-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-efbd700aab9abe7544b87356",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/SYMBO-BS",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-59e6e936e69901ad79b98ded",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/THPST-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate program title, degree and classification"
+      ],
+      "sourceId": "official-source-bcb6462f8762253b0b190ffe",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.stanford.edu/programs/URBST-BA",
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:boston-university",
+      "publisher": "Boston University Bulletin",
+      "referenceYear": 2026,
+      "scope": [
+        "Current BU Bulletin degree directory: Undergraduate Major entries with a standalone bachelor degree link. Includes Metropolitan College and explicitly named specializations; excludes pre-professional advising and combined graduate pathways."
+      ],
+      "sourceId": "official-source-3819f9fbae1e1d622a0ae42a",
+      "sourceType": "official_undergraduate_bulletin",
+      "status": "verified",
+      "url": "https://www.bu.edu/academics/degree-programs/",
+      "checkedOn": "2026-10-24"
     }
   ]
 }

@@ -5312,17 +5312,6 @@
       "checkedOn": "2026-10-24"
     },
     {
-      "universityId": "candidate-v2:tufts-university",
-      "universityName": "Tufts University",
-      "sourceUrl": "https://students.tufts.edu/registrar/forms-and-policies/departments-and-programs",
-      "publisher": "Tufts University AS&E Registrar",
-      "sourceType": "official_bulletin_programs",
-      "scope": [
-        "official undergraduate majors and co-majors"
-      ],
-      "checkedOn": "2026-10-24"
-    },
-    {
       "universityId": "candidate-v2:johns-hopkins-university",
       "universityName": "Johns Hopkins University",
       "sourceUrl": "https://apply.jhu.edu/academics/majors-minors-programs/",
@@ -5341,6 +5330,114 @@
       "sourceType": "official_major_explorer",
       "scope": [
         "official undergraduate majors with BA, BS, or Joint Major/BAS degree labels"
+      ],
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "universityName": "Stanford University",
+      "sourceUrl": "https://bulletin.stanford.edu/programs",
+      "supportingSourceUrls": [
+        "https://bulletin.stanford.edu/programs/AA-BS",
+        "https://bulletin.stanford.edu/programs/AFRAM-BA",
+        "https://bulletin.stanford.edu/programs/AMSTU-BA",
+        "https://bulletin.stanford.edu/programs/ANTHR-BA",
+        "https://bulletin.stanford.edu/programs/ARCHA-BA",
+        "https://bulletin.stanford.edu/programs/ARTHS-BA",
+        "https://bulletin.stanford.edu/programs/ARTP-BA",
+        "https://bulletin.stanford.edu/programs/ASAM-BA",
+        "https://bulletin.stanford.edu/programs/BIO-BS",
+        "https://bulletin.stanford.edu/programs/BIOE-BS",
+        "https://bulletin.stanford.edu/programs/CE-BS",
+        "https://bulletin.stanford.edu/programs/CHEM-BS",
+        "https://bulletin.stanford.edu/programs/CHEME-BS",
+        "https://bulletin.stanford.edu/programs/CHILT-BA",
+        "https://bulletin.stanford.edu/programs/CLASS-BA",
+        "https://bulletin.stanford.edu/programs/COMMU-BA",
+        "https://bulletin.stanford.edu/programs/CPLIT-BA",
+        "https://bulletin.stanford.edu/programs/CS-BS",
+        "https://bulletin.stanford.edu/programs/CSRE-BA",
+        "https://bulletin.stanford.edu/programs/DATSC-BA",
+        "https://bulletin.stanford.edu/programs/DATSC-BS",
+        "https://bulletin.stanford.edu/programs/DESIGN-BS",
+        "https://bulletin.stanford.edu/programs/EASST-BA",
+        "https://bulletin.stanford.edu/programs/EASYS-BS",
+        "https://bulletin.stanford.edu/programs/ECON-BA",
+        "https://bulletin.stanford.edu/programs/ECON-BS",
+        "https://bulletin.stanford.edu/programs/EE-BS",
+        "https://bulletin.stanford.edu/programs/ENERGY-BS",
+        "https://bulletin.stanford.edu/programs/ENGL-BA",
+        "https://bulletin.stanford.edu/programs/ENGR-BS",
+        "https://bulletin.stanford.edu/programs/16kZ1nSLynUYAQA95BOf",
+        "https://bulletin.stanford.edu/programs/66QEfbYoXsDQomIHquBE",
+        "https://bulletin.stanford.edu/programs/jaikpuy4s2o1AEGK4tcF",
+        "https://bulletin.stanford.edu/programs/BhS0crb5iSOey59K4pEu",
+        "https://bulletin.stanford.edu/programs/JzNNOUhLu7KQWAKTAHcK",
+        "https://bulletin.stanford.edu/programs/amgyvgz1HuZ5s5gEbkq0",
+        "https://bulletin.stanford.edu/programs/ENVSE-BS",
+        "https://bulletin.stanford.edu/programs/EPS-BS",
+        "https://bulletin.stanford.edu/programs/FGSS-BA",
+        "https://bulletin.stanford.edu/programs/FILM-BA",
+        "https://bulletin.stanford.edu/programs/FRENC-BA",
+        "https://bulletin.stanford.edu/programs/GEOPH-BS",
+        "https://bulletin.stanford.edu/programs/GERST-BA",
+        "https://bulletin.stanford.edu/programs/HSTRY-BA",
+        "https://bulletin.stanford.edu/programs/HUMBI-BA",
+        "https://bulletin.stanford.edu/programs/HUMBI-BS",
+        "https://bulletin.stanford.edu/programs/IDMEN-BS",
+        "https://bulletin.stanford.edu/programs/ILAC-BA",
+        "https://bulletin.stanford.edu/programs/INTLR-BA",
+        "https://bulletin.stanford.edu/programs/ITAL-BA",
+        "https://bulletin.stanford.edu/programs/JEWSH-BA",
+        "https://bulletin.stanford.edu/programs/LING-BA",
+        "https://bulletin.stanford.edu/programs/MATH-BS",
+        "https://bulletin.stanford.edu/programs/MATSC-BS",
+        "https://bulletin.stanford.edu/programs/ME-BS",
+        "https://bulletin.stanford.edu/programs/MGTSC-BS",
+        "https://bulletin.stanford.edu/programs/MUSIC-BA",
+        "https://bulletin.stanford.edu/programs/NATAM-BA",
+        "https://bulletin.stanford.edu/programs/PHILO-BA",
+        "https://bulletin.stanford.edu/programs/PHREL-BA",
+        "https://bulletin.stanford.edu/programs/PHYS-BS",
+        "https://bulletin.stanford.edu/programs/POLSC-BA",
+        "https://bulletin.stanford.edu/programs/PSYCH-BA",
+        "https://bulletin.stanford.edu/programs/PUBPO-BA",
+        "https://bulletin.stanford.edu/programs/RELST-BA",
+        "https://bulletin.stanford.edu/programs/SLAV-BA",
+        "https://bulletin.stanford.edu/programs/SOCIO-BA",
+        "https://bulletin.stanford.edu/programs/SPAN-BA",
+        "https://bulletin.stanford.edu/programs/STS-BA",
+        "https://bulletin.stanford.edu/programs/STS-BS",
+        "https://bulletin.stanford.edu/programs/SYMBO-BS",
+        "https://bulletin.stanford.edu/programs/THPST-BA",
+        "https://bulletin.stanford.edu/programs/URBST-BA"
+      ],
+      "publisher": "Stanford University Bulletin",
+      "sourceType": "official_undergraduate_bulletin",
+      "scope": [
+        "2026-27 active undergraduate BA/BS programs and explicitly named Engineering subplans"
+      ],
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:boston-university",
+      "universityName": "Boston University",
+      "sourceUrl": "https://www.bu.edu/academics/degree-programs/",
+      "publisher": "Boston University Bulletin",
+      "sourceType": "official_undergraduate_bulletin",
+      "scope": [
+        "Current BU Bulletin degree directory: Undergraduate Major entries with a standalone bachelor degree link. Includes Metropolitan College and explicitly named specializations; excludes pre-professional advising and combined graduate pathways."
+      ],
+      "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:tufts-university",
+      "universityName": "Tufts University",
+      "sourceUrl": "https://students.tufts.edu/registrar/forms-and-policies/departments-and-programs",
+      "publisher": "Tufts University AS&E Registrar",
+      "sourceType": "official_undergraduate_bulletin",
+      "scope": [
+        "Tufts AS&E Bulletin departments/programs: undergraduate majors, co-majors, second majors and bachelor degree programs. Official program labels are preserved; minors, graduate programs and No Major are excluded. Degree paths are recorded only when explicit."
       ],
       "checkedOn": "2026-10-24"
     }
