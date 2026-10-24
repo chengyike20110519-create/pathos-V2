@@ -5149,6 +5149,19 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Partial confirmed scope only. BA majors and some catalog-specific degree distinctions are intentionally not inferred from the area index."
+    },
+    {
+      "sourceId": "source_lehigh_2026_27_programs_and_majors",
+      "sourceType": "official_catalog",
+      "publisher": "Lehigh University Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.lehigh.edu/programsandmajors/",
+      "status": "verified",
+      "scope": [
+        "official Undergraduate Academic Majors section"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed only the catalog section explicitly titled Undergraduate Academic Majors; cross-disciplinary programs and graduate majors are not mixed into this major directory."
     }
   ]
 }
