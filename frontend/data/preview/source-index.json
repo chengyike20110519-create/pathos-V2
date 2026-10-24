@@ -5316,6 +5316,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed named undergraduate major/program links from the official all-schools directory; specializations, concentrations, and second-major entries are retained because the official catalog lists them as distinct program records."
+    },
+    {
+      "sourceId": "source_ucsd_2026_27_undergraduate_degrees",
+      "sourceType": "official_catalog",
+      "publisher": "UC San Diego General Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.ucsd.edu/undergraduate/degrees-offered/index.html",
+      "status": "verified",
+      "scope": [
+        "official UC San Diego 2026-27 Undergraduate Degrees Offered directory",
+        "156 named undergraduate degree/major entries with explicit bachelor labels"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed degree entries with explicit bachelor labels. The directory provides a central official URL rather than individual program URLs, so each record retains the source page and an explicit URL warning."
     }
   ]
 }
