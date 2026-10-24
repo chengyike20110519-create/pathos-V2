@@ -5414,6 +5414,21 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Stopped at the official Graduate Majors section; cross-disciplinary undergraduate programs are retained because the catalog lists them in the undergraduate section."
+    },
+    {
+      "sourceId": "source_iub_2026_27_official_bachelor_programs_api",
+      "sourceType": "official_api_directory",
+      "publisher": "Indiana University Bloomington",
+      "referenceYear": "2026-2027",
+      "url": "https://bloomington.iu.edu/academics/degrees-majors/programs.html",
+      "status": "verified",
+      "scope": [
+        "Bloomington campus",
+        "undergraduate bachelor-level programs",
+        "official public degrees API filter program_type=2"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "394 records returned by the official IU degrees endpoint; excludes non-bachelor program types and preserves official program URLs."
     }
   ]
 }

@@ -1,0 +1,4637 @@
+{
+  "universityId": "candidate-v2:indiana-university-bloomington",
+  "schoolSlug": "indiana-university-bloomington",
+  "schoolName": "Indiana University Bloomington",
+  "sourceId": "source_iub_2026_27_official_bachelor_programs_api",
+  "sourceUrl": "https://bloomington.iu.edu/academics/degrees-majors/programs.html",
+  "scope": [
+    "official IU Bloomington undergraduate degree/program directory",
+    "campus=bloomington; program_type=Bachelor degrees",
+    "385 unique official bachelor-level program records from 394 IU API rows"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 385,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/accounting.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora St/Religious Studies",
+      "listType": "major",
+      "name": "African American & African Diaspora St/Religious Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-st+religious-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora St/Religious Studies (IntrdscSt BA)",
+      "listType": "major",
+      "name": "African American & African Diaspora St/Religious Studies (IntrdscSt BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-st+religious-studies-(intrdscst-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora Studies (IntrdscSt BA)",
+      "listType": "major",
+      "name": "African American & African Diaspora Studies (IntrdscSt BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-studies-(intrdscst-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora Studies/English",
+      "listType": "major",
+      "name": "African American & African Diaspora Studies/English",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-studies+english.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora Studies/English (IntrdscSt BA)",
+      "listType": "major",
+      "name": "African American & African Diaspora Studies/English (IntrdscSt BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-studies+english-(intrdscst-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora Studies/History",
+      "listType": "major",
+      "name": "African American & African Diaspora Studies/History",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-studies+history.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora Studies/History (IntrdscSt BA)",
+      "listType": "major",
+      "name": "African American & African Diaspora Studies/History (IntrdscSt BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-studies+history-(intrdscst-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora Studies/Sociology",
+      "listType": "major",
+      "name": "African American & African Diaspora Studies/Sociology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-studies+sociology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American & African Diaspora Studies/Sociology (IntrdscSt BA)",
+      "listType": "major",
+      "name": "African American & African Diaspora Studies/Sociology (IntrdscSt BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/african-american-and-african-diaspora-studies+sociology-(intrdscst-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies",
+      "listType": "major",
+      "name": "American Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/american-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal Behavior",
+      "listType": "major",
+      "name": "Animal Behavior",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-animal-behavior.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/anthropology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology (Anthro BA)",
+      "listType": "major",
+      "name": "Anthropology (Anthro BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/anthropology-(anthro-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology/Linguistics",
+      "listType": "major",
+      "name": "Anthropology/Linguistics",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/anthropology+linguistics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology/Linguistics (Anthro BA)",
+      "listType": "major",
+      "name": "Anthropology/Linguistics (Anthro BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/anthropology+linguistics-(anthro-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/art-history.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History (History BA)",
+      "listType": "major",
+      "name": "Art History (History BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/art-history-(history-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arts Management",
+      "listType": "major",
+      "name": "Arts Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-arts-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arts, Culture and World Languages Education",
+      "listType": "major",
+      "name": "Arts, Culture and World Languages Education",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/arts-culture-and-world-languages-education.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy/Astrophysics",
+      "listType": "major",
+      "name": "Astronomy/Astrophysics",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/astronomy+astrophysics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy/Astrophysics",
+      "listType": "major",
+      "name": "Astronomy/Astrophysics",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-astronomy-and-astrophysics/astronomy+astrophysics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric Science",
+      "listType": "major",
+      "name": "Atmospheric Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-atmospheric-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric Science (EGE BS)",
+      "listType": "major",
+      "name": "Atmospheric Science (EGE BS)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-earth-geography-and-the-environment/atmospheric-science-(ege-bs).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Audio Engineering",
+      "listType": "major",
+      "name": "Audio Engineering",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-production/audio-engineering.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Audio Engineering/Creation and Production",
+      "listType": "major",
+      "name": "Audio Engineering/Creation and Production",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-production/audio-engineering+creation-and-production.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ballet",
+      "listType": "major",
+      "name": "Ballet",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-ballet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ballet",
+      "listType": "major",
+      "name": "Ballet",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/ballet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ballet (Dance BFA)",
+      "listType": "major",
+      "name": "Ballet (Dance BFA)",
+      "degreeAward": "Bachelor of Fine Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-fine-arts/ballet-(dance-bfa).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bassoon",
+      "listType": "major",
+      "name": "Bassoon",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/bassoon.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bassoon",
+      "listType": "major",
+      "name": "Bassoon",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/bassoon.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/biochemistry.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-biochemistry.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/biology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-biology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-biomedical-engineering.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biotechnology",
+      "listType": "major",
+      "name": "Biotechnology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/biotechnology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biotechnology",
+      "listType": "major",
+      "name": "Biotechnology",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-biotechnology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bosnian, Serbian, and Croatian (LLC BA)",
+      "listType": "major",
+      "name": "Bosnian, Serbian, and Croatian (LLC BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/bosnian-serbian-and-croatian-(llc-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business",
+      "listType": "major",
+      "name": "Business",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Intelligence and Data Science",
+      "listType": "major",
+      "name": "Business Intelligence and Data Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business-intelligence-and-data-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cello",
+      "listType": "major",
+      "name": "Cello",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/cello.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Central Eurasia (RCS BA)",
+      "listType": "major",
+      "name": "Central Eurasia (RCS BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/central-eurasia-(rcs-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/chemistry.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-chemistry.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Choral Teaching - Guitar",
+      "listType": "major",
+      "name": "Choral Teaching - Guitar",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/choral-teaching---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Choral Teaching - Harp",
+      "listType": "major",
+      "name": "Choral Teaching - Harp",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/choral-teaching---harp.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Choral Teaching - Organ",
+      "listType": "major",
+      "name": "Choral Teaching - Organ",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/choral-teaching---organ.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Choral Teaching - Piano",
+      "listType": "major",
+      "name": "Choral Teaching - Piano",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/choral-teaching---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Choral Teaching - Trombone",
+      "listType": "major",
+      "name": "Choral Teaching - Trombone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/choral-teaching---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Choral Teaching - Voice",
+      "listType": "major",
+      "name": "Choral Teaching - Voice",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/choral-teaching---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinematic Arts",
+      "listType": "major",
+      "name": "Cinematic Arts",
+      "degreeAward": "Bachelor of Fine Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-fine-arts/cinematic-arts.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Clarinet",
+      "listType": "major",
+      "name": "Clarinet",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/clarinet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Clarinet",
+      "listType": "major",
+      "name": "Clarinet",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/clarinet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Studies (History BA)",
+      "listType": "major",
+      "name": "Classical Studies (History BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/classical-studies-(history-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Clinical Psychological Science",
+      "listType": "major",
+      "name": "Clinical Psychological Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-clinical-psychological-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Sci (Psychology BA)",
+      "listType": "major",
+      "name": "Cognitive Sci (Psychology BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/cognitive-sci-(psychology-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/cognitive-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-cognitive-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Science (Psychology BS)",
+      "listType": "major",
+      "name": "Cognitive Science (Psychology BS)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-psychology/cognitive-science-(psychology-bs).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Community Health",
+      "listType": "major",
+      "name": "Community Health",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-health/community-health.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/comparative-literature.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition",
+      "listType": "major",
+      "name": "Composition",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition",
+      "listType": "major",
+      "name": "Composition",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Bassoon",
+      "listType": "major",
+      "name": "Composition - Bassoon",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---bassoon.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Bassoon",
+      "listType": "major",
+      "name": "Composition - Bassoon",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---bassoon.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Cello",
+      "listType": "major",
+      "name": "Composition - Cello",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---cello.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Cello",
+      "listType": "major",
+      "name": "Composition - Cello",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---cello.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Clarinet",
+      "listType": "major",
+      "name": "Composition - Clarinet",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---clarinet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Double Bass",
+      "listType": "major",
+      "name": "Composition - Double Bass",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Double Bass",
+      "listType": "major",
+      "name": "Composition - Double Bass",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Euphonium",
+      "listType": "major",
+      "name": "Composition - Euphonium",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---euphonium.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Euphonium",
+      "listType": "major",
+      "name": "Composition - Euphonium",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---euphonium.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Flute",
+      "listType": "major",
+      "name": "Composition - Flute",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---flute.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Flute",
+      "listType": "major",
+      "name": "Composition - Flute",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---flute.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Guitar",
+      "listType": "major",
+      "name": "Composition - Guitar",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Guitar",
+      "listType": "major",
+      "name": "Composition - Guitar",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Harp",
+      "listType": "major",
+      "name": "Composition - Harp",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---harp.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Harp",
+      "listType": "major",
+      "name": "Composition - Harp",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---harp.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Horn",
+      "listType": "major",
+      "name": "Composition - Horn",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---horn.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Horn",
+      "listType": "major",
+      "name": "Composition - Horn",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---horn.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Oboe",
+      "listType": "major",
+      "name": "Composition - Oboe",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---oboe.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Oboe",
+      "listType": "major",
+      "name": "Composition - Oboe",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---oboe.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Organ",
+      "listType": "major",
+      "name": "Composition - Organ",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---organ.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Organ",
+      "listType": "major",
+      "name": "Composition - Organ",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---organ.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Percussion",
+      "listType": "major",
+      "name": "Composition - Percussion",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Percussion",
+      "listType": "major",
+      "name": "Composition - Percussion",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Piano",
+      "listType": "major",
+      "name": "Composition - Piano",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Piano",
+      "listType": "major",
+      "name": "Composition - Piano",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Saxophone",
+      "listType": "major",
+      "name": "Composition - Saxophone",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Saxophone",
+      "listType": "major",
+      "name": "Composition - Saxophone",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Trombone",
+      "listType": "major",
+      "name": "Composition - Trombone",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Trombone",
+      "listType": "major",
+      "name": "Composition - Trombone",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Trumpet",
+      "listType": "major",
+      "name": "Composition - Trumpet",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Trumpet",
+      "listType": "major",
+      "name": "Composition - Trumpet",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Tuba",
+      "listType": "major",
+      "name": "Composition - Tuba",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---tuba.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Tuba",
+      "listType": "major",
+      "name": "Composition - Tuba",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---tuba.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Viola",
+      "listType": "major",
+      "name": "Composition - Viola",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---viola.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Viola",
+      "listType": "major",
+      "name": "Composition - Viola",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---viola.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Violin",
+      "listType": "major",
+      "name": "Composition - Violin",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---violin.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Violin",
+      "listType": "major",
+      "name": "Composition - Violin",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---violin.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Voice",
+      "listType": "major",
+      "name": "Composition - Voice",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/composition---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition - Voice",
+      "listType": "major",
+      "name": "Composition - Voice",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/composition---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comprehensive Design",
+      "listType": "major",
+      "name": "Comprehensive Design",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-comprehensive-design.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-computer-engineering.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/computer-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-computer-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science/Philosophy",
+      "listType": "major",
+      "name": "Computer Science/Philosophy",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/computer-science+philosophy.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Contemporary Dance (Dance BFA)",
+      "listType": "major",
+      "name": "Contemporary Dance (Dance BFA)",
+      "degreeAward": "Bachelor of Fine Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-fine-arts/contemporary-dance-(dance-bfa).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Counseling and Student Services",
+      "listType": "major",
+      "name": "Counseling and Student Services",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/counseling-and-student-services.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Creation and Production",
+      "listType": "major",
+      "name": "Creation and Production",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-production/creation-and-production.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology and Criminal Justice",
+      "listType": "major",
+      "name": "Criminology and Criminal Justice",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/criminology-and-criminal-justice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology and Criminal Justice (TSAP)",
+      "listType": "major",
+      "name": "Criminology and Criminal Justice (TSAP)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/criminology-and-criminal-justice-tsap.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity & Global Policy",
+      "listType": "major",
+      "name": "Cybersecurity & Global Policy",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-cybersecurity-and-global-policy.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Czech (LLC BA)",
+      "listType": "major",
+      "name": "Czech (LLC BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/czech-(llc-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance BFA",
+      "listType": "major",
+      "name": "Dance BFA",
+      "degreeAward": "Bachelor of Fine Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-fine-arts/dance-bfa.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-data-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dietetics",
+      "listType": "major",
+      "name": "Dietetics",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-applied-health-science/dietetics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Double Bass",
+      "listType": "major",
+      "name": "Double Bass",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Childhood Education",
+      "listType": "major",
+      "name": "Early Childhood Education",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/early-childhood-education.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Music - Instrumental",
+      "listType": "major",
+      "name": "Early Music - Instrumental",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/early-music---instrumental.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Music - Voice",
+      "listType": "major",
+      "name": "Early Music - Voice",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/early-music---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Music Instrument",
+      "listType": "major",
+      "name": "Early Music Instrument",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/early-music-instrument.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Music Voice",
+      "listType": "major",
+      "name": "Early Music Voice",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/early-music-voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth and Atmospheric Sciences",
+      "listType": "major",
+      "name": "Earth and Atmospheric Sciences",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/earth-and-atmospheric-sciences.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth and Atmospheric Sciences (EGE BA)",
+      "listType": "major",
+      "name": "Earth and Atmospheric Sciences (EGE BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/earth-and-atmospheric-sciences-(ege-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth Science",
+      "listType": "major",
+      "name": "Earth Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-earth-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth Science (EGE BS)",
+      "listType": "major",
+      "name": "Earth Science (EGE BS)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-earth-geography-and-the-environment/earth-science-(ege-bs).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asia (RCS BA)",
+      "listType": "major",
+      "name": "East Asia (RCS BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/east-asia-(rcs-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages & Cultures",
+      "listType": "major",
+      "name": "East Asian Languages & Cultures",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/east-asian-languages-and-cultures.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economic Consulting",
+      "listType": "major",
+      "name": "Economic Consulting",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/economic-consulting.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/economics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Quantitative Methods",
+      "listType": "major",
+      "name": "Economics and Quantitative Methods",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-economics-and-quantitative-methods.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics/Mathematics",
+      "listType": "major",
+      "name": "Economics/Mathematics",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/economics+mathematics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics/Political Science",
+      "listType": "major",
+      "name": "Economics/Political Science",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/economics+political-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education",
+      "listType": "major",
+      "name": "Elementary Education",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/elementary-education.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/english.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English/African American & African Diaspora Studies",
+      "listType": "major",
+      "name": "English/African American & African Diaspora Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/english+african-american-and-african-diaspora-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entrepreneurship and Corporate Innovation",
+      "listType": "major",
+      "name": "Entrepreneurship and Corporate Innovation",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/entrepreneurship-and-corporate-innovation.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental & Sustainability Studies",
+      "listType": "major",
+      "name": "Environmental & Sustainability Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/environmental-and-sustainability-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Geoscience",
+      "listType": "major",
+      "name": "Environmental Geoscience",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-environmental-geoscience.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Geoscience (EGE BS)",
+      "listType": "major",
+      "name": "Environmental Geoscience (EGE BS)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-earth-geography-and-the-environment/environmental-geoscience-(ege-bs).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Health",
+      "listType": "major",
+      "name": "Environmental Health",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-health/environmental-health.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Management",
+      "listType": "major",
+      "name": "Environmental Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-affairs/environmental-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science",
+      "listType": "major",
+      "name": "Environmental Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-environmental-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Epidemiology",
+      "listType": "major",
+      "name": "Epidemiology",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-health/epidemiology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Euphonium",
+      "listType": "major",
+      "name": "Euphonium",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/euphonium.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Exercise Science",
+      "listType": "major",
+      "name": "Exercise Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-kinesiology/exercise-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fashion Design",
+      "listType": "major",
+      "name": "Fashion Design",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/fashion-design.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/finance.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Flute",
+      "listType": "major",
+      "name": "Flute",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/flute.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Flute",
+      "listType": "major",
+      "name": "Flute",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/flute.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Folklore & Ethnomusicology",
+      "listType": "major",
+      "name": "Folklore & Ethnomusicology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/folklore-and-ethnomusicology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Folklore & Ethnomusicology (Anthro BA)",
+      "listType": "major",
+      "name": "Folklore & Ethnomusicology (Anthro BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/folklore-and-ethnomusicology-(anthro-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/french.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Game Design",
+      "listType": "major",
+      "name": "Game Design",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-game-design.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender Studies",
+      "listType": "major",
+      "name": "Gender Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/gender-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender Studies (IntrdscSt BA)",
+      "listType": "major",
+      "name": "Gender Studies (IntrdscSt BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/gender-studies-(intrdscst-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Bassoon",
+      "listType": "major",
+      "name": "General Music - Bassoon",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---bassoon.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Cello",
+      "listType": "major",
+      "name": "General Music - Cello",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---cello.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Clarinet",
+      "listType": "major",
+      "name": "General Music - Clarinet",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---clarinet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Double Bass",
+      "listType": "major",
+      "name": "General Music - Double Bass",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Euphonium",
+      "listType": "major",
+      "name": "General Music - Euphonium",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---euphonium.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Flute",
+      "listType": "major",
+      "name": "General Music - Flute",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---flute.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Guitar",
+      "listType": "major",
+      "name": "General Music - Guitar",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Harp",
+      "listType": "major",
+      "name": "General Music - Harp",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---harp.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Horn",
+      "listType": "major",
+      "name": "General Music - Horn",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---horn.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Oboe",
+      "listType": "major",
+      "name": "General Music - Oboe",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---oboe.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Organ",
+      "listType": "major",
+      "name": "General Music - Organ",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---organ.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Percussion",
+      "listType": "major",
+      "name": "General Music - Percussion",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Piano",
+      "listType": "major",
+      "name": "General Music - Piano",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Saxophone",
+      "listType": "major",
+      "name": "General Music - Saxophone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Trombone",
+      "listType": "major",
+      "name": "General Music - Trombone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Trumpet",
+      "listType": "major",
+      "name": "General Music - Trumpet",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Tuba",
+      "listType": "major",
+      "name": "General Music - Tuba",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---tuba.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Viola",
+      "listType": "major",
+      "name": "General Music - Viola",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---viola.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Violin",
+      "listType": "major",
+      "name": "General Music - Violin",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---violin.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Music - Voice",
+      "listType": "major",
+      "name": "General Music - Voice",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/general-music---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography",
+      "listType": "major",
+      "name": "Geography",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/geography.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography",
+      "listType": "major",
+      "name": "Geography",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-geography.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography (EGE BA)",
+      "listType": "major",
+      "name": "Geography (EGE BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/geography-(ege-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography (EGE BS)",
+      "listType": "major",
+      "name": "Geography (EGE BS)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-earth-geography-and-the-environment/geography-(ege-bs).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Germanic Studies",
+      "listType": "major",
+      "name": "Germanic Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/germanic-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Health",
+      "listType": "major",
+      "name": "Global Health",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-health/global-health.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Media",
+      "listType": "major",
+      "name": "Global Media",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-global-media.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Guitar",
+      "listType": "major",
+      "name": "Guitar",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Harp",
+      "listType": "major",
+      "name": "Harp",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/harp.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Healthcare Management & Policy",
+      "listType": "major",
+      "name": "Healthcare Management & Policy",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-healthcare-management-and-policy.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Historical Performance - Instrumental",
+      "listType": "major",
+      "name": "Historical Performance - Instrumental",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/historical-performance---instrumental.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Historical Performance - Instrumental",
+      "listType": "major",
+      "name": "Historical Performance - Instrumental",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/historical-performance---instrumental.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Historical Performance - Voice",
+      "listType": "major",
+      "name": "Historical Performance - Voice",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/historical-performance---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Historical Performance - Voice",
+      "listType": "major",
+      "name": "Historical Performance - Voice",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/historical-performance---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/history.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History (History BA)",
+      "listType": "major",
+      "name": "History (History BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/history-(history-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History/African American & African Diaspora Studies",
+      "listType": "major",
+      "name": "History/African American & African Diaspora Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/history+african-american-and-african-diaspora-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History/African American & African Diaspora Studies (History BA)",
+      "listType": "major",
+      "name": "History/African American & African Diaspora Studies (History BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/history+african-american-and-african-diaspora-studies-(history-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Horn",
+      "listType": "major",
+      "name": "Horn",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/horn.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology",
+      "listType": "major",
+      "name": "Human Biology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/human-biology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology",
+      "listType": "major",
+      "name": "Human Biology",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-human-biology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Family Studies",
+      "listType": "major",
+      "name": "Human Development and Family Studies",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-applied-health-science/human-development-and-family-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Resource Management",
+      "listType": "major",
+      "name": "Human Resource Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-affairs/human-resource-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individualized Major",
+      "listType": "major",
+      "name": "Individualized Major",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/individualized-major.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individualized Major (IntrdscSt BA)",
+      "listType": "major",
+      "name": "Individualized Major (IntrdscSt BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/individualized-major-(intrdscst-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Informatics",
+      "listType": "major",
+      "name": "Informatics",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-informatics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Systems",
+      "listType": "major",
+      "name": "Information Systems",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/information-systems.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Bassoon",
+      "listType": "major",
+      "name": "Instrumental Band - Bassoon",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---bassoon.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Clarinet",
+      "listType": "major",
+      "name": "Instrumental Band - Clarinet",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---clarinet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Euphonium",
+      "listType": "major",
+      "name": "Instrumental Band - Euphonium",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---euphonium.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Flute",
+      "listType": "major",
+      "name": "Instrumental Band - Flute",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---flute.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Harp",
+      "listType": "major",
+      "name": "Instrumental Band - Harp",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---harp.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Horn",
+      "listType": "major",
+      "name": "Instrumental Band - Horn",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---horn.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Oboe",
+      "listType": "major",
+      "name": "Instrumental Band - Oboe",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---oboe.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Organ",
+      "listType": "major",
+      "name": "Instrumental Band - Organ",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---organ.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Percussion",
+      "listType": "major",
+      "name": "Instrumental Band - Percussion",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Piano",
+      "listType": "major",
+      "name": "Instrumental Band - Piano",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Saxophone",
+      "listType": "major",
+      "name": "Instrumental Band - Saxophone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Trombone",
+      "listType": "major",
+      "name": "Instrumental Band - Trombone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Trumpet",
+      "listType": "major",
+      "name": "Instrumental Band - Trumpet",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Tuba",
+      "listType": "major",
+      "name": "Instrumental Band - Tuba",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---tuba.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Band - Voice",
+      "listType": "major",
+      "name": "Instrumental Band - Voice",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-band---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Jazz - Double Bass",
+      "listType": "major",
+      "name": "Instrumental Jazz - Double Bass",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-jazz---double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Jazz - Guitar",
+      "listType": "major",
+      "name": "Instrumental Jazz - Guitar",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-jazz---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Jazz - Percussion",
+      "listType": "major",
+      "name": "Instrumental Jazz - Percussion",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-jazz---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Jazz - Piano",
+      "listType": "major",
+      "name": "Instrumental Jazz - Piano",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-jazz---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Jazz - Saxophone",
+      "listType": "major",
+      "name": "Instrumental Jazz - Saxophone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-jazz---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Jazz - Trombone",
+      "listType": "major",
+      "name": "Instrumental Jazz - Trombone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-jazz---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental Jazz - Trumpet",
+      "listType": "major",
+      "name": "Instrumental Jazz - Trumpet",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-jazz---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Bassoon",
+      "listType": "major",
+      "name": "Instrumental String - Bassoon",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---bassoon.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Cello",
+      "listType": "major",
+      "name": "Instrumental String - Cello",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---cello.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Clarinet",
+      "listType": "major",
+      "name": "Instrumental String - Clarinet",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---clarinet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Double Bass",
+      "listType": "major",
+      "name": "Instrumental String - Double Bass",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Euphonium",
+      "listType": "major",
+      "name": "Instrumental String - Euphonium",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---euphonium.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Flute",
+      "listType": "major",
+      "name": "Instrumental String - Flute",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---flute.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Guitar",
+      "listType": "major",
+      "name": "Instrumental String - Guitar",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Harp",
+      "listType": "major",
+      "name": "Instrumental String - Harp",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---harp.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Horn",
+      "listType": "major",
+      "name": "Instrumental String - Horn",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---horn.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Oboe",
+      "listType": "major",
+      "name": "Instrumental String - Oboe",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---oboe.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Percussion",
+      "listType": "major",
+      "name": "Instrumental String - Percussion",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Piano",
+      "listType": "major",
+      "name": "Instrumental String - Piano",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Saxophone",
+      "listType": "major",
+      "name": "Instrumental String - Saxophone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Trombone",
+      "listType": "major",
+      "name": "Instrumental String - Trombone",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Trumpet",
+      "listType": "major",
+      "name": "Instrumental String - Trumpet",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Tuba",
+      "listType": "major",
+      "name": "Instrumental String - Tuba",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---tuba.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Viola",
+      "listType": "major",
+      "name": "Instrumental String - Viola",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---viola.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Instrumental String - Violin",
+      "listType": "major",
+      "name": "Instrumental String - Violin",
+      "degreeAward": "Bachelor of Music Education",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music-education/instrumental-string---violin.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Intelligent Systems Engineering",
+      "listType": "major",
+      "name": "Intelligent Systems Engineering",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-intelligent-systems-engineering.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdept Mathematics Major: Mathematics/Economics",
+      "listType": "major",
+      "name": "Interdept Mathematics Major: Mathematics/Economics",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/interdept-mathematics-major:-mathematics+economics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interior Design",
+      "listType": "major",
+      "name": "Interior Design",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-interior-design.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Financial Governance, Trade and Development",
+      "listType": "major",
+      "name": "International Financial Governance, Trade and Development",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-international-financial-governance-trade-and-development.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Law and Institutions",
+      "listType": "major",
+      "name": "International Law and Institutions",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/international-law-and-institutions.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Studies",
+      "listType": "major",
+      "name": "International Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/international-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Studies",
+      "listType": "major",
+      "name": "International Studies",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-international-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian",
+      "listType": "major",
+      "name": "Italian",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/italian.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Double Bass",
+      "listType": "major",
+      "name": "Jazz - Double Bass",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/jazz---double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Double Bass",
+      "listType": "major",
+      "name": "Jazz - Double Bass",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/jazz---double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Guitar",
+      "listType": "major",
+      "name": "Jazz - Guitar",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/jazz---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Guitar",
+      "listType": "major",
+      "name": "Jazz - Guitar",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/jazz---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Percussion",
+      "listType": "major",
+      "name": "Jazz - Percussion",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/jazz---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Percussion",
+      "listType": "major",
+      "name": "Jazz - Percussion",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/jazz---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Piano",
+      "listType": "major",
+      "name": "Jazz - Piano",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/jazz---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Piano",
+      "listType": "major",
+      "name": "Jazz - Piano",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/jazz---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Saxophone",
+      "listType": "major",
+      "name": "Jazz - Saxophone",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/jazz---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Saxophone",
+      "listType": "major",
+      "name": "Jazz - Saxophone",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/jazz---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Trombone",
+      "listType": "major",
+      "name": "Jazz - Trombone",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/jazz---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Trombone",
+      "listType": "major",
+      "name": "Jazz - Trombone",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/jazz---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Trumpet",
+      "listType": "major",
+      "name": "Jazz - Trumpet",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/jazz---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Trumpet",
+      "listType": "major",
+      "name": "Jazz - Trumpet",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/jazz---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Voice",
+      "listType": "major",
+      "name": "Jazz - Voice",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/jazz---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz - Voice",
+      "listType": "major",
+      "name": "Jazz - Voice",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/jazz---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/jewish-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism",
+      "listType": "major",
+      "name": "Journalism",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts-in-journalism.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Labor Studies (100% online)",
+      "listType": "major",
+      "name": "Labor Studies (100% online)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-labor-studies-online.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Law & Public Policy",
+      "listType": "major",
+      "name": "Law & Public Policy",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-affairs/law-and-public-policy.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Liberal Studies",
+      "listType": "major",
+      "name": "Liberal Studies",
+      "degreeAward": "Bachelor of Liberal Studies",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-liberal-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/linguistics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics/Anthropology",
+      "listType": "major",
+      "name": "Linguistics/Anthropology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/linguistics+anthropology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management (TSAP)",
+      "listType": "major",
+      "name": "Management (TSAP)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-affairs/management-tsap.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management and Human Organization",
+      "listType": "major",
+      "name": "Management and Human Organization",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/management-and-human-organization.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management and Human Organization (IntrdscSt BA)",
+      "listType": "major",
+      "name": "Management and Human Organization (IntrdscSt BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/management-and-human-organization-(intrdscst-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/marketing.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing and Professional Sales",
+      "listType": "major",
+      "name": "Marketing and Professional Sales",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/marketing-and-professional-sales.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/mathematics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-mathematics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics (Mathematics BA)",
+      "listType": "major",
+      "name": "Mathematics (Mathematics BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/mathematics-(mathematics-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Data Science",
+      "listType": "major",
+      "name": "Mathematics and Data Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-mathematics-and-data-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media",
+      "listType": "major",
+      "name": "Media",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/media.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Advertising",
+      "listType": "major",
+      "name": "Media Advertising",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-media-advertising.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Merchandising",
+      "listType": "major",
+      "name": "Merchandising",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-merchandising.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology",
+      "listType": "major",
+      "name": "Microbiology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/microbiology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology",
+      "listType": "major",
+      "name": "Microbiology",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-microbiology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle East (RCS BA)",
+      "listType": "major",
+      "name": "Middle East (RCS BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/middle-east-(rcs-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular Life Sciences",
+      "listType": "major",
+      "name": "Molecular Life Sciences",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-molecular-life-sciences.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Business",
+      "listType": "major",
+      "name": "Music Business",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-business.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Musical Theatre BFA",
+      "listType": "major",
+      "name": "Musical Theatre BFA",
+      "degreeAward": "Bachelor of Fine Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-fine-arts/musical-theatre-bfa.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-neuroscience.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nonprofit Management & Leadership",
+      "listType": "major",
+      "name": "Nonprofit Management & Leadership",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-affairs/nonprofit-management-and-leadership.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing",
+      "listType": "major",
+      "name": "Nursing",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-nursing.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing (100% online)",
+      "listType": "major",
+      "name": "Nursing (100% online)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-nursing-online.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing (100% online) (TSAP)",
+      "listType": "major",
+      "name": "Nursing (100% online) (TSAP)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-nursing-online-tsap.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nutrition Science",
+      "listType": "major",
+      "name": "Nutrition Science",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-applied-health-science/nutrition-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Oboe",
+      "listType": "major",
+      "name": "Oboe",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/oboe.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Oboe",
+      "listType": "major",
+      "name": "Oboe",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/oboe.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Operations Management",
+      "listType": "major",
+      "name": "Operations Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/operations-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Organ",
+      "listType": "major",
+      "name": "Organ",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/organ.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Parks, Recreation, and the Outdoors",
+      "listType": "major",
+      "name": "Parks, Recreation, and the Outdoors",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-health-and-wellness-design/parks-recreation-and-the-outdoors.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Percussion",
+      "listType": "major",
+      "name": "Percussion",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Bassoon",
+      "listType": "major",
+      "name": "Performance - Bassoon",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---bassoon.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Cello",
+      "listType": "major",
+      "name": "Performance - Cello",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---cello.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Clarinet",
+      "listType": "major",
+      "name": "Performance - Clarinet",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---clarinet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Double Bass",
+      "listType": "major",
+      "name": "Performance - Double Bass",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---double-bass.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Euphonium",
+      "listType": "major",
+      "name": "Performance - Euphonium",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---euphonium.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Flute",
+      "listType": "major",
+      "name": "Performance - Flute",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---flute.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Guitar",
+      "listType": "major",
+      "name": "Performance - Guitar",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---guitar.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Harp",
+      "listType": "major",
+      "name": "Performance - Harp",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---harp.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Horn",
+      "listType": "major",
+      "name": "Performance - Horn",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---horn.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Oboe",
+      "listType": "major",
+      "name": "Performance - Oboe",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---oboe.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Organ",
+      "listType": "major",
+      "name": "Performance - Organ",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---organ.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Percussion",
+      "listType": "major",
+      "name": "Performance - Percussion",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---percussion.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Piano",
+      "listType": "major",
+      "name": "Performance - Piano",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Saxophone",
+      "listType": "major",
+      "name": "Performance - Saxophone",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Trombone",
+      "listType": "major",
+      "name": "Performance - Trombone",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Trumpet",
+      "listType": "major",
+      "name": "Performance - Trumpet",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Tuba",
+      "listType": "major",
+      "name": "Performance - Tuba",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---tuba.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Viola",
+      "listType": "major",
+      "name": "Performance - Viola",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---viola.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Violin",
+      "listType": "major",
+      "name": "Performance - Violin",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---violin.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance - Voice",
+      "listType": "major",
+      "name": "Performance - Voice",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/performance---voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/philosophy.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy/Computer Science",
+      "listType": "major",
+      "name": "Philosophy/Computer Science",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/philosophy+computer-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy/Political Science",
+      "listType": "major",
+      "name": "Philosophy/Political Science",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/philosophy+political-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy/Religious Studies",
+      "listType": "major",
+      "name": "Philosophy/Religious Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/philosophy+religious-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/physics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-physics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Piano",
+      "listType": "major",
+      "name": "Piano",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/piano.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Policy Analysis",
+      "listType": "major",
+      "name": "Policy Analysis",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-affairs/policy-analysis.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Polish (LLC BA)",
+      "listType": "major",
+      "name": "Polish (LLC BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/polish-(llc-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/political-science.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/psychology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-psychology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology (Psychology BA)",
+      "listType": "major",
+      "name": "Psychology (Psychology BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/psychology-(psychology-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology (Psychology BS)",
+      "listType": "major",
+      "name": "Psychology (Psychology BS)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-psychology/psychology-(psychology-bs).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Financial Management",
+      "listType": "major",
+      "name": "Public Financial Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-affairs/public-financial-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Management & Leadership",
+      "listType": "major",
+      "name": "Public Management & Leadership",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-affairs/public-management-and-leadership.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Policy Analysis",
+      "listType": "major",
+      "name": "Public Policy Analysis",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/public-policy-analysis.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Relations",
+      "listType": "major",
+      "name": "Public Relations",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-relations.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate",
+      "listType": "major",
+      "name": "Real Estate",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/real-estate.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Recreational Therapy",
+      "listType": "major",
+      "name": "Recreational Therapy",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-health-and-wellness-design/recreational-therapy.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Relig Studies/African American &Afr Diaspora St (History BA)",
+      "listType": "major",
+      "name": "Relig Studies/African American &Afr Diaspora St (History BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/relig-studies+african-american-andafr-diaspora-st-(history-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies",
+      "listType": "major",
+      "name": "Religious Studies",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/religious-studies.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies (History BA)",
+      "listType": "major",
+      "name": "Religious Studies (History BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/religious-studies-(history-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies/Philosophy (History BA)",
+      "listType": "major",
+      "name": "Religious Studies/Philosophy (History BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/religious-studies+philosophy-(history-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Robotics",
+      "listType": "major",
+      "name": "Robotics",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-robotics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian (LLC BA)",
+      "listType": "major",
+      "name": "Russian (LLC BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/russian-(llc-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Safety Management",
+      "listType": "major",
+      "name": "Safety Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-applied-health-science/safety-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Saxophone",
+      "listType": "major",
+      "name": "Saxophone",
+      "degreeAward": "Bachelor of Music",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-music/saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Saxophone",
+      "listType": "major",
+      "name": "Saxophone",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/saxophone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education",
+      "listType": "major",
+      "name": "Secondary Education",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/secondary-education.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education (TSAP)",
+      "listType": "major",
+      "name": "Secondary Education (TSAP)",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/secondary-education-tsap.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sexual and Reproductive Health",
+      "listType": "major",
+      "name": "Sexual and Reproductive Health",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-public-health/sexual-and-reproductive-health.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Slavic East European Languages & Cultures",
+      "listType": "major",
+      "name": "Slavic East European Languages & Cultures",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/slavic-east-european-languages-and-cultures.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "degreeAward": "Bachelor of Social Work",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-social-work.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/sociology.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/spanish.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Special Education - Elementary",
+      "listType": "major",
+      "name": "Special Education - Elementary",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/special-education---elementary.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Special Education - Secondary",
+      "listType": "major",
+      "name": "Special Education - Secondary",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/special-education---secondary.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech, Language and Hearing Sciences",
+      "listType": "major",
+      "name": "Speech, Language and Hearing Sciences",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/speech-language-and-hearing-sciences.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech, Language and Hearing Sciences",
+      "listType": "major",
+      "name": "Speech, Language and Hearing Sciences",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-speech-language-and-hearing-sciences.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Marketing & Management",
+      "listType": "major",
+      "name": "Sport Marketing & Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-kinesiology/sport-marketing-and-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sports Media",
+      "listType": "major",
+      "name": "Sports Media",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-sports-media.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-statistics.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics (Mathematics BA)",
+      "listType": "major",
+      "name": "Statistics (Mathematics BA)",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/statistics-(mathematics-ba).html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Art",
+      "listType": "major",
+      "name": "Studio Art",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/studio-art.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Art",
+      "listType": "major",
+      "name": "Studio Art",
+      "degreeAward": "Bachelor of Fine Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-fine-arts/studio-art.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain Management",
+      "listType": "major",
+      "name": "Supply Chain Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-business/supply-chain-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre & Drama",
+      "listType": "major",
+      "name": "Theatre & Drama",
+      "degreeAward": "Bachelor of Arts",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-arts/theatre-and-drama.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Tourism, Hospitality & Event Management",
+      "listType": "major",
+      "name": "Tourism, Hospitality & Event Management",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-health-and-wellness-design/tourism-hospitality-and-event-management.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Trombone",
+      "listType": "major",
+      "name": "Trombone",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/trombone.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Trumpet",
+      "listType": "major",
+      "name": "Trumpet",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/trumpet.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Tuba",
+      "listType": "major",
+      "name": "Tuba",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/tuba.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Viola",
+      "listType": "major",
+      "name": "Viola",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/viola.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Violin",
+      "listType": "major",
+      "name": "Violin",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/violin.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Visual Arts Education",
+      "listType": "major",
+      "name": "Visual Arts Education",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/visual-arts-education.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Voice",
+      "listType": "major",
+      "name": "Voice",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-music-and-an-outside-field/voice.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "World Languages Education",
+      "listType": "major",
+      "name": "World Languages Education",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-education/world-languages-education.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Youth Development",
+      "listType": "major",
+      "name": "Youth Development",
+      "degreeAward": "Bachelor of Science",
+      "officialUrl": "https://academics.iu.edu/degrees/bloomington/bachelor-of-science-in-applied-health-science/youth-development.html",
+      "sourceIds": [
+        "source_iub_2026_27_official_bachelor_programs_api"
+      ],
+      "status": "verified"
+    }
+  ]
+}
