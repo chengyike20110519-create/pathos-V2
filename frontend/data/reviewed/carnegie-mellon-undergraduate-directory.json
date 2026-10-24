@@ -1,0 +1,1027 @@
+{
+  "universityId": "candidate-v2:carnegie-mellon-university",
+  "schoolSlug": "carnegie-mellon-university",
+  "schoolName": "Carnegie Mellon University",
+  "sourceId": "source_cmu_2026_27_undergraduate_catalog",
+  "sourceUrl": "https://coursecatalog.web.cmu.edu/programs/",
+  "scope": [
+    "official undergraduate Programs A-Z entries carrying a bachelor degree designation or Additional Major label"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 92,
+  "entries": [
+    {
+      "degreeType": "B.A.",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/anthropology-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.Arch.",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-barch/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.F.A.",
+      "displayName": "Art",
+      "listType": "major",
+      "name": "Art",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofart/art-bfa/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Artificial Intelligence",
+      "listType": "additional_major",
+      "name": "Artificial Intelligence",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Artificial Intelligence",
+      "listType": "major",
+      "name": "Artificial Intelligence",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Behavioral Economics",
+      "listType": "major",
+      "name": "Behavioral Economics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/behavioral-economics-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Biological Sciences",
+      "listType": "additional_major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Biological Sciences and Psychology",
+      "listType": "major",
+      "name": "Biological Sciences and Psychology",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-psychology-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Biomedical Engineering",
+      "listType": "additional_major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-engineering-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Biomedical Technology",
+      "listType": "additional_major",
+      "name": "Biomedical Technology",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-technology-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Business Administration",
+      "listType": "additional_major",
+      "name": "Business Administration",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Business Administration",
+      "listType": "major",
+      "name": "Business Administration",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofchemicalengineering/chemical-engineering-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Chemistry/Biological Chemistry Track",
+      "listType": "major",
+      "name": "Chemistry/Biological Chemistry Track",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-biological-chemistry-track-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/civil-engineering-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/cognitive-science-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.F.A.",
+      "displayName": "Composition",
+      "listType": "major",
+      "name": "Composition",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/composition-bfa/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Computational Biology",
+      "listType": "additional_major",
+      "name": "Computational Biology",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Computational Biology",
+      "listType": "major",
+      "name": "Computational Biology",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Computational Finance",
+      "listType": "major",
+      "name": "Computational Finance",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/computational-finance/computational-finance-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Computer Science",
+      "listType": "additional_major",
+      "name": "Computer Science",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.C.S.A.",
+      "displayName": "Computer Science and Arts",
+      "listType": "major",
+      "name": "Computer Science and Arts",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/computer-science-arts/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Creative Writing",
+      "listType": "major",
+      "name": "Creative Writing",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/creative-writing-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Decision Science",
+      "listType": "major",
+      "name": "Decision Science",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/decision-science-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.Des.",
+      "displayName": "Design",
+      "listType": "major",
+      "name": "Design",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdesign/design-bdes/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.F.A.",
+      "displayName": "Drama",
+      "listType": "major",
+      "name": "Drama",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdrama/drama-bfa/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Economics",
+      "listType": "additional_major",
+      "name": "Economics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Economics and Mathematical Sciences",
+      "listType": "major",
+      "name": "Economics and Mathematical Sciences",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-mathematical-sciences-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Economics and Politics",
+      "listType": "major",
+      "name": "Economics and Politics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/economics-politics-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Economics and Statistics",
+      "listType": "major",
+      "name": "Economics and Statistics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/economics-statistics-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Electrical and Computer Engineering",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/electrical-computer-engineering-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.F.A",
+      "displayName": "Electronic Music",
+      "listType": "major",
+      "name": "Electronic Music",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/electronic-music-bfa/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Engineering and Arts",
+      "listType": "additional_major",
+      "name": "Engineering and Arts",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-arts-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Engineering and Public Policy",
+      "listType": "additional_major",
+      "name": "Engineering and Public Policy",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/engineering-public-policy-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Engineering Design, Innovation, and Entrepreneurship",
+      "listType": "additional_major",
+      "name": "Engineering Design, Innovation, and Entrepreneurship",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/integratedinnovationinstitute/engineering-design-innovation-entrepreneurship-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.E.S.A.",
+      "displayName": "Engineering Studies and Arts",
+      "listType": "major",
+      "name": "Engineering Studies and Arts",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Environmental and Sustainability Studies",
+      "listType": "additional_major",
+      "name": "Environmental and Sustainability Studies",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/environmental-sustainability-studies/environmental-sustainability-studies-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/environmental-engineering-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A/B.S.",
+      "displayName": "Ethics, History and Public Policy",
+      "listType": "major",
+      "name": "Ethics, History and Public Policy",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/ethics-history-public-policy-ba-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A./B.S.",
+      "displayName": "Ethics, History, and Public Policy",
+      "listType": "major",
+      "name": "Ethics, History, and Public Policy",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/ethics-history-public-policy-ba-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A./B.S.",
+      "displayName": "Ethics, History, and Public Policy",
+      "listType": "major",
+      "name": "Ethics, History, and Public Policy",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/ethics-history-public-policy-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Film and Visual Media",
+      "listType": "major",
+      "name": "Film and Visual Media",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/film-visual-media-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A./B.S.",
+      "displayName": "General Studies",
+      "listType": "major",
+      "name": "General Studies",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Global Cultures and Emerging Technologies",
+      "listType": "major",
+      "name": "Global Cultures and Emerging Technologies",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/global-cultures-emerging-technologies-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Health Humanities",
+      "listType": "additional_major",
+      "name": "Health Humanities",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/health-humanities-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/history-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Human-Computer Interaction",
+      "listType": "additional_major",
+      "name": "Human-Computer Interaction",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Human-Computer Interaction",
+      "listType": "major",
+      "name": "Human-Computer Interaction",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.H.A.",
+      "displayName": "Humanities and Arts",
+      "listType": "major",
+      "name": "Humanities and Arts",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Information Systems",
+      "listType": "major",
+      "name": "Information Systems",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/informationsystems/information-systems-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "International Relations and Political Science",
+      "listType": "major",
+      "name": "International Relations and Political Science",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/international-relations-political-science-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Languages and Cultures",
+      "listType": "major",
+      "name": "Languages and Cultures",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/languages-cultures-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/linguistics-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Literature and Culture",
+      "listType": "major",
+      "name": "Literature and Culture",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/literature-culture-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Logic and Computation",
+      "listType": "major",
+      "name": "Logic and Computation",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/logic-computation-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Materials Science and Engineering",
+      "listType": "major",
+      "name": "Materials Science and Engineering",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/materialsscienceandengineering/materials-science-engineering-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Mathematical Sciences",
+      "listType": "major",
+      "name": "Mathematical Sciences",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Mathematical Sciences",
+      "listType": "major",
+      "name": "Mathematical Sciences",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Mathematical Sciences and Economics",
+      "listType": "major",
+      "name": "Mathematical Sciences and Economics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-economics-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofmechanicalengineering/mechanical-engineering-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Music and Technology",
+      "listType": "major",
+      "name": "Music and Technology",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-technology-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.F.A.",
+      "displayName": "Music Performance",
+      "listType": "major",
+      "name": "Music Performance",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-performance-bfa/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/neuroscience-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/neuroscience-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/neuroscience-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/philosophy-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Physics",
+      "listType": "additional_major",
+      "name": "Physics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Policy and Management",
+      "listType": "major",
+      "name": "Policy and Management",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/policy-management-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Political Science, Security, and Technology",
+      "listType": "major",
+      "name": "Political Science, Security, and Technology",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/political-science-security-technology-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A.",
+      "displayName": "Professional Writing",
+      "listType": "major",
+      "name": "Professional Writing",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/professional-writing-ba/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.A./B.S",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-ba-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Psychology and Biological Sciences",
+      "listType": "major",
+      "name": "Psychology and Biological Sciences",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-biological-sciences-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Robotics",
+      "listType": "additional_major",
+      "name": "Robotics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Robotics",
+      "listType": "major",
+      "name": "Robotics",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.A",
+      "displayName": "Science and Arts",
+      "listType": "major",
+      "name": "Science and Arts",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Science, Technology and Society",
+      "listType": "major",
+      "name": "Science, Technology and Society",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/science-technology-society-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "Additional Major",
+      "displayName": "Science, Technology, and Public Policy",
+      "listType": "additional_major",
+      "name": "Science, Technology, and Public Policy",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/science-technology-public-policy-additional-major/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Statistics and Data Science",
+      "listType": "major",
+      "name": "Statistics and Data Science",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Statistics and Data Science (Mathematical Sciences Track)",
+      "listType": "major",
+      "name": "Statistics and Data Science (Mathematical Sciences Track)",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-mathematical-sciences-track-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Statistics and Data Science (Neuroscience Track)",
+      "listType": "major",
+      "name": "Statistics and Data Science (Neuroscience Track)",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-neuroscience-track-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Statistics and Machine Learning",
+      "listType": "major",
+      "name": "Statistics and Machine Learning",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-machine-learning-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    },
+    {
+      "degreeType": "B.S.",
+      "displayName": "Technical Writing",
+      "listType": "major",
+      "name": "Technical Writing",
+      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/technical-writing-bs/",
+      "sourceIds": [
+        "source_cmu_2026_27_undergraduate_catalog"
+      ],
+      "status": "verified_official_undergraduate_majors"
+    }
+  ]
+}

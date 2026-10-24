@@ -5097,6 +5097,19 @@
       "status": "verified",
       "url": "https://www.bu.edu/academics/degree-programs/",
       "checkedOn": "2026-10-24"
+    },
+    {
+      "sourceId": "source_cmu_2026_27_undergraduate_catalog",
+      "sourceType": "official_catalog",
+      "publisher": "Carnegie Mellon University",
+      "referenceYear": "2026-27",
+      "url": "https://coursecatalog.web.cmu.edu/programs/",
+      "status": "verified",
+      "scope": [
+        "official undergraduate Programs A-Z entries carrying a bachelor degree designation or Additional Major label"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed from the official 2026-2027 Undergraduate Catalog Programs A-Z page. Minors, courses, concentrations, graduate entries, and non-degree options are excluded."
     }
   ]
 }

@@ -313,7 +313,9 @@ function validateStatuses(raw: unknown, path: string): void {
         throw new Error(`${path}.allMajorsStatus.status has unknown status: ${String(directory.status)}`);
       }
     } else if (key === "status" || key === "verificationStatus") {
-      if (typeof value !== "string" || !KNOWN_DETAIL_STATUSES.has(value)) {
+      const isMajorDirectoryEntry = key === "status" && path.includes(".allMajors[");
+      const allowed = isMajorDirectoryEntry ? new Set([...KNOWN_DETAIL_STATUSES, ...MAJOR_DIRECTORY_STATUSES]) : KNOWN_DETAIL_STATUSES;
+      if (typeof value !== "string" || !allowed.has(value)) {
         throw new Error(`${path}.${key} has unknown status: ${String(value)}`);
       }
     } else {
