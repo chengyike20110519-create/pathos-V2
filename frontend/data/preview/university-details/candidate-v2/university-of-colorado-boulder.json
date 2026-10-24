@@ -148,108 +148,26 @@
   ],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration and Management, General",
-      "listType": "areas_of_study",
-      "name": "Business Administration and Management, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering Sciences - Bachelor of Science (BSAE)",
+      "listType": "major",
+      "name": "Aerospace Engineering Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/aerospace-engineering-sciences/aerospace-engineering-science-bachelor-science-bsae/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering Sciences -​ Bachelor of Science (BSAE)",
+      "listType": "major",
+      "name": "Aerospace Engineering Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/aerospace-engineering-sciences/aerospace-engineering-science-bachelor-science-bsae/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Relations, Advertising, and Applied Communication",
-      "listType": "areas_of_study",
-      "name": "Public Relations, Advertising, and Applied Communication",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physiology, General",
-      "listType": "areas_of_study",
-      "name": "Physiology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -265,10 +183,89 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/anthropology/anthropology-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/anthropology/anthropology-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
+      "displayName": "Anthropology, General",
       "listType": "areas_of_study",
-      "name": "Environmental Studies",
+      "name": "Anthropology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Computer Science - Post-Baccalaureate Bachelor of Science (BSACS)",
+      "listType": "major",
+      "name": "Applied Computer Science - Post",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/computer-science/applied-computer-science-post-baccalaureate-bachelor-science-bsacs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Computer Science -​ Post-​Baccalaureate Bachelor of Science (BSACS)",
+      "listType": "major",
+      "name": "Applied Computer Science -​ Post",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/computer-science/applied-computer-science-post-baccalaureate-bachelor-science-bsacs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics - Bachelor of Science (BSAM)",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/applied-mathematics/applied-mathematics-bachelor-science-bsam/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics -​ Bachelor of Science (BSAM)",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/applied-mathematics/applied-mathematics-bachelor-science-bsam/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Applied Mathematics, General",
+      "listType": "areas_of_study",
+      "name": "Applied Mathematics, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -279,9 +276,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ecology and Evolutionary Biology",
+      "displayName": "Architectural Engineering",
       "listType": "areas_of_study",
-      "name": "Ecology and Evolutionary Biology",
+      "name": "Architectural Engineering",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -291,10 +288,76 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Engineering - Bachelor of Science (BSARE)",
+      "listType": "major",
+      "name": "Architectural Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/civil-environmental-architectural-engineering/architectural-engineering-bachelor-science-bsare/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Engineering -​ Bachelor of Science (BSARE)",
+      "listType": "major",
+      "name": "Architectural Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/civil-environmental-architectural-engineering/architectural-engineering-bachelor-science-bsare/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture - Bachelor of Environmental Design (BEV)",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/environmental-design/architecture-bachelor-environmental-design-bev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture -​ Bachelor of Environmental Design (BEV)",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/environmental-design/architecture-bachelor-environmental-design-bev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/art-art-history/art-history-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/art-art-history/art-history-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
+      "displayName": "Art History, Criticism and Conservation",
       "listType": "areas_of_study",
-      "name": "Sociology, General",
+      "name": "Art History, Criticism and Conservation",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -304,114 +367,76 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Speech Communication and Rhetoric",
-      "listType": "areas_of_study",
-      "name": "Speech Communication and Rhetoric",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art Practices - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Art Practices",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/art-art-history/art-practices-bachelor-arts-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art Practices - Bachelor of Fine Arts (BFA)",
+      "listType": "major",
+      "name": "Art Practices",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/art-art-history/art-practices-bachelor-fine-arts-bfa/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art Practices -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Art Practices",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/art-art-history/art-practices-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art Practices -​ Bachelor of Fine Arts (BFA)",
+      "listType": "major",
+      "name": "Art Practices",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/art-art-history/art-practices-bachelor-fine-arts-bfa/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Asian Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/asian-studies/asian-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Asian Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/asian-studies/asian-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
+      "displayName": "Asian Studies/Civilization",
       "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cell/Cellular and Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Cell/Cellular and Molecular Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Design/Architecture",
-      "listType": "areas_of_study",
-      "name": "Environmental Design/Architecture",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
+      "name": "Asian Studies/Civilization",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -434,88 +459,76 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Biochemistry",
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysical and Planetary Sciences - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Astrophysical and Planetary Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/astrophysical-planetary-sciences/astrophysical-planetary-sciences-bachelor-arts-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysical and Planetary Sciences - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Astrophysical and Planetary Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/astrophysical-planetary-sciences/astrophysical-planetary-sciences-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysical and Planetary Sciences -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Astrophysical and Planetary Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/astrophysical-planetary-sciences/astrophysical-planetary-sciences-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysical and Planetary Sciences -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Astrophysical and Planetary Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/astrophysical-planetary-sciences/astrophysical-planetary-sciences-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric and Oceanic Sciences - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Atmospheric and Oceanic Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/atmospheric-oceanic-sciences/atmospheric-oceanic-sciences-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric and Oceanic Sciences -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Atmospheric and Oceanic Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/atmospheric-oceanic-sciences/atmospheric-oceanic-sciences-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Elementary Education and Teaching",
+      "displayName": "Atmospheric Sciences and Meteorology, General",
       "listType": "areas_of_study",
-      "name": "Elementary Education and Teaching",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Technologies/Technicians, General",
-      "listType": "areas_of_study",
-      "name": "Engineering Technologies/Technicians, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Digital Communication and Media/Multimedia",
-      "listType": "areas_of_study",
-      "name": "Digital Communication and Media/Multimedia",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Communication Sciences and Disorders, General",
-      "listType": "areas_of_study",
-      "name": "Communication Sciences and Disorders, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
+      "name": "Atmospheric Sciences and Meteorology, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -539,9 +552,123 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Journalism",
+      "displayName": "Biochemistry",
       "listType": "areas_of_study",
-      "name": "Journalism",
+      "name": "Biochemistry",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Biochemistry",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/biochemistry/biochemistry-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Biochemistry",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/biochemistry/biochemistry-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Bioengineering and Biomedical Engineering",
+      "listType": "areas_of_study",
+      "name": "Bioengineering and Biomedical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Engineering - Bachelor of Science (BSBE)",
+      "listType": "major",
+      "name": "Biological Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/chemical-biological-engineering/biological-engineering-bachelor-science-bsbe/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Engineering -​ Bachelor of Science (BSBE)",
+      "listType": "major",
+      "name": "Biological Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/chemical-biological-engineering/biological-engineering-bachelor-science-bsbe/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering - Bachelor of Science (BSBM)",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/biomedical-engineering/biomedical-engineering-bachelor-science-bsbm/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering -​ Bachelor of Science (BSBM)",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/biomedical-engineering/biomedical-engineering-bachelor-science-bsbm/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration - Bachelor of Science (BSBA)",
+      "listType": "major",
+      "name": "Business Administration",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/business/programs-study/business-administration/business-administration-bachelor-science-bsba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration -​ Bachelor of Science (BSBA)",
+      "listType": "major",
+      "name": "Business Administration",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/business/programs-study/business-administration/business-administration-bachelor-science-bsba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Business Administration and Management, General",
+      "listType": "areas_of_study",
+      "name": "Business Administration and Management, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -552,9 +679,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography and Environmental Studies",
+      "displayName": "Business Statistics",
       "listType": "areas_of_study",
-      "name": "Geography and Environmental Studies",
+      "name": "Business Statistics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -565,100 +692,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
+      "displayName": "Cell/Cellular and Molecular Biology",
       "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Computer Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Computer Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Environmental Health Engineering",
-      "listType": "areas_of_study",
-      "name": "Environmental/Environmental Health Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Applied Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Performance, General",
-      "listType": "areas_of_study",
-      "name": "Music Performance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Information Science/Studies",
-      "listType": "areas_of_study",
-      "name": "Information Science/Studies",
+      "name": "Cell/Cellular and Molecular Biology",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -681,43 +717,48 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mass Communication/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Mass Communication/Media Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering - Bachelor of Science (BSCHE)",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/chemical-biological-engineering/chemical-engineering-bachelor-science-bsche/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering -​ Bachelor of Science (BSCHE)",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/chemical-biological-engineering/chemical-engineering-bachelor-science-bsche/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ethnic Studies",
-      "listType": "areas_of_study",
-      "name": "Ethnic Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/chemistry/chemistry-bachelor-science-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/chemistry/chemistry-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -733,10 +774,32 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chinese - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Chinese",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/asian-languages-civilizations/chinese-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chinese -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Chinese",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/asian-languages-civilizations/chinese-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architectural Engineering",
+      "displayName": "Chinese Language and Literature",
       "listType": "areas_of_study",
-      "name": "Architectural Engineering",
+      "name": "Chinese Language and Literature",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -746,10 +809,76 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema Studies &​ Moving Image Arts -​ Bachelor of Fine Arts (BFA)",
+      "listType": "major",
+      "name": "Cinema Studies &​ Moving Image Arts",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/cinema-studies-moving-image-arts/cinema-studies-moving-image-arts-bachelor-fine-arts-bfa/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Cinema Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/cinema-studies-moving-image-arts/cinema-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Cinema Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/cinema-studies-moving-image-arts/cinema-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema Studies and Moving Image Arts - Bachelor of Fine Arts (BFA)",
+      "listType": "major",
+      "name": "Cinema Studies and Moving Image Arts",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/cinema-studies-moving-image-arts/cinema-studies-moving-image-arts-bachelor-fine-arts-bfa/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering - Bachelor of Science (BSCV)",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/civil-environmental-architectural-engineering/civil-engineering-bachelor-science-bscv/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering -​ Bachelor of Science (BSCV)",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/civil-environmental-architectural-engineering/civil-engineering-bachelor-science-bscv/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Physics/Applied Physics",
+      "displayName": "Civil Engineering, General",
       "listType": "areas_of_study",
-      "name": "Engineering Physics/Applied Physics",
+      "name": "Civil Engineering, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -759,140 +888,67 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/classics/classics-bachelor-arts-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/classics/classics-bachelor-arts-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Humanities/Humanistic Studies",
-      "listType": "areas_of_study",
-      "name": "Humanities/Humanistic Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Statistics, General",
-      "listType": "areas_of_study",
-      "name": "Statistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Atmospheric Sciences and Meteorology, General",
-      "listType": "areas_of_study",
-      "name": "Atmospheric Sciences and Meteorology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
       "listType": "areas_of_study",
       "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Communication",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/communication/communication-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Communication",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/communication/communication-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Communication Sciences and Disorders, General",
+      "listType": "areas_of_study",
+      "name": "Communication Sciences and Disorders, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -916,9 +972,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Women's Studies",
+      "displayName": "Computer Science",
       "listType": "areas_of_study",
-      "name": "Women's Studies",
+      "name": "Computer Science",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -926,6 +982,776 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/computer-science/computer-science-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science - Bachelor of Science (BSCS)",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/computer-science/computer-science-bachelor-science-bscs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/computer-science/computer-science-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science -​ Bachelor of Science (BSCS)",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/computer-science/computer-science-bachelor-science-bscs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Creative Technology and Design - Bachelor of Science (BSCTD)",
+      "listType": "major",
+      "name": "Creative Technology and Design",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/creative-technology-design/creative-technology-design-bachelor-science-bsctd/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Creative Technology and Design -​ Bachelor of Science (BSCTD)",
+      "listType": "major",
+      "name": "Creative Technology and Design",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/creative-technology-design/creative-technology-design-bachelor-science-bsctd/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/theatre-dance/dance-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance - Bachelor of Fine Arts (BFA)",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/theatre-dance/dance-bachelor-fine-arts-bfa/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/theatre-dance/dance-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance -​ Bachelor of Fine Arts (BFA)",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/theatre-dance/dance-bachelor-fine-arts-bfa/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Dance, General",
+      "listType": "areas_of_study",
+      "name": "Dance, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Digital Communication and Media/Multimedia",
+      "listType": "areas_of_study",
+      "name": "Digital Communication and Media/Multimedia",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Drama and Dramatics/Theatre Arts, General",
+      "listType": "areas_of_study",
+      "name": "Drama and Dramatics/Theatre Arts, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth Science - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Earth Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/earth-science/earth-science-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth Science -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Earth Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/earth-science/earth-science-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Ecology and Evolutionary Biology",
+      "listType": "areas_of_study",
+      "name": "Ecology and Evolutionary Biology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology and Evolutionary Biology - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Ecology and Evolutionary Biology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/ecology-evolutionary-biology/ecology-evolutionary-biology-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology and Evolutionary Biology -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Ecology and Evolutionary Biology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/ecology-evolutionary-biology/ecology-evolutionary-biology-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/economics/economics-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/economics/economics-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Economics, General",
+      "listType": "areas_of_study",
+      "name": "Economics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Education Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/education/programs-study/education-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Education Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/education/programs-study/education-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Electrical and Computer Engineering",
+      "listType": "areas_of_study",
+      "name": "Electrical and Computer Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical and Computer Engineering - Bachelor of Science (BSEC)",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/electrical-computer-energy-engineering/electrical-computer-engineering-bachelor-science-bsec/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical and Computer Engineering -​ Bachelor of Science (BSEC)",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/electrical-computer-energy-engineering/electrical-computer-engineering-bachelor-science-bsec/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Electrical and Electronics Engineering",
+      "listType": "areas_of_study",
+      "name": "Electrical and Electronics Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering - Bachelor of Science (BSEE)",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/electrical-computer-energy-engineering/electrical-engineering-bachelor-science-bsee/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering -​ Bachelor of Science (BSEE)",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/electrical-computer-energy-engineering/electrical-engineering-bachelor-science-bsee/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Elementary Education",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/education/programs-study/elementary-education-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Elementary Education",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/education/programs-study/elementary-education-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Elementary Education and Teaching",
+      "listType": "areas_of_study",
+      "name": "Elementary Education and Teaching",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Physics - Bachelor of Science (BSEP)",
+      "listType": "major",
+      "name": "Engineering Physics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/engineering-physics/engineering-physics-bachelor-science-bsep/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Physics -​ Bachelor of Science (BSEP)",
+      "listType": "major",
+      "name": "Engineering Physics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/engineering-physics/engineering-physics-bachelor-science-bsep/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering Physics/Applied Physics",
+      "listType": "areas_of_study",
+      "name": "Engineering Physics/Applied Physics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering Technologies/Technicians, General",
+      "listType": "areas_of_study",
+      "name": "Engineering Technologies/Technicians, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering, General",
+      "listType": "areas_of_study",
+      "name": "Engineering, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/english/english-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/english/english-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "English Language and Literature, General",
+      "listType": "areas_of_study",
+      "name": "English Language and Literature, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Design/Architecture",
+      "listType": "areas_of_study",
+      "name": "Environmental Design/Architecture",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering - Bachelor of Science (BSEV)",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/civil-environmental-architectural-engineering/environmental-engineering-bachelor-science-bsev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering -​ Bachelor of Science (BSEV)",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/civil-environmental-architectural-engineering/environmental-engineering-bachelor-science-bsev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Products of Design - Bachelor of Environmental Design (BEV)",
+      "listType": "major",
+      "name": "Environmental Products of Design",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/environmental-design/environmental-products-design-bachelor-environmental-design-bev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Products of Design -​ Bachelor of Environmental Design (BEV)",
+      "listType": "major",
+      "name": "Environmental Products of Design",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/environmental-design/environmental-products-design-bachelor-environmental-design-bev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Studies",
+      "listType": "areas_of_study",
+      "name": "Environmental Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/environmental-studies/environmental-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/environmental-studies/environmental-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental/Environmental Health Engineering",
+      "listType": "areas_of_study",
+      "name": "Environmental/Environmental Health Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Ethnic Studies",
+      "listType": "areas_of_study",
+      "name": "Ethnic Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ethnic Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Ethnic Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/ethnic-studies/ethnic-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ethnic Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Ethnic Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/ethnic-studies/ethnic-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Film/Cinema/Media Studies",
+      "listType": "areas_of_study",
+      "name": "Film/Cinema/Media Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Fine/Studio Arts, General",
+      "listType": "areas_of_study",
+      "name": "Fine/Studio Arts, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/french-italian/french-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/french-italian/french-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "French Language and Literature",
+      "listType": "areas_of_study",
+      "name": "French Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "General Studies",
+      "listType": "areas_of_study",
+      "name": "General Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Geography",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/geography/geography-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Geography",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/geography/geography-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Geography",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/geography/geography-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Geography",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/geography/geography-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geography and Environmental Studies",
+      "listType": "areas_of_study",
+      "name": "Geography and Environmental Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geology/Earth Science, General",
+      "listType": "areas_of_study",
+      "name": "Geology/Earth Science, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "German Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/germanic-slavic-languages-literatures/german-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "German Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/germanic-slavic-languages-literatures/german-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -941,10 +1767,707 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "History - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/history/history-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/history/history-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Dance, General",
+      "displayName": "History, General",
       "listType": "areas_of_study",
-      "name": "Dance, General",
+      "name": "History, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Humanities - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Humanities",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/humanities/humanities-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Humanities -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Humanities",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/humanities/humanities-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Humanities/Humanistic Studies",
+      "listType": "areas_of_study",
+      "name": "Humanities/Humanistic Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Science - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Information Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/information-science/information-science-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Science -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Information Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/information-science/information-science-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Information Science/Studies",
+      "listType": "areas_of_study",
+      "name": "Information Science/Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrated Business and Engineering - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Integrated Business and Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/business/programs-study/business-administration/integrated-business-engineering-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrated Business and Engineering -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Integrated Business and Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/business/programs-study/business-administration/integrated-business-engineering-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrated Design Engineering - Bachelor of Science (BSIDE)",
+      "listType": "major",
+      "name": "Integrated Design Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/integrated-design-engineering/integrated-design-engineering-bside/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrated Design Engineering -​ Bachelor of Science (BSIDE)",
+      "listType": "major",
+      "name": "Integrated Design Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/integrated-design-engineering/integrated-design-engineering-bside/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrative Physiology - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Integrative Physiology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/integrative-physiology/integrative-physiology-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrative Physiology -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Integrative Physiology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/integrative-physiology/integrative-physiology-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "International Affairs",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/international-affairs/international-affairs-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "International Affairs",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/international-affairs/international-affairs-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "International/Globalization Studies",
+      "listType": "areas_of_study",
+      "name": "International/Globalization Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/french-italian/italian-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/french-italian/italian-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Italian Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Italian Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Japanese",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/asian-languages-civilizations/japanese-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Japanese",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/asian-languages-civilizations/japanese-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Japanese Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Japanese Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/jewish-studies/jewish-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/jewish-studies/jewish-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Jewish/Judaic Studies",
+      "listType": "areas_of_study",
+      "name": "Jewish/Judaic Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Journalism",
+      "listType": "areas_of_study",
+      "name": "Journalism",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Journalism",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/journalism/journalism-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Journalism",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/journalism/journalism-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Landscape Architecture - Bachelor of Environmental Design (BEV)",
+      "listType": "major",
+      "name": "Landscape Architecture",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/environmental-design/landscape-architecture-bachelor-environmental-design-bev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Landscape Architecture -​ Bachelor of Environmental Design (BEV)",
+      "listType": "major",
+      "name": "Landscape Architecture",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/environmental-design/landscape-architecture-bachelor-environmental-design-bev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Leadership and Community Engagement - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Leadership and Community Engagement",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/education/programs-study/leadership-community-engagement-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Leadership and Community Engagement -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Leadership and Community Engagement",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/education/programs-study/leadership-community-engagement-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Linguistics",
+      "listType": "areas_of_study",
+      "name": "Linguistics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/linguistics/linguistics-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/linguistics/linguistics-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mass Communication/Media Studies",
+      "listType": "areas_of_study",
+      "name": "Mass Communication/Media Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/mathematics/mathematics-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/mathematics/mathematics-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/mathematics/mathematics-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/mathematics/mathematics-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics, General",
+      "listType": "areas_of_study",
+      "name": "Mathematics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mechanical Engineering",
+      "listType": "areas_of_study",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering - Bachelor of Science (BSME)",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/mechanical-engineering/mechanical-engineering-bachelor-science-bsme/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering -​ Bachelor of Science (BSME)",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/engineering-applied-science/programs-study/mechanical-engineering/mechanical-engineering-bachelor-science-bsme/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Production - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Media Production",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/critical-media-practices/media-production-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Production -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Media Production",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/critical-media-practices/media-production-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Media Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/media-studies/media-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Media Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/media-studies/media-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle and High School Teaching - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Middle and High School Teaching",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/education/programs-study/middle-high-school-teaching-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle and High School Teaching -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Middle and High School Teaching",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/education/programs-study/middle-high-school-teaching-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular, Cellular and Developmental Biology - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Molecular, Cellular and Developmental Biology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/molecular-cellular-developmental-biology/molecular-cellular-developmental-biology-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular, Cellular and Developmental Biology -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Molecular, Cellular and Developmental Biology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/molecular-cellular-developmental-biology/molecular-cellular-developmental-biology-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Multi-/Interdisciplinary Studies, General",
+      "listType": "areas_of_study",
+      "name": "Multi-/Interdisciplinary Studies, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music - Bachelor of Arts in Music (BAMus)",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/music/programs-study/music/music-bachelor-arts-music-bamus/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music - Bachelor of Music (BMus)",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/music/programs-study/music/music-bachelor-music-bmus/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music -​ Bachelor of Arts in Music (BAMus)",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/music/programs-study/music/music-bachelor-arts-music-bamus/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music -​ Bachelor of Music (BMus)",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/music/programs-study/music/music-bachelor-music-bmus/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Education - Bachelor of Music Education (BMUE)",
+      "listType": "major",
+      "name": "Music Education",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/music/programs-study/music-education/music-education-bachelor-music-education-bmue/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Education -​ Bachelor of Music Education (BMUE)",
+      "listType": "major",
+      "name": "Music Education",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/music/programs-study/music-education/music-education-bachelor-music-education-bmue/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Performance, General",
+      "listType": "areas_of_study",
+      "name": "Music Performance, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -968,9 +2491,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
+      "displayName": "Music, General",
       "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
+      "name": "Music, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -981,9 +2504,123 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese Language and Literature",
+      "displayName": "Neuroscience",
       "listType": "areas_of_study",
-      "name": "Japanese Language and Literature",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/psychology-neuroscience/neuroscience-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/psychology-neuroscience/neuroscience-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy",
+      "listType": "areas_of_study",
+      "name": "Philosophy",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/philosophy/philosophy-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/philosophy/philosophy-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/physics/physics-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/physics/physics-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/physics/physics-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/physics/physics-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics, General",
+      "listType": "areas_of_study",
+      "name": "Physics, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -994,9 +2631,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "General Studies",
+      "displayName": "Physiology, General",
       "listType": "areas_of_study",
-      "name": "General Studies",
+      "name": "Physiology, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1006,10 +2643,32 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/political-science/political-science-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/political-science/political-science-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Studies",
+      "displayName": "Political Science and Government, General",
       "listType": "areas_of_study",
-      "name": "Russian Studies",
+      "name": "Political Science and Government, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1019,10 +2678,32 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/psychology-neuroscience/psychology-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/psychology-neuroscience/psychology-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chinese Language and Literature",
+      "displayName": "Psychology, General",
       "listType": "areas_of_study",
-      "name": "Chinese Language and Literature",
+      "name": "Psychology, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1032,23 +2713,32 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Public Health",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/public-health/public-health-bachelor-arts-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_cu_boulder_2026_27_programs_az"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Public Health",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/public-health/public-health-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian Studies/Civilization",
+      "displayName": "Public Relations, Advertising, and Applied Communication",
       "listType": "areas_of_study",
-      "name": "Asian Studies/Civilization",
+      "name": "Public Relations, Advertising, and Applied Communication",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1071,10 +2761,124 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Religious Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/religious-studies/religious-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Religious Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/religious-studies/religious-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
+      "displayName": "Russian Studies",
       "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
+      "name": "Russian Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Russian Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/germanic-slavic-languages-literatures/russian-east-european-eurasian-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian, East European and Eurasian Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Russian, East European and Eurasian Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/germanic-slavic-languages-literatures/russian-east-european-eurasian-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/sociology/sociology-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/sociology/sociology-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sociology, General",
+      "listType": "areas_of_study",
+      "name": "Sociology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/spanish-portuguese/spanish-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/spanish-portuguese/spanish-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Spanish Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Spanish Language and Literature",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1085,9 +2889,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, General",
+      "displayName": "Speech Communication and Rhetoric",
       "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, General",
+      "name": "Speech Communication and Rhetoric",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1097,10 +2901,76 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech, Language and Hearing Sciences - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Speech, Language and Hearing Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/speech-language-hearing-sciences/speech-language-hearing-sciences-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech, Language and Hearing Sciences -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Speech, Language and Hearing Sciences",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/speech-language-hearing-sciences/speech-language-hearing-sciences-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics and Data Science - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Statistics and Data Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/applied-mathematics/statistics-data-science-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics and Data Science - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Statistics and Data Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/applied-mathematics/statistics-data-science-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics and Data Science -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Statistics and Data Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/applied-mathematics/statistics-data-science-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics and Data Science -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Statistics and Data Science",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/applied-mathematics/statistics-data-science-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Jewish/Judaic Studies",
+      "displayName": "Statistics, General",
       "listType": "areas_of_study",
-      "name": "Jewish/Judaic Studies",
+      "name": "Statistics, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1110,10 +2980,120 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Strategic Communication - Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Strategic Communication",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/advertising-public-relations-design/strategic-communication-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Strategic Communication -​ Bachelor of Science (BS)",
+      "listType": "major",
+      "name": "Strategic Communication",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/advertising-public-relations-design/strategic-communication-bachelor-science-bs/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sustainable Planning and Urban Design - Bachelor of Environmental Design (BEV)",
+      "listType": "major",
+      "name": "Sustainable Planning and Ur",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/environmental-design/sustainable-planning-urban-design-bachelor-environmental-design-bev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sustainable Planning and Urban Design -​ Bachelor of Environmental Design (BEV)",
+      "listType": "major",
+      "name": "Sustainable Planning and Ur",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/communication-media-design-information/programs-study/environmental-design/sustainable-planning-urban-design-bachelor-environmental-design-bev/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/theatre-dance/theatre-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre - Bachelor of Fine Arts (BFA)",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/theatre-dance/theatre-bachelor-fine-arts-bfa/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/theatre-dance/theatre-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre -​ Bachelor of Fine Arts (BFA)",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/theatre-dance/theatre-bachelor-fine-arts-bfa/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women and Gender Studies - Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Women and Gender Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/women-gender-studies/women-gender-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women and Gender Studies -​ Bachelor of Arts (BA)",
+      "listType": "major",
+      "name": "Women and Gender Studies",
+      "officialUrl": "https://catalog.colorado.edu/undergraduate/colleges-schools/arts-sciences/programs-study/women-gender-studies/women-gender-studies-bachelor-arts-ba/",
+      "sourceIds": [
+        "source_cu_boulder_2026_27_programs_az"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Statistics",
+      "displayName": "Women's Studies",
       "listType": "areas_of_study",
-      "name": "Business Statistics",
+      "name": "Women's Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1124,8 +3104,8 @@
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "nullReason": null
   },
   "anecdotes": [
     {
@@ -1414,8 +3394,8 @@
   ],
   "region": "Rocky Mountains",
   "schoolType": "public",
-  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceCommit": "source-index:source_cu_boulder_2026_27_programs_az",
+  "sourceStatus": "verified",
   "state": "CO",
   "studentFacultyRatio": 19.0,
   "topPrograms": [

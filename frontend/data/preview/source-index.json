@@ -5372,6 +5372,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Filtered the official inventory to programs whose degree field begins with BA or BS; graduate-only programs were excluded."
+    },
+    {
+      "sourceId": "source_cu_boulder_2026_27_programs_az",
+      "sourceType": "official_catalog",
+      "publisher": "University of Colorado Boulder Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.colorado.edu/programs-a-z/",
+      "status": "verified",
+      "scope": [
+        "official Programs A-Z page",
+        "180 bachelor program entries"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed official undergraduate entries whose catalog titles explicitly identify a bachelor degree; minors, certificates, graduate and post-baccalaureate entries were excluded."
     }
   ]
 }
