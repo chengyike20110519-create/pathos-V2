@@ -5232,6 +5232,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed undergraduate program entries with bachelor award labels from the official Program Finder; excluded Abu Dhabi, Shanghai, and minor-only entries."
+    },
+    {
+      "sourceId": "source_purdue_2026_27_undergraduate_majors",
+      "sourceType": "official_admissions",
+      "publisher": "Purdue Undergraduate Admissions",
+      "referenceYear": "2026-27",
+      "url": "https://admissions.purdue.edu/academics/majors/",
+      "status": "verified",
+      "scope": [
+        "official Purdue Undergraduate Admissions majors directory, last modified 2026-08-28",
+        "170 named current undergraduate programs"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed 170 major cards from the official Purdue admissions directory; names and links preserved as published."
     }
   ]
 }

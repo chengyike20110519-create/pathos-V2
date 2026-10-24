@@ -1,0 +1,1886 @@
+{
+  "universityId": "candidate-v2:purdue-university-main-campus",
+  "schoolSlug": "purdue-university-main-campus",
+  "schoolName": "Purdue University-Main Campus",
+  "sourceId": "source_purdue_2026_27_undergraduate_majors",
+  "sourceUrl": "https://admissions.purdue.edu/academics/majors/",
+  "scope": [
+    "official Purdue Undergraduate Admissions majors directory, last modified 2026-08-28",
+    "170 named current undergraduate programs retrieved through the official paginated load-more endpoint"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 170,
+  "entries": [
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "officialUrl": "https://admissions.purdue.edu/majors/accounting/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Actuarial Science",
+      "listType": "major",
+      "name": "Actuarial Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/actuarial-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Aeronautical and Astronautical Engineering",
+      "listType": "major",
+      "name": "Aeronautical and Astronautical Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/aeronautical-astronautical-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Aeronautical Engineering Technology",
+      "listType": "major",
+      "name": "Aeronautical Engineering Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/aeronautical-engineering-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Agribusiness",
+      "listType": "major",
+      "name": "Agribusiness",
+      "officialUrl": "https://admissions.purdue.edu/majors/agribusiness/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Agricultural Economics",
+      "listType": "major",
+      "name": "Agricultural Economics",
+      "officialUrl": "https://admissions.purdue.edu/majors/agricultural-economics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Agricultural Education",
+      "listType": "major",
+      "name": "Agricultural Education",
+      "officialUrl": "https://admissions.purdue.edu/majors/agricultural-education/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Agricultural Engineering",
+      "listType": "major",
+      "name": "Agricultural Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/agricultural-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Agricultural Engineering Technology and Management",
+      "listType": "major",
+      "name": "Agricultural Engineering Technology and Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/agricultural-engineering-technology-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Animal Sciences",
+      "listType": "major",
+      "name": "Animal Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/animal-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Animation and Visual Effects",
+      "listType": "major",
+      "name": "Animation and Visual Effects",
+      "officialUrl": "https://admissions.purdue.edu/majors/animation-and-visual-effects/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://admissions.purdue.edu/majors/anthropology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Aquatic Sciences",
+      "listType": "major",
+      "name": "Aquatic Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/aquatic-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Artificial Intelligence (Liberal Arts)",
+      "listType": "major",
+      "name": "Artificial Intelligence (Liberal Arts)",
+      "officialUrl": "https://admissions.purdue.edu/majors/artificial-intelligence/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Artificial Intelligence (Science)",
+      "listType": "major",
+      "name": "Artificial Intelligence (Science)",
+      "officialUrl": "https://admissions.purdue.edu/majors/artificial-intelligence-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Astrophysics",
+      "listType": "major",
+      "name": "Astrophysics",
+      "officialUrl": "https://admissions.purdue.edu/majors/astrophysics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Radiological Health Sciences",
+      "listType": "major",
+      "name": "Radiological Health Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/radiological-health-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Robotics Engineering Technology",
+      "listType": "major",
+      "name": "Robotics Engineering Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/robotics-engineering-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Sales and Marketing",
+      "listType": "major",
+      "name": "Sales and Marketing",
+      "officialUrl": "https://admissions.purdue.edu/majors/sales-and-marketing/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Science Education",
+      "listType": "major",
+      "name": "Science Education",
+      "officialUrl": "https://admissions.purdue.edu/majors/science-education/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Selling and Sales Management",
+      "listType": "major",
+      "name": "Selling and Sales Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/selling-sales-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Social Studies Education",
+      "listType": "major",
+      "name": "Social Studies Education",
+      "officialUrl": "https://admissions.purdue.edu/majors/social-studies-education/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://admissions.purdue.edu/majors/sociology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Sound for the Performing Arts",
+      "listType": "major",
+      "name": "Sound for the Performing Arts",
+      "officialUrl": "https://admissions.purdue.edu/majors/sound-for-the-performing-arts/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Special Education: Mild and Intense Intervention P-12",
+      "listType": "major",
+      "name": "Special Education: Mild and Intense Intervention P-12",
+      "officialUrl": "https://admissions.purdue.edu/majors/special-education-mild-intense-intervention-p-12/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Speech, Language and Hearing Sciences",
+      "listType": "major",
+      "name": "Speech, Language and Hearing Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/speech-language-hearing-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Statistics Applied",
+      "listType": "major",
+      "name": "Statistics Applied",
+      "officialUrl": "https://admissions.purdue.edu/majors/statistics-applied/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Statistics, Math Emphasis",
+      "listType": "major",
+      "name": "Statistics, Math Emphasis",
+      "officialUrl": "https://admissions.purdue.edu/majors/statistics-with-mathematics-option/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Studio Arts and Technology",
+      "listType": "major",
+      "name": "Studio Arts and Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/studio-arts-and-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Supply Chain and Operations Management",
+      "listType": "major",
+      "name": "Supply Chain and Operations Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/supply-chain-and-operations-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Sustainable Food and Farming Systems",
+      "listType": "major",
+      "name": "Sustainable Food and Farming Systems",
+      "officialUrl": "https://admissions.purdue.edu/majors/sustainable-food-and-farming-systems/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Theatre",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://admissions.purdue.edu/majors/theatre/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Themed Entertainment Design",
+      "listType": "major",
+      "name": "Themed Entertainment Design",
+      "officialUrl": "https://admissions.purdue.edu/majors/themed-entertainment-design/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Turf Management and Science",
+      "listType": "major",
+      "name": "Turf Management and Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/turf-management-and-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Unmanned Aerial Systems",
+      "listType": "major",
+      "name": "Unmanned Aerial Systems",
+      "officialUrl": "https://admissions.purdue.edu/majors/unmanned-aerial-systems/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "UX Design",
+      "listType": "major",
+      "name": "UX Design",
+      "officialUrl": "https://admissions.purdue.edu/majors/ux-design/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Veterinary Technology",
+      "listType": "major",
+      "name": "Veterinary Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/veterinary-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Virtual Design and Construction",
+      "listType": "major",
+      "name": "Virtual Design and Construction",
+      "officialUrl": "https://admissions.purdue.edu/majors/virtual-design-construction/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Visual Communication Design",
+      "listType": "major",
+      "name": "Visual Communication Design",
+      "officialUrl": "https://admissions.purdue.edu/majors/visual-communication-design/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Web Programming and Design",
+      "listType": "major",
+      "name": "Web Programming and Design",
+      "officialUrl": "https://admissions.purdue.edu/majors/web-programming-and-design/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Wildlife Science",
+      "listType": "major",
+      "name": "Wildlife Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/wildlife/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "World Languages and Cultures",
+      "listType": "major",
+      "name": "World Languages and Cultures",
+      "officialUrl": "https://admissions.purdue.edu/majors/world-languages-and-cultures/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Atmospheric Science",
+      "listType": "major",
+      "name": "Atmospheric Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/atmospheric-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Aviation Management",
+      "listType": "major",
+      "name": "Aviation Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/aviation-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "officialUrl": "https://admissions.purdue.edu/majors/biochemistry/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Biochemistry (Chemistry)",
+      "listType": "major",
+      "name": "Biochemistry (Chemistry)",
+      "officialUrl": "https://admissions.purdue.edu/majors/biochemistry-chemistry/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Biological Engineering",
+      "listType": "major",
+      "name": "Biological Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/biological-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://admissions.purdue.edu/majors/biology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/biomedical-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Biomedical Health Sciences",
+      "listType": "major",
+      "name": "Biomedical Health Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/biomedical-health-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Biomolecular Design",
+      "listType": "major",
+      "name": "Biomolecular Design",
+      "officialUrl": "https://admissions.purdue.edu/majors/biomolecular-design/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Brain and Behavioral Sciences",
+      "listType": "major",
+      "name": "Brain and Behavioral Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/brain-and-behavioral-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Business Analytics and Information Management",
+      "listType": "major",
+      "name": "Business Analytics and Information Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/business-analytics-and-information-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Cell, Molecular, and Developmental Biology",
+      "listType": "major",
+      "name": "Cell, Molecular, and Developmental Biology",
+      "officialUrl": "https://admissions.purdue.edu/majors/cell-molecular-and-developmental-biology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Chemical Biology and Biochemistry",
+      "listType": "major",
+      "name": "Chemical Biology and Biochemistry",
+      "officialUrl": "https://admissions.purdue.edu/majors/chemical-biology-and-biochemistry/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/chemical-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://admissions.purdue.edu/majors/chemistry/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Chemistry – American Chemical Society",
+      "listType": "major",
+      "name": "Chemistry – American Chemical Society",
+      "officialUrl": "https://admissions.purdue.edu/majors/chemistry-american-chemical-society/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/civil-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/cognitive-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Communication",
+      "listType": "major",
+      "name": "Communication",
+      "officialUrl": "https://admissions.purdue.edu/majors/communication/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Computer and Information Technology",
+      "listType": "major",
+      "name": "Computer and Information Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/computer-and-information-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/computer-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Computer Engineering Technology",
+      "listType": "major",
+      "name": "Computer Engineering Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/computer-engineering-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/computer-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Computing Infrastructure and Network Engineering Technology",
+      "listType": "major",
+      "name": "Computing Infrastructure and Network Engineering Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/computing-infrastructure-network-engineering-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Construction Engineering",
+      "listType": "major",
+      "name": "Construction Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/construction-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Construction Management",
+      "listType": "major",
+      "name": "Construction Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/construction-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Creative Writing",
+      "listType": "major",
+      "name": "Creative Writing",
+      "officialUrl": "https://admissions.purdue.edu/majors/creative-writing/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Crop, Soil and Agroecosystem Sciences",
+      "listType": "major",
+      "name": "Crop, Soil and Agroecosystem Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/crop-soil-agroecosystem-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Cybersecurity",
+      "listType": "major",
+      "name": "Cybersecurity",
+      "officialUrl": "https://admissions.purdue.edu/majors/cybersecurity/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Data Analytics, Technologies and Applications",
+      "listType": "major",
+      "name": "Data Analytics, Technologies and Applications",
+      "officialUrl": "https://admissions.purdue.edu/majors/data-analytics-technologies-and-applications/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/data-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Design and Construction Integration",
+      "listType": "major",
+      "name": "Design and Construction Integration",
+      "officialUrl": "https://admissions.purdue.edu/majors/design-and-construction-integration/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Design Studies",
+      "listType": "major",
+      "name": "Design Studies",
+      "officialUrl": "https://admissions.purdue.edu/majors/design-studies/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Developmental and Family Science",
+      "listType": "major",
+      "name": "Developmental and Family Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/developmental-and-family-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Digital Criminology",
+      "listType": "major",
+      "name": "Digital Criminology",
+      "officialUrl": "https://admissions.purdue.edu/majors/digital-criminology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Early Childhood Education and Exceptional Needs",
+      "listType": "major",
+      "name": "Early Childhood Education and Exceptional Needs",
+      "officialUrl": "https://admissions.purdue.edu/majors/early-childhood-education-and-exceptional-needs/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Ecology, Evolution and Environmental Sciences",
+      "listType": "major",
+      "name": "Ecology, Evolution and Environmental Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/ecology-evolution-and-environmental-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://admissions.purdue.edu/majors/economics-college-of-liberal-arts/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Economics (Business)",
+      "listType": "major",
+      "name": "Economics (Business)",
+      "officialUrl": "https://admissions.purdue.edu/majors/economics-school-of-business/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/electrical-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Electrical Engineering Technology",
+      "listType": "major",
+      "name": "Electrical Engineering Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/electrical-engineering-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Elementary Education",
+      "listType": "major",
+      "name": "Elementary Education",
+      "officialUrl": "https://admissions.purdue.edu/majors/elementary-education/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Engineering (First-Year)",
+      "listType": "major",
+      "name": "Engineering (First-Year)",
+      "officialUrl": "https://admissions.purdue.edu/majors/engineering-first-year/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://admissions.purdue.edu/majors/english/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "English Education",
+      "listType": "major",
+      "name": "English Education",
+      "officialUrl": "https://admissions.purdue.edu/majors/english-education/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Environmental and Ecological Engineering",
+      "listType": "major",
+      "name": "Environmental and Ecological Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/environmental-ecological-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Environmental and Natural Resources Engineering",
+      "listType": "major",
+      "name": "Environmental and Natural Resources Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/environmental-and-natural-resources-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Environmental Geosciences",
+      "listType": "major",
+      "name": "Environmental Geosciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/environmental-geosciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Exploratory Pre-medicine and Health",
+      "listType": "major",
+      "name": "Exploratory Pre-medicine and Health",
+      "officialUrl": "https://admissions.purdue.edu/majors/exploratory-premed/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Exploratory Studies",
+      "listType": "major",
+      "name": "Exploratory Studies",
+      "officialUrl": "https://admissions.purdue.edu/majors/exploratory-studies/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Family and Consumer Sciences Education",
+      "listType": "major",
+      "name": "Family and Consumer Sciences Education",
+      "officialUrl": "https://admissions.purdue.edu/majors/family-and-consumer-sciences-education/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Farm Management",
+      "listType": "major",
+      "name": "Farm Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/farm-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Film and Video",
+      "listType": "major",
+      "name": "Film and Video",
+      "officialUrl": "https://admissions.purdue.edu/majors/film-and-video/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://admissions.purdue.edu/majors/finance/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Financial Counseling and Planning",
+      "listType": "major",
+      "name": "Financial Counseling and Planning",
+      "officialUrl": "https://admissions.purdue.edu/majors/financial-counseling-planning/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Flight (Professional Flight Technology)",
+      "listType": "major",
+      "name": "Flight (Professional Flight Technology)",
+      "officialUrl": "https://admissions.purdue.edu/majors/flight-professional-flight-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Food Science",
+      "listType": "major",
+      "name": "Food Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/food-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Forestry",
+      "listType": "major",
+      "name": "Forestry",
+      "officialUrl": "https://admissions.purdue.edu/majors/forestry/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Game Development",
+      "listType": "major",
+      "name": "Game Development",
+      "officialUrl": "https://admissions.purdue.edu/majors/game-development/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "General Education: Curriculum and Instruction (non-licensure)",
+      "listType": "major",
+      "name": "General Education: Curriculum and Instruction (non-licensure)",
+      "officialUrl": "https://admissions.purdue.edu/majors/general-education-curriculum-and-instruction-non-licensure/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "General Education: Educational Studies (non-licensure)",
+      "listType": "major",
+      "name": "General Education: Educational Studies (non-licensure)",
+      "officialUrl": "https://admissions.purdue.edu/majors/general-education-educational-studies-non-licensure/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "General Management",
+      "listType": "major",
+      "name": "General Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/general-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Genetics",
+      "listType": "major",
+      "name": "Genetics",
+      "officialUrl": "https://admissions.purdue.edu/majors/genetics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Geology and Geophysics",
+      "listType": "major",
+      "name": "Geology and Geophysics",
+      "officialUrl": "https://admissions.purdue.edu/majors/geology-and-geophysics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Health and Disease",
+      "listType": "major",
+      "name": "Health and Disease",
+      "officialUrl": "https://admissions.purdue.edu/majors/health-and-disease/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://admissions.purdue.edu/majors/history/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "History of Science, Technology and Medicine",
+      "listType": "major",
+      "name": "History of Science, Technology and Medicine",
+      "officialUrl": "https://admissions.purdue.edu/majors/history-of-science-technology-and-medicine/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Horticulture",
+      "listType": "major",
+      "name": "Horticulture",
+      "officialUrl": "https://admissions.purdue.edu/majors/horticulture/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Hospitality and Tourism Management",
+      "listType": "major",
+      "name": "Hospitality and Tourism Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/hospitality-and-tourism-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Human Resource Development",
+      "listType": "major",
+      "name": "Human Resource Development",
+      "officialUrl": "https://admissions.purdue.edu/majors/human-resource-development/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Human Services",
+      "listType": "major",
+      "name": "Human Services",
+      "officialUrl": "https://admissions.purdue.edu/majors/human-services/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Inclusion: Dual License in Special Education (K-6) and Elementary Education",
+      "listType": "major",
+      "name": "Inclusion: Dual License in Special Education (K-6) and Elementary Education",
+      "officialUrl": "https://admissions.purdue.edu/majors/inclusion-dual-license-special-and-elementary-education/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Industrial (Consumer Product) Design",
+      "listType": "major",
+      "name": "Industrial (Consumer Product) Design",
+      "officialUrl": "https://admissions.purdue.edu/majors/industrial-design/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Industrial Engineering",
+      "listType": "major",
+      "name": "Industrial Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/industrial-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Industrial Engineering Technology",
+      "listType": "major",
+      "name": "Industrial Engineering Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/industrial-engineering-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Industrial Microbiology and Biotechnology",
+      "listType": "major",
+      "name": "Industrial Microbiology and Biotechnology",
+      "officialUrl": "https://admissions.purdue.edu/majors/industrial-microbiology-and-biotechnology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Insect Biology",
+      "listType": "major",
+      "name": "Insect Biology",
+      "officialUrl": "https://admissions.purdue.edu/majors/insect-biology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Integrated Business and Engineering",
+      "listType": "major",
+      "name": "Integrated Business and Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/integrated-business-and-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Integrated Science and Business — Applied Statistics",
+      "listType": "major",
+      "name": "Integrated Science and Business — Applied Statistics",
+      "officialUrl": "https://admissions.purdue.edu/majors/integrated-science-and-business-applied-statistics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Integrated Studio Arts (Portfolio Required)",
+      "listType": "major",
+      "name": "Integrated Studio Arts (Portfolio Required)",
+      "officialUrl": "https://admissions.purdue.edu/majors/integrated-studio-arts/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Interdisciplinary Engineering Studies",
+      "listType": "major",
+      "name": "Interdisciplinary Engineering Studies",
+      "officialUrl": "https://admissions.purdue.edu/majors/interdisciplinary-engineering-studies/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Interdisciplinary Performance",
+      "listType": "major",
+      "name": "Interdisciplinary Performance",
+      "officialUrl": "https://admissions.purdue.edu/majors/interdisciplinary-performance/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Interdisciplinary Studies",
+      "listType": "major",
+      "name": "Interdisciplinary Studies",
+      "officialUrl": "https://admissions.purdue.edu/majors/interdisciplinary-studies/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Interior (Space Planning) Design",
+      "listType": "major",
+      "name": "Interior (Space Planning) Design",
+      "officialUrl": "https://admissions.purdue.edu/majors/interior-design/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Interior Architecture",
+      "listType": "major",
+      "name": "Interior Architecture",
+      "officialUrl": "https://admissions.purdue.edu/majors/interior-architecture/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Kinesiology",
+      "listType": "major",
+      "name": "Kinesiology",
+      "officialUrl": "https://admissions.purdue.edu/majors/kinesiology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Landscape Architecture (Pre)",
+      "listType": "major",
+      "name": "Landscape Architecture (Pre)",
+      "officialUrl": "https://admissions.purdue.edu/majors/landscape-architecture/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Law and Society",
+      "listType": "major",
+      "name": "Law and Society",
+      "officialUrl": "https://admissions.purdue.edu/majors/law-and-society-criminology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://admissions.purdue.edu/majors/linguistics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "officialUrl": "https://admissions.purdue.edu/majors/marketing/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Materials Engineering",
+      "listType": "major",
+      "name": "Materials Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/materials-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://admissions.purdue.edu/majors/mathematics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Mathematics Applied",
+      "listType": "major",
+      "name": "Mathematics Applied",
+      "officialUrl": "https://admissions.purdue.edu/majors/mathematics-applied/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Mathematics Education",
+      "listType": "major",
+      "name": "Mathematics Education",
+      "officialUrl": "https://admissions.purdue.edu/majors/mathematics-education/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Mathematics Statistics",
+      "listType": "major",
+      "name": "Mathematics Statistics",
+      "officialUrl": "https://admissions.purdue.edu/majors/mathematics-statistics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/mechanical-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Mechanical Engineering Technology",
+      "listType": "major",
+      "name": "Mechanical Engineering Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/mechanical-engineering-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Mechatronics Engineering Technology",
+      "listType": "major",
+      "name": "Mechatronics Engineering Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/mechatronics-engineering-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Medical Laboratory Sciences",
+      "listType": "major",
+      "name": "Medical Laboratory Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/medical-laboratory-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Motorsports Engineering",
+      "listType": "major",
+      "name": "Motorsports Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/motorsports-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Multidisciplinary Engineering",
+      "listType": "major",
+      "name": "Multidisciplinary Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/multidisciplinary-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Multidisciplinary Technology",
+      "listType": "major",
+      "name": "Multidisciplinary Technology",
+      "officialUrl": "https://admissions.purdue.edu/majors/multidisciplinary-technology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://admissions.purdue.edu/majors/music/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Natural Resources and Environmental Science",
+      "listType": "major",
+      "name": "Natural Resources and Environmental Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/natural-resources-and-environmental-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Neurobiology and Physiology",
+      "listType": "major",
+      "name": "Neurobiology and Physiology",
+      "officialUrl": "https://admissions.purdue.edu/majors/neurobiology-and-physiology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Nuclear Engineering",
+      "listType": "major",
+      "name": "Nuclear Engineering",
+      "officialUrl": "https://admissions.purdue.edu/majors/nuclear-engineering/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Nursing",
+      "listType": "major",
+      "name": "Nursing",
+      "officialUrl": "https://admissions.purdue.edu/majors/nursing/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Nutrition and Dietetics",
+      "listType": "major",
+      "name": "Nutrition and Dietetics",
+      "officialUrl": "https://admissions.purdue.edu/majors/nutrition-dietetics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Nutrition and Dietetics/ Nutrition, Fitness and Health",
+      "listType": "major",
+      "name": "Nutrition and Dietetics/ Nutrition, Fitness and Health",
+      "officialUrl": "https://admissions.purdue.edu/majors/nutrition-dietetics-nutrition-fitness-health/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Nutrition Science",
+      "listType": "major",
+      "name": "Nutrition Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/nutrition-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Occupational and Environmental Health Sciences",
+      "listType": "major",
+      "name": "Occupational and Environmental Health Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/occupational-environmental-health-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Organizational Behavior and Human Resource Management",
+      "listType": "major",
+      "name": "Organizational Behavior and Human Resource Management",
+      "officialUrl": "https://admissions.purdue.edu/majors/organizational-behavior-and-human-resource-management/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Organizational Leadership",
+      "listType": "major",
+      "name": "Organizational Leadership",
+      "officialUrl": "https://admissions.purdue.edu/majors/organizational-leadership/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Pharmaceutical Sciences",
+      "listType": "major",
+      "name": "Pharmaceutical Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/pharmaceutical-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://admissions.purdue.edu/majors/philosophy/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://admissions.purdue.edu/majors/physics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Physics Applied",
+      "listType": "major",
+      "name": "Physics Applied",
+      "officialUrl": "https://admissions.purdue.edu/majors/physics-applied/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Planetary Sciences",
+      "listType": "major",
+      "name": "Planetary Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/planetary-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Plant Genetics, Breeding and Biotechnology",
+      "listType": "major",
+      "name": "Plant Genetics, Breeding and Biotechnology",
+      "officialUrl": "https://admissions.purdue.edu/majors/plant-genetics-breeding-and-biotechnology/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Plant Science",
+      "listType": "major",
+      "name": "Plant Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/plant-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Plant Studies, Exploratory (Pre)",
+      "listType": "major",
+      "name": "Plant Studies, Exploratory (Pre)",
+      "officialUrl": "https://admissions.purdue.edu/majors/plant-studies-exploratory/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://admissions.purdue.edu/majors/political-science/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Pre-Professional",
+      "listType": "major",
+      "name": "Pre-Professional",
+      "officialUrl": "https://admissions.purdue.edu/majors/pre-professional/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Pre-Veterinary Medicine",
+      "listType": "major",
+      "name": "Pre-Veterinary Medicine",
+      "officialUrl": "https://admissions.purdue.edu/majors/pre-veterinary-medicine/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Professional Writing",
+      "listType": "major",
+      "name": "Professional Writing",
+      "officialUrl": "https://admissions.purdue.edu/majors/professional-writing/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Psychological Sciences",
+      "listType": "major",
+      "name": "Psychological Sciences",
+      "officialUrl": "https://admissions.purdue.edu/majors/psychological-sciences/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "officialUrl": "https://admissions.purdue.edu/majors/public-health/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_program",
+      "displayName": "Quantitative Business Economics",
+      "listType": "major",
+      "name": "Quantitative Business Economics",
+      "officialUrl": "https://admissions.purdue.edu/majors/quantitative-business-economics/",
+      "sourceIds": [
+        "source_purdue_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    }
+  ]
+}
