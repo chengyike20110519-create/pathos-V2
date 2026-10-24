@@ -148,26 +148,13 @@
   ],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Accounting",
-      "listType": "areas_of_study",
-      "name": "Accounting",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
       "degreeType": "undergraduate_major",
       "displayName": "Accounting",
       "listType": "major",
       "name": "Accounting",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/accounting/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -191,7 +178,7 @@
       "name": "Africana Studies",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/africanastudies/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -228,7 +215,7 @@
       "name": "Anthropology",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/sociologyandanthropology/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -252,22 +239,9 @@
       "name": "Applied Science",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/appliedscience/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architecture",
-      "listType": "areas_of_study",
-      "name": "Architecture",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
     },
     {
       "degreeType": "undergraduate_major",
@@ -276,7 +250,7 @@
       "name": "Architecture",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/artarchitectureanddesign/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -287,7 +261,7 @@
       "name": "Art",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/artarchitectureanddesign/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -298,7 +272,7 @@
       "name": "Art History",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/artarchitectureanddesign/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -330,12 +304,23 @@
     },
     {
       "degreeType": "undergraduate_major",
+      "displayName": "Arts and Engineering",
+      "listType": "major",
+      "name": "Arts and Engineering",
+      "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/artsengineering/",
+      "sourceIds": [
+        "source_lehigh_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Asian and Asian American Studies",
       "listType": "major",
       "name": "Asian and Asian American Studies",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/asianstudies/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -353,41 +338,15 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Astronomy",
-      "listType": "areas_of_study",
-      "name": "Astronomy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
       "degreeType": "undergraduate_major",
       "displayName": "Astronomy",
       "listType": "major",
       "name": "Astronomy",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/astronomyandastrophysics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Astrophysics",
-      "listType": "areas_of_study",
-      "name": "Astrophysics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
     },
     {
       "degreeType": "undergraduate_major",
@@ -396,22 +355,9 @@
       "name": "Astrophysics",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/astronomyandastrophysics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Biochemistry",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
     },
     {
       "degreeType": "undergraduate_major",
@@ -420,7 +366,7 @@
       "name": "Biochemistry",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/biochemistry/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -431,7 +377,7 @@
       "name": "Bioengineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/bioengineeringprogram/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -468,7 +414,7 @@
       "name": "Biology",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/biology",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -492,7 +438,7 @@
       "name": "Biostatistics & Health Data Science",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/health/biostats",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -516,7 +462,7 @@
       "name": "Business Information Systems",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/businessinformationsystems/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -547,26 +493,13 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
       "degreeType": "undergraduate_major",
       "displayName": "Chemical Engineering",
       "listType": "major",
       "name": "Chemical Engineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/chemicalengineering/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -577,7 +510,7 @@
       "name": "Chemistry",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/chemistry/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -601,7 +534,7 @@
       "name": "Chinese",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/modernlanguagesandliteratures/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -625,7 +558,7 @@
       "name": "Civil Engineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/civilandenvironmentalengineering/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -662,7 +595,7 @@
       "name": "Cognitive Science",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/cognitivescience/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -686,7 +619,7 @@
       "name": "Community and Global Health",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/health/#undergraduatetext",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -723,7 +656,7 @@
       "name": "Computer Engineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/computerengineering/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -741,26 +674,24 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
       "degreeType": "undergraduate_major",
       "displayName": "Computer Science",
       "listType": "major",
       "name": "Computer Science",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/computerscienceandengineering/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Business (CSB",
+      "listType": "major",
+      "name": "Computer Science and Business (CSB",
+      "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/interdisciplinaryundergraduatestudy/computerscienceandbusinessprogram/",
+      "sourceIds": [
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -771,7 +702,7 @@
       "name": "Design",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/artarchitectureanddesign/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -808,7 +739,7 @@
       "name": "Earth and Environmental Sciences",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/earthandenvironmentalsciences/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -819,7 +750,7 @@
       "name": "Economics",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/economics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -843,7 +774,18 @@
       "name": "Electrical Engineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/electricalandcomputerengineering/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary and Secondary Education (5-year program)",
+      "listType": "major",
+      "name": "Elementary and Secondary Education (5-year program)",
+      "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/",
+      "sourceIds": [
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -854,7 +796,7 @@
       "name": "Engineering Mechanics",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/mechanicalengineeringandmechanics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -865,7 +807,7 @@
       "name": "Engineering Physics",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/electricalengineeringandengineeringphysics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -902,7 +844,7 @@
       "name": "English",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/english/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -926,22 +868,9 @@
       "name": "Environmental Engineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/civilandenvironmentalengineering/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Environmental Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
     },
     {
       "degreeType": "undergraduate_major",
@@ -950,7 +879,7 @@
       "name": "Environmental Studies",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/environmentalinitiative/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -974,7 +903,7 @@
       "name": "Finance",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/finance/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -998,7 +927,7 @@
       "name": "French and Francophone Studies",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/modernlanguagesandliteratures/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1061,7 +990,7 @@
       "name": "German Studies",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/modernlanguagesandliteratures/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1072,7 +1001,7 @@
       "name": "Global Studies",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/globalstudies/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1083,7 +1012,7 @@
       "name": "Health, Medicine, and Society",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/healthmedicineandsociety",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1094,7 +1023,7 @@
       "name": "History",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/history/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1118,7 +1047,7 @@
       "name": "Industrial and Systems Engineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/industrialandsystemsengineering/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1163,12 +1092,34 @@
     },
     {
       "degreeType": "undergraduate_major",
+      "displayName": "Integrated Business and Engineering (IBE)",
+      "listType": "major",
+      "name": "Integrated Business and Engineering (IBE)",
+      "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/interdisciplinaryundergraduatestudy/integratedbusinessengineering/",
+      "sourceIds": [
+        "source_lehigh_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Integrated Business and Health (IBH)",
       "listType": "major",
       "name": "Integrated Business and Health (IBH)",
       "officialUrl": "https://www2.lehigh.edu/academics/majors/integrated-business-and-health",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrated Degree in Engineering, Arts and Sciences",
+      "listType": "major",
+      "name": "Integrated Degree in Engineering, Arts and Sciences",
+      "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/interdisciplinaryundergraduatestudy/ideas/",
+      "sourceIds": [
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1179,7 +1130,7 @@
       "name": "International Relations",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/internationalrelations/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1216,7 +1167,7 @@
       "name": "Japanese",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/modernlanguagesandliteratures/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1234,26 +1185,13 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Journalism",
-      "listType": "areas_of_study",
-      "name": "Journalism",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
       "degreeType": "undergraduate_major",
       "displayName": "Journalism",
       "listType": "major",
       "name": "Journalism",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/journalismandcommunication/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1264,7 +1202,7 @@
       "name": "Journalism/Science Writing",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/journalismandcommunication/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1275,7 +1213,7 @@
       "name": "Latin American and Latino Studies",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/latinamericanstudies/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1312,7 +1250,7 @@
       "name": "Management",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/management/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1336,7 +1274,7 @@
       "name": "Marketing",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/marketing/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1373,7 +1311,7 @@
       "name": "Materials Science and Engineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/materialsscienceandengineering/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1384,7 +1322,7 @@
       "name": "Mathematics",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/mathematics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1402,26 +1340,13 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
       "degreeType": "undergraduate_major",
       "displayName": "Mechanical Engineering",
       "listType": "major",
       "name": "Mechanical Engineering",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/engineeringandappliedscience/mechanicalengineeringandmechanics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1432,7 +1357,7 @@
       "name": "Molecular and Cellular Biology",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/biologicalsciences/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1482,7 +1407,7 @@
       "name": "Music",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/music/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1513,26 +1438,13 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
       "degreeType": "undergraduate_major",
       "displayName": "Neuroscience",
       "listType": "major",
       "name": "Neuroscience",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/biologicalsciences/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1543,22 +1455,9 @@
       "name": "Pharmaceutical Chemistry",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/chemistry/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
     },
     {
       "degreeType": "undergraduate_major",
@@ -1567,7 +1466,7 @@
       "name": "Philosophy",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/philosophy/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1578,7 +1477,7 @@
       "name": "Physics",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/physics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1602,7 +1501,7 @@
       "name": "Political Science",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/politicalscience/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1626,7 +1525,7 @@
       "name": "Population Health",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/health/communityandpopulationhealth/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1663,7 +1562,7 @@
       "name": "Psychology",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/psychology/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1713,7 +1612,7 @@
       "name": "Religion, Culture and Society",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/religionstudies/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1763,7 +1662,7 @@
       "name": "Sociology",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/sociologyandanthropology/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1774,7 +1673,7 @@
       "name": "Sociology and Anthropology",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/sociologyandanthropology/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1798,7 +1697,7 @@
       "name": "Spanish and Hispanic Studies",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/modernlanguagesandliteratures/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1822,7 +1721,7 @@
       "name": "Statistics",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/mathematics/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1846,7 +1745,7 @@
       "name": "Supply Chain Management",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/businessandeconomics/supplychainmanagement/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1870,7 +1769,7 @@
       "name": "Theatre",
       "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/theatre/",
       "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
+        "source_lehigh_2026_27_undergraduate_majors"
       ],
       "status": "verified"
     },
@@ -1888,17 +1787,6 @@
       ]
     },
     {
-      "degreeType": "undergraduate_major",
-      "displayName": "Women, Gender, and Sexuality Studies",
-      "listType": "major",
-      "name": "Women, Gender, and Sexuality Studies",
-      "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/womengenderandsexualitystudies/",
-      "sourceIds": [
-        "source_lehigh_2026_27_programs_and_majors"
-      ],
-      "status": "verified"
-    },
-    {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Women's Studies",
       "listType": "areas_of_study",
@@ -1910,18 +1798,22 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women, Gender, and Sexuality Studies",
+      "listType": "major",
+      "name": "Women, Gender, and Sexuality Studies",
+      "officialUrl": "https://catalog.lehigh.edu/coursesprogramsandcurricula/artsandsciences/womengenderandsexualitystudies/",
+      "sourceIds": [
+        "source_lehigh_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
     "status": "verified_official_undergraduate_majors",
-    "scope": "Lehigh 2026-27 official catalog Undergraduate Academic Majors section",
-    "sourceIds": [
-      "source_lehigh_2026_27_programs_and_majors"
-    ],
-    "checkedAt": "2026-10-24",
-    "warnings": [
-      "Cross-disciplinary programs are kept outside this major directory and require separate review."
-    ]
+    "nullReason": null
   },
   "anecdotes": [
     {
@@ -2191,8 +2083,8 @@
   ],
   "region": "Mid East",
   "schoolType": "private_nonprofit",
-  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceCommit": "source-index:source_lehigh_2026_27_undergraduate_majors",
+  "sourceStatus": "verified",
   "state": "PA",
   "studentFacultyRatio": 10,
   "topPrograms": [

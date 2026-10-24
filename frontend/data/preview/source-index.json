@@ -5400,6 +5400,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed the official List of Majors links; the catalog page identifies these as College major programs, with BA/BS degree details maintained on each linked program page."
+    },
+    {
+      "sourceId": "source_lehigh_2026_27_undergraduate_majors",
+      "sourceType": "official_catalog",
+      "publisher": "Lehigh University Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.lehigh.edu/programsandmajors/",
+      "status": "verified",
+      "scope": [
+        "official Undergraduate Academic Majors list",
+        "72 named undergraduate major entries"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Stopped at the official Graduate Majors section; cross-disciplinary undergraduate programs are retained because the catalog lists them in the undergraduate section."
     }
   ]
 }
