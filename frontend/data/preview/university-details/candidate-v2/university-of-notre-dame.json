@@ -148,893 +148,962 @@
   ],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Finance, General",
-      "listType": "areas_of_study",
-      "name": "Finance, General",
+      "degreeType": "major",
+      "displayName": "Accountancy",
+      "listType": "major",
+      "name": "Accountancy",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/accountancy/accountancy-bba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
+      "degreeType": "major",
+      "displayName": "Aerospace Engineering",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/aerospace-mechanical-engr/aerospace-engineering-bsae/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
+      "degreeType": "major",
+      "displayName": "Africana Studies",
+      "listType": "major",
+      "name": "Africana Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/africana-studies/africana-studies-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer and Information Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Computer and Information Sciences, General",
+      "degreeType": "supplementary_major",
+      "displayName": "Africana Studies",
+      "listType": "supplementary_major",
+      "name": "Africana Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/africana-studies/africana-studies-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
+      "degreeType": "major",
+      "displayName": "American Studies",
+      "listType": "major",
+      "name": "American Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/american-studies/american-studies-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Statistics, Other",
-      "listType": "areas_of_study",
-      "name": "Mathematics and Statistics, Other",
+      "degreeType": "major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/anthropology/anthropology-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Science",
-      "listType": "areas_of_study",
-      "name": "Management Science",
+      "degreeType": "major",
+      "displayName": "Applied & Computational Mathematics & Statistics",
+      "listType": "major",
+      "name": "Applied & Computational Mathematics & Statistics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/applied-comp-math-stats/applied-computational-mathematics-statistics-bs/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
+      "degreeType": "supplementary_major",
+      "displayName": "Applied & Computational Mathematics & Statistics",
+      "listType": "supplementary_major",
+      "name": "Applied & Computational Mathematics & Statistics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/applied-comp-math-stats/applied-computational-mathematics-statistics-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
+      "degreeType": "major",
+      "displayName": "Arabic",
+      "listType": "major",
+      "name": "Arabic",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/arabic-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pre-Medicine/Pre-Medical Studies",
-      "listType": "areas_of_study",
-      "name": "Pre-Medicine/Pre-Medical Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marketing/Marketing Management, General",
-      "listType": "areas_of_study",
-      "name": "Marketing/Marketing Management, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Accounting",
-      "listType": "areas_of_study",
-      "name": "Accounting",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biological and Physical Sciences",
-      "listType": "areas_of_study",
-      "name": "Biological and Physical Sciences",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "major",
       "displayName": "Architecture",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Architecture",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/architecture/architecture/architecture-bar/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
+      "degreeType": "major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/art-history-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Theology/Theological Studies",
-      "listType": "areas_of_study",
-      "name": "Theology/Theological Studies",
+      "degreeType": "supplementary_major",
+      "displayName": "Art History",
+      "listType": "supplementary_major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/art-history-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
+      "degreeType": "major",
+      "displayName": "Art Studio (BA)",
+      "listType": "major",
+      "name": "Art Studio (BA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/art-studio-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
+      "degreeType": "major",
+      "displayName": "Art Studio (BFA)",
+      "listType": "major",
+      "name": "Art Studio (BFA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/art-studio-bfa/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
+      "degreeType": "supplementary_major",
+      "displayName": "Asian Studies",
+      "listType": "supplementary_major",
+      "name": "Asian Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/keough-school-global-affairs/center-asian-studies/asian-studies-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business/Commerce, General",
-      "listType": "areas_of_study",
-      "name": "Business/Commerce, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Liberal Arts and Sciences/Liberal Studies",
-      "listType": "areas_of_study",
-      "name": "Liberal Arts and Sciences/Liberal Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "major",
       "displayName": "Biochemistry",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Biochemistry",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/chemistry-biochemistry/biochemistry-bs/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
+      "degreeType": "major",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/biological-sciences/biological-sciences-bs/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "American/United States Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "American/United States Studies/Civilization",
+      "degreeType": "major",
+      "displayName": "Business Analytics",
+      "listType": "major",
+      "name": "Business Analytics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/-analytics-operations/business-analytics/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
+      "degreeType": "major",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/chemical-biomolecular-engr/chemical-engineering-bsch/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Design and Visual Communications, General",
-      "listType": "areas_of_study",
-      "name": "Design and Visual Communications, General",
+      "degreeType": "major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/chemistry-biochemistry/chemistry-bs/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Aerospace, Aeronautical, and Astronautical/Space Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Aerospace, Aeronautical, and Astronautical/Space Engineering, General",
+      "degreeType": "major",
+      "displayName": "Chemistry/Computing",
+      "listType": "major",
+      "name": "Chemistry/Computing",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/chemistry-biochemistry/chemistry-computing-bs/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
+      "degreeType": "major",
+      "displayName": "Chinese",
+      "listType": "major",
+      "name": "Chinese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/chinese-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
+      "degreeType": "supplementary_major",
+      "displayName": "Chinese",
+      "listType": "supplementary_major",
+      "name": "Chinese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/chinese-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
+      "degreeType": "major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/cvl-envmntl-engr-earth-sci/civil-engineering-bsce/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Environmental Health Engineering",
-      "listType": "areas_of_study",
-      "name": "Environmental/Environmental Health Engineering",
+      "degreeType": "major",
+      "displayName": "Classics",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/classics-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
-      "listType": "areas_of_study",
-      "name": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
+      "degreeType": "supplementary_major",
+      "displayName": "Classics",
+      "listType": "supplementary_major",
+      "name": "Classics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/classics-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Peace Studies and Conflict Resolution",
-      "listType": "areas_of_study",
-      "name": "Peace Studies and Conflict Resolution",
+      "degreeType": "major",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/computer-science-engr/computer-engineering-bscp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
+      "degreeType": "major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/computer-science-engr/computer-science-bscs/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
+      "degreeType": "major",
+      "displayName": "Design (BA)",
+      "listType": "major",
+      "name": "Design (BA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/design-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "degreeType": "major",
+      "displayName": "Design (BFA)",
+      "listType": "major",
+      "name": "Design (BFA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/design-bfa/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
-      "listType": "areas_of_study",
-      "name": "German Language and Literature",
+      "degreeType": "major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/economics/economics-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
+      "degreeType": "supplementary_major",
+      "displayName": "Education, Schooling, & Society",
+      "listType": "supplementary_major",
+      "name": "Education, Schooling, & Society",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/inst-educational-initiatives/education-schooling-society-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education Policy Analysis",
-      "listType": "areas_of_study",
-      "name": "Education Policy Analysis",
+      "degreeType": "major",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/electrical-engineering/electrical-engineering-bsee/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
+      "degreeType": "major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/english/english-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Women's Studies",
-      "listType": "areas_of_study",
-      "name": "Women's Studies",
+      "degreeType": "major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/cvl-envmntl-engr-earth-sci/environmental-engineering-bs/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chinese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Chinese Language and Literature",
+      "degreeType": "supplementary_major",
+      "displayName": "Environmental Sciences",
+      "listType": "supplementary_major",
+      "name": "Environmental Sciences",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/biological-sciences/environmental-sciencs-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
+      "degreeType": "major",
+      "displayName": "Film, Television and Theatre",
+      "listType": "major",
+      "name": "Film, Television and Theatre",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/film-television-theatre/film-television-theatre-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Arabic Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Arabic Language and Literature",
+      "degreeType": "major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/finance/finance-bba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient/Classical Greek Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Ancient/Classical Greek Language and Literature",
+      "degreeType": "major",
+      "displayName": "French and Francophone Studies",
+      "listType": "major",
+      "name": "French and Francophone Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/french-francophone-studies-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Statistics",
-      "listType": "areas_of_study",
-      "name": "Mathematics and Statistics",
+      "degreeType": "supplementary_major",
+      "displayName": "French and Francophone Studies",
+      "listType": "supplementary_major",
+      "name": "French and Francophone Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/french-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
-      "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
+      "degreeType": "major",
+      "displayName": "Gender Studies",
+      "listType": "major",
+      "name": "Gender Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/gender-studies/gender-studies-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
+      "degreeType": "supplementary_major",
+      "displayName": "Gender Studies",
+      "listType": "supplementary_major",
+      "name": "Gender Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/gender-studies/gender-studies-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer and Information Sciences and Support Services, Other",
-      "listType": "areas_of_study",
-      "name": "Computer and Information Sciences and Support Services, Other",
+      "degreeType": "major",
+      "displayName": "German",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/german-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
+      "degreeType": "supplementary_major",
+      "displayName": "German",
+      "listType": "supplementary_major",
+      "name": "German",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/german-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Japanese Language and Literature",
+      "degreeType": "major",
+      "displayName": "Global Affairs",
+      "listType": "major",
+      "name": "Global Affairs",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/keough-school-global-affairs/keough-school-global-affairs/global-affairs-bga/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Romance Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Romance Languages, Literatures, and Linguistics, General",
+      "degreeType": "supplementary_major",
+      "displayName": "Greek & Roman Civilization",
+      "listType": "supplementary_major",
+      "name": "Greek & Roman Civilization",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/greek-roman-civ-supp/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Information Systems, General",
-      "listType": "areas_of_study",
-      "name": "Management Information Systems, General",
+      "degreeType": "major",
+      "displayName": "Greek and Roman Civilization",
+      "listType": "major",
+      "name": "Greek and Roman Civilization",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/greek-roman-civilization-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Medieval and Renaissance Studies",
-      "listType": "areas_of_study",
-      "name": "Medieval and Renaissance Studies",
+      "degreeType": "major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/history/history-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy and Religious Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Philosophy and Religious Studies, Other",
+      "degreeType": "major",
+      "displayName": "International Economics - Arabic",
+      "listType": "major",
+      "name": "International Economics - Arabic",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/international-economics-arabic-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Asian Studies/Civilization",
+      "degreeType": "major",
+      "displayName": "International Economics - Chinese",
+      "listType": "major",
+      "name": "International Economics - Chinese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/international-economics-chinese-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Celtic Languages, Literatures, and Linguistics",
-      "listType": "areas_of_study",
-      "name": "Celtic Languages, Literatures, and Linguistics",
+      "degreeType": "major",
+      "displayName": "International Economics - German",
+      "listType": "major",
+      "name": "International Economics - German",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/international-economics-german-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, Other",
-      "listType": "areas_of_study",
-      "name": "Chemistry, Other",
+      "degreeType": "major",
+      "displayName": "International Economics - Japanese",
+      "listType": "major",
+      "name": "International Economics - Japanese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/international-economics-japanese-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, Other",
-      "listType": "areas_of_study",
-      "name": "Physics, Other",
+      "degreeType": "major",
+      "displayName": "International Economics - LLR",
+      "listType": "major",
+      "name": "International Economics - LLR",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/international-economics-llr-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Studies",
-      "listType": "areas_of_study",
-      "name": "Russian Studies",
+      "degreeType": "major",
+      "displayName": "International Economics - Russian",
+      "listType": "major",
+      "name": "International Economics - Russian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/international-economics-russian-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Science Teacher Education/General Science Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Science Teacher Education/General Science Teacher Education",
+      "degreeType": "major",
+      "displayName": "Italian",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/italian-ba/index.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_notre_dame_2026_27_academic_programs"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Italian",
+      "listType": "supplementary_major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/italian-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Japanese",
+      "listType": "supplementary_major",
+      "name": "Japanese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/japanese-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/marketing/marketing-bba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Mathematics (BS)",
+      "listType": "major",
+      "name": "Mathematics (BS)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/mathematics/mathematics-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Mathematics-Honors",
+      "listType": "major",
+      "name": "Mathematics-Honors",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/arts-letters-deans-office/mathematics-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/aerospace-mechanical-engr/mechanical-engineering-bsme/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Medieval Studies",
+      "listType": "major",
+      "name": "Medieval Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/medieval-studies/medieval-studies-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Medieval Studies",
+      "listType": "supplementary_major",
+      "name": "Medieval Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/medieval-studies/medieval-studies-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/music/music-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Neuroscience & Behavior (BA)",
+      "listType": "major",
+      "name": "Neuroscience & Behavior (BA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/psychology/neuroscience-behavior-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Neuroscience and Behavior (BS)",
+      "listType": "major",
+      "name": "Neuroscience and Behavior (BS)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/science-deans-office/neuroscience-behavior-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Peace Studies",
+      "listType": "supplementary_major",
+      "name": "Peace Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/keough-school-global-affairs/inst-intl-peace-studies/peace-studies-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/philosophy/philosophy-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/physics-astronomy/physics-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Physics in Medicine",
+      "listType": "major",
+      "name": "Physics in Medicine",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/physics-astronomy/physics-medicine-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/political-science/political-science-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Pre-Professional",
+      "listType": "major",
+      "name": "Pre-Professional",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/preprofessional-studies/preprofessional-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Program of Liberal Studies",
+      "listType": "major",
+      "name": "Program of Liberal Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/program-liberal-studies/program-liberal-studies-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/psychology/psychology-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Romance Languages and Literature",
+      "listType": "major",
+      "name": "Romance Languages and Literature",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/romance-languages-literature-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Russian",
+      "listType": "major",
+      "name": "Russian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/russian-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Russian",
+      "listType": "supplementary_major",
+      "name": "Russian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/russian-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Science - Computing",
+      "listType": "major",
+      "name": "Science - Computing",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/science-deans-office/science-computing-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Science - Education",
+      "listType": "major",
+      "name": "Science - Education",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/science-deans-office/science-education-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/sociology/sociology-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/spanish-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Spanish",
+      "listType": "supplementary_major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/spanish-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/applied-comp-math-stats/statistics-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Statistics",
+      "listType": "supplementary_major",
+      "name": "Statistics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/applied-comp-math-stats/statistics-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Strategic Management",
+      "listType": "major",
+      "name": "Strategic Management",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/management-organization/strategic-management-bba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Theology",
+      "listType": "major",
+      "name": "Theology",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/theology/theology-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "scope": "Notre Dame 2026-27 Academic Programs table: Major and Supplementary Major entries",
+    "sourceIds": [
+      "source_notre_dame_2026_27_academic_programs"
+    ],
+    "checkedAt": "2026-10-24",
+    "warnings": [
+      "Supplementary majors are retained and labeled separately because the official catalog distinguishes them from degree-leading majors."
+    ]
   },
   "anecdotes": [
     {
@@ -1052,8 +1121,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$62,693",
-    "maximumUsd": 62693.0,
-    "minimumUsd": 62693.0,
+    "maximumUsd": 62693,
+    "minimumUsd": 62693,
     "scopes": [
       "private_single_rate"
     ],
@@ -1294,7 +1363,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 62693.0,
+      "amountUsd": 62693,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -1307,7 +1376,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "IN",
-  "studentFacultyRatio": 9.0,
+  "studentFacultyRatio": 9,
   "topPrograms": [
     "Finance, General",
     "Econometrics and Quantitative Economics",

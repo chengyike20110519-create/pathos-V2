@@ -1,0 +1,961 @@
+{
+  "universityId": "candidate-v2:university-of-notre-dame",
+  "schoolSlug": "university-of-notre-dame",
+  "schoolName": "University of Notre Dame",
+  "sourceId": "source_notre_dame_2026_27_academic_programs",
+  "sourceUrl": "https://catalog.nd.edu/programs/",
+  "scope": [
+    "official Academic Programs entries labeled Major or Supplementary Major"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 86,
+  "entries": [
+    {
+      "degreeType": "major",
+      "displayName": "Accountancy",
+      "listType": "major",
+      "name": "Accountancy",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/accountancy/accountancy-bba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Aerospace Engineering",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/aerospace-mechanical-engr/aerospace-engineering-bsae/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Africana Studies",
+      "listType": "major",
+      "name": "Africana Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/africana-studies/africana-studies-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Africana Studies",
+      "listType": "supplementary_major",
+      "name": "Africana Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/africana-studies/africana-studies-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "American Studies",
+      "listType": "major",
+      "name": "American Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/american-studies/american-studies-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/anthropology/anthropology-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Applied & Computational Mathematics & Statistics",
+      "listType": "major",
+      "name": "Applied & Computational Mathematics & Statistics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/applied-comp-math-stats/applied-computational-mathematics-statistics-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Applied & Computational Mathematics & Statistics",
+      "listType": "supplementary_major",
+      "name": "Applied & Computational Mathematics & Statistics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/applied-comp-math-stats/applied-computational-mathematics-statistics-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Arabic",
+      "listType": "major",
+      "name": "Arabic",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/arabic-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/architecture/architecture/architecture-bar/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/art-history-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Art History",
+      "listType": "supplementary_major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/art-history-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Art Studio (BA)",
+      "listType": "major",
+      "name": "Art Studio (BA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/art-studio-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Art Studio (BFA)",
+      "listType": "major",
+      "name": "Art Studio (BFA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/art-studio-bfa/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Asian Studies",
+      "listType": "supplementary_major",
+      "name": "Asian Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/keough-school-global-affairs/center-asian-studies/asian-studies-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/chemistry-biochemistry/biochemistry-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/biological-sciences/biological-sciences-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Business Analytics",
+      "listType": "major",
+      "name": "Business Analytics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/-analytics-operations/business-analytics/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/chemical-biomolecular-engr/chemical-engineering-bsch/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/chemistry-biochemistry/chemistry-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Chemistry/Computing",
+      "listType": "major",
+      "name": "Chemistry/Computing",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/chemistry-biochemistry/chemistry-computing-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Chinese",
+      "listType": "major",
+      "name": "Chinese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/chinese-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Chinese",
+      "listType": "supplementary_major",
+      "name": "Chinese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/chinese-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/cvl-envmntl-engr-earth-sci/civil-engineering-bsce/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Classics",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/classics-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Classics",
+      "listType": "supplementary_major",
+      "name": "Classics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/classics-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/computer-science-engr/computer-engineering-bscp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/computer-science-engr/computer-science-bscs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Design (BA)",
+      "listType": "major",
+      "name": "Design (BA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/design-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Design (BFA)",
+      "listType": "major",
+      "name": "Design (BFA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/art-art-history-design/design-bfa/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/economics/economics-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Education, Schooling, & Society",
+      "listType": "supplementary_major",
+      "name": "Education, Schooling, & Society",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/inst-educational-initiatives/education-schooling-society-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/electrical-engineering/electrical-engineering-bsee/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/english/english-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/cvl-envmntl-engr-earth-sci/environmental-engineering-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Environmental Sciences",
+      "listType": "supplementary_major",
+      "name": "Environmental Sciences",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/biological-sciences/environmental-sciencs-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Film, Television and Theatre",
+      "listType": "major",
+      "name": "Film, Television and Theatre",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/film-television-theatre/film-television-theatre-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/finance/finance-bba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "French and Francophone Studies",
+      "listType": "major",
+      "name": "French and Francophone Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/french-francophone-studies-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "French and Francophone Studies",
+      "listType": "supplementary_major",
+      "name": "French and Francophone Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/french-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Gender Studies",
+      "listType": "major",
+      "name": "Gender Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/gender-studies/gender-studies-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Gender Studies",
+      "listType": "supplementary_major",
+      "name": "Gender Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/gender-studies/gender-studies-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "German",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/german-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "German",
+      "listType": "supplementary_major",
+      "name": "German",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/german-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Global Affairs",
+      "listType": "major",
+      "name": "Global Affairs",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/keough-school-global-affairs/keough-school-global-affairs/global-affairs-bga/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Greek & Roman Civilization",
+      "listType": "supplementary_major",
+      "name": "Greek & Roman Civilization",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/greek-roman-civ-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Greek and Roman Civilization",
+      "listType": "major",
+      "name": "Greek and Roman Civilization",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/greek-roman-civilization-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/history/history-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "International Economics - Arabic",
+      "listType": "major",
+      "name": "International Economics - Arabic",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/classics/international-economics-arabic-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "International Economics - Chinese",
+      "listType": "major",
+      "name": "International Economics - Chinese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/international-economics-chinese-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "International Economics - German",
+      "listType": "major",
+      "name": "International Economics - German",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/international-economics-german-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "International Economics - Japanese",
+      "listType": "major",
+      "name": "International Economics - Japanese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/international-economics-japanese-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "International Economics - LLR",
+      "listType": "major",
+      "name": "International Economics - LLR",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/international-economics-llr-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "International Economics - Russian",
+      "listType": "major",
+      "name": "International Economics - Russian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/international-economics-russian-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Italian",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/italian-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Italian",
+      "listType": "supplementary_major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/italian-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Japanese",
+      "listType": "supplementary_major",
+      "name": "Japanese",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/east-asian-language-cultures/japanese-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/marketing/marketing-bba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Mathematics (BS)",
+      "listType": "major",
+      "name": "Mathematics (BS)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/mathematics/mathematics-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Mathematics-Honors",
+      "listType": "major",
+      "name": "Mathematics-Honors",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/arts-letters-deans-office/mathematics-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/engineering/aerospace-mechanical-engr/mechanical-engineering-bsme/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Medieval Studies",
+      "listType": "major",
+      "name": "Medieval Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/medieval-studies/medieval-studies-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Medieval Studies",
+      "listType": "supplementary_major",
+      "name": "Medieval Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/medieval-studies/medieval-studies-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/music/music-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Neuroscience & Behavior (BA)",
+      "listType": "major",
+      "name": "Neuroscience & Behavior (BA)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/psychology/neuroscience-behavior-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Neuroscience and Behavior (BS)",
+      "listType": "major",
+      "name": "Neuroscience and Behavior (BS)",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/science-deans-office/neuroscience-behavior-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Peace Studies",
+      "listType": "supplementary_major",
+      "name": "Peace Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/keough-school-global-affairs/inst-intl-peace-studies/peace-studies-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/philosophy/philosophy-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/physics-astronomy/physics-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Physics in Medicine",
+      "listType": "major",
+      "name": "Physics in Medicine",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/physics-astronomy/physics-medicine-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/political-science/political-science-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Pre-Professional",
+      "listType": "major",
+      "name": "Pre-Professional",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/preprofessional-studies/preprofessional-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Program of Liberal Studies",
+      "listType": "major",
+      "name": "Program of Liberal Studies",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/program-liberal-studies/program-liberal-studies-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/psychology/psychology-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Romance Languages and Literature",
+      "listType": "major",
+      "name": "Romance Languages and Literature",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/romance-languages-literature-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Russian",
+      "listType": "major",
+      "name": "Russian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/russian-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Russian",
+      "listType": "supplementary_major",
+      "name": "Russian",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/german-slavic-eurasian-stud/russian-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Science - Computing",
+      "listType": "major",
+      "name": "Science - Computing",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/science-deans-office/science-computing-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Science - Education",
+      "listType": "major",
+      "name": "Science - Education",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/science-deans-office/science-education-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/sociology/sociology-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/spanish-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Spanish",
+      "listType": "supplementary_major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/romance-languages-lit/spanish-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/applied-comp-math-stats/statistics-bs/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "supplementary_major",
+      "displayName": "Statistics",
+      "listType": "supplementary_major",
+      "name": "Statistics",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/science/applied-comp-math-stats/statistics-supp/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Strategic Management",
+      "listType": "major",
+      "name": "Strategic Management",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/business/management-organization/strategic-management-bba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "major",
+      "displayName": "Theology",
+      "listType": "major",
+      "name": "Theology",
+      "officialUrl": "https://catalog.nd.edu/undergraduate/arts-letters/theology/theology-ba/index.html",
+      "sourceIds": [
+        "source_notre_dame_2026_27_academic_programs"
+      ],
+      "status": "verified"
+    }
+  ]
+}

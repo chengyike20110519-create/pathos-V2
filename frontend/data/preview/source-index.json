@@ -5123,6 +5123,19 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "The directory is paginated and this review captured the first ten public pages. It excludes minors and graduate/professional-only programs; page coverage is recorded as a scope limitation."
+    },
+    {
+      "sourceId": "source_notre_dame_2026_27_academic_programs",
+      "sourceType": "official_catalog",
+      "publisher": "University of Notre Dame Academic Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.nd.edu/programs/",
+      "status": "verified",
+      "scope": [
+        "official Academic Programs entries labeled Major or Supplementary Major"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed from the 2026-2027 Academic Programs table. Minors, graduate programs, and other non-major entries are excluded."
     }
   ]
 }
