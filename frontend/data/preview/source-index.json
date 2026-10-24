@@ -5274,6 +5274,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed entries under the official Majors Only filter; separate degree variants retained."
+    },
+    {
+      "sourceId": "source_rutgers_nb_2026_27_major_programs",
+      "sourceType": "official_catalog",
+      "publisher": "Rutgers University-New Brunswick Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://newbrunswick-26-27-undergrad.catalogs.rutgers.edu/home/undergradednb/majorprgs",
+      "status": "verified",
+      "scope": [
+        "official Rutgers–New Brunswick 2026-27 Major Programs of Study summary",
+        "112 named major entries; shared catalog pages retained and school-specific availability remains a documented caveat"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed named major links from the official Major Programs of Study summary; school-specific availability caveat retained."
     }
   ]
 }
