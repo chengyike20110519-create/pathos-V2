@@ -5218,6 +5218,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed named undergraduate majors under each college; undeclared options excluded."
+    },
+    {
+      "sourceId": "source_nyu_2026_27_undergraduate_bulletin",
+      "sourceType": "official_catalog",
+      "publisher": "NYU Bulletins",
+      "referenceYear": "2026-27",
+      "url": "https://bulletins.nyu.edu/programs/",
+      "status": "verified",
+      "scope": [
+        "official NYU 2026-27 Bulletin Program Finder",
+        "undergraduate programs with bachelor award labels; Abu Dhabi, Shanghai, and minor-only entries excluded"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed undergraduate program entries with bachelor award labels from the official Program Finder; excluded Abu Dhabi, Shanghai, and minor-only entries."
     }
   ]
 }

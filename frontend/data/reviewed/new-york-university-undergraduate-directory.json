@@ -1,0 +1,1941 @@
+{
+  "universityId": "candidate-v2:new-york-university",
+  "schoolSlug": "new-york-university",
+  "schoolName": "New York University",
+  "sourceId": "source_nyu_2026_27_undergraduate_bulletin",
+  "sourceUrl": "https://bulletins.nyu.edu/programs/",
+  "scope": [
+    "official NYU 2026-27 Bulletin Program Finder",
+    "undergraduate programs with bachelor award labels; Abu Dhabi, Shanghai, and minor-only entries excluded"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 175,
+  "entries": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Africana Studies (BA)",
+      "listType": "major",
+      "name": "Africana Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/africana-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies (BA)",
+      "listType": "major",
+      "name": "American Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/american-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology (BA)",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology and Classical Civilization (BA)",
+      "listType": "major",
+      "name": "Anthropology and Classical Civilization",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-classical-civilization-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology and Linguistics (BA)",
+      "listType": "major",
+      "name": "Anthropology and Linguistics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-linguistics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Data Analytics and Visualization (BS)",
+      "listType": "major",
+      "name": "Applied Data Analytics and Visualization",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/applied-data-analytics-visualization-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied General Studies (BA)",
+      "listType": "major",
+      "name": "Applied General Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/applied-general-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Physics (BS)",
+      "listType": "major",
+      "name": "Applied Physics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/applied-physics-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Psychology (BS)",
+      "listType": "major",
+      "name": "Applied Psychology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/applied-psychology-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History (BA)",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/art-history-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian/Pacific/American Studies (BA)",
+      "listType": "major",
+      "name": "Asian/Pacific/American Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/asian-pacific-american-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry (BA)",
+      "listType": "major",
+      "name": "Biochemistry",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biochemistry-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology (BA)",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology/Chemical and Biomolecular Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Biology/Chemical and Biomolecular Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-chemical-biomolecular-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biology/Dentistry (BA/DDS)",
+      "listType": "major",
+      "name": "Biology/Dentistry",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-dentistry-ba-dds/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomolecular Science (BS)",
+      "listType": "major",
+      "name": "Biomolecular Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/biomolecular-science-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business (BS)",
+      "listType": "major",
+      "name": "Business",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/business/programs/business-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business and Political Economy (BS)",
+      "listType": "major",
+      "name": "Business and Political Economy",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/business/programs/business-political-economy-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business and Technology Management (BS)",
+      "listType": "major",
+      "name": "Business and Technology Management",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/business-technology-management-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business, Technology and Entrepreneurship (BS)",
+      "listType": "major",
+      "name": "Business, Technology and Entrepreneurship",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/business/programs/business-technology-entrepreneurship-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business/Accounting (BS/MS)",
+      "listType": "major",
+      "name": "Business/Accounting",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/business/programs/accounting-bs-ms/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business/Film and Television (BS/BFA)",
+      "listType": "major",
+      "name": "Business/Film and Television",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/business/programs/business-film-television-bs-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical and Biomolecular Engineering (BS)",
+      "listType": "major",
+      "name": "Chemical and Biomolecular Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/chemical-biomolecular-engineering-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry (BS)",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry/Chemical and Biomolecular Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Chemistry/Chemical and Biomolecular Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-chemical-biomolecular-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Childhood Education/Childhood Special Education (BS)",
+      "listType": "major",
+      "name": "Childhood Education/Childhood Special Education",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/childhood-education-childhood-special-education-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cinema Studies (BA)",
+      "listType": "major",
+      "name": "Cinema Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/cinema-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cinema Studies (BA)",
+      "listType": "major",
+      "name": "Cinema Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/cinema-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering (BS)",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/civil-engineering-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Civilization (BA)",
+      "listType": "major",
+      "name": "Classical Civilization",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classical-civilization-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Civilization and Hellenic Studies (BA)",
+      "listType": "major",
+      "name": "Classical Civilization and Hellenic Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classical-civilization-hellenic-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics (BA)",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classics and Art History (BA)",
+      "listType": "major",
+      "name": "Classics and Art History",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classics-art-history-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Collaborative Arts (BFA)",
+      "listType": "major",
+      "name": "Collaborative Arts",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/collaborative-arts-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communicative Sciences and Disorders (BS)",
+      "listType": "major",
+      "name": "Communicative Sciences and Disorders",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/communicative-sciences-disorders-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Comparative Literature (BA)",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/comparative-literature-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer and Data Science (BA)",
+      "listType": "major",
+      "name": "Computer and Data Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-data-science-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering (BS)",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-engineering-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BA)",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science (BS)",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science/Computer Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Computer Science/Computer Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science/Electrical Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Computer Science/Electrical Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-electrical-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science/Management of Technology (BS/MS)",
+      "listType": "major",
+      "name": "Computer Science/Management of Technology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-management-technology-bs-ms/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dance (BFA)",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/dance-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science (BA)",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/data-science-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science and Mathematics (BA)",
+      "listType": "major",
+      "name": "Data Science and Mathematics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/data-science-mathematics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dental Hygiene (BS)",
+      "listType": "major",
+      "name": "Dental Hygiene",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/dentistry/programs/dental-hygiene-bachelor-science/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Digital Communications and Media (BS)",
+      "listType": "major",
+      "name": "Digital Communications and Media",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/digital-communications-media-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dramatic Literature, Theatre History, and Cinema (BA)",
+      "listType": "major",
+      "name": "Dramatic Literature, Theatre History, and Cinema",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/dramatic-literature-theatre-history-cinema-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Dramatic Writing (BFA)",
+      "listType": "major",
+      "name": "Dramatic Writing",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/dramatic-writing-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Early Childhood Education/Early Childhood Special Education (BS)",
+      "listType": "major",
+      "name": "Early Childhood Education/Early Childhood Special Education",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/early-childhood-education-special-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "East Asian Studies (BA)",
+      "listType": "major",
+      "name": "East Asian Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/east-asian-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics (BA)",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics and Computer Science (BA)",
+      "listType": "major",
+      "name": "Economics and Computer Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-computer-science-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics and Mathematics (BA)",
+      "listType": "major",
+      "name": "Economics and Mathematics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-mathematics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Education Studies (BA)",
+      "listType": "major",
+      "name": "Education Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/education-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Educational Theatre (BS)",
+      "listType": "major",
+      "name": "Educational Theatre",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/educational-theatre-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical and Computer Engineering (BS)",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/electrical-computer-engineering-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering (BS)",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/electrical-engineering-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English and American Literature (BA)",
+      "listType": "major",
+      "name": "English and American Literature",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/english-american-literature-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering (BS)",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/environmental-engineering-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Studies (BA)",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/environmental-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "European and Mediterranean Studies (BA)",
+      "listType": "major",
+      "name": "European and Mediterranean Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/european-mediterranean-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Film and Television (BFA)",
+      "listType": "major",
+      "name": "Film and Television",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/film-television-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French (BA)",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/french-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French and Linguistics (BA)",
+      "listType": "major",
+      "name": "French and Linguistics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/french-linguistics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Game Design (BFA)",
+      "listType": "major",
+      "name": "Game Design",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/game-design-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Gender and Sexuality Studies (BA)",
+      "listType": "major",
+      "name": "Gender and Sexuality Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/gender-sexuality-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German (BA)",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/german-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German and Linguistics (BA)",
+      "listType": "major",
+      "name": "German and Linguistics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/german-linguistics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Liberal Studies (BA)",
+      "listType": "major",
+      "name": "Global Liberal Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/liberal-studies/programs/global-liberal-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health and Anthropology (BA)",
+      "listType": "major",
+      "name": "Global Public Health and Anthropology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-anthropology-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health and History (BA)",
+      "listType": "major",
+      "name": "Global Public Health and History",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-history-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health and Science (BS)",
+      "listType": "major",
+      "name": "Global Public Health and Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-science-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health and Social Work (BS)",
+      "listType": "major",
+      "name": "Global Public Health and Social Work",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/social-work/programs/global-public-health-social-work-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health and Sociology (BA)",
+      "listType": "major",
+      "name": "Global Public Health and Sociology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-sociology-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health/Applied Psychology (BS)",
+      "listType": "major",
+      "name": "Global Public Health/Applied Psychology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-applied-psychology-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health/Communicative Sciences and Disorders (BS)",
+      "listType": "major",
+      "name": "Global Public Health/Communicative Sciences and Disorders",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-communicative-sciences-disorders-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health/Food Studies (BS)",
+      "listType": "major",
+      "name": "Global Public Health/Food Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-food-studies-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health/Global Liberal Studies (BA)",
+      "listType": "major",
+      "name": "Global Public Health/Global Liberal Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/liberal-studies/programs/global-liberal-studies-public-health-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health/Media, Culture, and Communication (BS)",
+      "listType": "major",
+      "name": "Global Public Health/Media, Culture, and Communication",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-media-culture-communication-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Public Health/Nutrition and Dietetics (BS)",
+      "listType": "major",
+      "name": "Global Public Health/Nutrition and Dietetics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-nutrition-dietetics-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Health and Wellbeing Studies (BS)",
+      "listType": "major",
+      "name": "Health and Wellbeing Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/health-wellbeing-studies-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Healthcare Management (BS)",
+      "listType": "major",
+      "name": "Healthcare Management",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/healthcare-management-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hebrew and Judaic Studies (BA)",
+      "listType": "major",
+      "name": "Hebrew and Judaic Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/hebrew-judaic-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hellenic Studies (BA)",
+      "listType": "major",
+      "name": "Hellenic Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/hellenic-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History (BA)",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/history-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hospitality, Travel and Tourism Management (BS)",
+      "listType": "major",
+      "name": "Hospitality, Travel and Tourism Management",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/hospitality-travel-tourism-management-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Humanities (BA)",
+      "listType": "major",
+      "name": "Humanities",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/humanities-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Individualized Major (BA)",
+      "listType": "major",
+      "name": "Individualized Major",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/individualized-study/programs/individualized-major-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Information Systems and Technology (BS)",
+      "listType": "major",
+      "name": "Information Systems and Technology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/information-systems-technology-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Instrumental Performance (BM)",
+      "listType": "major",
+      "name": "Instrumental Performance",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/instrumental-performance-bm/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Integrated Design and Media (BS)",
+      "listType": "major",
+      "name": "Integrated Design and Media",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/integrated-design-media-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Interactive Media Arts (BFA)",
+      "listType": "major",
+      "name": "Interactive Media Arts",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/interactive-media-arts-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Relations (BA)",
+      "listType": "major",
+      "name": "International Relations",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/international-relations-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian (BA)",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/italian-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian and Linguistics (BA)",
+      "listType": "major",
+      "name": "Italian and Linguistics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/italian-linguistics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Journalism (BA)",
+      "listType": "major",
+      "name": "Journalism",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/journalism-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Language and Mind (BA)",
+      "listType": "major",
+      "name": "Language and Mind",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/language-mind-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Latin American and Caribbean Studies (BA)",
+      "listType": "major",
+      "name": "Latin American and Caribbean Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/latin-american-caribbean-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Latino Studies (BA)",
+      "listType": "major",
+      "name": "Latino Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/latino-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Leadership and Management (BS)",
+      "listType": "major",
+      "name": "Leadership and Management",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/leadership-management-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics (BA)",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/linguistics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marketing Analytics (BS)",
+      "listType": "major",
+      "name": "Marketing Analytics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/marketing-analytics-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics (BA)",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics (BS)",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mathematics-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics and Computer Science (BA)",
+      "listType": "major",
+      "name": "Mathematics and Computer Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-computer-science-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics and Physics (BS)",
+      "listType": "major",
+      "name": "Mathematics and Physics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mathematics-physics-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics/Civil Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Mathematics/Civil Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-civil-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics/Computer Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Mathematics/Computer Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-computer-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics/Electrical Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Mathematics/Electrical Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-electrical-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics/Mechanical Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Mathematics/Mechanical Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-mechanical-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering (BS)",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mechanical-engineering-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Media, Culture, and Communication (BS)",
+      "listType": "major",
+      "name": "Media, Culture, and Communication",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/media-culture-communication-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medieval and Renaissance Studies (BA)",
+      "listType": "major",
+      "name": "Medieval and Renaissance Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/medieval-renaissance-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Middle Eastern Studies (BA)",
+      "listType": "major",
+      "name": "Middle Eastern Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/middle-eastern-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music (BA)",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/music-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Business (BM)",
+      "listType": "major",
+      "name": "Music Business",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-business-bm/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Business (BS)",
+      "listType": "major",
+      "name": "Music Business",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-business-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Technology (BM)",
+      "listType": "major",
+      "name": "Music Technology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-technology-bm/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music Theory and Composition (BM)",
+      "listType": "major",
+      "name": "Music Theory and Composition",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-theory-composition-bm/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neural Science (BS)",
+      "listType": "major",
+      "name": "Neural Science",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/neural-science-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing (BS) (Accelerated 15-Month)",
+      "listType": "major",
+      "name": "Nursing (BS)",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-accelerated-15-month-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing (BS) (Traditional 4-Year)",
+      "listType": "major",
+      "name": "Nursing (BS)",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-traditional-4-year-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nursing/Global Public Health (BS)",
+      "listType": "major",
+      "name": "Nursing/Global Public Health",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/nursing/programs/global-public-health-nursing-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition and Food Studies (BS)",
+      "listType": "major",
+      "name": "Nutrition and Food Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/nutrition-food-studies-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Performance Studies (BA)",
+      "listType": "major",
+      "name": "Performance Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/performance-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy (BA)",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/philosophy-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Photography and Imaging (BFA)",
+      "listType": "major",
+      "name": "Photography and Imaging",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/photography-imaging-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BA)",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics (BS)",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics/Civil Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Physics/Civil Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-civil-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics/Computer Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Physics/Computer Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-computer-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics/Electrical Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Physics/Electrical Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-electrical-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics/Mechanical Engineering (BS/BS)",
+      "listType": "major",
+      "name": "Physics/Mechanical Engineering",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-mechanical-engineering-bs-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Piano Performance (BM)",
+      "listType": "major",
+      "name": "Piano Performance",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/piano-performance-bm/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Politics (BA)",
+      "listType": "major",
+      "name": "Politics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/politics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Professional Studies (BS)",
+      "listType": "major",
+      "name": "Professional Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/professional-studies-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology (BA)",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/psychology-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Public Policy (BA)",
+      "listType": "major",
+      "name": "Public Policy",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/public-policy-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Real Estate (BS)",
+      "listType": "major",
+      "name": "Real Estate",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/real-estate-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Real Estate and Urban Sustainability (BS)",
+      "listType": "major",
+      "name": "Real Estate and Urban Sustainability",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/real-estate-urban-sustainability-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Recorded Music (BFA)",
+      "listType": "major",
+      "name": "Recorded Music",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/recorded-music-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies (BA)",
+      "listType": "major",
+      "name": "Religious Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/religious-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Romance Languages (BA)",
+      "listType": "major",
+      "name": "Romance Languages",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/romance-languages-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Russian and Slavic Studies (BA)",
+      "listType": "major",
+      "name": "Russian and Slavic Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/russian-slavic-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social and Cultural Analysis (BA)",
+      "listType": "major",
+      "name": "Social and Cultural Analysis",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/social-cultural-analysis-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Sciences (BA)",
+      "listType": "major",
+      "name": "Social Sciences",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/social-sciences-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Social Work (BS)",
+      "listType": "major",
+      "name": "Social Work",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/social-work/programs/social-work-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology (BA)",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/sociology-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish and Linguistics (BA)",
+      "listType": "major",
+      "name": "Spanish and Linguistics",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/spanish-linguistics-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish and Portuguese (BA)",
+      "listType": "major",
+      "name": "Spanish and Portuguese",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/spanish-portuguese-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sport Management (BS)",
+      "listType": "major",
+      "name": "Sport Management",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/sport-management-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Studio Art (BFA)",
+      "listType": "major",
+      "name": "Studio Art",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/studio-art-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Studio Art/Integrated Design and Media (BFA/MS)",
+      "listType": "major",
+      "name": "Studio Art/Integrated Design and Media",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/studio-art-integrated-design-media-bfa-ms/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching a World Language 7-12: Chinese (BS)",
+      "listType": "major",
+      "name": "Teaching a World Language 7-12: Chinese",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-chinese-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching a World Language 7-12: French (BS)",
+      "listType": "major",
+      "name": "Teaching a World Language 7-12: French",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-french-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching a World Language 7-12: Italian (BS)",
+      "listType": "major",
+      "name": "Teaching a World Language 7-12: Italian",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-italian-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching a World Language 7-12: Japanese (BS)",
+      "listType": "major",
+      "name": "Teaching a World Language 7-12: Japanese",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-japanese-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching a World Language 7-12: Spanish (BS)",
+      "listType": "major",
+      "name": "Teaching a World Language 7-12: Spanish",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-spanish-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching Biology 7-12 (BS)",
+      "listType": "major",
+      "name": "Teaching Biology 7-12",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-biology-7-12-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching Chemistry 7-12 (BS)",
+      "listType": "major",
+      "name": "Teaching Chemistry 7-12",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-chemistry-7-12-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching Earth Science 7-12 (BS)",
+      "listType": "major",
+      "name": "Teaching Earth Science 7-12",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-earth-science-7-12-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching English 7–12 (BS)",
+      "listType": "major",
+      "name": "Teaching English 7–12",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-english-712-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching Mathematics 7–12 (BS)",
+      "listType": "major",
+      "name": "Teaching Mathematics 7–12",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-mathematics-712-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching Physics 7-12 (BS)",
+      "listType": "major",
+      "name": "Teaching Physics 7-12",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-physics-7-12-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Teaching Social Studies 7–12 (BS)",
+      "listType": "major",
+      "name": "Teaching Social Studies 7–12",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-social-studies-712-bs/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre (BFA)",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/theatre-bfa/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Design and Architecture Studies (BA)",
+      "listType": "major",
+      "name": "Urban Design and Architecture Studies",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-design-architecture-studies-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Studies and Anthropology (BA)",
+      "listType": "major",
+      "name": "Urban Studies and Anthropology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-anthropology-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Studies and History (BA)",
+      "listType": "major",
+      "name": "Urban Studies and History",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-history-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Studies and Social and Cultural Analysis (BA)",
+      "listType": "major",
+      "name": "Urban Studies and Social and Cultural Analysis",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-social-cultural-analysis-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Urban Studies and Sociology (BA)",
+      "listType": "major",
+      "name": "Urban Studies and Sociology",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-sociology-ba/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Vocal Performance (BM)",
+      "listType": "major",
+      "name": "Vocal Performance",
+      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/vocal-performance-bm/",
+      "sourceIds": [
+        "source_nyu_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    }
+  ]
+}
