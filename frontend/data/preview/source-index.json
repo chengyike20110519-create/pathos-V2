@@ -3451,6 +3451,18 @@
       "sourceType": "official_admissions_majors",
       "status": "verified",
       "url": "https://apply.jhu.edu/academics/majors-minors-programs/"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "publisher": "Stanford Explore Majors",
+      "referenceYear": 2026,
+      "scope": [
+        "official undergraduate majors with BA, BS, or Joint Major/BAS degree labels"
+      ],
+      "sourceId": "official-source-730810af08b4483f085a6eb0",
+      "sourceType": "official_major_explorer",
+      "status": "verified",
+      "url": "https://majors.stanford.edu/majors/text-only-lists-majors-and-offerings"
     }
   ]
 }

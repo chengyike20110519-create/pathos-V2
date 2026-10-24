@@ -5332,6 +5332,17 @@
         "official undergraduate majors explicitly labeled Major"
       ],
       "checkedOn": "2026-10-24"
+    },
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "universityName": "Stanford University",
+      "sourceUrl": "https://majors.stanford.edu/majors/text-only-lists-majors-and-offerings",
+      "publisher": "Stanford Explore Majors",
+      "sourceType": "official_major_explorer",
+      "scope": [
+        "official undergraduate majors with BA, BS, or Joint Major/BAS degree labels"
+      ],
+      "checkedOn": "2026-10-24"
     }
   ]
 }
