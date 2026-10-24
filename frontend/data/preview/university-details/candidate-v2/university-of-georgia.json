@@ -240,19 +240,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Business Administration and Management, General",
       "listType": "areas_of_study",
       "name": "Business Administration and Management, General",
@@ -279,74 +266,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Business/Managerial Economics",
       "listType": "areas_of_study",
       "name": "Business/Managerial Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Real Estate",
-      "listType": "areas_of_study",
-      "name": "Real Estate",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Advertising",
-      "listType": "areas_of_study",
-      "name": "Advertising",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Journalism",
-      "listType": "areas_of_study",
-      "name": "Journalism",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Accounting",
-      "listType": "areas_of_study",
-      "name": "Accounting",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -539,19 +461,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fashion Merchandising",
-      "listType": "areas_of_study",
-      "name": "Fashion Merchandising",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Economics, General",
       "listType": "areas_of_study",
       "name": "Economics, General",
@@ -617,19 +526,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ecology",
-      "listType": "areas_of_study",
-      "name": "Ecology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Civil Engineering, General",
       "listType": "areas_of_study",
       "name": "Civil Engineering, General",
@@ -659,19 +555,6 @@
       "displayName": "Genetics, General",
       "listType": "areas_of_study",
       "name": "Genetics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry and Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Biochemistry and Molecular Biology",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -734,35 +617,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Cognitive Science, General",
       "listType": "areas_of_study",
       "name": "Cognitive Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Consumer Economics",
-      "listType": "areas_of_study",
-      "name": "Consumer Economics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -825,45 +682,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Landscape Architecture",
-      "listType": "areas_of_study",
-      "name": "Landscape Architecture",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Work",
-      "listType": "areas_of_study",
-      "name": "Social Work",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Biotechnology",
       "listType": "areas_of_study",
       "name": "Biotechnology",
@@ -877,35 +695,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography",
-      "listType": "areas_of_study",
-      "name": "Geography",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Agricultural Economics",
       "listType": "areas_of_study",
       "name": "Agricultural Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -981,19 +773,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Health",
-      "listType": "areas_of_study",
-      "name": "Environmental Health",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Religion/Religious Studies",
       "listType": "areas_of_study",
       "name": "Religion/Religious Studies",
@@ -1020,35 +799,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Biochemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Drama and Dramatics/Theatre Arts, General",
       "listType": "areas_of_study",
       "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Poultry Science",
-      "listType": "areas_of_study",
-      "name": "Poultry Science",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1462,19 +1215,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Entomology",
-      "listType": "areas_of_study",
-      "name": "Entomology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Music Theory and Composition",
       "listType": "areas_of_study",
       "name": "Music Theory and Composition",
@@ -1553,19 +1293,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Agricultural Engineering",
-      "listType": "areas_of_study",
-      "name": "Agricultural Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "East Asian Languages, Literatures, and Linguistics, General",
       "listType": "areas_of_study",
       "name": "East Asian Languages, Literatures, and Linguistics, General",
@@ -1582,19 +1309,6 @@
       "displayName": "Marine Sciences",
       "listType": "areas_of_study",
       "name": "Marine Sciences",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American and Caribbean Studies",
-      "listType": "areas_of_study",
-      "name": "Latin American and Caribbean Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1722,32 +1436,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Animal Health",
-      "listType": "areas_of_study",
-      "name": "Animal Health",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Food Science",
-      "listType": "areas_of_study",
-      "name": "Food Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Arabic Language and Literature",
       "listType": "areas_of_study",
       "name": "Arabic Language and Literature",
@@ -1797,11 +1485,1678 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/31532?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting and International Business Co-Major",
+      "listType": "major",
+      "name": "Accounting and International Business Co-Major",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/35784?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Advertising",
+      "listType": "major",
+      "name": "Advertising",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/98779?IDc=JOUR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American Studies",
+      "listType": "major",
+      "name": "African American Studies",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/99424?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agribusiness",
+      "listType": "major",
+      "name": "Agribusiness",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/86648?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural and Applied Economics",
+      "listType": "major",
+      "name": "Agricultural and Applied Economics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/33812?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural and Environmental Science Communication",
+      "listType": "major",
+      "name": "Agricultural and Environmental Science Communication",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/45731?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural Education",
+      "listType": "major",
+      "name": "Agricultural Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/28608?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural Engineering",
+      "listType": "major",
+      "name": "Agricultural Engineering",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/29981?IDc=FENGR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agriscience and Environmental Systems",
+      "listType": "major",
+      "name": "Agriscience and Environmental Systems",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/47617?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal and Dairy Science",
+      "listType": "major",
+      "name": "Animal and Dairy Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/75032?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal Biosciences",
+      "listType": "major",
+      "name": "Animal Biosciences",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/27361?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal Health",
+      "listType": "major",
+      "name": "Animal Health",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/18956?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/51649?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Biotechnology",
+      "listType": "major",
+      "name": "Applied Biotechnology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/47637?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arabic",
+      "listType": "major",
+      "name": "Arabic",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/98747?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Animation",
+      "listType": "major",
+      "name": "Art BFA - Animation",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/71747?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Ceramics",
+      "listType": "major",
+      "name": "Art BFA - Ceramics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/14150?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Management",
+      "listType": "major",
+      "name": "Sport Management",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/96168?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/85325?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "TESOL and World Language Education",
+      "listType": "major",
+      "name": "TESOL and World Language Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/42194?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/93915?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Turfgrass Management",
+      "listType": "major",
+      "name": "Turfgrass Management",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/95527?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women's and Gender Studies",
+      "listType": "major",
+      "name": "Women's and Gender Studies",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/57374?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Workforce Education",
+      "listType": "major",
+      "name": "Workforce Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/93788?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Drawing and Painting",
+      "listType": "major",
+      "name": "Art BFA - Drawing and Painting",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/30672?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Fabric Design",
+      "listType": "major",
+      "name": "Art BFA - Fabric Design",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/47137?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Graphic Design",
+      "listType": "major",
+      "name": "Art BFA - Graphic Design",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/79344?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Interior Design",
+      "listType": "major",
+      "name": "Art BFA - Interior Design",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/40512?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Jewelry and Metalwork",
+      "listType": "major",
+      "name": "Art BFA - Jewelry and Metalwork",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/70174?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Photography and Expanded Media",
+      "listType": "major",
+      "name": "Art BFA - Photography and Expanded Media",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/74546?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Printmaking",
+      "listType": "major",
+      "name": "Art BFA - Printmaking",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/45379?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Scientific Illustration",
+      "listType": "major",
+      "name": "Art BFA - Scientific Illustration",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/65044?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BFA - Sculpture and Technology",
+      "listType": "major",
+      "name": "Art BFA - Sculpture and Technology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/44677?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art Education",
+      "listType": "major",
+      "name": "Art Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/68952?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/66399?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art: Interdisciplinary Art",
+      "listType": "major",
+      "name": "Art: Interdisciplinary Art",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/86044?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Languages and Literature",
+      "listType": "major",
+      "name": "Asian Languages and Literature",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/88637?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysics",
+      "listType": "major",
+      "name": "Astrophysics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/45275?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric Sciences",
+      "listType": "major",
+      "name": "Atmospheric Sciences",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/29248?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Avian Biology",
+      "listType": "major",
+      "name": "Avian Biology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/20412?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemical Engineering",
+      "listType": "major",
+      "name": "Biochemical Engineering",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/82357?IDc=FENGR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry and Molecular Biology",
+      "listType": "major",
+      "name": "Biochemistry and Molecular Biology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/95737?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Engineering",
+      "listType": "major",
+      "name": "Biological Engineering",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/89691?IDc=FENGR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Science",
+      "listType": "major",
+      "name": "Biological Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/99573?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/45780?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Physiology",
+      "listType": "major",
+      "name": "Biomedical Physiology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/18982?IDc=VET",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cellular Biology",
+      "listType": "major",
+      "name": "Cellular Biology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/70249?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/97290?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/79689?IDc=FENGR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/82769?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/96447?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Sciences and Disorders",
+      "listType": "major",
+      "name": "Communication Sciences and Disorders",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/52230?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies",
+      "listType": "major",
+      "name": "Communication Studies",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/52209?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature and Intercultural Studies",
+      "listType": "major",
+      "name": "Comparative Literature and Intercultural Studies",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/47290?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/73962?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Systems Engineering",
+      "listType": "major",
+      "name": "Computer Systems Engineering",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/45516?IDc=FENGR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Consumer Economics",
+      "listType": "major",
+      "name": "Consumer Economics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/44649?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice",
+      "listType": "major",
+      "name": "Criminal Justice",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/64585?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Culinary Science and Nutrition",
+      "listType": "major",
+      "name": "Culinary Science and Nutrition",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/12516?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/71373?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/35773?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dietetics",
+      "listType": "major",
+      "name": "Dietetics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/31975?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology",
+      "listType": "major",
+      "name": "Ecology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/86043?IDc=ECOL",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/62927?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and International Business Co-Major",
+      "listType": "major",
+      "name": "Economics and International Business Co-Major",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/75605?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical and Electronics Engineering",
+      "listType": "major",
+      "name": "Electrical and Electronics Engineering",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/81996?IDc=FENGR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education",
+      "listType": "major",
+      "name": "Elementary Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/90610?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/86328?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English Education",
+      "listType": "major",
+      "name": "English Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/20130?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entertainment and Media Studies",
+      "listType": "major",
+      "name": "Entertainment and Media Studies",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/60174?IDc=JOUR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entomology",
+      "listType": "major",
+      "name": "Entomology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/69190?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Economics and Management",
+      "listType": "major",
+      "name": "Environmental Economics and Management",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/66704?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/73693?IDc=FENGR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Health",
+      "listType": "major",
+      "name": "Environmental Health",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/47320?IDc=PBHL",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Resource Science",
+      "listType": "major",
+      "name": "Environmental Resource Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/27349?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Exercise and Sport Science",
+      "listType": "major",
+      "name": "Exercise and Sport Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/10601?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Family and Consumer Sciences Education",
+      "listType": "major",
+      "name": "Family and Consumer Sciences Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/22708?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fashion Merchandising",
+      "listType": "major",
+      "name": "Fashion Merchandising",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/48680?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film",
+      "listType": "major",
+      "name": "Film",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/29901?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/28543?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance and International Business Co-Major",
+      "listType": "major",
+      "name": "Finance and International Business Co-Major",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/83627?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Planning",
+      "listType": "major",
+      "name": "Financial Planning",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/89431?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fisheries and Wildlife",
+      "listType": "major",
+      "name": "Fisheries and Wildlife",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/70392?IDc=FRS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Food Science",
+      "listType": "major",
+      "name": "Food Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/35947?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Forestry",
+      "listType": "major",
+      "name": "Forestry",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/61717?IDc=FRS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/56782?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Furnishings and Interiors",
+      "listType": "major",
+      "name": "Furnishings and Interiors",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/85319?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Business",
+      "listType": "major",
+      "name": "General Business",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/51100?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Genetics",
+      "listType": "major",
+      "name": "Genetics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/83049?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography",
+      "listType": "major",
+      "name": "Geography",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/22757?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology",
+      "listType": "major",
+      "name": "Geology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/90385?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/86205?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health and Physical Education",
+      "listType": "major",
+      "name": "Health and Physical Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/28666?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Promotion",
+      "listType": "major",
+      "name": "Health Promotion",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/33197?IDc=PBHL",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/35426?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Honors Interdisciplinary Studies",
+      "listType": "major",
+      "name": "Honors Interdisciplinary Studies",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/92067?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Horticulture",
+      "listType": "major",
+      "name": "Horticulture",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/33716?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hospitality and Food Industry Management",
+      "listType": "major",
+      "name": "Hospitality and Food Industry Management",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/86144?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Housing Management and Policy",
+      "listType": "major",
+      "name": "Housing Management and Policy",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/28344?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Family Science",
+      "listType": "major",
+      "name": "Human Development and Family Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/67554?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies",
+      "listType": "major",
+      "name": "Interdisciplinary Studies",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/21398?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs",
+      "listType": "major",
+      "name": "International Affairs",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/24662?IDc=SPIA",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism",
+      "listType": "major",
+      "name": "Journalism",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/84144?IDc=JOUR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Landscape Architecture",
+      "listType": "major",
+      "name": "Landscape Architecture",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/29349?IDc=ENV",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American and Caribbean Studies",
+      "listType": "major",
+      "name": "Latin American and Caribbean Studies",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/20701?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/84398?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/91641?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management and International Business Co-Major",
+      "listType": "major",
+      "name": "Management and International Business Co-Major",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/11214?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management Information Systems",
+      "listType": "major",
+      "name": "Management Information Systems",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/23268?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management Information Systems and International Business Co-Major",
+      "listType": "major",
+      "name": "Management Information Systems and International Business Co-Major",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/19506?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/59600?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing and International Business Co-Major",
+      "listType": "major",
+      "name": "Marketing and International Business Co-Major",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/17378?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/69357?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics Education",
+      "listType": "major",
+      "name": "Mathematics Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/79641?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/20122?IDc=FENGR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology",
+      "listType": "major",
+      "name": "Microbiology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/57726?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/55653?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music BMus - Music Composition",
+      "listType": "major",
+      "name": "Music BMus - Music Composition",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/93244?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music BMus - Music Education",
+      "listType": "major",
+      "name": "Music BMus - Music Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/22148?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music BMus - Music Performance",
+      "listType": "major",
+      "name": "Music BMus - Music Performance",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/16876?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music BMus - Music Theory",
+      "listType": "major",
+      "name": "Music BMus - Music Theory",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/56733?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music BMus - Music Therapy",
+      "listType": "major",
+      "name": "Music BMus - Music Therapy",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/11719?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Natural Resource Management and Sustainability",
+      "listType": "major",
+      "name": "Natural Resource Management and Sustainability",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/51733?IDc=FRS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/30336?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nutritional Sciences",
+      "listType": "major",
+      "name": "Nutritional Sciences",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/31338?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ocean Science",
+      "listType": "major",
+      "name": "Ocean Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/39199?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Parks, Recreation, and Tourism Management",
+      "listType": "major",
+      "name": "Parks, Recreation, and Tourism Management",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/99141?IDc=FRS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Pharmaceutical and Biomedical Sciences",
+      "listType": "major",
+      "name": "Pharmaceutical and Biomedical Sciences",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/28389?IDc=PHAR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/99676?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/17511?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Plant Biology",
+      "listType": "major",
+      "name": "Plant Biology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/62409?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/12235?IDc=SPIA",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Poultry Science",
+      "listType": "major",
+      "name": "Poultry Science",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/62966?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/69115?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Relations",
+      "listType": "major",
+      "name": "Public Relations",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/63054?IDc=JOUR",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate",
+      "listType": "major",
+      "name": "Real Estate",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/46304?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate and International Business Co-Major",
+      "listType": "major",
+      "name": "Real Estate and International Business Co-Major",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/36008?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Regenerative Bioscience",
+      "listType": "major",
+      "name": "Regenerative Bioscience",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/77774?IDc=CAES",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion",
+      "listType": "major",
+      "name": "Religion",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/13716?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Risk Management and Insurance",
+      "listType": "major",
+      "name": "Risk Management and Insurance",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/93328?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Risk Management and Insurance and International Business Co-Major",
+      "listType": "major",
+      "name": "Risk Management and Insurance and International Business Co-Major",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/81139?IDc=BUS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Romance Languages",
+      "listType": "major",
+      "name": "Romance Languages",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/58425?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian",
+      "listType": "major",
+      "name": "Russian",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/76210?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Science Education",
+      "listType": "major",
+      "name": "Science Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/79643?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Entrepreneurship for Consumer Well-Being",
+      "listType": "major",
+      "name": "Social Entrepreneurship for Consumer Well-Being",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/77137?IDc=FCS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Studies Education",
+      "listType": "major",
+      "name": "Social Studies Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/79831?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/51439?IDc=SSW",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/77932?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/21871?IDc=ARTS",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Special Education",
+      "listType": "major",
+      "name": "Special Education",
+      "officialUrl": "https://bulletin.uga.edu/Program/Details/90477?IDc=EDCN",
+      "sourceIds": [
+        "source_uga_2026_27_undergraduate_bulletin"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "sourceIds": [
+      "source_uga_2026_27_undergraduate_bulletin"
+    ],
+    "warnings": [
+      "UGA Bulletin Advanced Search returned programs categorized as Undergraduate Major; paginated results were de-duplicated by official detail URL."
+    ]
   },
   "anecdotes": [
     {

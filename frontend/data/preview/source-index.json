@@ -5190,6 +5190,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed degree links explicitly labeled Bachelor from the official catalog; graduate, minor, and certificate entries excluded."
+    },
+    {
+      "sourceId": "source_uga_2026_27_undergraduate_bulletin",
+      "sourceType": "official_catalog",
+      "publisher": "University of Georgia Bulletin",
+      "referenceYear": "2026-27",
+      "url": "https://bulletin.uga.edu/Program/AdvancedSearch",
+      "status": "verified",
+      "scope": [
+        "UGA Bulletin 2026-27 Advanced Search",
+        "program category Undergraduate Major; paginated results de-duplicated by official detail URL"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Official Bulletin Advanced Search filtered to Undergraduate Major; detail URLs were de-duplicated."
     }
   ]
 }
