@@ -42,6 +42,18 @@ describe("evidence-aware program exploration", () => {
     expect(parseProgramSpotlights([{ ...strength, rankingScope: "overall_university" }])).toEqual([]);
     expect(parseProgramSpotlights([{ ...strength, tied: undefined }])).toEqual([]);
   });
+  it("uses a reviewed current directory without appending historical award categories", () => {
+    const detail = parseUniversityDetail({ ...sample,
+      programs: [{ id: "legacy", name: "Computer and Information Sciences, General" }],
+      previewMetadata: {
+        allMajors: ["Computer Science", "Mathematics", "Symbolic Systems"],
+        allMajorsStatus: { status: "verified_official_undergraduate_majors", nullReason: null },
+      },
+      programSpotlights: [distinctive],
+    });
+    expect(schoolProgramNames(detail)).toEqual(["Computer Science", "Mathematics", "Symbolic Systems"]);
+    expect(detail.programSpotlights).toHaveLength(1);
+  });
   it("keeps exact academic boundaries instead of treating similar names as the same major", () => {
     expect(programDefinition("Computer Science")?.slug).toBe("computer-science");
     expect(programDefinition("Computer Science and Philosophy")).toBeUndefined();
