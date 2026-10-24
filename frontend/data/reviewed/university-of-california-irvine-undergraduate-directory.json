@@ -1,0 +1,973 @@
+{
+  "universityId": "candidate-v2:university-of-california-irvine",
+  "schoolSlug": "university-of-california-irvine",
+  "schoolName": "University of California, Irvine",
+  "sourceId": "source_uci_2026_27_undergraduate_majors",
+  "sourceUrl": "https://catalogue.uci.edu/undergraduatedegrees/",
+  "scope": [
+    "official UC Irvine 2026-27 Undergraduate Majors and Minors catalog page",
+    "87 named undergraduate major entries with explicit bachelor degree labels"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 87,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering, B.S.",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofmechanicalandaerospaceengineering/aerospaceengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American Studies, B.A.",
+      "listType": "major",
+      "name": "African American Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofafricanamericanstudies/africanamericanstudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology, B.A.",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofanthropology/anthropology_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied and Computational Mathematics, B.S.",
+      "listType": "major",
+      "name": "Applied and Computational Mathematics",
+      "officialUrl": "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofmathematics/appliedandcomputationalmathematics_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Physics, B.S.",
+      "listType": "major",
+      "name": "Applied Physics",
+      "officialUrl": "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofphysicsandastronomy/appliedphysics_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art, B.A.",
+      "listType": "major",
+      "name": "Art",
+      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofart/art_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History, B.A.",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofarthistory/arthistory_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian American Studies, B.A.",
+      "listType": "major",
+      "name": "Asian American Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofasianamericanstudies/asianamericanstudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry and Molecular Biology, B.S.",
+      "listType": "major",
+      "name": "Biochemistry and Molecular Biology",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/departmentofmolecularbiologyandbiochemistry/biochemistryandmolecularbiology_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences, B.S.",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/biologicalsciences_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology/Education, B.S.",
+      "listType": "major",
+      "name": "Biology/Education",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/biologyeducation_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering, B.S.",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofbiomedicalengineering/biomedicalengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering: Premedical, B.S.",
+      "listType": "major",
+      "name": "Biomedical Engineering: Premedical",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofbiomedicalengineering/biomedicalengineeringpremedical_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering; Premedical, B.S.",
+      "listType": "major",
+      "name": "Biomedical Engineering; Premedical",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofbiomedicalengineering/biomedicalengineeringpremedical_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration, B.A.",
+      "listType": "major",
+      "name": "Business Administration",
+      "officialUrl": "https://catalogue.uci.edu/thepaulmerageschoolofbusiness/businessadministration_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Economics, B.A.",
+      "listType": "major",
+      "name": "Business Economics",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofeconomics/businesseconomics_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Information Management, B.S.",
+      "listType": "major",
+      "name": "Business Information Management",
+      "officialUrl": "https://catalogue.uci.edu/interdisciplinarystudies/businessinformationmanagement_bs",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, B.S.",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofchemicalandbiomolecularengineering/chemicalengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry, B.S.",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofchemistry/chemistry_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chicano/Latino Studies, B.A.",
+      "listType": "major",
+      "name": "Chicano/Latino Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofchicanolatinostudies/chicanolatinostudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chinese Studies, B.A.",
+      "listType": "major",
+      "name": "Chinese Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/chinesestudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, B.S.",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofcivilandenvironmentalengineering/civilengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics, B.A.",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofclassics/classics_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Sciences, B.S.",
+      "listType": "major",
+      "name": "Cognitive Sciences",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofcognitivesciences/cognitivesciences_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature, B.A.",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofcomparativeliterature/comparativeliterature_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering, B.S.",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofelectricalengineeringandcomputerscience/computerengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science, B.S.",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Engineering, B.S.",
+      "listType": "major",
+      "name": "Computer Science and Engineering",
+      "officialUrl": "https://catalogue.uci.edu/interdisciplinarystudies/computerscienceandengineering_bs",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology, Law and Society, B.A.",
+      "listType": "major",
+      "name": "Criminology, Law and Society",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialecology/departmentofcriminologylawandsociety/criminologylawandsociety_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance, B.A.",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdance/dance_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance, B.F.A.",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdance/dance_bfa/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science, B.S.",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofstatistics/datascience_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Developmental and Cell Biology, B.S.",
+      "listType": "major",
+      "name": "Developmental and Cell Biology",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/departmentofdevelopmentalandcellbiology/developmentalandcellbiology_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Drama, B.A.",
+      "listType": "major",
+      "name": "Drama",
+      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdrama/drama_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Cultures, B.A.",
+      "listType": "major",
+      "name": "East Asian Cultures",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/eastasiancultures_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology and Evolutionary Biology, B.S.",
+      "listType": "major",
+      "name": "Ecology and Evolutionary Biology",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/departmentofecologyandevolutionarybiology/ecologyandevolutionarybiology_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics, B.A.",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofeconomics/economics_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education Sciences, B.A.",
+      "listType": "major",
+      "name": "Education Sciences",
+      "officialUrl": "https://catalogue.uci.edu/schoolofeducation/education_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering, B.S.",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofelectricalengineeringandcomputerscience/electricalengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English, B.A.",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofenglish/english_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental and Earth System Science, B.S.",
+      "listType": "major",
+      "name": "Environmental and Earth System Science",
+      "officialUrl": "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofearthsystemscience/environmentalandearthsystemscience_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering, B.S.",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofcivilandenvironmentalengineering/environmentalengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science and Policy, B.A.",
+      "listType": "major",
+      "name": "Environmental Science and Policy",
+      "officialUrl": "https://catalogue.uci.edu/interdisciplinarystudies/environmentalscienceandpolicy_ba",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Studies, B.A.",
+      "listType": "major",
+      "name": "European Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/europeanstudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Media Studies, B.A.",
+      "listType": "major",
+      "name": "Film and Media Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentoffilmandmediastudies/filmandmediastudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French, B.A.",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/french_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Game Design and Interactive Media, B.S.",
+      "listType": "major",
+      "name": "Game Design and Interactive Media",
+      "officialUrl": "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/gamedesignandinteractivemedia_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender and Sexuality Studies, B.A.",
+      "listType": "major",
+      "name": "Gender and Sexuality Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofgenderandsexualitystudies/genderandsexualitystudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Genetics, B.S.",
+      "listType": "major",
+      "name": "Genetics",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/departmentofdevelopmentalandcellbiology/genetics_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German Studies, B.A.",
+      "listType": "major",
+      "name": "German Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/germanstudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Cultures, B.A.",
+      "listType": "major",
+      "name": "Global Cultures",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/undergraduateprograminglobalcultures/globalcultures_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Middle East Studies, B.A.",
+      "listType": "major",
+      "name": "Global Middle East Studies",
+      "officialUrl": "https://catalogue.uci.edu/interdisciplinarystudies/globalmiddleeaststudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History, B.A.",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofhistory/history_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology, B.S.",
+      "listType": "major",
+      "name": "Human Biology",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/humanbiology_bs",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Informatics, B.S.",
+      "listType": "major",
+      "name": "Informatics",
+      "officialUrl": "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/informatics_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information and Computer Science, B.S.",
+      "listType": "major",
+      "name": "Information and Computer Science",
+      "officialUrl": "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/informationandcomputerscience_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Studies, B.A.",
+      "listType": "major",
+      "name": "International Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofglobalandinternationalstudies/internationalstudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese Language and Literature, B.A.",
+      "listType": "major",
+      "name": "Japanese Language and Literature",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/japaneselanguageandliterature_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Korean Literature and Culture, B.A.",
+      "listType": "major",
+      "name": "Korean Literature and Culture",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/koreanliteratureandculture_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Language Science, B.A.",
+      "listType": "major",
+      "name": "Language Science",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentoflanguagescience/languagescience_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Literary Journalism, B.A.",
+      "listType": "major",
+      "name": "Literary Journalism",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofenglish/literaryjournalism_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Science and Engineering, B.S.",
+      "listType": "major",
+      "name": "Materials Science and Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofmaterialsscienceandengineering/materialsscienceandengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics, B.S.",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofmathematics/mathematics_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering, B.S.",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofmechanicalandaerospaceengineering/mechanicalengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology and Immunology, B.S.",
+      "listType": "major",
+      "name": "Microbiology and Immunology",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/departmentofmolecularbiologyandbiochemistry/microbiologyandimmunology_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music, B.A.",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofmusic/music_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music, B.Mus.",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofmusic/music_bmus/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Theatre, B.F.A.",
+      "listType": "major",
+      "name": "Music Theatre",
+      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdrama/musictheatre_bfa",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neurobiology, B.S.",
+      "listType": "major",
+      "name": "Neurobiology",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/departmentofneurobiologyandbehavior/neurobiology_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing Science, B.S.",
+      "listType": "major",
+      "name": "Nursing Science",
+      "officialUrl": "https://catalogue.uci.edu/sueandbillgrossschoolofnursing/nursingscience_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Pharmaceutical Sciences, B.S.",
+      "listType": "major",
+      "name": "Pharmaceutical Sciences",
+      "officialUrl": "https://catalogue.uci.edu/schoolofpharmacyandpharmaceuticalsciences/pharmaceuticalsciences_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, B.A.",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofphilosophy/philosophy_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics, B.S.",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofphysicsandastronomy/physics_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physiology and Exercise Science, B.S.",
+      "listType": "major",
+      "name": "Physiology and Exercise Science",
+      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/physiologyandexercisescience_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science, B.A.",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofpoliticalscience/politicalscience_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology, B.A.",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialecology/departmentofpsychology/psychology_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology, B.S.",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofcognitivesciences/psychology_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health Policy, B.A.",
+      "listType": "major",
+      "name": "Public Health Policy",
+      "officialUrl": "https://catalogue.uci.edu/joecwenschoolofpopulationandpublichealth/publichealthpolicy_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health Sciences, B.S.",
+      "listType": "major",
+      "name": "Public Health Sciences",
+      "officialUrl": "https://catalogue.uci.edu/joecwenschoolofpopulationandpublichealth/publichealthsciences_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Quantitative Economics, B.A.",
+      "listType": "major",
+      "name": "Quantitative Economics",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofeconomics/quantitativeeconomics_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies, B.A.",
+      "listType": "major",
+      "name": "Religious Studies",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/undergraduateprograminreligiousstudies/religiousstudies_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Ecology, B.A.",
+      "listType": "major",
+      "name": "Social Ecology",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialecology/socialecology_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Policy and Public Service, B.A.",
+      "listType": "major",
+      "name": "Social Policy and Public Service",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/socialpolicyandpublicservice_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology, B.A.",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofsociology/sociology_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Software Engineering, B.S.",
+      "listType": "major",
+      "name": "Software Engineering",
+      "officialUrl": "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/softwareengineering_bs/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish, B.A.",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentoflatinamericanandiberiancultures/spanish_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Urban Studies, Planning, and Policy, B.A.",
+      "listType": "major",
+      "name": "Urban Studies, Planning, and Policy",
+      "officialUrl": "https://catalogue.uci.edu/schoolofsocialecology/departmentofurbanplanningandpublicpolicy/urbanstudiesplanningandpolicy_ba/",
+      "sourceIds": [
+        "source_uci_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    }
+  ]
+}

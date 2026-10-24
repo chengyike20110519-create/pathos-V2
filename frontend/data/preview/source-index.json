@@ -5344,6 +5344,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed only links in the official Majors section; discontinued Shady Grove listing is retained only when explicitly listed by the catalog and remains marked by its official title."
+    },
+    {
+      "sourceId": "source_uci_2026_27_undergraduate_majors",
+      "sourceType": "official_catalog",
+      "publisher": "UC Irvine General Catalogue",
+      "referenceYear": "2026-27",
+      "url": "https://catalogue.uci.edu/undergraduatedegrees/",
+      "status": "verified",
+      "scope": [
+        "official 2026-27 Undergraduate Majors and Minors page",
+        "87 entries with explicit bachelor degree labels"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed only entries with explicit BA, BS, BFA, or BMus labels; minors were excluded and distinct degree variants retained."
     }
   ]
 }
