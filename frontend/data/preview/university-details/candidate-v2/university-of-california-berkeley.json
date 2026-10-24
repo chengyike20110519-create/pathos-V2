@@ -113,19 +113,6 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Econometrics and Quantitative Economics",
       "listType": "areas_of_study",
       "name": "Econometrics and Quantitative Economics",
@@ -282,19 +269,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Legal Studies",
-      "listType": "areas_of_study",
-      "name": "Legal Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Environmental Studies",
       "listType": "areas_of_study",
       "name": "Environmental Studies",
@@ -324,19 +298,6 @@
       "displayName": "Social Sciences, Other",
       "listType": "areas_of_study",
       "name": "Social Sciences, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -451,19 +412,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architecture",
-      "listType": "areas_of_study",
-      "name": "Architecture",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "History, General",
       "listType": "areas_of_study",
       "name": "History, General",
@@ -493,19 +441,6 @@
       "displayName": "Civil Engineering, General",
       "listType": "areas_of_study",
       "name": "Civil Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -620,35 +555,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Microbiology, General",
       "listType": "areas_of_study",
       "name": "Microbiology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ethnic Studies",
-      "listType": "areas_of_study",
-      "name": "Ethnic Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -789,19 +698,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Comparative Literature",
-      "listType": "areas_of_study",
-      "name": "Comparative Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Environmental Design/Architecture",
       "listType": "areas_of_study",
       "name": "Environmental Design/Architecture",
@@ -909,32 +805,6 @@
       "displayName": "Geology/Earth Science, General",
       "listType": "areas_of_study",
       "name": "Geology/Earth Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Nuclear Engineering",
-      "listType": "areas_of_study",
-      "name": "Nuclear Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Landscape Architecture",
-      "listType": "areas_of_study",
-      "name": "Landscape Architecture",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1283,19 +1153,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American Studies",
-      "listType": "areas_of_study",
-      "name": "Latin American Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Near and Middle Eastern Studies",
       "listType": "areas_of_study",
       "name": "Near and Middle Eastern Studies",
@@ -1490,22 +1347,1764 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography",
-      "listType": "areas_of_study",
-      "name": "Geography",
+      "degreeType": "undergraduate_major",
+      "displayName": "Ancient Greek and Roman Studies",
+      "listType": "major",
+      "name": "Ancient Greek and Roman Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_uc_berkeley_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art, History of",
+      "listType": "major",
+      "name": "Art, History of",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art, Practice of",
+      "listType": "major",
+      "name": "Art, Practice of",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Celtic Studies",
+      "listType": "major",
+      "name": "Celtic Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance and Performance Studies",
+      "listType": "major",
+      "name": "Dance and Performance Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dutch Studies",
+      "listType": "major",
+      "name": "Dutch Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chinese Language and Culture",
+      "listType": "major",
+      "name": "Chinese Language and Culture",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese Language and Culture",
+      "listType": "major",
+      "name": "Japanese Language and Culture",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Korean Language and Culture",
+      "listType": "major",
+      "name": "Korean Language and Culture",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Humanities",
+      "listType": "major",
+      "name": "East Asian Humanities",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Religion, Thought, and Culture",
+      "listType": "major",
+      "name": "East Asian Religion, Thought, and Culture",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Media",
+      "listType": "major",
+      "name": "Film and Media",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Greek and Latin",
+      "listType": "major",
+      "name": "Greek and Latin",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Greek",
+      "listType": "major",
+      "name": "Greek",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian Studies",
+      "listType": "major",
+      "name": "Italian Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin",
+      "listType": "major",
+      "name": "Latin",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arabic Language & Literature",
+      "listType": "major",
+      "name": "Arabic Language & Literature",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hebrew Language & Literature",
+      "listType": "major",
+      "name": "Hebrew Language & Literature",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Persian Language & Literature",
+      "listType": "major",
+      "name": "Persian Language & Literature",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ancient Worlds",
+      "listType": "major",
+      "name": "Ancient Worlds",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Modern Middle Eastern Worlds",
+      "listType": "major",
+      "name": "Modern Middle Eastern Worlds",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Rhetoric",
+      "listType": "major",
+      "name": "Rhetoric",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Danish",
+      "listType": "major",
+      "name": "Danish",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finnish",
+      "listType": "major",
+      "name": "Finnish",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Norwegian",
+      "listType": "major",
+      "name": "Norwegian",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Old Norse",
+      "listType": "major",
+      "name": "Old Norse",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Swedish",
+      "listType": "major",
+      "name": "Swedish",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Armenian",
+      "listType": "major",
+      "name": "Armenian",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bosnian/Croatian/Serbian",
+      "listType": "major",
+      "name": "Bosnian/Croatian/Serbian",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Czech",
+      "listType": "major",
+      "name": "Czech",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hungarian",
+      "listType": "major",
+      "name": "Hungarian",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Polish",
+      "listType": "major",
+      "name": "Polish",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian",
+      "listType": "major",
+      "name": "Russian",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "South and Southeast Asian Studies",
+      "listType": "major",
+      "name": "South and Southeast Asian Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hispanic Languages, Linguistics, and Bilingualism",
+      "listType": "major",
+      "name": "Hispanic Languages, Linguistics, and Bilingualism",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Languages, Literatures, and Cultures of the Portuguese-Speaking World",
+      "listType": "major",
+      "name": "Languages, Literatures, and Cultures of the Portuguese-Speaking World",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Languages, Literatures, and Cultures of the Spanish-Speaking World",
+      "listType": "major",
+      "name": "Languages, Literatures, and Cultures of the Spanish-Speaking World",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American Languages, Literatures, and Cultures",
+      "listType": "major",
+      "name": "Latin American Languages, Literatures, and Cultures",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theater and Performance Studies",
+      "listType": "major",
+      "name": "Theater and Performance Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrative Biology",
+      "listType": "major",
+      "name": "Integrative Biology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry and Molecular Biology",
+      "listType": "major",
+      "name": "Biochemistry and Molecular Biology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cell and Developmental Biology",
+      "listType": "major",
+      "name": "Cell and Developmental Biology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Genetics, Genomics, and Development",
+      "listType": "major",
+      "name": "Genetics, Genomics, and Development",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Immunology and Pathogenesis",
+      "listType": "major",
+      "name": "Immunology and Pathogenesis",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular Therapeutics",
+      "listType": "major",
+      "name": "Molecular Therapeutics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Robinson Life Science, Business, and Entrepreneurship Program",
+      "listType": "major",
+      "name": "Robinson Life Science, Business, and Entrepreneurship Program",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies",
+      "listType": "major",
+      "name": "American Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies",
+      "listType": "major",
+      "name": "Interdisciplinary Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Legal Studies",
+      "listType": "major",
+      "name": "Legal Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Studies",
+      "listType": "major",
+      "name": "Media Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Analytics",
+      "listType": "major",
+      "name": "Analytics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysics (including Astronomy)",
+      "listType": "major",
+      "name": "Astrophysics (including Astronomy)",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry also offered in the College of Chemistry",
+      "listType": "major",
+      "name": "Chemistry also offered in the College of Chemistry",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric Science",
+      "listType": "major",
+      "name": "Atmospheric Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Earth Science",
+      "listType": "major",
+      "name": "Environmental Earth Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology",
+      "listType": "major",
+      "name": "Geology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geophysics",
+      "listType": "major",
+      "name": "Geophysics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marine Science",
+      "listType": "major",
+      "name": "Marine Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Planetary Science",
+      "listType": "major",
+      "name": "Planetary Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Teaching",
+      "listType": "major",
+      "name": "Teaching",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics, Applied",
+      "listType": "major",
+      "name": "Mathematics, Applied",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American Studies",
+      "listType": "major",
+      "name": "African American Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian American and Asian Diaspora Studies",
+      "listType": "major",
+      "name": "Asian American and Asian Diaspora Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chicano Studies",
+      "listType": "major",
+      "name": "Chicano Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chicanx Latinx Studies",
+      "listType": "major",
+      "name": "Chicanx Latinx Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Educational Sciences",
+      "listType": "major",
+      "name": "Educational Sciences",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ethnic Studies",
+      "listType": "major",
+      "name": "Ethnic Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender and Women's Studies",
+      "listType": "major",
+      "name": "Gender and Women's Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography",
+      "listType": "major",
+      "name": "Geography",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Area Studies I - China",
+      "listType": "major",
+      "name": "Asian Area Studies I - China",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Area Studies II - Japan",
+      "listType": "major",
+      "name": "Asian Area Studies II - Japan",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Developmental Studies",
+      "listType": "major",
+      "name": "Developmental Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American Studies",
+      "listType": "major",
+      "name": "Latin American Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle Eastern Studies",
+      "listType": "major",
+      "name": "Middle Eastern Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Peace and Conflict Studies",
+      "listType": "major",
+      "name": "Peace and Conflict Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Native American Studies",
+      "listType": "major",
+      "name": "Native American Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Economy",
+      "listType": "major",
+      "name": "Political Economy",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Welfare",
+      "listType": "major",
+      "name": "Social Welfare",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Biology",
+      "listType": "major",
+      "name": "Chemical Biology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Physical Science",
+      "listType": "major",
+      "name": "Applied Physical Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biotechnology",
+      "listType": "major",
+      "name": "Biotechnology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business & Management",
+      "listType": "major",
+      "name": "Business & Management",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Processing",
+      "listType": "major",
+      "name": "Chemical Processing",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Energy & Environment",
+      "listType": "major",
+      "name": "Energy & Environment",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Science & Technology",
+      "listType": "major",
+      "name": "Materials Science & Technology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Open Elective Program (no concentration)",
+      "listType": "major",
+      "name": "Open Elective Program (no concentration)",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Chemistry",
+      "listType": "major",
+      "name": "Computational Chemistry",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Chemistry",
+      "listType": "major",
+      "name": "Materials Chemistry",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioengineering",
+      "listType": "major",
+      "name": "Bioengineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical and Computer Engineering",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering & Computer Sciences",
+      "listType": "major",
+      "name": "Electrical Engineering & Computer Sciences",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Energy Engineering",
+      "listType": "major",
+      "name": "Energy Engineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Mathematics and Statistics",
+      "listType": "major",
+      "name": "Engineering Mathematics and Statistics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Physics",
+      "listType": "major",
+      "name": "Engineering Physics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering Science",
+      "listType": "major",
+      "name": "Environmental Engineering Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial Engineering and Operations Research",
+      "listType": "major",
+      "name": "Industrial Engineering and Operations Research",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Science and Engineering",
+      "listType": "major",
+      "name": "Materials Science and Engineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nuclear Engineering",
+      "listType": "major",
+      "name": "Nuclear Engineering",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering & Business Administration",
+      "listType": "major",
+      "name": "Aerospace Engineering & Business Administration",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioengineering & Business Administration",
+      "listType": "major",
+      "name": "Bioengineering & Business Administration",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering & Business Administration",
+      "listType": "major",
+      "name": "Civil Engineering & Business Administration",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering and Computer Sciences & Business Administration",
+      "listType": "major",
+      "name": "Electrical Engineering and Computer Sciences & Business Administration",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial Engineering and Operations Research & Business Administration",
+      "listType": "major",
+      "name": "Industrial Engineering and Operations Research & Business Administration",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Science and Engineering & Business Administration",
+      "listType": "major",
+      "name": "Materials Science and Engineering & Business Administration",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering & Business Administration",
+      "listType": "major",
+      "name": "Mechanical Engineering & Business Administration",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Landscape Architecture",
+      "listType": "major",
+      "name": "Landscape Architecture",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sustainable Environmental Design",
+      "listType": "major",
+      "name": "Sustainable Environmental Design",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Urban Studies",
+      "listType": "major",
+      "name": "Urban Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Conservation and Resource Studies",
+      "listType": "major",
+      "name": "Conservation and Resource Studies",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Forestry",
+      "listType": "major",
+      "name": "Forestry",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Natural Resource Management",
+      "listType": "major",
+      "name": "Natural Resource Management",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Economics and Policy",
+      "listType": "major",
+      "name": "Environmental Economics and Policy",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Science",
+      "listType": "major",
+      "name": "Biological Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physical Science",
+      "listType": "major",
+      "name": "Physical Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Science",
+      "listType": "major",
+      "name": "Social Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biotechnology and Bioenergy",
+      "listType": "major",
+      "name": "Biotechnology and Bioenergy",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Plant Diversity and Evolution",
+      "listType": "major",
+      "name": "Plant Diversity and Evolution",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Plant Genetics, Genomics, and Bioinformatics",
+      "listType": "major",
+      "name": "Plant Genetics, Genomics, and Bioinformatics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Plant Microbe Interactions",
+      "listType": "major",
+      "name": "Plant Microbe Interactions",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology & Environmental Microbiology",
+      "listType": "major",
+      "name": "Ecology & Environmental Microbiology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Evolution/Computational Genomics",
+      "listType": "major",
+      "name": "Evolution/Computational Genomics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Host-Pathogen Interactions",
+      "listType": "major",
+      "name": "Host-Pathogen Interactions",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbial Biotechnology",
+      "listType": "major",
+      "name": "Microbial Biotechnology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal Health and Behavior",
+      "listType": "major",
+      "name": "Animal Health and Behavior",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biodiversity",
+      "listType": "major",
+      "name": "Biodiversity",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology",
+      "listType": "major",
+      "name": "Ecology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environment and Human Health",
+      "listType": "major",
+      "name": "Environment and Human Health",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Change Biology",
+      "listType": "major",
+      "name": "Global Change Biology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Insect Biology / Arthropod Science",
+      "listType": "major",
+      "name": "Insect Biology / Arthropod Science",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nutrition & Metabolic Biology",
+      "listType": "major",
+      "name": "Nutrition & Metabolic Biology",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Environmental Politics",
+      "listType": "major",
+      "name": "Global Environmental Politics",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Justice and Sustainability",
+      "listType": "major",
+      "name": "Justice and Sustainability",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "U.S. Environmental Policy and Management",
+      "listType": "major",
+      "name": "U.S. Environmental Policy and Management",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spieker Undergraduate Business Program",
+      "listType": "major",
+      "name": "Spieker Undergraduate Business Program",
+      "officialUrl": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "sourceIds": [
+        "source_uc_berkeley_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
     "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "sourceIds": [
+      "source_uc_berkeley_2026_27_undergraduate_majors"
+    ],
+    "warnings": [
+      "Official Berkeley Admissions majors page lists undergraduate majors by college; undeclared options were excluded, while named major tracks and joint majors shown on the page were retained."
+    ]
   },
   "anecdotes": [
     {

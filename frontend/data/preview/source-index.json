@@ -5204,6 +5204,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Official Bulletin Advanced Search filtered to Undergraduate Major; detail URLs were de-duplicated."
+    },
+    {
+      "sourceId": "source_uc_berkeley_2026_27_undergraduate_majors",
+      "sourceType": "official_admissions",
+      "publisher": "UC Berkeley Office of Undergraduate Admissions",
+      "referenceYear": "2026-27",
+      "url": "https://www.admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "status": "verified",
+      "scope": [
+        "official Berkeley Office of Undergraduate Admissions Majors page updated 2026-09-04",
+        "named major entries under each college; undeclared options excluded"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed named undergraduate majors under each college; undeclared options excluded."
     }
   ]
 }
