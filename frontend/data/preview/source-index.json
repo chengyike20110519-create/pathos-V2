@@ -5330,6 +5330,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed degree entries with explicit bachelor labels. The directory provides a central official URL rather than individual program URLs, so each record retains the source page and an explicit URL warning."
+    },
+    {
+      "sourceId": "source_umd_2026_27_undergraduate_programs",
+      "sourceType": "official_catalog",
+      "publisher": "University of Maryland Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://www.academiccatalog.umd.edu/undergraduate/programs/",
+      "status": "verified",
+      "scope": [
+        "official 2026-27 Undergraduate Programs page",
+        "134 named major entries under Majors"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed only links in the official Majors section; discontinued Shady Grove listing is retained only when explicitly listed by the catalog and remains marked by its official title."
     }
   ]
 }

@@ -1,0 +1,1490 @@
+{
+  "universityId": "candidate-v2:university-of-maryland-college-park",
+  "schoolSlug": "university-of-maryland-college-park",
+  "schoolName": "University of Maryland, College Park",
+  "sourceId": "source_umd_2026_27_undergraduate_programs",
+  "sourceUrl": "https://www.academiccatalog.umd.edu/undergraduate/programs/",
+  "scope": [
+    "official University of Maryland 2026-27 Undergraduate Programs catalog page",
+    "134 named major entries listed under the official Majors section"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 134,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting Major",
+      "listType": "major",
+      "name": "Accounting",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/accounting/accounting-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting Major at Shady Grove",
+      "listType": "major",
+      "name": "Accounting Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/business/accounting/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering Major",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/aerospace-engineering/aerospace-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American and Africana Studies Major",
+      "listType": "major",
+      "name": "African American and Africana Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/african-american-africana-studies/african-american-africana-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural and Resource Economics Major",
+      "listType": "major",
+      "name": "Agricultural and Resource Economics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/agricultural-resource-economics/agricultural-resource-economics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural Science and Technology Major",
+      "listType": "major",
+      "name": "Agricultural Science and Technology",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/plant-sciences-landscape-architecture/agricultural-science-technology-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies Major",
+      "listType": "major",
+      "name": "American Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/american-studies/american-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal Sciences Major",
+      "listType": "major",
+      "name": "Animal Sciences",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/animal-sciences/animal-sciences-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology Major",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/anthropology/anthropology-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arabic Studies Major",
+      "listType": "major",
+      "name": "Arabic Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/arabic-studies/arabic-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture Major",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/architecture-planning-preservation/architecture-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History Major",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/art-history-archaeology/art-history-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence: Computational Structures for AI Systems Major",
+      "listType": "major",
+      "name": "Artificial Intelligence: Computational Structures for AI Systems",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/computer-science/artificial-intelligence-computational-structures-ai-systems-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy Major",
+      "listType": "major",
+      "name": "Astronomy",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/astronomy/astronomy-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric and Oceanic Science Major",
+      "listType": "major",
+      "name": "Atmospheric and Oceanic Science",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/atmospheric-oceanic-science/atmospheric-oceanic-science-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry Major",
+      "listType": "major",
+      "name": "Biochemistry",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/chemistry-biochemistry/biochemistry-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biocomputational Engineering Major",
+      "listType": "major",
+      "name": "Biocomputational Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/bioengineering/biocomputational-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biocomputational Engineering Major at Shady Grove",
+      "listType": "major",
+      "name": "Biocomputational Engineering Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/engineering/biocomputational-engineering/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioengineering Major",
+      "listType": "major",
+      "name": "Bioengineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/bioengineering/bioengineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences Major",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/biological-sciences/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences Major at Shady Grove",
+      "listType": "major",
+      "name": "Biological Sciences Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/biological-sciences/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering Major",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/chemical-biomolecular-engineering/chemical-biomolecular-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry Major (B.A., B.S.)",
+      "listType": "major",
+      "name": "Chemistry Major (B.A., B.S.)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/chemistry-biochemistry/chemistry-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chinese Major",
+      "listType": "major",
+      "name": "Chinese",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/chinese/chinese-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema and Media Studies Major (ENGL)",
+      "listType": "major",
+      "name": "Cinema and Media Studies Major (ENGL)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/english-language-literature/cinema-media-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema and Media Studies Major (SLLC)",
+      "listType": "major",
+      "name": "Cinema and Media Studies Major (SLLC)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/cinema-media-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering Major",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/civil-environmental-engineering/civil-environmental-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Languages and Literatures Major",
+      "listType": "major",
+      "name": "Classical Languages and Literatures",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/classical-languages-literature/classics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Major",
+      "listType": "major",
+      "name": "Communication",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/communication/communication-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Major at Shady Grove",
+      "listType": "major",
+      "name": "Communication Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/communication/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering Major",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/electrical-and-computer/computer-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science Major",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/computer-science/computer-science-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology and Criminal Justice Major",
+      "listType": "major",
+      "name": "Criminology and Criminal Justice",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/criminology-criminal-justice/criminology-criminal-justice-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology and Criminal Justice Major at Shady Grove",
+      "listType": "major",
+      "name": "Criminology and Criminal Justice Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/behavioral-social-sciences/criminology-criminal-justice-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cyber-Physical Systems Engineering Major",
+      "listType": "major",
+      "name": "Cyber-Physical Systems Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/electrical-and-computer/cyber-physical-systems-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cyber-Physical Systems Engineering Major at Shady Grove",
+      "listType": "major",
+      "name": "Cyber-Physical Systems Engineering Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/engineering/cyber-physical-systems-engineering/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cyber-​Physical Systems Engineering Major",
+      "listType": "major",
+      "name": "Cyber-​Physical Systems Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/electrical-and-computer/cyber-physical-systems-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cyber-​Physical Systems Engineering Major at Shady Grove",
+      "listType": "major",
+      "name": "Cyber-​Physical Systems Engineering Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/engineering/cyber-physical-systems-engineering/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance Major",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/theatre-dance-performance-studies/dance-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Childhood/Early Childhood Special Education Major",
+      "listType": "major",
+      "name": "Early Childhood/Early Childhood Special Education",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/human-development-quantitative-methodology/early-childhood-special-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Childhood/​Early Childhood Special Education Major",
+      "listType": "major",
+      "name": "Early Childhood/​Early Childhood Special Education",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/human-development-quantitative-methodology/early-childhood-special-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics Major",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/economics/economics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering Major",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/electrical-and-computer/electrical-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering Major at USMSM",
+      "listType": "major",
+      "name": "Electrical Engineering Major at USMSM",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/college-of-southern-maryland/electrical-engineering-usmsm/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education Major",
+      "listType": "major",
+      "name": "Elementary Education",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/elementary-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary/Middle Special Education Major",
+      "listType": "major",
+      "name": "Elementary/Middle Special Education",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/counseling-higher-special-education/elementary-middle-special-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary/​Middle Special Education Major",
+      "listType": "major",
+      "name": "Elementary/​Middle Special Education",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/counseling-higher-special-education/elementary-middle-special-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English Language and Literature Major",
+      "listType": "major",
+      "name": "English Language and Literature",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/english-language-literature/english-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science and Policy Major",
+      "listType": "major",
+      "name": "Environmental Science and Policy",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/environmental-science-policy/environmental-science-policy-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science and Technology Major",
+      "listType": "major",
+      "name": "Environmental Science and Technology",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/environmental-science-technology/environmental-science-technology-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Family Health Major",
+      "listType": "major",
+      "name": "Family Health",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/public-health/family-science/family-health-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fermentation Science Major",
+      "listType": "major",
+      "name": "Fermentation Science",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/nutrition-food-science/fermentation-science-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fermentation Science Major at Shady Grove",
+      "listType": "major",
+      "name": "Fermentation Science Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/fermentation-science/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance Major",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/finance/finance-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fire Protection Engineering Major",
+      "listType": "major",
+      "name": "Fire Protection Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/fire-protection-engineering/fire-protection-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French Language and Literature Major",
+      "listType": "major",
+      "name": "French Language and Literature",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/french-language-literature/french-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geographical Sciences Major",
+      "listType": "major",
+      "name": "Geographical Sciences",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/geographical-sciences/geographical-sciences-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology Major",
+      "listType": "major",
+      "name": "Geology",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/geological-environmental-planetary-sciences/geology-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German Studies Major",
+      "listType": "major",
+      "name": "German Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/germanic-studies/german-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global and Foreign Policy Major",
+      "listType": "major",
+      "name": "Global and Foreign Policy",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/public-policy/global-and-foreign-policy-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Culture and Thought Major",
+      "listType": "major",
+      "name": "Global Culture and Thought",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/global-culture-thought-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Health Major",
+      "listType": "major",
+      "name": "Global Health",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/public-health/global-environmental-occupational-health/global-health-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Government and Politics Major",
+      "listType": "major",
+      "name": "Government and Politics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/government-politics/government-politics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hearing and Speech Sciences Major",
+      "listType": "major",
+      "name": "Hearing and Speech Sciences",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/hearing-speech-sciences/hearing-speech-sciences-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History Major",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/history/history-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development Major",
+      "listType": "major",
+      "name": "Human Development",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/human-development-quantitative-methodology/human-development-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human-Centered Artificial Intelligence Major",
+      "listType": "major",
+      "name": "Human-Centered Artificial Intelligence",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/philosophy/human-centered-artificial-intelligence-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human-​Centered Artificial Intelligence Major",
+      "listType": "major",
+      "name": "Human-​Centered Artificial Intelligence",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/philosophy/human-centered-artificial-intelligence-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Immersive Media Design Major (ARTT)",
+      "listType": "major",
+      "name": "Immersive Media Design Major (ARTT)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/art/immersive-media-design-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Immersive Media Design Major (CMSC)",
+      "listType": "major",
+      "name": "Immersive Media Design Major (CMSC)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/computer-science/immersive-media-design-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Science Major",
+      "listType": "major",
+      "name": "Information Science",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/information/information-science-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Science Major at Shady Grove",
+      "listType": "major",
+      "name": "Information Science Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/information/information-science/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Systems Major",
+      "listType": "major",
+      "name": "Information Systems",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/decision-operations-information-technologies/information-systems-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Business Major",
+      "listType": "major",
+      "name": "International Business",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/logistics-business-public-policy/international-business-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations Major",
+      "listType": "major",
+      "name": "International Relations",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/government-politics/international-relations-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian Studies Major",
+      "listType": "major",
+      "name": "Italian Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/italian-studies/italian-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese Major",
+      "listType": "major",
+      "name": "Japanese",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/japanese/japanese-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies Major",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/jewish-studies/jewish-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism Major",
+      "listType": "major",
+      "name": "Journalism",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/journalism/journalism-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Kinesiology Major",
+      "listType": "major",
+      "name": "Kinesiology",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/public-health/kinesiology/kinesiology-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Landscape Architecture Major",
+      "listType": "major",
+      "name": "Landscape Architecture",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/plant-sciences-landscape-architecture/landscape-architecture-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics Major",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/linguistics/linguistics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management Major",
+      "listType": "major",
+      "name": "Management",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/management/management-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management Major at Shady Grove",
+      "listType": "major",
+      "name": "Management Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/business/management/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing Major",
+      "listType": "major",
+      "name": "Marketing",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/marketing/marketing-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing Major at Shady Grove",
+      "listType": "major",
+      "name": "Marketing Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/business/marketing/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Science and Engineering Major",
+      "listType": "major",
+      "name": "Materials Science and Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/materials-science-engineering/materials-science-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics Major",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/mathematics/mathematics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering Major",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/mechanical-engineering/mechanical-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering Major at USMSM",
+      "listType": "major",
+      "name": "Mechanical Engineering Major at USMSM",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/college-of-southern-maryland/mechanical-engineering-usmsm/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechatronics Engineering Major",
+      "listType": "major",
+      "name": "Mechatronics Engineering",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/engineering/aerospace-engineering/mechatronics-engineering-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechatronics Engineering Major at Shady Grove",
+      "listType": "major",
+      "name": "Mechatronics Engineering Major at Shady Grove",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/engineering/mechatronics-engineering/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle School Education Major",
+      "listType": "major",
+      "name": "Middle School Education",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/middle-school-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Major",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/music/music-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience Major (BSOS)",
+      "listType": "major",
+      "name": "Neuroscience Major (BSOS)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/psychology/neuroscience-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience Major (CMNS)",
+      "listType": "major",
+      "name": "Neuroscience Major (CMNS)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/biology/neuroscience-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nutrition and Food Science Major",
+      "listType": "major",
+      "name": "Nutrition and Food Science",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/nutrition-food-science/nutrition-food-science-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Operations Management & Business Analytics Major",
+      "listType": "major",
+      "name": "Operations Management & Business Analytics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/decision-operations-information-technologies/operations-management-business-analytics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Operations Management &​ Business Analytics Major",
+      "listType": "major",
+      "name": "Operations Management &​ Business Analytics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/decision-operations-information-technologies/operations-management-business-analytics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Persian Studies Major",
+      "listType": "major",
+      "name": "Persian Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/persian-studies/persian-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy Major",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/philosophy/philosophy-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, Politics, and Economics Major",
+      "listType": "major",
+      "name": "Philosophy, Politics, and Economics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/philosophy/philosophy-politics-economics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics Major",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/physics/physics-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Plant Sciences Major",
+      "listType": "major",
+      "name": "Plant Sciences",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/agriculture-natural-resources/plant-sciences-landscape-architecture/plant-sciences-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology Major",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/psychology/psychology-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health Practice Major",
+      "listType": "major",
+      "name": "Public Health Practice",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/public-health/behavioral-community-health/public-health-practice-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health Science Major",
+      "listType": "major",
+      "name": "Public Health Science",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/public-health/public-health-science/public-health-science-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health Science Major at Shady Grove (Discontinued)",
+      "listType": "major",
+      "name": "Public Health Science Major at Shady Grove (Discontinued)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/universities-shady-grove/public-health-science/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Policy Major",
+      "listType": "major",
+      "name": "Public Policy",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/public-policy/public-policy-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate and the Built Environment Major",
+      "listType": "major",
+      "name": "Real Estate and the Built Environment",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/architecture-planning-preservation/real-estate-built-environment-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religions of the Ancient Middle East Major",
+      "listType": "major",
+      "name": "Religions of the Ancient Middle East",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/jewish-studies/religions-ancient-middle-east-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Romance Languages Major",
+      "listType": "major",
+      "name": "Romance Languages",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/romance-languages/romance-languages-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Language and Literature Major",
+      "listType": "major",
+      "name": "Russian Language and Literature",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/russian-language-literature/russian-language-literature-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major - Art",
+      "listType": "major",
+      "name": "Secondary Education Major - Art",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/art-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major - English",
+      "listType": "major",
+      "name": "Secondary Education Major - English",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/english-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major - Mathematics",
+      "listType": "major",
+      "name": "Secondary Education Major - Mathematics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/mathematics-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major - Science",
+      "listType": "major",
+      "name": "Secondary Education Major - Science",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/science-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major - Social Studies",
+      "listType": "major",
+      "name": "Secondary Education Major - Social Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/social-studies-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major - World Language",
+      "listType": "major",
+      "name": "Secondary Education Major - World Language",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/world-language-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major -​ Art",
+      "listType": "major",
+      "name": "Secondary Education Major -​ Art",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/art-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major -​ English",
+      "listType": "major",
+      "name": "Secondary Education Major -​ English",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/english-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major -​ Mathematics",
+      "listType": "major",
+      "name": "Secondary Education Major -​ Mathematics",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/mathematics-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major -​ Science",
+      "listType": "major",
+      "name": "Secondary Education Major -​ Science",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/science-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major -​ Social Studies",
+      "listType": "major",
+      "name": "Secondary Education Major -​ Social Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/social-studies-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education Major -​ World Language",
+      "listType": "major",
+      "name": "Secondary Education Major -​ World Language",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/education/teaching-learning-policy-leadership/world-language-education-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Data Science Major (BSOS)",
+      "listType": "major",
+      "name": "Social Data Science Major (BSOS)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/social-data-science-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Data Science Major (INFO)",
+      "listType": "major",
+      "name": "Social Data Science Major (INFO)",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/information/social-data-science-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology Major",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/behavioral-social-sciences/sociology/sociology-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish Language, Literatures, and Culture Major",
+      "listType": "major",
+      "name": "Spanish Language, Literatures, and Culture",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/languages-literatures-cultures/spanish-language-literatures-culture/spanish-language-literatures-culture-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Art Major",
+      "listType": "major",
+      "name": "Studio Art",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/art/art-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain Management Major",
+      "listType": "major",
+      "name": "Supply Chain Management",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/business/logistics-business-public-policy/supply-chain-management-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Technology and Information Design Major",
+      "listType": "major",
+      "name": "Technology and Information Design",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/information/technology-info-design-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre Major",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/theatre-dance-performance-studies/theatre-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women, Gender, and Sexuality Studies Major",
+      "listType": "major",
+      "name": "Women, Gender, and Sexuality Studies",
+      "officialUrl": "https://www.academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/women-gender-sexuality-studies/womens-gender-sexuality-studies-major/",
+      "sourceIds": [
+        "source_umd_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    }
+  ]
+}
