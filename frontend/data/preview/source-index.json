@@ -5260,6 +5260,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed catalog entries labeled Major from the official Programs page; online variants retained when separately listed."
+    },
+    {
+      "sourceId": "source_uw_madison_2026_27_undergraduate_majors",
+      "sourceType": "official_catalog",
+      "publisher": "UW–Madison Guide",
+      "referenceYear": "2026-27",
+      "url": "https://guide.wisc.edu/explore-majors/",
+      "status": "verified",
+      "scope": [
+        "official UW–Madison 2026-27 Explore Undergraduate Opportunities page",
+        "199 entries in Majors Only filter; BA/BS variants retained separately"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed entries under the official Majors Only filter; separate degree variants retained."
     }
   ]
 }
