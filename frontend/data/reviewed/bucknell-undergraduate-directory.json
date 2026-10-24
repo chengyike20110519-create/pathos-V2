@@ -1,0 +1,345 @@
+{
+  "universityId": "candidate-v2:bucknell-university",
+  "schoolSlug": "bucknell-university",
+  "schoolName": "Bucknell University",
+  "sourceId": "source_bucknell_2026_27_degree_pages",
+  "sourceUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+  "scope": [
+    "official degree pages: College of Arts & Sciences BS/professional degrees, Freeman College BSBA areas, and College of Engineering areas"
+  ],
+  "status": "official_catalog_observed_partial_scope",
+  "checkedAt": "2026-10-24",
+  "entryCount": 30,
+  "entries": [
+    {
+      "degreeType": "BSBA",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/accountingandfinancialmanagement/accounting/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Animal Behavior",
+      "listType": "major",
+      "name": "Animal Behavior",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Applied Mathematics",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Biophysics",
+      "listType": "major",
+      "name": "Biophysics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSBA",
+      "displayName": "Business Analytics",
+      "listType": "major",
+      "name": "Business Analytics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/businessanalytics/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Cell Biology/Biochemistry",
+      "listType": "major",
+      "name": "Cell Biology/Biochemistry",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Computer Science & Engineering",
+      "listType": "major",
+      "name": "Computer Science & Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSEd",
+      "displayName": "Early Childhood Education",
+      "listType": "major",
+      "name": "Early Childhood Education",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Engineering",
+      "listType": "major",
+      "name": "Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSBA",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/accountingandfinancialmanagement/finance/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Geosciences",
+      "listType": "major",
+      "name": "Geosciences",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSBA",
+      "displayName": "Management & Organizations",
+      "listType": "major",
+      "name": "Management & Organizations",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/managementandorganizations/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSBA",
+      "displayName": "Markets, Innovation & Design",
+      "listType": "major",
+      "name": "Markets, Innovation & Design",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/marketsinnovationanddesign/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Mathematical Economics",
+      "listType": "major",
+      "name": "Mathematical Economics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BMus",
+      "displayName": "Music Education",
+      "listType": "major",
+      "name": "Music Education",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BMus",
+      "displayName": "Vocal Performance",
+      "listType": "major",
+      "name": "Vocal Performance",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    }
+  ]
+}

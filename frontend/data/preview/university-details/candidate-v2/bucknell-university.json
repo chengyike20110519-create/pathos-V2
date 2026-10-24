@@ -149,9 +149,9 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
+      "displayName": "Accounting",
       "listType": "areas_of_study",
-      "name": "Economics, General",
+      "name": "Accounting",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -161,582 +161,21 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
+      "degreeType": "BSBA",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/accountingandfinancialmanagement/accounting/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_bucknell_2026_27_degree_pages"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Accounting and Finance",
       "listType": "areas_of_study",
       "name": "Accounting and Finance",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marketing/Marketing Management, General",
-      "listType": "areas_of_study",
-      "name": "Marketing/Marketing Management, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer and Information Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Computer and Information Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Relations and Affairs",
-      "listType": "areas_of_study",
-      "name": "International Relations and Affairs",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education, General",
-      "listType": "areas_of_study",
-      "name": "Education, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Environmental Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Biochemistry",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Science",
-      "listType": "areas_of_study",
-      "name": "Management Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration and Management, General",
-      "listType": "areas_of_study",
-      "name": "Business Administration and Management, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Environmental Health Engineering",
-      "listType": "areas_of_study",
-      "name": "Environmental/Environmental Health Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Analytics",
-      "listType": "areas_of_study",
-      "name": "Business Analytics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Creative Writing",
-      "listType": "areas_of_study",
-      "name": "Creative Writing",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Animal Behavior and Ethology",
-      "listType": "areas_of_study",
-      "name": "Animal Behavior and Ethology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Business/Trade/Commerce",
-      "listType": "areas_of_study",
-      "name": "International Business/Trade/Commerce",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Studies",
-      "listType": "areas_of_study",
-      "name": "Italian Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Mathematics, Other",
-      "listType": "areas_of_study",
-      "name": "Applied Mathematics, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Early Childhood Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Early Childhood Education and Teaching",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Women's Studies",
-      "listType": "areas_of_study",
-      "name": "Women's Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -760,9 +199,33 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Statistics",
+      "displayName": "African-American/Black Studies",
       "listType": "areas_of_study",
-      "name": "Mathematics and Statistics",
+      "name": "African-American/Black Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Animal Behavior",
+      "listType": "major",
+      "name": "Animal Behavior",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Animal Behavior and Ethology",
+      "listType": "areas_of_study",
+      "name": "Animal Behavior and Ethology",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -773,9 +236,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
+      "displayName": "Anthropology, General",
       "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
+      "name": "Anthropology, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -785,49 +248,21 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography",
-      "listType": "areas_of_study",
-      "name": "Geography",
+      "degreeType": "BS",
+      "displayName": "Applied Mathematics",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_bucknell_2026_27_degree_pages"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Studies",
+      "displayName": "Applied Mathematics, Other",
       "listType": "areas_of_study",
-      "name": "East Asian Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
-      "listType": "areas_of_study",
-      "name": "German Language and Literature",
+      "name": "Applied Mathematics, Other",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -851,58 +286,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
-      "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
-      "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Music Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Art History, Criticism and Conservation",
       "listType": "areas_of_study",
       "name": "Art History, Criticism and Conservation",
@@ -916,9 +299,586 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American Studies",
+      "displayName": "Art/Art Studies, General",
       "listType": "areas_of_study",
-      "name": "Latin American Studies",
+      "name": "Art/Art Studies, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biochemistry",
+      "listType": "areas_of_study",
+      "name": "Biochemistry",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Bioengineering and Biomedical Engineering",
+      "listType": "areas_of_study",
+      "name": "Bioengineering and Biomedical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biology/Biological Sciences, General",
+      "listType": "areas_of_study",
+      "name": "Biology/Biological Sciences, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biophysics",
+      "listType": "areas_of_study",
+      "name": "Biophysics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Biophysics",
+      "listType": "major",
+      "name": "Biophysics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Business Administration and Management, General",
+      "listType": "areas_of_study",
+      "name": "Business Administration and Management, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Business Analytics",
+      "listType": "areas_of_study",
+      "name": "Business Analytics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSBA",
+      "displayName": "Business Analytics",
+      "listType": "major",
+      "name": "Business Analytics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/businessanalytics/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Cell Biology/Biochemistry",
+      "listType": "major",
+      "name": "Cell Biology/Biochemistry",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemical Engineering",
+      "listType": "areas_of_study",
+      "name": "Chemical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemistry, General",
+      "listType": "areas_of_study",
+      "name": "Chemistry, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Civil Engineering, General",
+      "listType": "areas_of_study",
+      "name": "Civil Engineering, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "listType": "areas_of_study",
+      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer and Information Sciences, General",
+      "listType": "areas_of_study",
+      "name": "Computer and Information Sciences, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Engineering, General",
+      "listType": "areas_of_study",
+      "name": "Computer Engineering, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Computer Science & Engineering",
+      "listType": "major",
+      "name": "Computer Science & Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Creative Writing",
+      "listType": "areas_of_study",
+      "name": "Creative Writing",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Drama and Dramatics/Theatre Arts, General",
+      "listType": "areas_of_study",
+      "name": "Drama and Dramatics/Theatre Arts, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSEd",
+      "displayName": "Early Childhood Education",
+      "listType": "major",
+      "name": "Early Childhood Education",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Early Childhood Education and Teaching",
+      "listType": "areas_of_study",
+      "name": "Early Childhood Education and Teaching",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "East Asian Studies",
+      "listType": "areas_of_study",
+      "name": "East Asian Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Econometrics and Quantitative Economics",
+      "listType": "areas_of_study",
+      "name": "Econometrics and Quantitative Economics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Economics, General",
+      "listType": "areas_of_study",
+      "name": "Economics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Education, General",
+      "listType": "areas_of_study",
+      "name": "Education, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Electrical and Electronics Engineering",
+      "listType": "areas_of_study",
+      "name": "Electrical and Electronics Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Engineering",
+      "listType": "major",
+      "name": "Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "English Language and Literature, General",
+      "listType": "areas_of_study",
+      "name": "English Language and Literature, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Science",
+      "listType": "areas_of_study",
+      "name": "Environmental Science",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Studies",
+      "listType": "areas_of_study",
+      "name": "Environmental Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental/Environmental Health Engineering",
+      "listType": "areas_of_study",
+      "name": "Environmental/Environmental Health Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSBA",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/accountingandfinancialmanagement/finance/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Fine/Studio Arts, General",
+      "listType": "areas_of_study",
+      "name": "Fine/Studio Arts, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "French Language and Literature",
+      "listType": "areas_of_study",
+      "name": "French Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geography",
+      "listType": "areas_of_study",
+      "name": "Geography",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geology/Earth Science, General",
+      "listType": "areas_of_study",
+      "name": "Geology/Earth Science, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Geosciences",
+      "listType": "major",
+      "name": "Geosciences",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "German Language and Literature",
+      "listType": "areas_of_study",
+      "name": "German Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History, General",
+      "listType": "areas_of_study",
+      "name": "History, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -942,9 +902,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biophysics",
+      "displayName": "International Business/Trade/Commerce",
       "listType": "areas_of_study",
-      "name": "Biophysics",
+      "name": "International Business/Trade/Commerce",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -955,9 +915,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art/Art Studies, General",
+      "displayName": "International Relations and Affairs",
       "listType": "areas_of_study",
-      "name": "Art/Art Studies, General",
+      "name": "International Relations and Affairs",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -965,6 +925,189 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Italian Studies",
+      "listType": "areas_of_study",
+      "name": "Italian Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Latin American Studies",
+      "listType": "areas_of_study",
+      "name": "Latin American Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Linguistics",
+      "listType": "areas_of_study",
+      "name": "Linguistics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSBA",
+      "displayName": "Management & Organizations",
+      "listType": "major",
+      "name": "Management & Organizations",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/managementandorganizations/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Management Science",
+      "listType": "areas_of_study",
+      "name": "Management Science",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Marketing/Marketing Management, General",
+      "listType": "areas_of_study",
+      "name": "Marketing/Marketing Management, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSBA",
+      "displayName": "Markets, Innovation & Design",
+      "listType": "major",
+      "name": "Markets, Innovation & Design",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/marketsinnovationanddesign/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Mathematical Economics",
+      "listType": "major",
+      "name": "Mathematical Economics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics and Statistics",
+      "listType": "areas_of_study",
+      "name": "Mathematics and Statistics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics, General",
+      "listType": "areas_of_study",
+      "name": "Mathematics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mechanical Engineering",
+      "listType": "areas_of_study",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BSE",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Multi-/Interdisciplinary Studies, Other",
+      "listType": "areas_of_study",
+      "name": "Multi-/Interdisciplinary Studies, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BMus",
+      "displayName": "Music Education",
+      "listType": "major",
+      "name": "Music Education",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -994,6 +1137,19 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Teacher Education",
+      "listType": "areas_of_study",
+      "name": "Music Teacher Education",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
       "displayName": "Music Theory and Composition",
       "listType": "areas_of_study",
       "name": "Music Theory and Composition",
@@ -1004,6 +1160,180 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music, General",
+      "listType": "areas_of_study",
+      "name": "Music, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Neuroscience",
+      "listType": "areas_of_study",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy",
+      "listType": "areas_of_study",
+      "name": "Philosophy",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics, General",
+      "listType": "areas_of_study",
+      "name": "Physics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Political Science and Government, General",
+      "listType": "areas_of_study",
+      "name": "Political Science and Government, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Psychology, General",
+      "listType": "areas_of_study",
+      "name": "Psychology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Religion/Religious Studies",
+      "listType": "areas_of_study",
+      "name": "Religion/Religious Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Russian Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Russian Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sociology, General",
+      "listType": "areas_of_study",
+      "name": "Sociology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Spanish Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Spanish Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BMus",
+      "displayName": "Vocal Performance",
+      "listType": "major",
+      "name": "Vocal Performance",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1020,9 +1350,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Accounting",
+      "displayName": "Women's Studies",
       "listType": "areas_of_study",
-      "name": "Accounting",
+      "name": "Women's Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1033,8 +1363,15 @@
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "official_catalog_observed_partial_scope",
+    "scope": "Bucknell 2026-27 official degree pages: confirmed BS/professional, BSBA, and engineering entries",
+    "sourceIds": [
+      "source_bucknell_2026_27_degree_pages"
+    ],
+    "checkedAt": "2026-10-24",
+    "warnings": [
+      "Partial official scope: Bachelor of Arts majors and some degree-specific catalog distinctions remain to be reviewed."
+    ]
   },
   "anecdotes": [
     {
@@ -1052,8 +1389,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$64,772",
-    "maximumUsd": 64772.0,
-    "minimumUsd": 64772.0,
+    "maximumUsd": 64772,
+    "minimumUsd": 64772,
     "scopes": [
       "private_single_rate"
     ],
@@ -1277,7 +1614,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 64772.0,
+      "amountUsd": 64772,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -1290,7 +1627,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "PA",
-  "studentFacultyRatio": 9.0,
+  "studentFacultyRatio": 9,
   "topPrograms": [
     "Civil Engineering",
     "Electrical Engineering",

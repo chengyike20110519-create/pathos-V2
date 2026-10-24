@@ -5136,6 +5136,19 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed from the 2026-2027 Academic Programs table. Minors, graduate programs, and other non-major entries are excluded."
+    },
+    {
+      "sourceId": "source_bucknell_2026_27_degree_pages",
+      "sourceType": "official_catalog",
+      "publisher": "Bucknell University Course Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "status": "verified",
+      "scope": [
+        "official degree pages: College of Arts & Sciences BS/professional degrees, Freeman College BSBA areas, and College of Engineering areas"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Partial confirmed scope only. BA majors and some catalog-specific degree distinctions are intentionally not inferred from the area index."
     }
   ]
 }
