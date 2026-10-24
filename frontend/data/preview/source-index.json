@@ -5176,6 +5176,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed explicit undergraduate major and bachelor degree program links from the official Programs A-Z page; excluded minors, second majors, adjunct majors, certificates and dual-degree pathways."
+    },
+    {
+      "sourceId": "source_uc_davis_2026_27_undergraduate_programs",
+      "sourceType": "official_catalog",
+      "publisher": "UC Davis General Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.ucdavis.edu/departments-programs-degrees/",
+      "status": "verified",
+      "scope": [
+        "official 2026-27 General Catalog Departments, Programs, & Degrees page",
+        "entries explicitly labeled Bachelor; excludes minors, graduate programs, and certificates"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed degree links explicitly labeled Bachelor from the official catalog; graduate, minor, and certificate entries excluded."
     }
   ]
 }

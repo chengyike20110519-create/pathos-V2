@@ -1,0 +1,1391 @@
+{
+  "universityId": "candidate-v2:university-of-california-davis",
+  "schoolSlug": "university-of-california-davis",
+  "schoolName": "University of California, Davis",
+  "sourceId": "source_uc_davis_2026_27_undergraduate_programs",
+  "sourceUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/",
+  "scope": [
+    "official 2026-27 General Catalog Departments, Programs, & Degrees page",
+    "entries explicitly labeled Bachelor; excludes minors, graduate programs, and certificates"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 125,
+  "entries": [
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Aerospace Science & Engineering",
+      "listType": "major",
+      "name": "Aerospace Science & Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/mechanical-aerospace-engineering/aerospace-science-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "African American & African Studies",
+      "listType": "major",
+      "name": "African American & African Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/african-american-african-studies/african-american-african-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural & Environmental Education",
+      "listType": "major",
+      "name": "Agricultural & Environmental Education",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/animal-science/agricultural-environmental-education-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural & Environmental Sciences",
+      "listType": "major",
+      "name": "Agricultural & Environmental Sciences",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/individual-major/aes-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Agricultural & Environmental Technology",
+      "listType": "major",
+      "name": "Agricultural & Environmental Technology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/biological-agricultural-engineering/agricultural-environmental-technology/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "American Studies",
+      "listType": "major",
+      "name": "American Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/american-studies/american-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Biology",
+      "listType": "major",
+      "name": "Animal Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/entomology-nematology/animal-biology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Science & Management",
+      "listType": "major",
+      "name": "Animal Science & Management",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/animal-science/animal-science-management-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Animal Science",
+      "listType": "major",
+      "name": "Animal Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/animal-science/animal-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/anthropology/anthropology-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/anthropology/anthropology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Chemistry",
+      "listType": "major",
+      "name": "Applied Chemistry",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/chemistry/applied-chemistry-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Mathematics",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/mathematics/applied-mathematics-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Applied Physics",
+      "listType": "major",
+      "name": "Applied Physics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/physics/applied-physics-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/art-history-art-studio/art-history-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Art Studio",
+      "listType": "major",
+      "name": "Art Studio",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/art-history-art-studio/art-studio-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Asian American Studies",
+      "listType": "major",
+      "name": "Asian American Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/asian-american-studies/asian-american-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Atmospheric Science",
+      "listType": "major",
+      "name": "Atmospheric Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/land-air-water-resources/atmospheric-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemical Engineering",
+      "listType": "major",
+      "name": "Biochemical Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/chemical-engineering/biochemical-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biochemistry & Molecular Biology",
+      "listType": "major",
+      "name": "Biochemistry & Molecular Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/molecular-cellular-biology/biochemistry-molecular-biology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/biological-sciences/biological-sciences-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/individual-major/biological-sciences-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/biological-sciences/biological-sciences-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/individual-major/biological-sciences-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Systems Engineering",
+      "listType": "major",
+      "name": "Biological Systems Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/biological-agricultural-engineering/biological-systems-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biological Systems Engineering",
+      "listType": "major",
+      "name": "Biological Systems Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/biological-agricultural-engineering/biological-systems-engineering-bs-ms-integrated/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/biomedical-engineering/biomedical-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Biotechnology",
+      "listType": "major",
+      "name": "Biotechnology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-sciences/biotechnology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Business",
+      "listType": "major",
+      "name": "Business",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/graduate-school-management/business-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cell Biology",
+      "listType": "major",
+      "name": "Cell Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/molecular-cellular-biology/cell-biology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/chemical-engineering/chemical-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemical Physics",
+      "listType": "major",
+      "name": "Chemical Physics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/chemistry/chemical-physics-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/chemistry/chemistry-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/chemistry/chemistry-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chicana/Chicano Studies",
+      "listType": "major",
+      "name": "Chicana/Chicano Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/chicana-chicano-studies/chicana-chicano-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Chinese",
+      "listType": "major",
+      "name": "Chinese",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/east-asian-languages-cultures/chinese-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cinema & Digital Media",
+      "listType": "major",
+      "name": "Cinema & Digital Media",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/cinema-digital-media/cinema-digital-media-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/civil-environmental-engineering/civil-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Classical Civilization",
+      "listType": "major",
+      "name": "Classical Civilization",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/classics/classical-civilization-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Clinical Nutrition",
+      "listType": "major",
+      "name": "Clinical Nutrition",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/nutrition/clinical-nutrition-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/cognitive-science/cognitive-science-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/cognitive-science/cognitive-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Communication",
+      "listType": "major",
+      "name": "Communication",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/communication/communication-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Community & Regional Development",
+      "listType": "major",
+      "name": "Community & Regional Development",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/human-ecology/community-regional-development-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Comparative Literature",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/comparative-literature/comparative-literature-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/electrical-computer-engineering/computer-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science & Engineering",
+      "listType": "major",
+      "name": "Computer Science & Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/computer-science-engineering/computer-science-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/computer-science-engineering/computer-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/statistics/data-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Design",
+      "listType": "major",
+      "name": "Design",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/design/design-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "East Asian Studies",
+      "listType": "major",
+      "name": "East Asian Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/east-asian-studies/east-asian-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Ecological Management & Restoration",
+      "listType": "major",
+      "name": "Ecological Management & Restoration",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-sciences/ecological-management-restoration-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/economics/economics-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical & Computer Engineering",
+      "listType": "major",
+      "name": "Electrical & Computer Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/electrical-computer-engineering/electrical-computer-engineering-bs-ms/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/electrical-computer-engineering/electrical-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/english/english-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Entomology",
+      "listType": "major",
+      "name": "Entomology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/entomology-nematology/entomology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/civil-environmental-engineering/environmental-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Horticulture & Urban Forestry",
+      "listType": "major",
+      "name": "Environmental Horticulture & Urban Forestry",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-sciences/environmental-horticulture-urban-forestry-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Policy Analysis & Planning",
+      "listType": "major",
+      "name": "Environmental Policy Analysis & Planning",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/environmental-science-policy/environmental-policy-analysis-planning-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Science & Management",
+      "listType": "major",
+      "name": "Environmental Science & Management",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/environmental-science-policy/environmental-science-management-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Environmental Toxicology",
+      "listType": "major",
+      "name": "Environmental Toxicology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/environmental-toxicology/environmental-toxicology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Evolution, Ecology & Biodiversity",
+      "listType": "major",
+      "name": "Evolution, Ecology & Biodiversity",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/evolution-ecology/evolution-ecology-biodiversity-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Evolution, Ecology & Biodiversity",
+      "listType": "major",
+      "name": "Evolution, Ecology & Biodiversity",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/evolution-ecology/evolution-ecology-biodiversity-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Food Science",
+      "listType": "major",
+      "name": "Food Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/food-science-technology/food-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/french-italian/french-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Gender, Sexuality, & Women's Studies",
+      "listType": "major",
+      "name": "Gender, Sexuality, & Women's Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/gender-sexuality-womens-studies/gender-sexuality-womens-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Genetics & Genomics",
+      "listType": "major",
+      "name": "Genetics & Genomics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/molecular-cellular-biology/genetics-genomics-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology",
+      "listType": "major",
+      "name": "Geology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/earth-planetary-sciences/geology-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Geology",
+      "listType": "major",
+      "name": "Geology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/earth-planetary-sciences/geology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "German",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/german-russian/german-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Global Disease Biology",
+      "listType": "major",
+      "name": "Global Disease Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-pathology/global-disease-biology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/history/history-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Biology",
+      "listType": "major",
+      "name": "Human Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/neurobiology-physiology-behavior/human-biology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Human Development",
+      "listType": "major",
+      "name": "Human Development",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/human-ecology/human-development-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Hydrology",
+      "listType": "major",
+      "name": "Hydrology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/land-air-water-resources/hydrology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Agricultural Development",
+      "listType": "major",
+      "name": "International Agricultural Development",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-sciences/international-agricultural-development-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "International Relations",
+      "listType": "major",
+      "name": "International Relations",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/political-science/international-relations-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Italian",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/french-italian/italian-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Japanese",
+      "listType": "major",
+      "name": "Japanese",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/east-asian-languages-cultures/japanese-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Landscape Architecture",
+      "listType": "major",
+      "name": "Landscape Architecture",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/human-ecology/landscape-architecture-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Letters & Science",
+      "listType": "major",
+      "name": "Letters & Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/individual-major/ls-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Letters & Science",
+      "listType": "major",
+      "name": "Letters & Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/individual-major/ls-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/linguistics/linguistics-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Managerial Economics",
+      "listType": "major",
+      "name": "Managerial Economics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/agricultural-resource-economics/managerial-economics-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Marine & Coastal Science",
+      "listType": "major",
+      "name": "Marine & Coastal Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/earth-planetary-sciences/marine-coastal-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Materials Science & Engineering",
+      "listType": "major",
+      "name": "Materials Science & Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/materials-science-engineering/materials-science-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematical & Scientific Computation",
+      "listType": "major",
+      "name": "Mathematical & Scientific Computation",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/mathematics/mathematical-scientific-computation-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematical Analytics & Operations Research",
+      "listType": "major",
+      "name": "Mathematical Analytics & Operations Research",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/mathematics/mathematical-analytics-operations-research-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/mathematics/mathematics-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/mathematics/mathematics-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/mechanical-aerospace-engineering/mechanical-engineering-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medicinal Chemistry & Drug Design",
+      "listType": "major",
+      "name": "Medicinal Chemistry & Drug Design",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/chemistry/medicinal-chemistry-drug-design-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Medieval & Early Modern Studies",
+      "listType": "major",
+      "name": "Medieval & Early Modern Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/medieval-early-modern-studies/medieval-early-modern-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Middle East/South Asia Studies",
+      "listType": "major",
+      "name": "Middle East/South Asia Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/middle-east-south-asia-studies/middle-eastsouth-asia-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Molecular & Medical Microbiology",
+      "listType": "major",
+      "name": "Molecular & Medical Microbiology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/microbiology-molecular-genetics/molecular-medical-microbiology-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Molecular & Medical Microbiology",
+      "listType": "major",
+      "name": "Molecular & Medical Microbiology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/microbiology-molecular-genetics/molecular-medical-microbiology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/music/music-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Native American Studies",
+      "listType": "major",
+      "name": "Native American Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/native-american-studies/native-american-studiies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Neurobiology, Physiology, & Behavior",
+      "listType": "major",
+      "name": "Neurobiology, Physiology, & Behavior",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/neurobiology-physiology-behavior/neurobiology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Nutrition Science",
+      "listType": "major",
+      "name": "Nutrition Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/nutrition/nutrition-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/philosophy/philosophy-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/physics/physics-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/physics/physics-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Plant Biology",
+      "listType": "major",
+      "name": "Plant Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-biology/plant-biology-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Plant Biology",
+      "listType": "major",
+      "name": "Plant Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-biology/plant-biology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Plant Sciences",
+      "listType": "major",
+      "name": "Plant Sciences",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-sciences/plant-science-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science—Public Service",
+      "listType": "major",
+      "name": "Political Science—Public Service",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/political-science/political-science-public-service-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/political-science/political-science-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/psychology/psychology-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/psychology/psychology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Religious Studies",
+      "listType": "major",
+      "name": "Religious Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/religion-culture-society/religious-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Russian",
+      "listType": "major",
+      "name": "Russian",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/german-russian/russian-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Science & Technology Studies",
+      "listType": "major",
+      "name": "Science & Technology Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/science-technology-studies/science-technology-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology—Organizational Studies",
+      "listType": "major",
+      "name": "Sociology—Organizational Studies",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/sociology/organizational-studies-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/sociology/sociology-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/spanish-portuguese/spanish-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/statistics/statistics-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/statistics/statistics-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sustainable Agriculture & Food Systems",
+      "listType": "major",
+      "name": "Sustainable Agriculture & Food Systems",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/land-air-water-resources/sustainable-agriculture-food-systems-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Sustainable Environmental Design",
+      "listType": "major",
+      "name": "Sustainable Environmental Design",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/human-ecology/sustainable-environmental-design-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Systems & Synthetic Biology",
+      "listType": "major",
+      "name": "Systems & Synthetic Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/plant-biology/systems-synthetic-biology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Theatre & Dance",
+      "listType": "major",
+      "name": "Theatre & Dance",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/theatre-dance/theatre-dance-ab/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Viticulture & Enology",
+      "listType": "major",
+      "name": "Viticulture & Enology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/viticulture-enology/viticulture-enology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_program",
+      "displayName": "Wildlife, Fish & Conservation Biology",
+      "listType": "major",
+      "name": "Wildlife, Fish & Conservation Biology",
+      "officialUrl": "https://catalog.ucdavis.edu/departments-programs-degrees/wildlife-fish-conservation-biology/wildlife-fish-conservation-biology-bs/",
+      "sourceIds": [
+        "source_uc_davis_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    }
+  ]
+}
