@@ -5302,6 +5302,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed undergraduate index rows with explicit bachelor degree labels; concentrations and minor-only rows excluded."
+    },
+    {
+      "sourceId": "source_washu_2026_27_undergraduate_majors",
+      "sourceType": "official_catalog",
+      "publisher": "Washington University Bulletin",
+      "referenceYear": "2026-27",
+      "url": "https://bulletin.wustl.edu/undergrad/majors/",
+      "status": "verified",
+      "scope": [
+        "official 2026-27 Undergraduate Bulletin all-schools majors directory",
+        "178 named undergraduate major/program entries from official catalog links"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed named undergraduate major/program links from the official all-schools directory; specializations, concentrations, and second-major entries are retained because the official catalog lists them as distinct program records."
     }
   ]
 }

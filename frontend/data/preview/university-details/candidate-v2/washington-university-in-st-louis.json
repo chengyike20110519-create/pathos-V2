@@ -149,9 +149,9 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
+      "displayName": "Accounting",
       "listType": "areas_of_study",
-      "name": "Computer Science",
+      "name": "Accounting",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -161,10 +161,54 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting, BSBA",
+      "listType": "major",
+      "name": "Accounting, BSBA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/accounting-bsba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting, Second Major",
+      "listType": "major",
+      "name": "Accounting, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-accounting/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Admission Procedures",
+      "listType": "major",
+      "name": "Admission Procedures",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/admissions/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African & African American Studies Major",
+      "listType": "major",
+      "name": "African & African American Studies Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/africanandafricanamericanstudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Finance, General",
+      "displayName": "African-American/Black Studies",
       "listType": "areas_of_study",
-      "name": "Finance, General",
+      "name": "African-American/Black Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -174,10 +218,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Culture Studies Major",
+      "listType": "major",
+      "name": "American Culture Studies Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/americanculturestudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Experimental Psychology",
+      "displayName": "American/United States Studies/Civilization",
       "listType": "areas_of_study",
-      "name": "Experimental Psychology",
+      "name": "American/United States Studies/Civilization",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -187,10 +242,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ancient Studies Major",
+      "listType": "major",
+      "name": "Ancient Studies Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/ancientstudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
+      "displayName": "Ancient Studies/Civilization",
       "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
+      "name": "Ancient Studies/Civilization",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -200,225 +266,15 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology Major",
+      "listType": "major",
+      "name": "Anthropology Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/anthropology-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marketing/Marketing Management, General",
-      "listType": "areas_of_study",
-      "name": "Marketing/Marketing Management, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cognitive Science, General",
-      "listType": "areas_of_study",
-      "name": "Cognitive Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Medical Anthropology",
-      "listType": "areas_of_study",
-      "name": "Medical Anthropology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Design and Visual Communications, General",
-      "listType": "areas_of_study",
-      "name": "Design and Visual Communications, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business/Managerial Economics",
-      "listType": "areas_of_study",
-      "name": "Business/Managerial Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry, Biophysics and Molecular Biology, Other",
-      "listType": "areas_of_study",
-      "name": "Biochemistry, Biophysics and Molecular Biology, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Computer Science",
-      "listType": "areas_of_study",
-      "name": "Mathematics and Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Human Resources Management/Personnel Administration, General",
-      "listType": "areas_of_study",
-      "name": "Human Resources Management/Personnel Administration, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cognitive Psychology and Psycholinguistics",
-      "listType": "areas_of_study",
-      "name": "Cognitive Psychology and Psycholinguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -434,10 +290,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics Major",
+      "listType": "major",
+      "name": "Applied Mathematics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/appliedmathematics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Entrepreneurship/Entrepreneurial Studies",
+      "displayName": "Applied Mathematics, General",
       "listType": "areas_of_study",
-      "name": "Entrepreneurship/Entrepreneurial Studies",
+      "name": "Applied Mathematics, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -447,10 +314,54 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Science (Chemical Engineering) (EECE), BS",
+      "listType": "major",
+      "name": "Applied Science (Chemical Engineering) (EECE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/eece-applied-science-chemical-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Science (Electrical Engineering) (ESE), BS",
+      "listType": "major",
+      "name": "Applied Science (Electrical Engineering) (ESE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/ese-applied-science-electrical-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Science (Mechanical Engineering) (MEMS), BS",
+      "listType": "major",
+      "name": "Applied Science (Mechanical Engineering) (MEMS), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/mems-applied-science-mechanical-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Science (Systems Science & Engineering) (ESE), BS",
+      "listType": "major",
+      "name": "Applied Science (Systems Science & Engineering) (ESE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/ese-applied-science-systems-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
+      "displayName": "Arabic Language and Literature",
       "listType": "areas_of_study",
-      "name": "Sociology, General",
+      "name": "Arabic Language and Literature",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -460,10 +371,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arabic Major",
+      "listType": "major",
+      "name": "Arabic Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/arabic-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
+      "displayName": "Archeology",
       "listType": "areas_of_study",
-      "name": "Chemical Engineering",
+      "name": "Archeology",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -486,10 +408,212 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/architecture/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture, BA",
+      "listType": "major",
+      "name": "Architecture, BA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/architecture/majors/architecture-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture, BS",
+      "listType": "major",
+      "name": "Architecture, BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/architecture/majors/architecture-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art",
+      "listType": "major",
+      "name": "Art",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History and Archaeology Major",
+      "listType": "major",
+      "name": "Art History and Archaeology Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/arthistoryandarchaeology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
+      "displayName": "Art History, Criticism and Conservation",
       "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
+      "name": "Art History, Criticism and Conservation",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art with Painting Concentration, BFA",
+      "listType": "major",
+      "name": "Art with Painting Concentration, BFA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/art-painting-bfa/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art with Photography Concentration, BFA",
+      "listType": "major",
+      "name": "Art with Photography Concentration, BFA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/art-photography-bfa/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art with Printmaking Concentration, BFA",
+      "listType": "major",
+      "name": "Art with Printmaking Concentration, BFA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/art-printmaking-bfa/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art with Sculpture Concentration, BFA",
+      "listType": "major",
+      "name": "Art with Sculpture Concentration, BFA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/art-sculpture-bfa/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art with Time-Based + Media Art Concentration, BFA",
+      "listType": "major",
+      "name": "Art with Time-Based + Media Art Concentration, BFA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/art-time-based-media-bfa/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art, BA",
+      "listType": "major",
+      "name": "Art, BA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/art-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art, BFA",
+      "listType": "major",
+      "name": "Art, BFA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/art-bfa/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art, Second Major",
+      "listType": "major",
+      "name": "Art, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/secondmajor-art/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arts &​ Sciences",
+      "listType": "major",
+      "name": "Arts &​ Sciences",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Astrophysics",
+      "listType": "areas_of_study",
+      "name": "Astrophysics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysics Major",
+      "listType": "major",
+      "name": "Astrophysics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/astrophysics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry Major",
+      "listType": "major",
+      "name": "Biochemistry Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/biochemistry-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biochemistry, Biophysics and Molecular Biology, Other",
+      "listType": "areas_of_study",
+      "name": "Biochemistry, Biophysics and Molecular Biology, Other",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -500,9 +624,88 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Accounting",
+      "displayName": "Bioengineering and Biomedical Engineering",
       "listType": "areas_of_study",
-      "name": "Accounting",
+      "name": "Bioengineering and Biomedical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology Major",
+      "listType": "major",
+      "name": "Biology Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/biology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology Major, Ecology and Evolution Specialization",
+      "listType": "major",
+      "name": "Biology Major, Ecology and Evolution Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/biology-ecology-evolution-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology Major, Genomics and Computational Biology Specialization",
+      "listType": "major",
+      "name": "Biology Major, Genomics and Computational Biology Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/biology-genomics-computational-biology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology Major, Microbiology Specialization",
+      "listType": "major",
+      "name": "Biology Major, Microbiology Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/biology-microbiology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology Major, Molecular Biology and Biochemistry Specialization",
+      "listType": "major",
+      "name": "Biology Major, Molecular Biology and Biochemistry Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/biology-molecular-biology-biochemistry-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology Major, Neuroscience Specialization",
+      "listType": "major",
+      "name": "Biology Major, Neuroscience Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/biology-neuroscience-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biology/Biological Sciences, General",
+      "listType": "areas_of_study",
+      "name": "Biology/Biological Sciences, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -513,9 +716,68 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Information Technology",
+      "displayName": "Biomathematics, Bioinformatics, and Computational Biology, Other",
       "listType": "areas_of_study",
-      "name": "Information Technology",
+      "name": "Biomathematics, Bioinformatics, and Computational Biology, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering (BME), BS",
+      "listType": "major",
+      "name": "Biomedical Engineering (BME), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/bme-biomedical-engineering-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business",
+      "listType": "major",
+      "name": "Business",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Business Administration and Management, General",
+      "listType": "areas_of_study",
+      "name": "Business Administration and Management, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business and Computer Science (CSE), BS",
+      "listType": "major",
+      "name": "Business and Computer Science (CSE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-business-computer-science-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Business/Managerial Economics",
+      "listType": "areas_of_study",
+      "name": "Business/Managerial Economics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -526,9 +788,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
+      "displayName": "Chemical Engineering",
       "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
+      "name": "Chemical Engineering",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -538,10 +800,43 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering (EECE), BS",
+      "listType": "major",
+      "name": "Chemical Engineering (EECE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/eece-chemical-engineering-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry Major",
+      "listType": "major",
+      "name": "Chemistry Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/chemistry-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry Major, Biochemistry Specialization",
+      "listType": "major",
+      "name": "Chemistry Major, Biochemistry Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/chemistry-biochemistry-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Knowledge Management",
+      "displayName": "Chemistry, General",
       "listType": "areas_of_study",
-      "name": "Knowledge Management",
+      "name": "Chemistry, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -565,243 +860,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
+      "displayName": "Chinese Language and Literature",
       "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Systems Engineering",
-      "listType": "areas_of_study",
-      "name": "Systems Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Logistics, Materials, and Supply Chain Management",
-      "listType": "areas_of_study",
-      "name": "Logistics, Materials, and Supply Chain Management",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Environmental Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biomathematics, Bioinformatics, and Computational Biology, Other",
-      "listType": "areas_of_study",
-      "name": "Biomathematics, Bioinformatics, and Computational Biology, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Microbiology, General",
-      "listType": "areas_of_study",
-      "name": "Microbiology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "American/United States Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "American/United States Studies/Civilization",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Creative Writing",
-      "listType": "areas_of_study",
-      "name": "Creative Writing",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Biology",
-      "listType": "areas_of_study",
-      "name": "Environmental Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architecture",
-      "listType": "areas_of_study",
-      "name": "Architecture",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education, General",
-      "listType": "areas_of_study",
-      "name": "Education, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Health/Health Care Administration/Management",
-      "listType": "areas_of_study",
-      "name": "Health/Health Care Administration/Management",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
+      "name": "Chinese Language and Literature",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -825,9 +886,33 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
+      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
       "listType": "areas_of_study",
-      "name": "Philosophy",
+      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics Major",
+      "listType": "major",
+      "name": "Classics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/classics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Cognitive Psychology and Psycholinguistics",
+      "listType": "areas_of_study",
+      "name": "Cognitive Psychology and Psycholinguistics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -838,9 +923,90 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fashion/Apparel Design",
+      "displayName": "Cognitive Science, General",
       "listType": "areas_of_study",
-      "name": "Fashion/Apparel Design",
+      "name": "Cognitive Science, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Design, BFA",
+      "listType": "major",
+      "name": "Communication Design, BFA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/communicationdesign-bfa/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Comparative Literature",
+      "listType": "areas_of_study",
+      "name": "Comparative Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature and Thought Major",
+      "listType": "major",
+      "name": "Comparative Literature and Thought Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/complitandthought-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature and Thought Major, Comparative Arts Specialization",
+      "listType": "major",
+      "name": "Comparative Literature and Thought Major, Comparative Arts Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/complitandthought-compart-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering (CSE), BS",
+      "listType": "major",
+      "name": "Computer Engineering (CSE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-computer-engineering-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering (ESE), BS",
+      "listType": "major",
+      "name": "Computer Engineering (ESE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/ese-computer-engineering-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Engineering, General",
+      "listType": "areas_of_study",
+      "name": "Computer Engineering, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -851,9 +1017,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering/Industrial Management",
+      "displayName": "Computer Science",
       "listType": "areas_of_study",
-      "name": "Engineering/Industrial Management",
+      "name": "Computer Science",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -863,10 +1029,65 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science (CSE), BS",
+      "listType": "major",
+      "name": "Computer Science (CSE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-computer-science-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science (CSE), Second Major",
+      "listType": "major",
+      "name": "Computer Science (CSE), Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-secondmajor-computer-science/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Economics (CSE), BS",
+      "listType": "major",
+      "name": "Computer Science + Economics (CSE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-applied-computer-science-economics-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Mathematics (CSE), BS",
+      "listType": "major",
+      "name": "Computer Science + Mathematics (CSE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-applied-computer-science-math-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Mathematics (CSE), Second Major",
+      "listType": "major",
+      "name": "Computer Science + Mathematics (CSE), Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-secondmajor-computer-science-mathematics/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
+      "displayName": "Creative Writing",
       "listType": "areas_of_study",
-      "name": "French Language and Literature",
+      "name": "Creative Writing",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -876,82 +1097,15 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Statistics, General",
-      "listType": "areas_of_study",
-      "name": "Statistics, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance Major",
+      "listType": "major",
+      "name": "Dance Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/dance-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics and Computer Science",
-      "listType": "areas_of_study",
-      "name": "Economics and Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American Studies",
-      "listType": "areas_of_study",
-      "name": "Latin American Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chinese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Chinese Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -967,10 +1121,43 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science (CSE), BS",
+      "listType": "major",
+      "name": "Data Science (CSE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-data-science-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science (CSE), Second Major",
+      "listType": "major",
+      "name": "Data Science (CSE), Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/cse-secondmajor-data-science/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science Major",
+      "listType": "major",
+      "name": "Data Science Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/datascience-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
+      "displayName": "Design and Visual Communications, General",
       "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
+      "name": "Design and Visual Communications, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -980,10 +1167,98 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design with Communication Concentration, BA",
+      "listType": "major",
+      "name": "Design with Communication Concentration, BA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/design-communication-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design with Fashion Concentration, BA",
+      "listType": "major",
+      "name": "Design with Fashion Concentration, BA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/design-fashion-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design, BA",
+      "listType": "major",
+      "name": "Design, BA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/design-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design, Second Major",
+      "listType": "major",
+      "name": "Design, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/secondmajor-design/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design: Communication Concentration, Second Major",
+      "listType": "major",
+      "name": "Design: Communication Concentration, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/secondmajor-design-communication/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design: Fashion Concentration, Second Major",
+      "listType": "major",
+      "name": "Design: Fashion Concentration, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/secondmajor-design-fashion/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Double Majors and the Pre-Medical Program (EECE)",
+      "listType": "major",
+      "name": "Double Majors and the Pre-Medical Program (EECE)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/eece-double-majors-premed/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Download Page (PDF)",
+      "listType": "major",
+      "name": "Download Page (PDF)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/majors/majors.pdf",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
+      "displayName": "Drama and Dramatics/Theatre Arts, General",
       "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
+      "name": "Drama and Dramatics/Theatre Arts, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -993,153 +1268,76 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Ancient Studies/Civilization",
+      "degreeType": "undergraduate_major",
+      "displayName": "Drama Major",
+      "listType": "major",
+      "name": "Drama Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/drama-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth Science Major",
+      "listType": "major",
+      "name": "Earth Science Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/earthscience-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages and Cultures Major",
+      "listType": "major",
+      "name": "East Asian Languages and Cultures Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/ealc-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages and Cultures Major, Chinese Specialization",
+      "listType": "major",
+      "name": "East Asian Languages and Cultures Major, Chinese Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/ealc-chinese-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages and Cultures Major, Japanese Specialization",
+      "listType": "major",
+      "name": "East Asian Languages and Cultures Major, Japanese Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/ealc-japanese-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages and Cultures Major, Korean Specialization",
+      "listType": "major",
+      "name": "East Asian Languages and Cultures Major, Korean Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/ealc-korean-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
+      "displayName": "East Asian Studies",
       "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Health Services/Allied Health/Health Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Health Services/Allied Health/Health Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Natural Resources Management and Policy, General",
-      "listType": "areas_of_study",
-      "name": "Environmental/Natural Resources Management and Policy, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Environmental Health Engineering",
-      "listType": "areas_of_study",
-      "name": "Environmental/Environmental Health Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Applied Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Relations, Advertising, and Applied Communication",
-      "listType": "areas_of_study",
-      "name": "Public Relations, Advertising, and Applied Communication",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Secondary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Secondary Education and Teaching",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Japanese Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "name": "East Asian Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1163,9 +1361,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
+      "displayName": "Econometrics and Quantitative Economics",
       "listType": "areas_of_study",
-      "name": "Psychology, General",
+      "name": "Econometrics and Quantitative Economics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1176,9 +1374,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Painting",
+      "displayName": "Economics and Computer Science",
       "listType": "areas_of_study",
-      "name": "Painting",
+      "name": "Economics and Computer Science",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1188,108 +1386,48 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Computer Science Major",
+      "listType": "major",
+      "name": "Economics and Computer Science Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/economicsandcompsci-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Studies",
-      "listType": "areas_of_study",
-      "name": "East Asian Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Strategy, BSBA",
+      "listType": "major",
+      "name": "Economics and Strategy, BSBA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/economicsandstrategy-bsba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Engineering, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Strategy, Second Major",
+      "listType": "major",
+      "name": "Economics and Strategy, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-economicsandstrategy/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Korean Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Korean Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics Major",
+      "listType": "major",
+      "name": "Economics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/economics-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Germanic Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Germanic Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sustainability Studies",
-      "listType": "areas_of_study",
-      "name": "Sustainability Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy, Other",
-      "listType": "areas_of_study",
-      "name": "Philosophy, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Astrophysics",
-      "listType": "areas_of_study",
-      "name": "Astrophysics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1306,9 +1444,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Urban Studies/Affairs",
+      "displayName": "Education, General",
       "listType": "areas_of_study",
-      "name": "Urban Studies/Affairs",
+      "name": "Education, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1318,10 +1456,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Educational Studies Major",
+      "listType": "major",
+      "name": "Educational Studies Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/educationalstudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Arabic Language and Literature",
+      "displayName": "Electrical and Electronics Engineering",
       "listType": "areas_of_study",
-      "name": "Arabic Language and Literature",
+      "name": "Electrical and Electronics Engineering",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1329,6 +1478,28 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering (ESE), BS",
+      "listType": "major",
+      "name": "Electrical Engineering (ESE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/ese-electrical-engineering-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering (ESE), Second Major",
+      "listType": "major",
+      "name": "Electrical Engineering (ESE), Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/ese-secondmajor-electrical-engineering/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1344,10 +1515,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering",
+      "listType": "major",
+      "name": "Engineering",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Junior High/Intermediate/Middle School Education and Teaching",
+      "displayName": "Engineering, General",
       "listType": "areas_of_study",
-      "name": "Junior High/Intermediate/Middle School Education and Teaching",
+      "name": "Engineering, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1371,9 +1553,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Romance Languages, Literatures, and Linguistics, General",
+      "displayName": "Engineering/Industrial Management",
       "listType": "areas_of_study",
-      "name": "Romance Languages, Literatures, and Linguistics, General",
+      "name": "Engineering/Industrial Management",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1384,9 +1566,184 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Humanities/Humanistic Studies",
+      "displayName": "English Language and Literature, General",
       "listType": "areas_of_study",
-      "name": "Humanities/Humanistic Studies",
+      "name": "English Language and Literature, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English Literature Major",
+      "listType": "major",
+      "name": "English Literature Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/englishlit-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English Literature Major, Creative Writing Specialization",
+      "listType": "major",
+      "name": "English Literature Major, Creative Writing Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/englishlit-creativewriting-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English Literature Major, Publishing Specialization",
+      "listType": "major",
+      "name": "English Literature Major, Publishing Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/englishlit-publishing-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "English/Language Arts Teacher Education",
+      "listType": "areas_of_study",
+      "name": "English/Language Arts Teacher Education",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entrepreneurship, BSBA",
+      "listType": "major",
+      "name": "Entrepreneurship, BSBA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/entrepreneurship-bsba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entrepreneurship, Second Major",
+      "listType": "major",
+      "name": "Entrepreneurship, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-entrepreneurship/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Entrepreneurship/Entrepreneurial Studies",
+      "listType": "areas_of_study",
+      "name": "Entrepreneurship/Entrepreneurial Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Analysis Major",
+      "listType": "major",
+      "name": "Environmental Analysis Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/environmentalanalysis-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Biology",
+      "listType": "areas_of_study",
+      "name": "Environmental Biology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Biology Major",
+      "listType": "major",
+      "name": "Environmental Biology Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/environmentalbiology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering (EECE), BS",
+      "listType": "major",
+      "name": "Environmental Engineering (EECE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/eece-environmental-engineering-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Policy Major",
+      "listType": "major",
+      "name": "Environmental Policy Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/environmentalpolicy-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Science",
+      "listType": "areas_of_study",
+      "name": "Environmental Science",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science Major",
+      "listType": "major",
+      "name": "Environmental Science Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/environmentalscience-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Studies",
+      "listType": "areas_of_study",
+      "name": "Environmental Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1397,9 +1754,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, Other",
+      "displayName": "Environmental/Environmental Health Engineering",
       "listType": "areas_of_study",
-      "name": "Mathematics, Other",
+      "name": "Environmental/Environmental Health Engineering",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1407,6 +1764,231 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental/Natural Resources Management and Policy, General",
+      "listType": "areas_of_study",
+      "name": "Environmental/Natural Resources Management and Policy, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
+      "listType": "areas_of_study",
+      "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Experimental Psychology",
+      "listType": "areas_of_study",
+      "name": "Experimental Psychology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fashion Design, BFA",
+      "listType": "major",
+      "name": "Fashion Design, BFA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/art/majors/fashiondesign-bfa/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Fashion/Apparel Design",
+      "listType": "areas_of_study",
+      "name": "Fashion/Apparel Design",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Media Studies Major",
+      "listType": "major",
+      "name": "Film and Media Studies Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/filmandmediastudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Media Studies Major, Film and Media Production Specialization",
+      "listType": "major",
+      "name": "Film and Media Studies Major, Film and Media Production Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/filmandmediastudies-production-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Film/Cinema/Media Studies",
+      "listType": "areas_of_study",
+      "name": "Film/Cinema/Media Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance, BSBA",
+      "listType": "major",
+      "name": "Finance, BSBA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/finance-bsba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Finance, General",
+      "listType": "areas_of_study",
+      "name": "Finance, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance, Second Major",
+      "listType": "major",
+      "name": "Finance, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-finance/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Economics Specialization for Economics Majors",
+      "listType": "major",
+      "name": "Financial Economics Specialization for Economics Majors",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/economics-financialecon-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Engineering (ESE), Second Major",
+      "listType": "major",
+      "name": "Financial Engineering (ESE), Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/ese-secondmajor-financial-engineering/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Engineering, Second Major",
+      "listType": "major",
+      "name": "Financial Engineering, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-financialengineering/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Engineering, Second Major for BSBA Students",
+      "listType": "major",
+      "name": "Financial Engineering, Second Major for BSBA Students",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/financialengineering-bsba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Support",
+      "listType": "major",
+      "name": "Financial Support",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/financialsupport/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Fine/Studio Arts, General",
+      "listType": "areas_of_study",
+      "name": "Fine/Studio Arts, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "French Language and Literature",
+      "listType": "areas_of_study",
+      "name": "French Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French Major",
+      "listType": "major",
+      "name": "French Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/french-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1436,6 +2018,257 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geology/Earth Science, General",
+      "listType": "areas_of_study",
+      "name": "Geology/Earth Science, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geophysics and Seismology",
+      "listType": "areas_of_study",
+      "name": "Geophysics and Seismology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Germanic Languages and Literatures Major",
+      "listType": "major",
+      "name": "Germanic Languages and Literatures Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/germaniclanguagesandliteratures-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Germanic Languages, Literatures, and Linguistics, General",
+      "listType": "areas_of_study",
+      "name": "Germanic Languages, Literatures, and Linguistics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies Major, Development Concentration",
+      "listType": "major",
+      "name": "Global Studies Major, Development Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/globalstudies-development/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies Major, Eurasian Studies Concentration",
+      "listType": "major",
+      "name": "Global Studies Major, Eurasian Studies Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/globalstudies-eurasianstudies/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies Major, European Studies Concentration",
+      "listType": "major",
+      "name": "Global Studies Major, European Studies Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/globalstudies-europeanstudies/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies Major, Global Asias Concentration",
+      "listType": "major",
+      "name": "Global Studies Major, Global Asias Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/globalstudies-globalasias/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies Major, Global Cultural Studies Concentration",
+      "listType": "major",
+      "name": "Global Studies Major, Global Cultural Studies Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/globalstudies-globalculturalstudies/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies Major, International Affairs Concentration",
+      "listType": "major",
+      "name": "Global Studies Major, International Affairs Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/globalstudies-internationalaffairs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Care Management, BSBA",
+      "listType": "major",
+      "name": "Health Care Management, BSBA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/healthcaremanagement-bsba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Care Management, Second Major",
+      "listType": "major",
+      "name": "Health Care Management, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-healthcaremanagement/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Health Services/Allied Health/Health Sciences, General",
+      "listType": "areas_of_study",
+      "name": "Health Services/Allied Health/Health Sciences, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Health/Health Care Administration/Management",
+      "listType": "areas_of_study",
+      "name": "Health/Health Care Administration/Management",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Health/Medical Preparatory Programs, Other",
+      "listType": "areas_of_study",
+      "name": "Health/Medical Preparatory Programs, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Hebrew Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Hebrew Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hebrew Major",
+      "listType": "major",
+      "name": "Hebrew Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/hebrew-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History Major",
+      "listType": "major",
+      "name": "History Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/history-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History, General",
+      "listType": "areas_of_study",
+      "name": "History, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Human Resources Management/Personnel Administration, General",
+      "listType": "areas_of_study",
+      "name": "Human Resources Management/Personnel Administration, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Humanities/Humanistic Studies",
+      "listType": "areas_of_study",
+      "name": "Humanities/Humanistic Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
       "displayName": "Industrial and Organizational Psychology",
       "listType": "areas_of_study",
       "name": "Industrial and Organizational Psychology",
@@ -1446,6 +2279,30 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Information Technology",
+      "listType": "areas_of_study",
+      "name": "Information Technology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Opportunities",
+      "listType": "major",
+      "name": "Interdisciplinary Opportunities",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/interdisciplinaryopportunities/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1462,9 +2319,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sculpture",
+      "displayName": "International Relations and Affairs",
       "listType": "areas_of_study",
-      "name": "Sculpture",
+      "name": "International Relations and Affairs",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1475,74 +2332,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Near and Middle Eastern Studies",
+      "displayName": "International/Globalization Studies",
       "listType": "areas_of_study",
-      "name": "Near and Middle Eastern Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mass Communication/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Mass Communication/Media Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Journalism",
-      "listType": "areas_of_study",
-      "name": "Journalism",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English/Language Arts Teacher Education",
-      "listType": "areas_of_study",
-      "name": "English/Language Arts Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Science Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Social Science Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Comparative Literature",
-      "listType": "areas_of_study",
-      "name": "Comparative Literature",
+      "name": "International/Globalization Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1578,10 +2370,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian Major",
+      "listType": "major",
+      "name": "Italian Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/italian-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hebrew Language and Literature",
+      "displayName": "Japanese Language and Literature",
       "listType": "areas_of_study",
-      "name": "Hebrew Language and Literature",
+      "name": "Japanese Language and Literature",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1589,6 +2392,104 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish, Islamic, and Middle Eastern Studies Major, Comparative Jewish and Islamic Studies Concentration",
+      "listType": "major",
+      "name": "Jewish, Islamic, and Middle Eastern Studies Major, Comparative Jewish and Islamic Studies Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/jimes-comparative-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish, Islamic, and Middle Eastern Studies Major, Modern Middle Eastern Studies Concentration",
+      "listType": "major",
+      "name": "Jewish, Islamic, and Middle Eastern Studies Major, Modern Middle Eastern Studies Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/jimes-modernstudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Journalism",
+      "listType": "areas_of_study",
+      "name": "Journalism",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Junior High/Intermediate/Middle School Education and Teaching",
+      "listType": "areas_of_study",
+      "name": "Junior High/Intermediate/Middle School Education and Teaching",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Knowledge Management",
+      "listType": "areas_of_study",
+      "name": "Knowledge Management",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Korean Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Korean Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Latin American Studies",
+      "listType": "areas_of_study",
+      "name": "Latin American Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American Studies Major",
+      "listType": "major",
+      "name": "Latin American Studies Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/latinamericanstudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1605,9 +2506,542 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
+      "displayName": "Linguistics",
+      "listType": "areas_of_study",
+      "name": "Linguistics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics Major",
+      "listType": "major",
+      "name": "Linguistics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/linguistics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Logistics, Materials, and Supply Chain Management",
+      "listType": "areas_of_study",
+      "name": "Logistics, Materials, and Supply Chain Management",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing, BSBA",
+      "listType": "major",
+      "name": "Marketing, BSBA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/marketing-bsba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing, Second Major",
+      "listType": "major",
+      "name": "Marketing, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-marketing/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Marketing/Marketing Management, General",
+      "listType": "areas_of_study",
+      "name": "Marketing/Marketing Management, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mass Communication/Media Studies",
+      "listType": "areas_of_study",
+      "name": "Mass Communication/Media Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematical Sciences Major",
+      "listType": "major",
+      "name": "Mathematical Sciences Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/mathematicalsciences-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics and Computer Science",
+      "listType": "areas_of_study",
+      "name": "Mathematics and Computer Science",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Computer Science Major",
+      "listType": "major",
+      "name": "Mathematics and Computer Science Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/mathematicsandcompsci-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Economics Major",
+      "listType": "major",
+      "name": "Mathematics and Economics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/mathematicsandeconomics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics Major",
+      "listType": "major",
+      "name": "Mathematics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/mathematics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics, General",
+      "listType": "areas_of_study",
+      "name": "Mathematics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics, Other",
+      "listType": "areas_of_study",
+      "name": "Mathematics, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mechanical Engineering",
+      "listType": "areas_of_study",
+      "name": "Mechanical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering (MEMS), BS",
+      "listType": "major",
+      "name": "Mechanical Engineering (MEMS), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/mems-mechanical-engineering-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Medical Anthropology",
+      "listType": "areas_of_study",
+      "name": "Medical Anthropology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Microbiology, General",
+      "listType": "areas_of_study",
+      "name": "Microbiology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Minors (all schools)",
+      "listType": "major",
+      "name": "Minors (all schools)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/minors/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
       "displayName": "Multi-/Interdisciplinary Studies, General",
       "listType": "areas_of_study",
       "name": "Multi-/Interdisciplinary Studies, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Multi-/Interdisciplinary Studies, Other",
+      "listType": "areas_of_study",
+      "name": "Multi-/Interdisciplinary Studies, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Major (BA)",
+      "listType": "major",
+      "name": "Music Major (BA)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/music-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Major (BMus)",
+      "listType": "major",
+      "name": "Music Major (BMus)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/music-bmus/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Major, Composition Concentration (BMus)",
+      "listType": "major",
+      "name": "Music Major, Composition Concentration (BMus)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/bmus-composition/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Major, General Concentration (BMus)",
+      "listType": "major",
+      "name": "Music Major, General Concentration (BMus)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/bmus-general/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Major, History and Culture Concentration (BMus)",
+      "listType": "major",
+      "name": "Music Major, History and Culture Concentration (BMus)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/bmus-history-culture/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Major, Performance Concentration (BMus)",
+      "listType": "major",
+      "name": "Music Major, Performance Concentration (BMus)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/bmus-performance/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Major, Theory Concentration (BMus)",
+      "listType": "major",
+      "name": "Music Major, Theory Concentration (BMus)",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/bmus-theory/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music, General",
+      "listType": "areas_of_study",
+      "name": "Music, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Near and Middle Eastern Studies",
+      "listType": "areas_of_study",
+      "name": "Near and Middle Eastern Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Neuroscience",
+      "listType": "areas_of_study",
+      "name": "Neuroscience",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Organization and Strategic Management, BSBA",
+      "listType": "major",
+      "name": "Organization and Strategic Management, BSBA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/organizationstrategicmgmt-bsba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Organization and Strategic Management, Second Major",
+      "listType": "major",
+      "name": "Organization and Strategic Management, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-organizationstrategicmgmt/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Painting",
+      "listType": "areas_of_study",
+      "name": "Painting",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy",
+      "listType": "areas_of_study",
+      "name": "Philosophy",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy Major",
+      "listType": "major",
+      "name": "Philosophy Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/philosophy-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy Major, Law and Policy Specialization",
+      "listType": "major",
+      "name": "Philosophy Major, Law and Policy Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/philosophy-lawandpolicy-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy Major, Philosophy of Science Specialization",
+      "listType": "major",
+      "name": "Philosophy Major, Philosophy of Science Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/philosophy-philofscience-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy Major, Philosophy Research Specialization",
+      "listType": "major",
+      "name": "Philosophy Major, Philosophy Research Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/philosophy-philresearch-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Philosophy, Other",
+      "listType": "areas_of_study",
+      "name": "Philosophy, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy-Neuroscience-Psychology Major, Cognitive Neuroscience Concentration",
+      "listType": "major",
+      "name": "Philosophy-Neuroscience-Psychology Major, Cognitive Neuroscience Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pnp-cognitiveneuroscience-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy-Neuroscience-Psychology Major, Language Cognition and Culture Concentration",
+      "listType": "major",
+      "name": "Philosophy-Neuroscience-Psychology Major, Language Cognition and Culture Concentration",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pnp-languagecognitionandculture-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Photography",
+      "listType": "areas_of_study",
+      "name": "Photography",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics Major",
+      "listType": "major",
+      "name": "Physics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/physics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics Major, Biophysics Specialization",
+      "listType": "major",
+      "name": "Physics Major, Biophysics Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/physics-biophysics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics, General",
+      "listType": "areas_of_study",
+      "name": "Physics, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1630,10 +3064,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Planetary Science Major",
+      "listType": "major",
+      "name": "Planetary Science Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/planetaryscience-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geophysics and Seismology",
+      "displayName": "Political Science and Government, General",
       "listType": "areas_of_study",
-      "name": "Geophysics and Seismology",
+      "name": "Political Science and Government, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1643,43 +3088,70 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Archeology",
-      "listType": "areas_of_study",
-      "name": "Archeology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science Major",
+      "listType": "major",
+      "name": "Political Science Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/politicalscience-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Relations and Affairs",
-      "listType": "areas_of_study",
-      "name": "International Relations and Affairs",
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science Major, American Politics Specialization",
+      "listType": "major",
+      "name": "Political Science Major, American Politics Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/politicalscience-americanpolitics-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Photography",
-      "listType": "areas_of_study",
-      "name": "Photography",
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science Major, Comparative Politics Specialization",
+      "listType": "major",
+      "name": "Political Science Major, Comparative Politics Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/politicalscience-comparativepolitics-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_washu_2026_27_undergraduate_majors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science Major, International Politics Specialization",
+      "listType": "major",
+      "name": "Political Science Major, International Politics Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/politicalscience-internationalpolitics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science Major, Political Methodology Specialization",
+      "listType": "major",
+      "name": "Political Science Major, Political Methodology Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/politicalscience-politicalmethodology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science Major, Political Theory Specialization",
+      "listType": "major",
+      "name": "Political Science Major, Political Theory Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/politicalscience-politicaltheory-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1695,10 +3167,155 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences Major",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences Major, Cognition in Children Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences Major, Cognition in Children Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-cognitioninchildren-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences Major, Cognitive Neuroscience Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences Major, Cognitive Neuroscience Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-cognitiveneuroscience-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences Major, Experimental Psychopathology Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences Major, Experimental Psychopathology Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-experimentalpsychopathology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences Major, Lifespan Development Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences Major, Lifespan Development Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-lifespandevelopment-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences Major, Personality and Individual Differences Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences Major, Personality and Individual Differences Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-personalityandindivdiff-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences: Cognitive Neuroscience Major",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences: Cognitive Neuroscience Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/cognitiveneuroscience-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences: Cognitive Neuroscience Major, Cognition in Children Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences: Cognitive Neuroscience Major, Cognition in Children Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-cn-cognitioninchildren-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences: Cognitive Neuroscience Major, Experimental Psychopathology Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences: Cognitive Neuroscience Major, Experimental Psychopathology Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-cn-experimentalpsychopathology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences: Cognitive Neuroscience Major, Lifespan Development Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences: Cognitive Neuroscience Major, Lifespan Development Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-cn-lifespandevelopment-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychological & Brain Sciences: Cognitive Neuroscience Major, Personality and Individual Differences Specialization",
+      "listType": "major",
+      "name": "Psychological & Brain Sciences: Cognitive Neuroscience Major, Personality and Individual Differences Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/pbs-cn-personalityandindivdiff-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Health/Medical Preparatory Programs, Other",
+      "displayName": "Psychology, General",
       "listType": "areas_of_study",
-      "name": "Health/Medical Preparatory Programs, Other",
+      "name": "Psychology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health & Society Major",
+      "listType": "major",
+      "name": "Public Health & Society Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/publichealthandsociety-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Public Relations, Advertising, and Applied Communication",
+      "listType": "areas_of_study",
+      "name": "Public Relations, Advertising, and Applied Communication",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1709,9 +3326,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration and Management, General",
+      "displayName": "Religion/Religious Studies",
       "listType": "areas_of_study",
-      "name": "Business Administration and Management, General",
+      "name": "Religion/Religious Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1719,11 +3336,339 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies Major",
+      "listType": "major",
+      "name": "Religious Studies Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/religiousstudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Romance Languages and Literatures Major",
+      "listType": "major",
+      "name": "Romance Languages and Literatures Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/romancelanguagesandliteratures-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Romance Languages, Literatures, and Linguistics, General",
+      "listType": "areas_of_study",
+      "name": "Romance Languages, Literatures, and Linguistics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sculpture",
+      "listType": "areas_of_study",
+      "name": "Sculpture",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Secondary Education and Teaching",
+      "listType": "areas_of_study",
+      "name": "Secondary Education and Teaching",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Social Science Teacher Education",
+      "listType": "areas_of_study",
+      "name": "Social Science Teacher Education",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology Major",
+      "listType": "major",
+      "name": "Sociology Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/sociology-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology Major, Urban Studies Specialization",
+      "listType": "major",
+      "name": "Sociology Major, Urban Studies Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/sociology-urbanstudies-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sociology, General",
+      "listType": "areas_of_study",
+      "name": "Sociology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Spanish Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Spanish Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish Major",
+      "listType": "major",
+      "name": "Spanish Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/spanish-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics Major",
+      "listType": "major",
+      "name": "Statistics Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/statistics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Statistics, General",
+      "listType": "areas_of_study",
+      "name": "Statistics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain, Operations, and Technology, BSBA",
+      "listType": "major",
+      "name": "Supply Chain, Operations, and Technology, BSBA",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/scot-bsba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain, Operations, and Technology, Second Major",
+      "listType": "major",
+      "name": "Supply Chain, Operations, and Technology, Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/business/majors/secondmajor-scot/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Sustainability Studies",
+      "listType": "areas_of_study",
+      "name": "Sustainability Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Systems Engineering",
+      "listType": "areas_of_study",
+      "name": "Systems Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Systems Science & Engineering (ESE), BS",
+      "listType": "major",
+      "name": "Systems Science & Engineering (ESE), BS",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/ese-systems-science-engineering-bs/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Systems Science & Engineering (ESE), Second Major",
+      "listType": "major",
+      "name": "Systems Science & Engineering (ESE), Second Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/engineering/majors/ese-secondmajor-systems-science-engineering/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Tuition &​ Fees",
+      "listType": "major",
+      "name": "Tuition &​ Fees",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/tuition/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Undergraduate",
+      "listType": "major",
+      "name": "Undergraduate",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Undergraduate Policies",
+      "listType": "major",
+      "name": "Undergraduate Policies",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/undergraduatestudy/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Undergraduate Studies",
+      "listType": "major",
+      "name": "Undergraduate Studies",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/undergraduatestudies/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Urban Studies/Affairs",
+      "listType": "areas_of_study",
+      "name": "Urban Studies/Affairs",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "WashU Continuing &​ Professional Studies",
+      "listType": "major",
+      "name": "WashU Continuing &​ Professional Studies",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/caps/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women, Gender, and Sexuality Studies Major",
+      "listType": "major",
+      "name": "Women, Gender, and Sexuality Studies Major",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/wgss-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women, Gender, and Sexuality Studies Major, Health Specialization",
+      "listType": "major",
+      "name": "Women, Gender, and Sexuality Studies Major, Health Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/wgss-health-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women, Gender, and Sexuality Studies Major, Politics Specialization",
+      "listType": "major",
+      "name": "Women, Gender, and Sexuality Studies Major, Politics Specialization",
+      "officialUrl": "https://bulletin.wustl.edu/undergrad/artsci/majors/wgss-politics-ba/",
+      "sourceIds": [
+        "source_washu_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "nullReason": null
   },
   "anecdotes": [
     {
@@ -1976,8 +3921,8 @@
   ],
   "region": "Plains",
   "schoolType": "private_nonprofit",
-  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceCommit": "source-index:source_washu_2026_27_undergraduate_majors",
+  "sourceStatus": "verified",
   "state": "MO",
   "studentFacultyRatio": 7.0,
   "topPrograms": [
