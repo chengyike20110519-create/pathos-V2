@@ -5110,6 +5110,19 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed from the official 2026-2027 Undergraduate Catalog Programs A-Z page. Minors, courses, concentrations, graduate entries, and non-degree options are excluded."
+    },
+    {
+      "sourceId": "source_emory_2026_27_undergraduate_programs",
+      "sourceType": "official_admissions_directory",
+      "publisher": "Emory University Office of Undergraduate Admission",
+      "referenceYear": "2026-27",
+      "url": "https://apply.emory.edu/academics/majors-and-minors",
+      "status": "verified",
+      "scope": [
+        "Emory official Majors and Minors directory entries labeled Major or Bachelor’s; pages 0-9 captured"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "The directory is paginated and this review captured the first ten public pages. It excludes minors and graduate/professional-only programs; page coverage is recorded as a scope limitation."
     }
   ]
 }

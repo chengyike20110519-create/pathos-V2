@@ -1,0 +1,466 @@
+{
+  "universityId": "candidate-v2:emory-university",
+  "schoolSlug": "emory-university",
+  "schoolName": "Emory University",
+  "sourceId": "source_emory_2026_27_undergraduate_programs",
+  "sourceUrl": "https://apply.emory.edu/academics/majors-and-minors",
+  "scope": [
+    "Emory official Majors and Minors directory entries labeled Major or Bachelor’s; pages 0-9 captured"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 41,
+  "entries": [
+    {
+      "degreeType": "BS",
+      "displayName": "Anthropology and Human Biology",
+      "listType": "major",
+      "name": "Anthropology and Human Biology",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/anthropology-and-human-biology",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Applied Mathematics and Statistics",
+      "listType": "major",
+      "name": "Applied Mathematics and Statistics",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/applied-mathematics-and-statistics",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "",
+      "displayName": "BA/BS + Bachelor of Science in Nursing",
+      "listType": "major",
+      "name": "BA/BS + Bachelor of Science in Nursing",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/babs-bachelor-science-nursing",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA/BS + BSN",
+      "displayName": "BA/BS + BSN",
+      "listType": "major",
+      "name": "BA/BS + BSN",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/babs-bsn",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "",
+      "displayName": "BA/BS and MA in Bioethics",
+      "listType": "major",
+      "name": "BA/BS and MA in Bioethics",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/babs-and-ma-bioethics",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA,",
+      "displayName": "BA/BS and Master of Legal Studies",
+      "listType": "major",
+      "name": "BA/BS and Master of Legal Studies",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/babs-and-master-legal-studies",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "",
+      "displayName": "BA/MA in English",
+      "listType": "major",
+      "name": "BA/MA in English",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bama-english",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "",
+      "displayName": "BA/MA or BS/MS in Computer Science",
+      "listType": "major",
+      "name": "BA/MA or BS/MS in Computer Science",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bama-or-bsms-computer-science",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "MSPH/BA,",
+      "displayName": "BA/Master of Science in Public Health Biostatistics",
+      "listType": "major",
+      "name": "BA/Master of Science in Public Health Biostatistics",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bamaster-science-public-health-biostatistics",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BBA/MPA",
+      "displayName": "BBA / Master of Accounting",
+      "listType": "major",
+      "name": "BBA / Master of Accounting",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bba-master-accounting",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BBA/MSBA",
+      "displayName": "BBA / Master of Science in Business Analytics",
+      "listType": "major",
+      "name": "BBA / Master of Science in Business Analytics",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bba-master-science-business-analytics",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BBA,",
+      "displayName": "BBA + Quantitative Sciences",
+      "listType": "major",
+      "name": "BBA + Quantitative Sciences",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bba-quantitative-sciences",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS,",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/biology",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Biophysics",
+      "listType": "major",
+      "name": "Biophysics",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/biophysics",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "",
+      "displayName": "BS/MS in Cancer Biology and Translational Oncology",
+      "listType": "major",
+      "name": "BS/MS in Cancer Biology and Translational Oncology",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bsms-cancer-biology-and-translational-oncology",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "MS,",
+      "displayName": "BS/MS in Environmental Sciences",
+      "listType": "major",
+      "name": "BS/MS in Environmental Sciences",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bsms-environmental-sciences",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "MPH/BS,",
+      "displayName": "BS/MS in Environmental Sciences and Environmental Health",
+      "listType": "major",
+      "name": "BS/MS in Environmental Sciences and Environmental Health",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/bsms-environmental-sciences-and-environmental-health",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS,",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/chemistry",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Classics",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/classics",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Classics and English",
+      "listType": "major",
+      "name": "Classics and English",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/classics-and-english",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Classics and History",
+      "listType": "major",
+      "name": "Classics and History",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/classics-and-history",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Classics and Philosophy",
+      "listType": "major",
+      "name": "Classics and Philosophy",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/classics-and-philosophy",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "ABSN",
+      "displayName": "Distance Accelerated Bachelor of Science in Nursing",
+      "listType": "major",
+      "name": "Distance Accelerated Bachelor of Science in Nursing",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/distance-accelerated-bachelor-science-nursing",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Economics and Computer Science",
+      "listType": "major",
+      "name": "Economics and Computer Science",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/economics-and-computer-science",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Economics and Human Health",
+      "listType": "major",
+      "name": "Economics and Human Health",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/economics-and-human-health",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Economics and Mathematics",
+      "listType": "major",
+      "name": "Economics and Mathematics",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/economics-and-mathematics",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSE,",
+      "displayName": "Engineering Dual Degree",
+      "listType": "major",
+      "name": "Engineering Dual Degree",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/engineering-dual-degree",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Engineering Sciences",
+      "listType": "major",
+      "name": "Engineering Sciences",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/engineering-sciences",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "English and Creative Writing",
+      "listType": "major",
+      "name": "English and Creative Writing",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/english-and-creative-writing",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "English and History",
+      "listType": "major",
+      "name": "English and History",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/english-and-history",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "History and Art History",
+      "listType": "major",
+      "name": "History and Art History",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/history-and-art-history",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Human Health",
+      "listType": "major",
+      "name": "Human Health",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/human-health",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Integrated Visual Arts",
+      "listType": "major",
+      "name": "Integrated Visual Arts",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/integrated-visual-arts",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Interdisciplinary Studies in Society and Culture",
+      "listType": "major",
+      "name": "Interdisciplinary Studies in Society and Culture",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/interdisciplinary-studies-society-and-culture",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "International Studies",
+      "listType": "major",
+      "name": "International Studies",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/international-studies",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Mathematics and Computer Science",
+      "listType": "major",
+      "name": "Mathematics and Computer Science",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/mathematics-and-computer-science",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BA",
+      "displayName": "Mathematics and Political Science",
+      "listType": "major",
+      "name": "Mathematics and Political Science",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/mathematics-and-political-science",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BMSc",
+      "displayName": "Medical Imaging",
+      "listType": "major",
+      "name": "Medical Imaging",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/medical-imaging",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BS",
+      "displayName": "Neuroscience and Behavioral Biology",
+      "listType": "major",
+      "name": "Neuroscience and Behavioral Biology",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/neuroscience-and-behavioral-biology",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BSN",
+      "displayName": "Nursing",
+      "listType": "major",
+      "name": "Nursing",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/nursing-0",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "BMSc",
+      "displayName": "RT to BMSc in Medical Imaging",
+      "listType": "major",
+      "name": "RT to BMSc in Medical Imaging",
+      "officialUrl": "https://apply.emory.edu/academics/degrees-programs/rt-bmsc-medical-imaging",
+      "sourceIds": [
+        "source_emory_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    }
+  ]
+}
