@@ -1,0 +1,632 @@
+{
+  "universityId": "candidate-v2:university-of-chicago",
+  "schoolSlug": "university-of-chicago",
+  "schoolName": "University of Chicago",
+  "sourceId": "source_uchicago_2026_27_programs_of_study",
+  "sourceUrl": "http://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+  "scope": [
+    "official University of Chicago 2026-27 College Programs of Study page",
+    "56 named major entries from the official List of Majors"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 56,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/anthropology/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Archaeology",
+      "listType": "major",
+      "name": "Archaeology",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/archaeology/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysics",
+      "listType": "major",
+      "name": "Astrophysics",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/astronomyastrophysics/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Chemistry",
+      "listType": "major",
+      "name": "Biological Chemistry",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/biologicalchemistry/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/biologicalsciences/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/chemistry/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema and Media Studies",
+      "listType": "major",
+      "name": "Cinema and Media Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/cinemamediastudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Studies",
+      "listType": "major",
+      "name": "Classical Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/classicalstudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Climate and Sustainable Growth",
+      "listType": "major",
+      "name": "Climate and Sustainable Growth",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/climate/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/cognitivescience/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Human Development",
+      "listType": "major",
+      "name": "Comparative Human Development",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/comparativehumandevelopment/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/comparativeliterature/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational and Applied Mathematics",
+      "listType": "major",
+      "name": "Computational and Applied Mathematics",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/caam/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/computerscience/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Creative Writing",
+      "listType": "major",
+      "name": "Creative Writing",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/creativewriting/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages and Civilizations",
+      "listType": "major",
+      "name": "East Asian Languages and Civilizations",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/eastasianlanguagescivilizations/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/economics/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English Language and Literature",
+      "listType": "major",
+      "name": "English Language and Literature",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/englishlanguageliterature/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environment, Geography, and Urbanization",
+      "listType": "major",
+      "name": "Environment, Geography, and Urbanization",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science",
+      "listType": "major",
+      "name": "Environmental Science",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/environmentalscience/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fundamentals: Issues and Texts",
+      "listType": "major",
+      "name": "Fundamentals: Issues and Texts",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/fundamentalsissuesandtexts/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender and Sexuality Studies",
+      "listType": "major",
+      "name": "Gender and Sexuality Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/genderstudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geophysical Sciences",
+      "listType": "major",
+      "name": "Geophysical Sciences",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/geophysicalsciences/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Germanic Studies",
+      "listType": "major",
+      "name": "Germanic Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/germanicstudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies",
+      "listType": "major",
+      "name": "Global Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/globalstudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/history/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History, Philosophy, and Social Studies of Science and Medicine",
+      "listType": "major",
+      "name": "History, Philosophy, and Social Studies of Science and Medicine",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/scienceandmedicinehips/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Rights",
+      "listType": "major",
+      "name": "Human Rights",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/humanrights/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Inquiry and Research in the Humanities",
+      "listType": "major",
+      "name": "Inquiry and Research in the Humanities",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/Inquiryresearchhumanities/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/jewishstudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American and Caribbean Studies",
+      "listType": "major",
+      "name": "Latin American and Caribbean Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Law, Letters, and Society",
+      "listType": "major",
+      "name": "Law, Letters, and Society",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/lawlettersandsociety/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/linguistics/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Arts and Design",
+      "listType": "major",
+      "name": "Media Arts and Design",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/MediaArtsandDesign/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Medieval Studies",
+      "listType": "major",
+      "name": "Medieval Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/medievalstudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle Eastern Studies",
+      "listType": "major",
+      "name": "Middle Eastern Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/neareasternlanguagescivilizations/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular Engineering",
+      "listType": "major",
+      "name": "Molecular Engineering",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/music/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/neuroscience/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/physics/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/politicalscience/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/psychology/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Policy Studies",
+      "listType": "major",
+      "name": "Public Policy Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/publicpolicystudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Race, Diaspora, and Indigeneity",
+      "listType": "major",
+      "name": "Race, Diaspora, and Indigeneity",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/rdin/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies",
+      "listType": "major",
+      "name": "Religious Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/religiousstudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Romance Languages and Literatures",
+      "listType": "major",
+      "name": "Romance Languages and Literatures",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian and East European Studies",
+      "listType": "major",
+      "name": "Russian and East European Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/slaviclanguagesliteratures/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/sociology/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "South Asian Languages and Civilizations",
+      "listType": "major",
+      "name": "South Asian Languages and Civilizations",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/southasianlanguagescivilizations/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/statistics/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theater and Performance Studies",
+      "listType": "major",
+      "name": "Theater and Performance Studies",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/theaterperformancestudies/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Visual Arts",
+      "listType": "major",
+      "name": "Visual Arts",
+      "officialUrl": "http://collegecatalog.uchicago.edu/thecollege/visualarts/",
+      "sourceIds": [
+        "source_uchicago_2026_27_programs_of_study"
+      ],
+      "status": "verified"
+    }
+  ]
+}

@@ -5386,6 +5386,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed official undergraduate entries whose catalog titles explicitly identify a bachelor degree; minors, certificates, graduate and post-baccalaureate entries were excluded."
+    },
+    {
+      "sourceId": "source_uchicago_2026_27_programs_of_study",
+      "sourceType": "official_catalog",
+      "publisher": "University of Chicago College Catalog",
+      "referenceYear": "2026-27",
+      "url": "http://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+      "status": "verified",
+      "scope": [
+        "official College Programs of Study List of Majors",
+        "56 named undergraduate majors"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed the official List of Majors links; the catalog page identifies these as College major programs, with BA/BS degree details maintained on each linked program page."
     }
   ]
 }
