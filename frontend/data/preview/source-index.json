@@ -5162,6 +5162,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed only the catalog section explicitly titled Undergraduate Academic Majors; cross-disciplinary programs and graduate majors are not mixed into this major directory."
+    },
+    {
+      "sourceId": "source_northwestern_2026_27_programs_az",
+      "sourceType": "official_catalog",
+      "publisher": "Northwestern University Academic Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalogs.northwestern.edu/undergraduate/programs-az/",
+      "status": "verified",
+      "scope": [
+        "official 2026-27 Undergraduate Programs A-Z page",
+        "explicit major and bachelor degree program entries; excludes minors, second majors, adjunct majors, certificates and dual-degree pathways"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed explicit undergraduate major and bachelor degree program links from the official Programs A-Z page; excluded minors, second majors, adjunct majors, certificates and dual-degree pathways."
     }
   ]
 }
