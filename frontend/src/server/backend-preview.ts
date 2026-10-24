@@ -210,7 +210,7 @@ async function readSourceIndex(): Promise<unknown> {
   }, 300_000);
 }
 
-async function readUniversityDetail(id: string): Promise<unknown> {
+async function loadUniversityDetail(id: string): Promise<unknown> {
   const r = await getPool().query(
     `SELECT d.payload,
             r.official_name,
@@ -364,6 +364,14 @@ async function readUniversityDetail(id: string): Promise<unknown> {
       netPrice: number("NPT4_PUB"),
     },
   };
+}
+
+// A school card is opened repeatedly while a user compares programs. Keep
+// the fully normalized card in the same short-lived snapshot cache as the
+// manifest and source index, so repeated opens do not repeat the large JSONB
+// join or rebuild its source trail.
+async function readUniversityDetail(id: string): Promise<unknown> {
+  return cachedPreview(`university-detail:${id}`, () => loadUniversityDetail(id), 300_000);
 }
 
 async function readConfirmedFacts(universityId?: string): Promise<unknown[]> {
