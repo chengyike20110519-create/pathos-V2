@@ -5246,6 +5246,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed 170 major cards from the official Purdue admissions directory; names and links preserved as published."
+    },
+    {
+      "sourceId": "source_uf_2026_27_undergraduate_majors",
+      "sourceType": "official_catalog",
+      "publisher": "University of Florida Undergraduate Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.ufl.edu/UGRD/programs/",
+      "status": "verified",
+      "scope": [
+        "official UF 2026-27 Undergraduate Catalog Programs page",
+        "159 entries labeled Major; UF Online variants retained as separate official entries"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed catalog entries labeled Major from the official Programs page; online variants retained when separately listed."
     }
   ]
 }

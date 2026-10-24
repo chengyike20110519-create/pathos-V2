@@ -1,0 +1,1765 @@
+{
+  "universityId": "candidate-v2:university-of-florida",
+  "schoolSlug": "university-of-florida",
+  "schoolName": "University of Florida",
+  "sourceId": "source_uf_2026_27_undergraduate_majors",
+  "sourceUrl": "https://catalog.ufl.edu/UGRD/programs/",
+  "scope": [
+    "official UF 2026-27 Undergraduate Catalog Programs page",
+    "159 entries labeled Major; UF Online variants retained as separate official entries"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 159,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGACT/ACT_BSAC/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Advertising",
+      "listType": "major",
+      "name": "Advertising",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/ADV_BSAD/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Advertising | Persuasive Messaging",
+      "listType": "major",
+      "name": "Advertising | Persuasive Messaging",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/ADV_BSAD02_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/ARO_BSAE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American Studies",
+      "listType": "major",
+      "name": "African American Studies",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/AFA_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African Languages",
+      "listType": "major",
+      "name": "African Languages",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FAF_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural Education and Communication",
+      "listType": "major",
+      "name": "Agricultural Education and Communication",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/AEC_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural Education and Communication",
+      "listType": "major",
+      "name": "Agricultural Education and Communication",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/AEC_BS_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural Operations Management",
+      "listType": "major",
+      "name": "Agricultural Operations Management",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/AOM_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Government, History, Literature, and Law",
+      "listType": "major",
+      "name": "American Government, History, Literature, and Law",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/hamilton/AGH_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal Sciences",
+      "listType": "major",
+      "name": "Animal Sciences",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/ANS_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/APY_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/APY_BA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Physiology and Kinesiology",
+      "listType": "major",
+      "name": "Applied Physiology and Kinesiology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGHHU/APK_BSAP/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arabic",
+      "listType": "major",
+      "name": "Arabic",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FAR_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGDCP/ARC_BDES/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/ARH_BAHA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art | BA",
+      "listType": "major",
+      "name": "Art | BA",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/VAS_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art | BFA",
+      "listType": "major",
+      "name": "Art | BFA",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/ART_BFA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy and Astrophysics",
+      "listType": "major",
+      "name": "Astronomy and Astrophysics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/ATY_BA_ASP_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Engineering",
+      "listType": "major",
+      "name": "Biological Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/BE_BSBE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/BIO_BA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology | CALS",
+      "listType": "major",
+      "name": "Biology | CALS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/BLY_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology | CLAS",
+      "listType": "major",
+      "name": "Biology | CLAS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/BIO_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/BME_BSBM/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Botany | CALS",
+      "listType": "major",
+      "name": "Botany | CALS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/BTY_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Botany | CLAS",
+      "listType": "major",
+      "name": "Botany | CLAS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/BOT_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration | General Business | BSBA",
+      "listType": "major",
+      "name": "Business Administration | General Business | BSBA",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGBUS/BAG_BSBA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration | General Studies | BABA",
+      "listType": "major",
+      "name": "Business Administration | General Studies | BABA",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGBUS/BAG_BABA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration | General Studies | BABA",
+      "listType": "major",
+      "name": "Business Administration | General Studies | BABA",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGBUS/BAG_BABA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/CHE_BSCH/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry | Biochemistry",
+      "listType": "major",
+      "name": "Chemistry | Biochemistry",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/CHY_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chinese",
+      "listType": "major",
+      "name": "Chinese",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FCH_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/CVE_BSCE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Studies",
+      "listType": "major",
+      "name": "Classical Studies",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/CLC_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Sciences and Disorders",
+      "listType": "major",
+      "name": "Communication Sciences and Disorders",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGPBH/CSD_BHS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Sciences and Disorders",
+      "listType": "major",
+      "name": "Communication Sciences and Disorders",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGPBH/CSD_BHS_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/CPE_BSCO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/CSC_BS_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science | CLAS",
+      "listType": "major",
+      "name": "Computer Science | CLAS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/CSC_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science | Herbert Wertheim College of Engineering",
+      "listType": "major",
+      "name": "Computer Science | Herbert Wertheim College of Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/CPS_BSCS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Construction Management",
+      "listType": "major",
+      "name": "Construction Management",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGCMN/CM_BSCM/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology",
+      "listType": "major",
+      "name": "Criminology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/CRI_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology",
+      "listType": "major",
+      "name": "Criminology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/CRI_BA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance | Bachelor of Arts",
+      "listType": "major",
+      "name": "Dance | Bachelor of Arts",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/DAN_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance | Bachelor of Fine Arts",
+      "listType": "major",
+      "name": "Dance | Bachelor of Fine Arts",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/DAN_BFA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/DAT_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dietetics",
+      "listType": "major",
+      "name": "Dietetics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/DTS_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Digital Arts and Sciences",
+      "listType": "major",
+      "name": "Digital Arts and Sciences",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/DAR_BADA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Digital Arts and Sciences | Bachelor of Arts",
+      "listType": "major",
+      "name": "Digital Arts and Sciences | Bachelor of Arts",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/DAR_BADA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Digital Arts and Sciences | Bachelor of Science",
+      "listType": "major",
+      "name": "Digital Arts and Sciences | Bachelor of Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/DAS_BSDA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dual Languages",
+      "listType": "major",
+      "name": "Dual Languages",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FLL_BA/FDU_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Childhood Education | Age 3 - Grade 3",
+      "listType": "major",
+      "name": "Early Childhood Education | Age 3 - Grade 3",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGEDU/EYC_BAE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Childhood Education | Age 3 - Grade 3",
+      "listType": "major",
+      "name": "Early Childhood Education | Age 3 - Grade 3",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGEDU/EYC_BAE_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/ECO_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education Sciences",
+      "listType": "major",
+      "name": "Education Sciences",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGEDU/EDS_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education Sciences",
+      "listType": "major",
+      "name": "Education Sciences",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGEDU/EDS_BA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/ELE_BSEE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education | Grades K-6",
+      "listType": "major",
+      "name": "Elementary Education | Grades K-6",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGEDU/EED_BAE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education | Grades K-6",
+      "listType": "major",
+      "name": "Elementary Education | Grades K-6",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGEDU/EED_BAE_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Emergency Services",
+      "listType": "major",
+      "name": "Emergency Services",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGCMN/FES_BSFE_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering | Exploring Engineering Studies",
+      "listType": "major",
+      "name": "Engineering | Exploring Engineering Studies",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/UES_NOD/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/EH_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entomology and Nematology",
+      "listType": "major",
+      "name": "Entomology and Nematology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/ENY_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entomology and Nematology",
+      "listType": "major",
+      "name": "Entomology and Nematology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/ENY_BS_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/EVE_BSEN/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science",
+      "listType": "major",
+      "name": "Environmental Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGNTR/EVS_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Family, Youth and Community Sciences",
+      "listType": "major",
+      "name": "Family, Youth and Community Sciences",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/FYC_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGBUS/FIN_BSBA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Food and Resource Economics",
+      "listType": "major",
+      "name": "Food and Resource Economics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/FRE_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Food Science",
+      "listType": "major",
+      "name": "Food Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/FOS_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Foreign Languages and Literatures",
+      "listType": "major",
+      "name": "Foreign Languages and Literatures",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FLL_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Forest Resources and Conservation",
+      "listType": "major",
+      "name": "Forest Resources and Conservation",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/FRC_BSF/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French and Francophone Studies",
+      "listType": "major",
+      "name": "French and Francophone Studies",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FFR_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography",
+      "listType": "major",
+      "name": "Geography",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GPY_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography",
+      "listType": "major",
+      "name": "Geography",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GPY_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology",
+      "listType": "major",
+      "name": "Geology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GLY_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology",
+      "listType": "major",
+      "name": "Geology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/GLY_BA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geomatics",
+      "listType": "major",
+      "name": "Geomatics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/GEM_BSGE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FGR_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Graphic Design",
+      "listType": "major",
+      "name": "Graphic Design",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/GRD_BFAG/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Great Books and Ideas",
+      "listType": "major",
+      "name": "Great Books and Ideas",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/hamilton/GBI_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Education and Behavior",
+      "listType": "major",
+      "name": "Health Education and Behavior",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGHHU/HEB_BSHE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Education and Behavior | Community Health Promotion",
+      "listType": "major",
+      "name": "Health Education and Behavior | Community Health Promotion",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGHHU/HEB_BSHE_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science",
+      "listType": "major",
+      "name": "Health Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGPBH/HES_BHS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hebrew",
+      "listType": "major",
+      "name": "Hebrew",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/HBR_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hispanic and Latin American Languages, Literatures and Linguistics",
+      "listType": "major",
+      "name": "Hispanic and Latin American Languages, Literatures and Linguistics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/HLL_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/HY_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial and Systems Engineering",
+      "listType": "major",
+      "name": "Industrial and Systems Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/ISE_BSIS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrialized Construction Engineering",
+      "listType": "major",
+      "name": "Industrialized Construction Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/ICE_BSICE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Systems",
+      "listType": "major",
+      "name": "Information Systems",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGBUS/IST_BSBA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies | CLAS",
+      "listType": "major",
+      "name": "Interdisciplinary Studies | CLAS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/IDS_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies | Environmental Management in Agriculture and Natural Resources",
+      "listType": "major",
+      "name": "Interdisciplinary Studies | Environmental Management in Agriculture and Natural Resources",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/IS_BS01/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies | Environmental Management in Agriculture and Natural Resources",
+      "listType": "major",
+      "name": "Interdisciplinary Studies | Environmental Management in Agriculture and Natural Resources",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/IS_BS01_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interior Design",
+      "listType": "major",
+      "name": "Interior Design",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGDCP/IND_BDES/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Studies",
+      "listType": "major",
+      "name": "International Studies",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/INS_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FIT_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese",
+      "listType": "major",
+      "name": "Japanese",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FJA_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/JST_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism",
+      "listType": "major",
+      "name": "Journalism",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/JM_BSJ/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism | Sports and Media",
+      "listType": "major",
+      "name": "Journalism | Sports and Media",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/JM_BSJ01_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Landscape Architecture | 4-Year Professional Program",
+      "listType": "major",
+      "name": "Landscape Architecture | 4-Year Professional Program",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGDCP/LAE_BLAE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/LIN_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGBUS/MGT_BSBA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marine Sciences | CALS",
+      "listType": "major",
+      "name": "Marine Sciences | CALS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/MAS_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marine Sciences | CLAS",
+      "listType": "major",
+      "name": "Marine Sciences | CLAS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/MAR_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGBUS/MKG_BSBA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Science and Engineering",
+      "listType": "major",
+      "name": "Materials Science and Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/MSE_BSMS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/MAT_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/MCE_BSME/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Production, Management, and Technology",
+      "listType": "major",
+      "name": "Media Production, Management, and Technology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/TEL_BSTE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Production, Management, and Technology | Media Management and Technology",
+      "listType": "major",
+      "name": "Media Production, Management, and Technology | Media Management and Technology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/TEL_BSTE_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Meteorology",
+      "listType": "major",
+      "name": "Meteorology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/MET_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology and Cell Science",
+      "listType": "major",
+      "name": "Microbiology and Cell Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/MCB_BS_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology and Cell Science | CALS",
+      "listType": "major",
+      "name": "Microbiology and Cell Science | CALS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/MCB_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology and Cell Science | CLAS",
+      "listType": "major",
+      "name": "Microbiology and Cell Science | CLAS",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/MCY_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Business and Entrepreneurship",
+      "listType": "major",
+      "name": "Music Business and Entrepreneurship",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/MBE_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Education",
+      "listType": "major",
+      "name": "Music Education",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/MUE_BMUE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music | Bachelor of Arts",
+      "listType": "major",
+      "name": "Music | Bachelor of Arts",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/MUS_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music | Bachelor of Music",
+      "listType": "major",
+      "name": "Music | Bachelor of Music",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/MUS_BMUS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Natural Resource Conservation",
+      "listType": "major",
+      "name": "Natural Resource Conservation",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/NRC_BSF/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nuclear Engineering",
+      "listType": "major",
+      "name": "Nuclear Engineering",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGENG/NUE_BSNE/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing",
+      "listType": "major",
+      "name": "Nursing",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGNUR/NSG_BSN/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing | RN to BSN",
+      "listType": "major",
+      "name": "Nursing | RN to BSN",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGNUR/NSG_BSN01_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nutritional Sciences",
+      "listType": "major",
+      "name": "Nutritional Sciences",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/NUT_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Pharmacy | Preprofessional",
+      "listType": "major",
+      "name": "Pharmacy | Preprofessional",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/academic-programs/UGPHM/PHA_NOD/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/PPY_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, Politics, Economics, and Law",
+      "listType": "major",
+      "name": "Philosophy, Politics, Economics, and Law",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/hamilton/PPE_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/PS_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Plant Science",
+      "listType": "major",
+      "name": "Plant Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/PLS_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/POL_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Portuguese",
+      "listType": "major",
+      "name": "Portuguese",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/HLL_BA02/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/PSY_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/PSY_BA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGPBH/PBH_BPH/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Relations",
+      "listType": "major",
+      "name": "Public Relations",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/PR_BSPR/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Relations",
+      "listType": "major",
+      "name": "Public Relations",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGJRC/PR_BSPR_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion",
+      "listType": "major",
+      "name": "Religion",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/RLN_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian",
+      "listType": "major",
+      "name": "Russian",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/FRU_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/SOC_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/SOC_BA_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Soil, Water, and Ecosystem Sciences",
+      "listType": "major",
+      "name": "Soil, Water, and Ecosystem Sciences",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/SWS_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/HLL_BA01/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Portuguese",
+      "listType": "major",
+      "name": "Spanish and Portuguese",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/HLL_BA/HLL_BA03/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Management",
+      "listType": "major",
+      "name": "Sport Management",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGHHU/SPM_BSSP/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Management",
+      "listType": "major",
+      "name": "Sport Management",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGHHU/SPM_BSSP_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/STA_BA_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sustainability and the Built Environment",
+      "listType": "major",
+      "name": "Sustainability and the Built Environment",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGDCP/SUB_BSUB_BSUB01/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sustainability Studies",
+      "listType": "major",
+      "name": "Sustainability Studies",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/SST_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/THE_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre Performance",
+      "listType": "major",
+      "name": "Theatre Performance",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/THF_BFA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre Production",
+      "listType": "major",
+      "name": "Theatre Production",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGART/TPR_BFA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Tourism, Hospitality and Event Management",
+      "listType": "major",
+      "name": "Tourism, Hospitality and Event Management",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGHHU/TRM_BSTM/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Tourism, Hospitality and Event Management",
+      "listType": "major",
+      "name": "Tourism, Hospitality and Event Management",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGHHU/TRM_BSTM_UFO/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Urban Sciences and Planning",
+      "listType": "major",
+      "name": "Urban Sciences and Planning",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGDCP/USP_BUSP/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "War, Statecraft and Strategy",
+      "listType": "major",
+      "name": "War, Statecraft and Strategy",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/hamilton/WSS_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Wildlife Ecology and Conservation",
+      "listType": "major",
+      "name": "Wildlife Ecology and Conservation",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGAGL/WEC_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women's Studies",
+      "listType": "major",
+      "name": "Women's Studies",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/WMS_BA/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Zoology",
+      "listType": "major",
+      "name": "Zoology",
+      "officialUrl": "https://catalog.ufl.edu/UGRD/colleges-schools/UGLAS/ZLY_BS/",
+      "sourceIds": [
+        "source_uf_2026_27_undergraduate_majors"
+      ],
+      "status": "verified"
+    }
+  ]
+}
