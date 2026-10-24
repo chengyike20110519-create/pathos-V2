@@ -5429,6 +5429,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "394 records returned by the official IU degrees endpoint; excludes non-bachelor program types and preserves official program URLs."
+    },
+    {
+      "sourceId": "source_northeastern_2026_27_official_undergraduate_catalog",
+      "sourceType": "official_catalog",
+      "publisher": "Northeastern University",
+      "referenceYear": "2026-2027",
+      "url": "https://catalog.northeastern.edu/undergraduate/",
+      "status": "verified",
+      "scope": [
+        "full-time day undergraduate colleges",
+        "bachelor-level program pages"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "367 distinct official program pages after excluding minors, certificates, graduate and accelerated-only pages."
     }
   ]
 }

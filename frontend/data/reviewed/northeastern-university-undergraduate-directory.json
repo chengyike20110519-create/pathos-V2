@@ -1,0 +1,4054 @@
+{
+  "universityId": "candidate-v2:northeastern-university",
+  "schoolSlug": "northeastern-university",
+  "schoolName": "Northeastern University",
+  "sourceId": "source_northeastern_2026_27_official_undergraduate_catalog",
+  "sourceUrl": "https://catalog.northeastern.edu/undergraduate/",
+  "scope": [
+    "official Northeastern University Academic Catalog 2026-2027",
+    "full-time day undergraduate colleges",
+    "367 distinct bachelor-level program pages; excluded minors, certificates, graduate and accelerated-only pages"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-25",
+  "entryCount": 367,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Acting, BFA (New York)",
+      "listType": "major",
+      "name": "Acting, BFA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/acting-bfa-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Africana Studies and Criminal Justice, BA (Boston)",
+      "listType": "major",
+      "name": "Africana Studies and Criminal Justice, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/africana-studies-criminal-justice-ba-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Africana Studies and English, BA (Boston)",
+      "listType": "major",
+      "name": "Africana Studies and English, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/africana-studies-english-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Africana Studies and Human Services, BA (Boston)",
+      "listType": "major",
+      "name": "Africana Studies and Human Services, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/africana-studies-human-services-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Africana Studies and Journalism, BA (Boston)",
+      "listType": "major",
+      "name": "Africana Studies and Journalism, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/africana-studies-journalism-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Africana Studies and Media and Screen Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Africana Studies and Media and Screen Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/africana-studies-media-and-screen-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Africana Studies and Political Science, BA (Boston)",
+      "listType": "major",
+      "name": "Africana Studies and Political Science, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/africana-studies-political-science-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Africana Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Africana Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/africana-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Sign Language and Human Services, BS (Boston)",
+      "listType": "major",
+      "name": "American Sign Language and Human Services, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/american-sign-language-human-services-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Sign Language and Linguistics, BS (Boston)",
+      "listType": "major",
+      "name": "American Sign Language and Linguistics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/american-sign-language-linguistics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Sign Language and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "American Sign Language and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/american-sign-language-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Sign Language and Theatre, BS (Boston)",
+      "listType": "major",
+      "name": "American Sign Language and Theatre, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/american-sign-language-theatre-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Sign Language—English Interpreting, BS (Boston)",
+      "listType": "major",
+      "name": "American Sign Language—English Interpreting, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/cultures-societies-global-studies/american-sign-language-english-interpreting-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Physics, BS (Boston)",
+      "listType": "major",
+      "name": "Applied Physics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/physics/applied-physics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Psychology, BA (New York)",
+      "listType": "major",
+      "name": "Applied Psychology, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/applied-psychology-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies and Business Administration, BS",
+      "listType": "major",
+      "name": "Architectural Studies and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/architectural-studies-business-administration-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Architectural Studies and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/architectural-studies-business-administration-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies and Design, BS (Boston)",
+      "listType": "major",
+      "name": "Architectural Studies and Design, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/architectural-studies-design-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies, BS (Boston)",
+      "listType": "major",
+      "name": "Architectural Studies, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/architectural-studies-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture and English, BS (Boston)",
+      "listType": "major",
+      "name": "Architecture and English, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/architecture-english-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture, BS (Boston)",
+      "listType": "major",
+      "name": "Architecture, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/architecture-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art, BA (Boston)",
+      "listType": "major",
+      "name": "Art, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/art-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Behavioral Neuroscience, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Behavioral Neuroscience, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-behavioral-neuroscience-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Biochemistry, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Biochemistry, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-biochemistry-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Biology, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Biology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-biology-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Business Administration, BS",
+      "listType": "major",
+      "name": "Artificial Intelligence and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-business-admnistration-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-business-admnistration-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Chemistry, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Chemistry, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-chemistry-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Communication Studies, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Communication Studies, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-communication-studies-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Criminal Justice, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Criminal Justice, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-criminal-justice-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Design, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Design, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-design-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Ecology and Evolutionary Biology, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Ecology and Evolutionary Biology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-ecology-evolutionary-biology-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Economics, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-economics-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Environmental and Sustainability Sciences, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Environmental and Sustainability Sciences, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-environmental-sustainability-sciences-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Health Science, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Health Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-health-science-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and International Affairs, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and International Affairs, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-international-affairs-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Journalism, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Journalism, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-journalism-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Linguistics, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Linguistics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-linguistics-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Mathematics, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Mathematics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-mathematics-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-philosophy-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Physics, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Physics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-physics-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-psychology-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Public Health, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Public Health, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-public-health-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Sociology, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Sociology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-sociology-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Speech-Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Speech-Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-speech-language-pathology-audiology-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence and Speech-​Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence and Speech-​Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/artificial-intelligence-speech-language-pathology-audiology-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence, BS (Boston)",
+      "listType": "major",
+      "name": "Artificial Intelligence, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/data-science/artificial-intelligence-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Behavioral Neuroscience and Design, BS (Boston)",
+      "listType": "major",
+      "name": "Behavioral Neuroscience and Design, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/behavioral-neuroscience-design-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Behavioral Neuroscience and Design, BS (Oakland)",
+      "listType": "major",
+      "name": "Behavioral Neuroscience and Design, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/behavioral-neuroscience-design-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Behavioral Neuroscience and Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Behavioral Neuroscience and Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/behavioral-neuroscience-philosophy-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Behavioral Neuroscience, BS (Boston)",
+      "listType": "major",
+      "name": "Behavioral Neuroscience, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/behavioral-neuroscience-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Behavioral Neuroscience, BS (New York)",
+      "listType": "major",
+      "name": "Behavioral Neuroscience, BS (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/behavioral-neuroscience-bs-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Behavioral Neuroscience, BS (Oakland)",
+      "listType": "major",
+      "name": "Behavioral Neuroscience, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/behavioral-neuroscience-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry, BS (Boston)",
+      "listType": "major",
+      "name": "Biochemistry, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/biochemistry-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology and English, BS (Boston)",
+      "listType": "major",
+      "name": "Biology and English, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-english-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology and International Business, BS",
+      "listType": "major",
+      "name": "Biology and International Business, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-international-business-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology and International Business, BS (Boston)",
+      "listType": "major",
+      "name": "Biology and International Business, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-international-business-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology and Mathematics, BS (Boston)",
+      "listType": "major",
+      "name": "Biology and Mathematics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-mathematics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology and Political Science, BS (Boston)",
+      "listType": "major",
+      "name": "Biology and Political Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-political-science-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology and Public Health, BS (Boston)",
+      "listType": "major",
+      "name": "Biology and Public Health, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-public-health-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology, BS (Boston)",
+      "listType": "major",
+      "name": "Biology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology, BS (New York)",
+      "listType": "major",
+      "name": "Biology, BS (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-bs-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology, BS (Oakland)",
+      "listType": "major",
+      "name": "Biology, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/biology-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Physics, BS (Boston)",
+      "listType": "major",
+      "name": "Biomedical Physics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/physics/biomedical-physics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Communication Studies, BS",
+      "listType": "major",
+      "name": "Business Administration and Communication Studies, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-communication-studies-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Communication Studies, BS (Boston)",
+      "listType": "major",
+      "name": "Business Administration and Communication Studies, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-communication-studies-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Communication Studies, BS (Oakland)",
+      "listType": "major",
+      "name": "Business Administration and Communication Studies, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-communication-studies-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Criminal Justice, BS",
+      "listType": "major",
+      "name": "Business Administration and Criminal Justice, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-criminal-justice-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Criminal Justice, BS (Boston)",
+      "listType": "major",
+      "name": "Business Administration and Criminal Justice, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-criminal-justice-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Design, BS",
+      "listType": "major",
+      "name": "Business Administration and Design, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/design-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Design, BS (Boston)",
+      "listType": "major",
+      "name": "Business Administration and Design, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/design-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Design, BS (Oakland)",
+      "listType": "major",
+      "name": "Business Administration and Design, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-design-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Law, BS (Boston)",
+      "listType": "major",
+      "name": "Business Administration and Law, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-law-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Psychology, BS",
+      "listType": "major",
+      "name": "Business Administration and Psychology, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Business Administration and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Psychology, BS (Oakland)",
+      "listType": "major",
+      "name": "Business Administration and Psychology, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-psychology-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Public Health, BS",
+      "listType": "major",
+      "name": "Business Administration and Public Health, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-public-health-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Public Health, BS (Boston)",
+      "listType": "major",
+      "name": "Business Administration and Public Health, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-public-health-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Public Health, BS (Oakland)",
+      "listType": "major",
+      "name": "Business Administration and Public Health, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-public-health-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Public Relations, BS",
+      "listType": "major",
+      "name": "Business Administration and Public Relations, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-public-relations-bs-bos",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration and Public Relations, BS (Boston)",
+      "listType": "major",
+      "name": "Business Administration and Public Relations, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-combined-majors/business-administration-public-relations-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration, BS (New York)",
+      "listType": "major",
+      "name": "Business Administration, BS (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-bs-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration, BSBA (Boston)",
+      "listType": "major",
+      "name": "Business Administration, BSBA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-bsba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration, BSBA (Oakland)",
+      "listType": "major",
+      "name": "Business Administration, BSBA (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/business-administration-bsba-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cell and Molecular Biology, BS (Boston)",
+      "listType": "major",
+      "name": "Cell and Molecular Biology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/biology/cell-molecular-biology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry, BS (Boston)",
+      "listType": "major",
+      "name": "Chemistry, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/chemistry-chemical-biology/chemistry-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication and Media Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Communication and Media Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/communication--media-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies and Design, BS (Boston)",
+      "listType": "major",
+      "name": "Communication Studies and Design, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/communication-studies-design-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies and Sociology, BA (Boston)",
+      "listType": "major",
+      "name": "Communication Studies and Sociology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/communication-studies-sociology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies and Speech-Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Communication Studies and Speech-Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/communication-studies-speech-language-pathology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies and Speech-​Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Communication Studies and Speech-​Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/communication-studies-speech-language-pathology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies and Theatre, BA (Boston)",
+      "listType": "major",
+      "name": "Communication Studies and Theatre, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/communication-studies-theatre-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Communication Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/communication-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies, BA (New York)",
+      "listType": "major",
+      "name": "Communication Studies, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/communication-studies-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Behavioral Neuroscience, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Behavioral Neuroscience, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-behavioral-neuroscience-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Behavioral Neuroscience, BS (Oakland)",
+      "listType": "major",
+      "name": "Computer Science and Behavioral Neuroscience, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-behavioral-neuroscience-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Biology, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Biology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-biology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Biology, BS (Oakland)",
+      "listType": "major",
+      "name": "Computer Science and Biology, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-biology-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Business Administration, BS",
+      "listType": "major",
+      "name": "Computer Science and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Business Administration, BS (Oakland)",
+      "listType": "major",
+      "name": "Computer Science and Business Administration, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-business-administration-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Cognitive Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Cognitive Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-cognitive-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Communication Studies, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Communication Studies, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-communication-studies-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Communication Studies, BS (Oakland)",
+      "listType": "major",
+      "name": "Computer Science and Communication Studies, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-communication-studies-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Criminal Justice, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Criminal Justice, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-criminal-justice-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Design, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Design, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-design-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Design, BS (Oakland)",
+      "listType": "major",
+      "name": "Computer Science and Design, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-design-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Economics, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/economics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Economics, BS (Oakland)",
+      "listType": "major",
+      "name": "Computer Science and Economics, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-economics-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and English, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and English, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-english-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Environmental and Sustainability Sciences, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Environmental and Sustainability Sciences, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-environmental-sustainability-sciences-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Game Development, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Game Development, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-game-development-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Health Science, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Health Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-health-science-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and History, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and History, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-history-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Journalism, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Journalism, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-journalism-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Linguistics, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Linguistics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-linguistics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Mathematics, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Mathematics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-mathematics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Media Arts, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Media Arts, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-media-arts-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Music, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Music, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-music-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-philosophy-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Physics, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Physics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-physics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Political Science, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Political Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-political-science-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Politics, Philosophy, and Economics, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Politics, Philosophy, and Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-politics-philosophy-economics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Politics, Philosophy, and Economics, BS (Oakland)",
+      "listType": "major",
+      "name": "Computer Science and Politics, Philosophy, and Economics, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-politics-philosophy-economics-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Public Health, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Public Health, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-public-health-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Sociology, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Sociology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-sociology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Speech-Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Speech-Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-speech-language-pathology-audiology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Speech-​Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Speech-​Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-speech-language-pathology-audiology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Theatre, BS (Boston)",
+      "listType": "major",
+      "name": "Computer Science and Theatre, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-theatre-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computing and Law, BS (Boston)",
+      "listType": "major",
+      "name": "Computing and Law, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-science/computing-law-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Creative Writing, BFA (New York)",
+      "listType": "major",
+      "name": "Creative Writing, BFA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/creative-writing-bfa-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice and Journalism, BS (Boston)",
+      "listType": "major",
+      "name": "Criminal Justice and Journalism, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/criminology-criminal-justice/criminal-justice-journalism-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice and Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Criminal Justice and Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/criminology-criminal-justice/criminal-justice-philosophy-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice and Political Science, BS (Boston)",
+      "listType": "major",
+      "name": "Criminal Justice and Political Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/criminology-criminal-justice/criminal-justice-political-science-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Criminal Justice and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/criminology-criminal-justice/criminal-justice-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice and Public Health, BS (Boston)",
+      "listType": "major",
+      "name": "Criminal Justice and Public Health, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/criminology-criminal-justice/criminal-justice-public-health-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice and Sociology, BS (Boston)",
+      "listType": "major",
+      "name": "Criminal Justice and Sociology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/criminology-criminal-justice/criminal-justice-sociology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology and Criminal Justice, BS (Boston)",
+      "listType": "major",
+      "name": "Criminology and Criminal Justice, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/criminology-criminal-justice/criminology-criminal-justice-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cultural Anthropology and Health Science, BS (Boston)",
+      "listType": "major",
+      "name": "Cultural Anthropology and Health Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/cultural-anthropology-health-science-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cultural Anthropology and Philosophy, BA (Boston)",
+      "listType": "major",
+      "name": "Cultural Anthropology and Philosophy, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/cultural-anthropology-philosophy-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cultural Anthropology and Religious Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Cultural Anthropology and Religious Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/cultural-anthropology-religious-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cultural Anthropology and Theatre, BA (Boston)",
+      "listType": "major",
+      "name": "Cultural Anthropology and Theatre, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/cultural-anthropology-theatre-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cultural Anthropology, BA (Boston)",
+      "listType": "major",
+      "name": "Cultural Anthropology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/cultural-anthropology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cultural Anthropology, BS (Boston)",
+      "listType": "major",
+      "name": "Cultural Anthropology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/cultural-anthropology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity and Business Administration, BS",
+      "listType": "major",
+      "name": "Cybersecurity and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/cybersecurity-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Cybersecurity and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/cybersecurity-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity and Criminal Justice, BS (Boston)",
+      "listType": "major",
+      "name": "Cybersecurity and Criminal Justice, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/cybersecurity-criminal-justice-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity and Economics, BS (Boston)",
+      "listType": "major",
+      "name": "Cybersecurity and Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/cybersecurity-economics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity and History, BS (Boston)",
+      "listType": "major",
+      "name": "Cybersecurity and History, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/cybersecurity-history-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity and Political Science, BS (Boston)",
+      "listType": "major",
+      "name": "Cybersecurity and Political Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/cybersecurity-political-science-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity, BS (Boston)",
+      "listType": "major",
+      "name": "Cybersecurity, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/computer-information-science/cybersecurity/cybersecurity-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance, BA (New York)",
+      "listType": "major",
+      "name": "Dance, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/dance-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance, BFA (New York)",
+      "listType": "major",
+      "name": "Dance, BFA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/dance-bfa-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design and Mathematics, BS (Boston)",
+      "listType": "major",
+      "name": "Design and Mathematics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/design-mathematics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design and Public Health, BS",
+      "listType": "major",
+      "name": "Design and Public Health, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/design-public-health-bs-bos",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design and Public Health, BS (Boston)",
+      "listType": "major",
+      "name": "Design and Public Health, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/design-public-health-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design and Theatre, BS (Boston)",
+      "listType": "major",
+      "name": "Design and Theatre, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/design-theatre-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design, BFA (Boston)",
+      "listType": "major",
+      "name": "Design, BFA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/design-bfa/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology and Evolutionary Biology, BS (Boston)",
+      "listType": "major",
+      "name": "Ecology and Evolutionary Biology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/ecology-evolutionary-biology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Business Administration, BS",
+      "listType": "major",
+      "name": "Economics and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Economics and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Business Administration, BS (Oakland)",
+      "listType": "major",
+      "name": "Economics and Business Administration, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-business-administration-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Criminal Justice, BS (Boston)",
+      "listType": "major",
+      "name": "Economics and Criminal Justice, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-criminal-justice-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Human Services, BS (Boston)",
+      "listType": "major",
+      "name": "Economics and Human Services, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-human-services-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and International Business, BS",
+      "listType": "major",
+      "name": "Economics and International Business, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-international-business-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and International Business, BS (Boston)",
+      "listType": "major",
+      "name": "Economics and International Business, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-international-business-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Journalism, BS (Boston)",
+      "listType": "major",
+      "name": "Economics and Journalism, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-journalism-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Mathematics, BS (Boston)",
+      "listType": "major",
+      "name": "Economics and Mathematics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-mathematics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Economics and Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-philosophy-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Economics and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Psychology, BS (Oakland)",
+      "listType": "major",
+      "name": "Economics and Psychology, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-psychology-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics, BA (Boston)",
+      "listType": "major",
+      "name": "Economics, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics, BS (Boston)",
+      "listType": "major",
+      "name": "Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/economics/economics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Communication Studies, BA (Boston)",
+      "listType": "major",
+      "name": "English and Communication Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-communication-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Criminal Justice, BA (Boston)",
+      "listType": "major",
+      "name": "English and Criminal Justice, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-criminal-justice-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Cultural Anthropology, BA (Boston)",
+      "listType": "major",
+      "name": "English and Cultural Anthropology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-cultural-anthropology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Design, BA (Boston)",
+      "listType": "major",
+      "name": "English and Design, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-design-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Philosophy, BA (Boston)",
+      "listType": "major",
+      "name": "English and Philosophy, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-philosophy-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Political Science, BA (Boston)",
+      "listType": "major",
+      "name": "English and Political Science, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-political-science-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Theatre, BA (Boston)",
+      "listType": "major",
+      "name": "English and Theatre, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-theatre-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English, BA (Boston)",
+      "listType": "major",
+      "name": "English, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English, BA (New York)",
+      "listType": "major",
+      "name": "English, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/english/english-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental and Sustainability Sciences and Chemistry, BS (Boston)",
+      "listType": "major",
+      "name": "Environmental and Sustainability Sciences and Chemistry, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-sustainability-sciences-chemistry-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental and Sustainability Sciences and Economics, BS (Boston)",
+      "listType": "major",
+      "name": "Environmental and Sustainability Sciences and Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-sustainability-sciences-economics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental and Sustainability Sciences and Journalism, BS (Boston)",
+      "listType": "major",
+      "name": "Environmental and Sustainability Sciences and Journalism, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-sustainability-sciences-journalism-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental and Sustainability Sciences and Landscape Architecture, BS (Boston)",
+      "listType": "major",
+      "name": "Environmental and Sustainability Sciences and Landscape Architecture, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-sustainability-sciences-landscape-architecture-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental and Sustainability Sciences, BS (Boston)",
+      "listType": "major",
+      "name": "Environmental and Sustainability Sciences, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-sustainability-sciences-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies and History, BA (Boston)",
+      "listType": "major",
+      "name": "Environmental Studies and History, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-studies-history-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies and International Affairs, BA (Boston)",
+      "listType": "major",
+      "name": "Environmental Studies and International Affairs, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-studies-international-affairs-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies and Philosophy, BA (Boston)",
+      "listType": "major",
+      "name": "Environmental Studies and Philosophy, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-studies-philosophy-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies and Political Science, BA (Boston)",
+      "listType": "major",
+      "name": "Environmental Studies and Political Science, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-studies-political-science-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Environmental Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies, BA (New York)",
+      "listType": "major",
+      "name": "Environmental Studies, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/environmental-studies-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Creative Media, BA (Boston)",
+      "listType": "major",
+      "name": "Film and Creative Media, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/film-creative-media-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Media Production, BFA (New York)",
+      "listType": "major",
+      "name": "Film and Media Production, BFA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/film-media-production-bfa-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Game Art and Animation, BFA (Boston)",
+      "listType": "major",
+      "name": "Game Art and Animation, BFA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/game-art-animation-bfa/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Game Design, BFA (Boston)",
+      "listType": "major",
+      "name": "Game Design, BFA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/game-design-bfa/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Asian Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Global Asian Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/global-asian-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Humanities and Health Science, BS (Boston)",
+      "listType": "major",
+      "name": "Health Humanities and Health Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/health-humanities-health-science/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Humanities and Public Health, BA (Boston)",
+      "listType": "major",
+      "name": "Health Humanities and Public Health, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/health-humanities-public-health/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Business Administration, BS",
+      "listType": "major",
+      "name": "Health Science and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Health Science and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Business Administration, BS (Oakland)",
+      "listType": "major",
+      "name": "Health Science and Business Administration, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-business-administration-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Communication Studies, BS (Boston)",
+      "listType": "major",
+      "name": "Health Science and Communication Studies, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-communication-studies-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Communication Studies, BS (Oakland)",
+      "listType": "major",
+      "name": "Health Science and Communication Studies, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-communication-studies-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Criminal Justice, BS (Boston)",
+      "listType": "major",
+      "name": "Health Science and Criminal Justice, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-criminal-justice-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Law, BS (Boston)",
+      "listType": "major",
+      "name": "Health Science and Law, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-law-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Health Science and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Psychology, BS (Oakland)",
+      "listType": "major",
+      "name": "Health Science and Psychology, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-psychology-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Sociology, BS (Boston)",
+      "listType": "major",
+      "name": "Health Science and Sociology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-sociology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science and Spanish, BS (Boston)",
+      "listType": "major",
+      "name": "Health Science and Spanish, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-spanish-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science, BS (Boston)",
+      "listType": "major",
+      "name": "Health Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science, BS (New York)",
+      "listType": "major",
+      "name": "Health Science, BS (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-bs-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science, BS (Oakland)",
+      "listType": "major",
+      "name": "Health Science, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/health-science-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Asian Studies, BA (Boston)",
+      "listType": "major",
+      "name": "History and Asian Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-asian-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Criminal Justice, BA (Boston)",
+      "listType": "major",
+      "name": "History and Criminal Justice, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-criminal-justice-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Cultural Anthropology, BA (Boston)",
+      "listType": "major",
+      "name": "History and Cultural Anthropology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-cultural-anthropology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Economics, BA (Boston)",
+      "listType": "major",
+      "name": "History and Economics, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-economics-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Economics, BS (Boston)",
+      "listType": "major",
+      "name": "History and Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-economics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and English, BA (Boston)",
+      "listType": "major",
+      "name": "History and English, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-english-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Linguistics, BS (Boston)",
+      "listType": "major",
+      "name": "History and Linguistics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-linguistics-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Philosophy, BA (Boston)",
+      "listType": "major",
+      "name": "History and Philosophy, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-philosophy-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Political Science, BA (Boston)",
+      "listType": "major",
+      "name": "History and Political Science, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-political-science-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History and Religious Studies, BA (Boston)",
+      "listType": "major",
+      "name": "History and Religious Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-religious-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History, BA (Boston)",
+      "listType": "major",
+      "name": "History, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History, BA (New York)",
+      "listType": "major",
+      "name": "History, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History, BS (Boston)",
+      "listType": "major",
+      "name": "History, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History, Culture, and Law, BA (Boston)",
+      "listType": "major",
+      "name": "History, Culture, and Law, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-culture-law-ba-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History, Culture, and Law, BA (New York)",
+      "listType": "major",
+      "name": "History, Culture, and Law, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/history/history-culture-law-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services and Communication Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Human Services and Communication Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-communications-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services and Criminal Justice, BS (Boston)",
+      "listType": "major",
+      "name": "Human Services and Criminal Justice, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-criminal-justice-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services and International Affairs, BA (Boston)",
+      "listType": "major",
+      "name": "Human Services and International Affairs, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-international-affairs-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Human Services and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services and Public Health BA (Boston)",
+      "listType": "major",
+      "name": "Human Services and Public Health BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-public-health-ba-bos",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services and Public Health, BA (Boston)",
+      "listType": "major",
+      "name": "Human Services and Public Health, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-public-health-ba-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services and Sociology, BA (Boston)",
+      "listType": "major",
+      "name": "Human Services and Sociology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-sociology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services and Sociology, BS (Boston)",
+      "listType": "major",
+      "name": "Human Services and Sociology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-sociology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services, BA (Boston)",
+      "listType": "major",
+      "name": "Human Services, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Services, BS (Boston)",
+      "listType": "major",
+      "name": "Human Services, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/human-services-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies, BS (Oakland)",
+      "listType": "major",
+      "name": "Interdisciplinary Studies, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/interdisciplinary-studies-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs and Criminal Justice, BA (Boston)",
+      "listType": "major",
+      "name": "International Affairs and Criminal Justice, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/international-affairs-criminal-justice-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs and Cultural Anthropology, BA (Boston)",
+      "listType": "major",
+      "name": "International Affairs and Cultural Anthropology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/cultural-anthropology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs and Economics, BA (Boston)",
+      "listType": "major",
+      "name": "International Affairs and Economics, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/economics-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs and History, BA (Boston)",
+      "listType": "major",
+      "name": "International Affairs and History, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/international-affairs-history-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs and International Business, BS",
+      "listType": "major",
+      "name": "International Affairs and International Business, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/international-affairs-international-business-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs and International Business, BS (Boston)",
+      "listType": "major",
+      "name": "International Affairs and International Business, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/international-affairs-international-business-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs and Religious Studies, BA (Boston)",
+      "listType": "major",
+      "name": "International Affairs and Religious Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/religious-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs, BA (Boston)",
+      "listType": "major",
+      "name": "International Affairs, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/international-affairs-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Affairs, BA (New York)",
+      "listType": "major",
+      "name": "International Affairs, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/international-affairs/international-affairs-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Business, BS (New York)",
+      "listType": "major",
+      "name": "International Business, BS (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/international-business-bs-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Business, BSIB (Boston)",
+      "listType": "major",
+      "name": "International Business, BSIB (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/international-business-bsib/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies and Religion, BA (Boston)",
+      "listType": "major",
+      "name": "Jewish Studies and Religion, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/philosophy-religion/jewish-studies-religion-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism and Communication Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Journalism and Communication Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-communication-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism and Cultural Anthropology, BA (Boston)",
+      "listType": "major",
+      "name": "Journalism and Cultural Anthropology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-cultural-anthropology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism and Design, BS (Boston)",
+      "listType": "major",
+      "name": "Journalism and Design, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-design-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism and English, BA (Boston)",
+      "listType": "major",
+      "name": "Journalism and English, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-english-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism and International Affairs, BA (Boston)",
+      "listType": "major",
+      "name": "Journalism and International Affairs, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-and-international-affairs-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism and Political Science, BA (Boston)",
+      "listType": "major",
+      "name": "Journalism and Political Science, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-political-science-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism and Sociology, BA (Boston)",
+      "listType": "major",
+      "name": "Journalism and Sociology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-sociology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism, BA (Boston)",
+      "listType": "major",
+      "name": "Journalism, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism, BA (New York)",
+      "listType": "major",
+      "name": "Journalism, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/journalism-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Landscape Architecture, BLA (Boston)",
+      "listType": "major",
+      "name": "Landscape Architecture, BLA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/architecture/landscape-architecture-bla/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Communication Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Linguistics and Communication Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/linguistics-communication-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Cultural Anthropology, BS (Boston)",
+      "listType": "major",
+      "name": "Linguistics and Cultural Anthropology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/linguistics-cultural-anthropology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and English, BA (Boston)",
+      "listType": "major",
+      "name": "Linguistics and English, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/linguistics-english-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Linguistics and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/linguistics-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Speech-Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Linguistics and Speech-Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/linguistics-speech-language-pathology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Speech-​Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Linguistics and Speech-​Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/linguistics-speech-language-pathology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics, BS (Boston)",
+      "listType": "major",
+      "name": "Linguistics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/interdisciplinary/linguistics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marine Biology with Three Seas, BS (Boston)",
+      "listType": "major",
+      "name": "Marine Biology with Three Seas, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/marine-biology-three-seas",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marine Biology, BS (Boston)",
+      "listType": "major",
+      "name": "Marine Biology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/marine-biology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marine Biology, BS with Three Seas (Boston)",
+      "listType": "major",
+      "name": "Marine Biology, BS with Three Seas (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/marine-environmental/marine-biology-three-seas/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Business Administration, BS",
+      "listType": "major",
+      "name": "Mathematics and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Mathematics and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Mathematics and Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-philosophy-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Physics, BS (Boston)",
+      "listType": "major",
+      "name": "Mathematics and Physics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-physics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Political Science, BS (Boston)",
+      "listType": "major",
+      "name": "Mathematics and Political Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-political-science-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Mathematics and Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Sociology, BS (Boston)",
+      "listType": "major",
+      "name": "Mathematics and Sociology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-sociology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics, BA (Boston)",
+      "listType": "major",
+      "name": "Mathematics, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics, BS (Boston)",
+      "listType": "major",
+      "name": "Mathematics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and English, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and English, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-english-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and History, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and History, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-history-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and Journalism, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and Journalism, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-journalism-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and Media Arts, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and Media Arts, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-media-art-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and Philosophy, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and Philosophy, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-philosophy-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and Political Science, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and Political Science, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-political-science-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and Sociology, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and Sociology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-sociology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and Theatre, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and Theatre, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-theatre-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies and Theatre, BS (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies and Theatre, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-theatre-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Media and Screen Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media and Screen Studies, BA (New York)",
+      "listType": "major",
+      "name": "Media and Screen Studies, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/communication-studies/media-screen-studies-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Arts and Communication Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Media Arts and Communication Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/media-arts-communication-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media Arts, BFA (Boston)",
+      "listType": "major",
+      "name": "Media Arts, BFA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/media-arts-bfa/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music, BA (Boston)",
+      "listType": "major",
+      "name": "Music, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/music/music-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Musical Theatre, BFA (New York)",
+      "listType": "major",
+      "name": "Musical Theatre, BFA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/musical-theatre-bfa-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance and Extended Realities, BS (Boston)",
+      "listType": "major",
+      "name": "Performance and Extended Realities, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/performance-extended-realities-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Pharmaceutical Sciences, BS (Boston)",
+      "listType": "major",
+      "name": "Pharmaceutical Sciences, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/pharmacy/pharmaceutical-sciences-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, BA (Boston)",
+      "listType": "major",
+      "name": "Philosophy, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/philosophy-religion/philosophy--ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, BA (New York)",
+      "listType": "major",
+      "name": "Philosophy, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/philosophy-religion/philosophy-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/philosophy-religion/philosophy-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics and Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Physics and Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/physics/physics-philosophy-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics, BS (Boston)",
+      "listType": "major",
+      "name": "Physics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/physics/physics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Business Administration, BS",
+      "listType": "major",
+      "name": "Political Science and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Political Science and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Communication Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Political Science and Communication Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-communication-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Communication Studies, BS (Boston)",
+      "listType": "major",
+      "name": "Political Science and Communication Studies, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-communication-studies-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Economics, BA (Boston)",
+      "listType": "major",
+      "name": "Political Science and Economics, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-economics-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Economics, BS (Boston)",
+      "listType": "major",
+      "name": "Political Science and Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-economics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Human Services, BA (Boston)",
+      "listType": "major",
+      "name": "Political Science and Human Services, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-human-services-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Human Services, BS (Boston)",
+      "listType": "major",
+      "name": "Political Science and Human Services, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-human-services-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and International Affairs, BA (Boston)",
+      "listType": "major",
+      "name": "Political Science and International Affairs, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-international-affairs-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Philosophy, BA (Boston)",
+      "listType": "major",
+      "name": "Political Science and Philosophy, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-philosophy-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science and Philosophy, BS (Boston)",
+      "listType": "major",
+      "name": "Political Science and Philosophy, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-philosophy-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science, BA (Boston)",
+      "listType": "major",
+      "name": "Political Science, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science, BS (Boston)",
+      "listType": "major",
+      "name": "Political Science, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/political-science/political-science-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Politics, Philosophy, and Economics and Business Administration, BS",
+      "listType": "major",
+      "name": "Politics, Philosophy, and Economics and Business Administration, BS",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/politics-philosophy-economics-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Politics, Philosophy, and Economics and Business Administration, BS (Boston)",
+      "listType": "major",
+      "name": "Politics, Philosophy, and Economics and Business Administration, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/politics-philosophy-economics-business-administration-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Politics, Philosophy, and Economics and Business Administration, BS (Oakland)",
+      "listType": "major",
+      "name": "Politics, Philosophy, and Economics and Business Administration, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/politics-philosophy-economics-business-administration-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Politics, Philosophy, and Economics, BS (Boston)",
+      "listType": "major",
+      "name": "Politics, Philosophy, and Economics, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/politics-philosophy-economics-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Politics, Philosophy, and Economics, BS (Oakland)",
+      "listType": "major",
+      "name": "Politics, Philosophy, and Economics, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/interdisciplinary/politics-philosophy-economics-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology and Design, BS (Boston)",
+      "listType": "major",
+      "name": "Psychology and Design, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/psychology/psychology-design-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology and Music, BS (Boston)",
+      "listType": "major",
+      "name": "Psychology and Music, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/psychology/psychology-music-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology and Theatre, BS (Boston)",
+      "listType": "major",
+      "name": "Psychology and Theatre, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/psychology/psychology-theatre-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology, BS (Boston)",
+      "listType": "major",
+      "name": "Psychology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/psychology/psychology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology, BS (Oakland)",
+      "listType": "major",
+      "name": "Psychology, BS (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/science/psychology/psychology-bs-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health and Communication Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Public Health and Communication Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-and-communication-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health and Communication Studies, BA (Oakland)",
+      "listType": "major",
+      "name": "Public Health and Communication Studies, BA (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-communication-studies-ba-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health and Cultural Anthropology, BA (Boston)",
+      "listType": "major",
+      "name": "Public Health and Cultural Anthropology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-cultural-anthropology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health and Journalism, BA (Boston)",
+      "listType": "major",
+      "name": "Public Health and Journalism, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-journalism-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health and Law, BA (Boston)",
+      "listType": "major",
+      "name": "Public Health and Law, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-law-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health and Sociology, BA (Boston)",
+      "listType": "major",
+      "name": "Public Health and Sociology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-sociology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health, BA (Boston)",
+      "listType": "major",
+      "name": "Public Health, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health, BA (New York)",
+      "listType": "major",
+      "name": "Public Health, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health, BA (Oakland)",
+      "listType": "major",
+      "name": "Public Health, BA (Oakland)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/community-health-behavioral-sciences/public-health-ba-oak/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Relations, BA (Boston)",
+      "listType": "major",
+      "name": "Public Relations, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/public-relations-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Relations, BA (New York)",
+      "listType": "major",
+      "name": "Public Relations, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/journalism/public-relations-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Quantitative Finance, BS (Boston)",
+      "listType": "major",
+      "name": "Quantitative Finance, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/business/quantitative-finance-bs-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies and Africana Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Religious Studies and Africana Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/philosophy-religion/religious-studies-africana-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Religious Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/philosophy-religion/religious-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and Cultural Anthropology, BA (Boston)",
+      "listType": "major",
+      "name": "Sociology and Cultural Anthropology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-cultural-anthropology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and Cultural Anthropology, BS (Boston)",
+      "listType": "major",
+      "name": "Sociology and Cultural Anthropology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-cultural-anthropology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and Environmental Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Sociology and Environmental Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-environmental-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and International Affairs, BA (Boston)",
+      "listType": "major",
+      "name": "Sociology and International Affairs, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-international-affairs-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and Philosophy, BA (Boston)",
+      "listType": "major",
+      "name": "Sociology and Philosophy, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-philosophy-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and Political Science, BA (Boston)",
+      "listType": "major",
+      "name": "Sociology and Political Science, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-political-science-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and Religious Studies, BA (Boston)",
+      "listType": "major",
+      "name": "Sociology and Religious Studies, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-religious-studies-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology, BA (Boston)",
+      "listType": "major",
+      "name": "Sociology, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology, BS (Boston)",
+      "listType": "major",
+      "name": "Sociology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/sociology-anthropology/sociology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and International Affairs BA (Boston)",
+      "listType": "major",
+      "name": "Spanish and International Affairs BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/world-languages-cultures/spanish-international-affairs-ba-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Linguistics BA (Boston)",
+      "listType": "major",
+      "name": "Spanish and Linguistics BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/world-languages-cultures/spanish-linguistics-ba-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Linguistics, BA (Boston)",
+      "listType": "major",
+      "name": "Spanish and Linguistics, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/world-languages-cultures/spanish-linguistics-ba-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Public Health BA (Boston)",
+      "listType": "major",
+      "name": "Spanish and Public Health BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/world-languages-cultures/spanish-public-health-ba-bos/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Public Health, BA (Boston)",
+      "listType": "major",
+      "name": "Spanish and Public Health, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/spanish-public-health-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish, BA (Boston)",
+      "listType": "major",
+      "name": "Spanish, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/social-sciences-humanities/world-languages-cultures/spanish-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech-Language Pathology and Audiology and Behavioral Neuroscience, BS (Boston)",
+      "listType": "major",
+      "name": "Speech-Language Pathology and Audiology and Behavioral Neuroscience, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/clinical-rehabilitation-sciences/speech-language-pathology-audiology-behavioral-neuroscience-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech-Language Pathology and Audiology and Human Services, BS (Boston)",
+      "listType": "major",
+      "name": "Speech-Language Pathology and Audiology and Human Services, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/clinical-rehabilitation-sciences/speech-language-pathology-audiology-human-services-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech-​Language Pathology and Audiology and Behavioral Neuroscience, BS (Boston)",
+      "listType": "major",
+      "name": "Speech-​Language Pathology and Audiology and Behavioral Neuroscience, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/clinical-rehabilitation-sciences/speech-language-pathology-audiology-behavioral-neuroscience-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech-​Language Pathology and Audiology and Human Services, BS (Boston)",
+      "listType": "major",
+      "name": "Speech-​Language Pathology and Audiology and Human Services, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/clinical-rehabilitation-sciences/speech-language-pathology-audiology-human-services-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech-​Language Pathology and Audiology, BS (Boston)",
+      "listType": "major",
+      "name": "Speech-​Language Pathology and Audiology, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/health-sciences/clinical-rehabilitation-sciences/speech-language-pathology-audiology-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Art, BFA (Boston)",
+      "listType": "major",
+      "name": "Studio Art, BFA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/studio-art-bfa/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Art, BFA (New York)",
+      "listType": "major",
+      "name": "Studio Art, BFA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/art-design/studio-art-bfa-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre and Journalism, BA (Boston)",
+      "listType": "major",
+      "name": "Theatre and Journalism, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/theatre-journalism-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre Design, Technology, and Stage Management, BFA (New York)",
+      "listType": "major",
+      "name": "Theatre Design, Technology, and Stage Management, BFA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/theatre-design-technology-stage-management-bfa-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre, BA (Boston)",
+      "listType": "major",
+      "name": "Theatre, BA (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/theatre-ba/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre, BA (New York)",
+      "listType": "major",
+      "name": "Theatre, BA (New York)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/theatre-ba-nyc/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre, BS (Boston)",
+      "listType": "major",
+      "name": "Theatre, BS (Boston)",
+      "officialUrl": "https://catalog.northeastern.edu/undergraduate/arts-media-design/theatre/theatre-bs/",
+      "sourceIds": [
+        "source_northeastern_2026_27_official_undergraduate_catalog"
+      ],
+      "status": "verified"
+    }
+  ]
+}
