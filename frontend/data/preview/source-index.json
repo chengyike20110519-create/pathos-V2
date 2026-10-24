@@ -5288,6 +5288,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed named major links from the official Major Programs of Study summary; school-specific availability caveat retained."
+    },
+    {
+      "sourceId": "source_uiuc_2026_27_undergraduate_programs",
+      "sourceType": "official_catalog",
+      "publisher": "UIUC Course Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.illinois.edu/degree-programs/undergraduate_index/",
+      "status": "verified",
+      "scope": [
+        "official 2026-27 Undergraduate Program Index",
+        "157 rows with explicit bachelor degree labels; concentrations and minor-only rows excluded"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Parsed undergraduate index rows with explicit bachelor degree labels; concentrations and minor-only rows excluded."
     }
   ]
 }

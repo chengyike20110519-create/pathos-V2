@@ -1,0 +1,1743 @@
+{
+  "universityId": "candidate-v2:university-of-illinois-at-urbana-champaign",
+  "schoolSlug": "university-of-illinois-at-urbana-champaign",
+  "schoolName": "University of Illinois Urbana-Champaign",
+  "sourceId": "source_uiuc_2026_27_undergraduate_programs",
+  "sourceUrl": "https://catalog.illinois.edu/degree-programs/undergraduate_index/",
+  "scope": [
+    "official 2026-27 Undergraduate Program Index",
+    "157 rows with explicit bachelor degree labels; concentrations and minor-only rows excluded"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 157,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accountancy",
+      "listType": "major",
+      "name": "Accountancy",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/accountancy-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accountancy + Data Science",
+      "listType": "major",
+      "name": "Accountancy + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/accountancy-data-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Actuarial Science",
+      "listType": "major",
+      "name": "Actuarial Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/actuarial-science-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Advertising",
+      "listType": "major",
+      "name": "Advertising",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/media/advertising-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/aerospace-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American Studies",
+      "listType": "major",
+      "name": "African American Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/african-american-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural & Biological Engineering",
+      "listType": "major",
+      "name": "Agricultural & Biological Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural & Biological Engineering Sciences",
+      "listType": "major",
+      "name": "Agricultural & Biological Engineering Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs-agricultural-engineering-agricultural-science-bsag/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural & Consumer Economics",
+      "listType": "major",
+      "name": "Agricultural & Consumer Economics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agricultural Leadership,  Education,  & Communications",
+      "listType": "major",
+      "name": "Agricultural Leadership,  Education,  & Communications",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Agronomy",
+      "listType": "major",
+      "name": "Agronomy",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/agronomy-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal Sciences",
+      "listType": "major",
+      "name": "Animal Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies",
+      "listType": "major",
+      "name": "Architectural Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/architectural-studies-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art & Design",
+      "listType": "major",
+      "name": "Art & Design",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/academic-units/school-art-design/foundation/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art Education",
+      "listType": "major",
+      "name": "Art Education",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/art-education-bfa/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/art-history-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian American Studies",
+      "listType": "major",
+      "name": "Asian American Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/asian-american-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy",
+      "listType": "major",
+      "name": "Astronomy",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/astronomy-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy + Data Science",
+      "listType": "major",
+      "name": "Astronomy + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/astronomy-data-science-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysics",
+      "listType": "major",
+      "name": "Astrophysics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/astrophysics-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric Sciences",
+      "listType": "major",
+      "name": "Atmospheric Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/atmospheric-sciences-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/biochemistry-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioengineering",
+      "listType": "major",
+      "name": "Bioengineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/bioengineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business + Data Science",
+      "listType": "major",
+      "name": "Business + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/business-data-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering + Data Science",
+      "listType": "major",
+      "name": "Chemical Engineering + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-data-science-bs/index.html",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/chemistry-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/civil-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/classics-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication",
+      "listType": "major",
+      "name": "Communication",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/communication-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Community Health",
+      "listType": "major",
+      "name": "Community Health",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/comparative-literature/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/computer-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Advertising",
+      "listType": "major",
+      "name": "Computer Science + Advertising",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_media/computer-science-advertising-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Animal Sciences",
+      "listType": "major",
+      "name": "Computer Science + Animal Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_aces/computer-science-animal-sciences-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Anthropology",
+      "listType": "major",
+      "name": "Computer Science + Anthropology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-anthropology-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Astronomy",
+      "listType": "major",
+      "name": "Computer Science + Astronomy",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-astronomy-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Bioengineering",
+      "listType": "major",
+      "name": "Computer Science + Bioengineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bioengineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Chemistry",
+      "listType": "major",
+      "name": "Computer Science + Chemistry",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-chemistry-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Crop Sciences",
+      "listType": "major",
+      "name": "Computer Science + Crop Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_aces/computer-science-crop-sciences-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Economics",
+      "listType": "major",
+      "name": "Computer Science + Economics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-economics-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Education",
+      "listType": "major",
+      "name": "Computer Science + Education",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Geography & Geographic Information Science",
+      "listType": "major",
+      "name": "Computer Science + Geography & Geographic Information Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-geography-geographic-information-science-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Linguistics",
+      "listType": "major",
+      "name": "Computer Science + Linguistics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-linguistics-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Music",
+      "listType": "major",
+      "name": "Computer Science + Music",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_faa/computer-science-music-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Philosophy",
+      "listType": "major",
+      "name": "Computer Science + Philosophy",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-philosophy-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science + Physics",
+      "listType": "major",
+      "name": "Computer Science + Physics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-physics-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Creative Writing",
+      "listType": "major",
+      "name": "Creative Writing",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/creative-writing-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Crop Sciences",
+      "listType": "major",
+      "name": "Crop Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance",
+      "listType": "major",
+      "name": "Dance",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/dance-bfa/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dietetics",
+      "listType": "major",
+      "name": "Dietetics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/dietetics-nutrition-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Childhood Education",
+      "listType": "major",
+      "name": "Early Childhood Education",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth,  Society,  & Environmental Sustainability",
+      "listType": "major",
+      "name": "Earth,  Society,  & Environmental Sustainability",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/earth-society-environmental-sustainability-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages & Cultures",
+      "listType": "major",
+      "name": "East Asian Languages & Cultures",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/east-asian-languages-cultures-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Econometrics & Quantitative Economics",
+      "listType": "major",
+      "name": "Econometrics & Quantitative Economics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/econometrics-quantitative-economics-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/economics-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/electrical-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education",
+      "listType": "major",
+      "name": "Elementary Education",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/education/elementary-education-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Mechanics",
+      "listType": "major",
+      "name": "Engineering Mechanics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/engineering-mechanics-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Physics",
+      "listType": "major",
+      "name": "Engineering Physics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/engineering-physics-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Technology & Management for Agricultural Systems",
+      "listType": "major",
+      "name": "Engineering Technology & Management for Agricultural Systems",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/english-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/environmental-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Sustainability",
+      "listType": "major",
+      "name": "Environmental Sustainability",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/environmental-sustainability-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/finance-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance + Data Science",
+      "listType": "major",
+      "name": "Finance + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/finance-data-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Planning",
+      "listType": "major",
+      "name": "Financial Planning",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/financial-planning-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fine and Applied Arts",
+      "listType": "major",
+      "name": "Fine and Applied Arts",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/fine-applied-arts-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Food Science",
+      "listType": "major",
+      "name": "Food Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/food-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/french-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French Teaching",
+      "listType": "major",
+      "name": "French Teaching",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/teaching-french-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender & Women's Studies",
+      "listType": "major",
+      "name": "Gender & Women's Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/gender-womens-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography & Geographic Information Science",
+      "listType": "major",
+      "name": "Geography & Geographic Information Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology",
+      "listType": "major",
+      "name": "Geology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/geology-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German Teaching",
+      "listType": "major",
+      "name": "German Teaching",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/teaching-german-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Germanic Studies",
+      "listType": "major",
+      "name": "Germanic Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies",
+      "listType": "major",
+      "name": "Global Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/global-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Graphic Design",
+      "listType": "major",
+      "name": "Graphic Design",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/graphic-design-bfa/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hip Hop Culture and the Arts",
+      "listType": "major",
+      "name": "Hip Hop Culture and the Arts",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/hip-hop-culture-arts-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/history-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Hospitality Management",
+      "listType": "major",
+      "name": "Hospitality Management",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/hospitality-management-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development & Family Studies",
+      "listType": "major",
+      "name": "Human Development & Family Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/human-development-family-studies-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Immersive & Interactive Theatre",
+      "listType": "major",
+      "name": "Immersive & Interactive Theatre",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/immersive-interactive-theatre-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Plans of Study",
+      "listType": "major",
+      "name": "Individual Plans of Study",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/individual-plans-study/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial Design",
+      "listType": "major",
+      "name": "Industrial Design",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/industrial-design-bfa/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial Engineering",
+      "listType": "major",
+      "name": "Industrial Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/industrial-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Sciences",
+      "listType": "major",
+      "name": "Information Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Sciences + Data Science",
+      "listType": "major",
+      "name": "Information Sciences + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-data-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Systems",
+      "listType": "major",
+      "name": "Information Systems",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/information-systems-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Innovation,  Leadership,  & Engineering Entrepreneurship",
+      "listType": "major",
+      "name": "Innovation,  Leadership,  & Engineering Entrepreneurship",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/innovation-leadership-engineering-entrepreneurship-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrative Biology",
+      "listType": "major",
+      "name": "Integrative Biology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrative Biology Honors",
+      "listType": "major",
+      "name": "Integrative Biology Honors",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/honors/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Health Sciences",
+      "listType": "major",
+      "name": "Interdisciplinary Health Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies",
+      "listType": "major",
+      "name": "Interdisciplinary Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/italian-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism",
+      "listType": "major",
+      "name": "Journalism",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/media/journalism-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Kinesiology",
+      "listType": "major",
+      "name": "Kinesiology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/.BA/BS",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Landscape Architecture",
+      "listType": "major",
+      "name": "Landscape Architecture",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/landscape-architecture-bla/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American Studies",
+      "listType": "major",
+      "name": "Latin American Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/latin-american-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latina/Latino Studies",
+      "listType": "major",
+      "name": "Latina/Latino Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/latina-latino-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Learning & Education Studies",
+      "listType": "major",
+      "name": "Learning & Education Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/linguistics-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Teaching English as a Second Language,  BALAS (TESL)",
+      "listType": "major",
+      "name": "Linguistics and Teaching English as a Second Language,  BALAS (TESL)",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/linguistics-teaching-english-second-language-tesl-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/management-business-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/marketing-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Science & Engineering",
+      "listType": "major",
+      "name": "Materials Science & Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Science & Engineering + Data Science",
+      "listType": "major",
+      "name": "Materials Science & Engineering + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-data-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics & Computer Science",
+      "listType": "major",
+      "name": "Mathematics & Computer Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/mechanical-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media",
+      "listType": "major",
+      "name": "Media",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/media/media-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Media & Cinema Studies",
+      "listType": "major",
+      "name": "Media & Cinema Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/media/media-cinema-studies-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle Grades Education",
+      "listType": "major",
+      "name": "Middle Grades Education",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular & Cellular Biology",
+      "listType": "major",
+      "name": "Molecular & Cellular Biology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular and Cellular Biology + Data Science",
+      "listType": "major",
+      "name": "Molecular and Cellular Biology + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-data-science-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/music-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Natural Resources & Environmental Sciences",
+      "listType": "major",
+      "name": "Natural Resources & Environmental Sciences",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neural Engineering",
+      "listType": "major",
+      "name": "Neural Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/neural-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/neuroscience-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nuclear,  Plasma & Radiological Engineering",
+      "listType": "major",
+      "name": "Nuclear,  Plasma & Radiological Engineering",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nuclear,  Plasma,  and Radiological Engineering + Data Science",
+      "listType": "major",
+      "name": "Nuclear,  Plasma,  and Radiological Engineering + Data Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-data-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nutrition",
+      "listType": "major",
+      "name": "Nutrition",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/nutrition-health-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Operations Management",
+      "listType": "major",
+      "name": "Operations Management",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/operations-management-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/philosophy-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/physics-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Plant Biotechnology",
+      "listType": "major",
+      "name": "Plant Biotechnology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/plant-biotechnology-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Portuguese",
+      "listType": "major",
+      "name": "Portuguese",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/portuguese-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/ahs/public-health-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Policy & Law",
+      "listType": "major",
+      "name": "Public Policy & Law",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/public-policy-law-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Recreation,  Sport & Tourism",
+      "listType": "major",
+      "name": "Recreation,  Sport & Tourism",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion",
+      "listType": "major",
+      "name": "Religion",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/religion-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian & East European Studies",
+      "listType": "major",
+      "name": "Russian & East European Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/russian-east-european-eurasian-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education",
+      "listType": "major",
+      "name": "Secondary Education",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Slavic Studies",
+      "listType": "major",
+      "name": "Slavic Studies",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/socw/social-work-bsw/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/sociology-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/spanish-balas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish Teaching",
+      "listType": "major",
+      "name": "Spanish Teaching",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/teaching-spanish-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Special Education",
+      "listType": "major",
+      "name": "Special Education",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/education/special-education-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech & Hearing Science",
+      "listType": "major",
+      "name": "Speech & Hearing Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sports Media",
+      "listType": "major",
+      "name": "Sports Media",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/media/sports-media-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/las/statistics-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics & Computer Science",
+      "listType": "major",
+      "name": "Statistics & Computer Science",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/eng_las/statistics-computer-science-bslas/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Strategy,  Innovation,  and Entrepreneurship",
+      "listType": "major",
+      "name": "Strategy,  Innovation,  and Entrepreneurship",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/strategy-innovation-entrepreneurship-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Art",
+      "listType": "major",
+      "name": "Studio Art",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/studio-art-basa/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain Management",
+      "listType": "major",
+      "name": "Supply Chain Management",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/bus/supply-chain-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sustainability in Food & Environmental Systems",
+      "listType": "major",
+      "name": "Sustainability in Food & Environmental Systems",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/aces/sustainability-food-environmental-systems-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sustainable Design",
+      "listType": "major",
+      "name": "Sustainable Design",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/sustainable-design-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Systems Engineering and Design",
+      "listType": "major",
+      "name": "Systems Engineering and Design",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/engineering/systems-engineering-design-bs/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Urban Planning",
+      "listType": "major",
+      "name": "Urban Planning",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Urban Studies Planning",
+      "listType": "major",
+      "name": "Urban Studies Planning",
+      "officialUrl": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/",
+      "sourceIds": [
+        "source_uiuc_2026_27_undergraduate_programs"
+      ],
+      "status": "verified"
+    }
+  ]
+}
