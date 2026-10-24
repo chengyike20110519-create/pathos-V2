@@ -1,0 +1,984 @@
+{
+  "universityId": "candidate-v2:university-of-rochester",
+  "schoolSlug": "university-of-rochester",
+  "schoolName": "University of Rochester",
+  "sourceId": "source_rochester_2026_undergraduate_program_inventory",
+  "sourceUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+  "scope": [
+    "official University of Rochester Undergraduate Bulletin registered programs inventory",
+    "88 entries with BA or BS undergraduate degrees"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-24",
+  "entryCount": 88,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Sign Language (BA)",
+      "listType": "major",
+      "name": "American Sign Language",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology (BA)",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics (BS)",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Archaeology, Technology, and Historical Structures (BA)",
+      "listType": "major",
+      "name": "Archaeology, Technology, and Historical Structures",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History (BA)",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Audio and Music Engineering (BS)",
+      "listType": "major",
+      "name": "Audio and Music Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Audio Arts and Technology (BA)",
+      "listType": "major",
+      "name": "Audio Arts and Technology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioethics (BA)",
+      "listType": "major",
+      "name": "Bioethics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (BS)",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Biochemistry (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Biochemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Cell and Developmental Biology (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Cell and Developmental Biology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Computational Biology (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Computational Biology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Ecology and Evolutionary Biology (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Ecology and Evolutionary Biology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Microbiology (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Microbiology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Molecular Genetics (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Molecular Genetics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Neuroscience (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Neuroscience",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Neuroscience/Neuroscience (BS/MS)",
+      "listType": "major",
+      "name": "Biological Sciences: Neuroscience/Neuroscience",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology (BA)",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering (BS, BS/MS)",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Black Studies (BA)",
+      "listType": "major",
+      "name": "Black Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Brain and Cognitive Sciences (BA)",
+      "listType": "major",
+      "name": "Brain and Cognitive Sciences",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering (BS, BS/MS)",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry: Biological Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry: Biological Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry: Inorganic Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry: Inorganic Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry: Organic Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry: Organic Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry: Physical Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry: Physical Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Civilizations (BA)",
+      "listType": "major",
+      "name": "Classical Civilizations",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics (BA)",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Clinical and Translational Sciences (BS)",
+      "listType": "major",
+      "name": "Clinical and Translational Sciences",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature (BA)",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science (BA)",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance: Creative Expression and Performance (BA)",
+      "listType": "major",
+      "name": "Dance: Creative Expression and Performance",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance: Dance Studies (BA)",
+      "listType": "major",
+      "name": "Dance: Dance Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science (BA)",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Digital Media Studies (BA)",
+      "listType": "major",
+      "name": "Digital Media Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth, Environmental, and Planetary Science (BS)",
+      "listType": "major",
+      "name": "Earth, Environmental, and Planetary Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Studies (BA)",
+      "listType": "major",
+      "name": "East Asian Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics (BA)",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical and Computer Engineering (BS)",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering and Applied Science (BS)",
+      "listType": "major",
+      "name": "Engineering and Applied Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Science (BA)",
+      "listType": "major",
+      "name": "Engineering Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: British and American Literature (BA)",
+      "listType": "major",
+      "name": "English: British and American Literature",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: Creative Writing (BA)",
+      "listType": "major",
+      "name": "English: Creative Writing",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: Language, Media and Communication (BA)",
+      "listType": "major",
+      "name": "English: Language, Media and Communication",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: Theater (BA)",
+      "listType": "major",
+      "name": "English: Theater",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Health (BS)",
+      "listType": "major",
+      "name": "Environmental Health",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Health/Epidemiology (BS/MS)",
+      "listType": "major",
+      "name": "Environmental Health/Epidemiology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies (BA)",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Epidemiology (BA)",
+      "listType": "major",
+      "name": "Epidemiology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Media Studies (BA)",
+      "listType": "major",
+      "name": "Film and Media Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Economics (BS)",
+      "listType": "major",
+      "name": "Financial Economics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French (BA)",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender, Sexuality and Women’s Studies (BA)",
+      "listType": "major",
+      "name": "Gender, Sexuality and Women’s Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geological Sciences (BA)",
+      "listType": "major",
+      "name": "Geological Sciences",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geomechanics (BS)",
+      "listType": "major",
+      "name": "Geomechanics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German (BA)",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Behavior and Society (BA)",
+      "listType": "major",
+      "name": "Health Behavior and Society",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Policy (BA)",
+      "listType": "major",
+      "name": "Health Policy",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History (BA)",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdepartmental Degree Program (BA)",
+      "listType": "major",
+      "name": "Interdepartmental Degree Program",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations (BA)",
+      "listType": "major",
+      "name": "International Relations",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian (BA)",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese (BA)",
+      "listType": "major",
+      "name": "Japanese",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American, Caribbean, and Latinx Studies (BA)",
+      "listType": "major",
+      "name": "Latin American, Caribbean, and Latinx Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics (BA)",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics (BA)",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Statistics (BA)",
+      "listType": "major",
+      "name": "Mathematics and Statistics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering (BS)",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Medical Anthropology (BA)",
+      "listType": "major",
+      "name": "Medical Anthropology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Multidisciplinary Studies (BA)",
+      "listType": "major",
+      "name": "Multidisciplinary Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music (BA)",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Optical Engineering (BS)",
+      "listType": "major",
+      "name": "Optical Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Optics (BS, BS/MS)",
+      "listType": "major",
+      "name": "Optics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy (BA)",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics (BA)",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics and Astronomy (BA)",
+      "listType": "major",
+      "name": "Physics and Astronomy",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science (BS)",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Politics, Philosophy, and Economics (BA)",
+      "listType": "major",
+      "name": "Politics, Philosophy, and Economics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology (BA)",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion (BA)",
+      "listType": "major",
+      "name": "Religion",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion, Politics, and Society (BA)",
+      "listType": "major",
+      "name": "Religion, Politics, and Society",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian (BA)",
+      "listType": "major",
+      "name": "Russian",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Studies (BA)",
+      "listType": "major",
+      "name": "Russian Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish (BA)",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics (BA)",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics/Biostatistics (BA/MS)",
+      "listType": "major",
+      "name": "Statistics/Biostatistics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Arts (BA)",
+      "listType": "major",
+      "name": "Studio Arts",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    }
+  ]
+}

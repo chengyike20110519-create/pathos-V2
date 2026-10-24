@@ -5358,6 +5358,20 @@
       ],
       "retrievedAt": "2026-10-24",
       "notes": "Parsed only entries with explicit BA, BS, BFA, or BMus labels; minors were excluded and distinct degree variants retained."
+    },
+    {
+      "sourceId": "source_rochester_2026_undergraduate_program_inventory",
+      "sourceType": "official_bulletin",
+      "publisher": "University of Rochester Undergraduate Bulletin",
+      "referenceYear": "2026",
+      "url": "https://www.rochester.edu/bulletin/college/programs.html",
+      "status": "verified",
+      "scope": [
+        "official registered undergraduate programs inventory",
+        "88 BA/BS program entries"
+      ],
+      "retrievedAt": "2026-10-24",
+      "notes": "Filtered the official inventory to programs whose degree field begins with BA or BS; graduate-only programs were excluded."
     }
   ]
 }

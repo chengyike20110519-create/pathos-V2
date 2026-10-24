@@ -149,9 +149,9 @@
   "allMajors": [
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
+      "displayName": "African-American/Black Studies",
       "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
+      "name": "African-American/Black Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -161,498 +161,15 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Registered Nursing/Registered Nurse",
-      "listType": "areas_of_study",
-      "name": "Registered Nursing/Registered Nurse",
+      "degreeType": "undergraduate_major",
+      "displayName": "American Sign Language (BA)",
+      "listType": "major",
+      "name": "American Sign Language",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_rochester_2026_undergraduate_program_inventory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Sciences and Quantitative Methods, Other",
-      "listType": "areas_of_study",
-      "name": "Management Sciences and Quantitative Methods, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Research and Experimental Psychology, Other",
-      "listType": "areas_of_study",
-      "name": "Research and Experimental Psychology, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Performance, General",
-      "listType": "areas_of_study",
-      "name": "Music Performance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computational Science",
-      "listType": "areas_of_study",
-      "name": "Computational Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Experimental Psychology",
-      "listType": "areas_of_study",
-      "name": "Experimental Psychology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Laser and Optical Engineering",
-      "listType": "areas_of_study",
-      "name": "Laser and Optical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Digital Communication and Media/Multimedia",
-      "listType": "areas_of_study",
-      "name": "Digital Communication and Media/Multimedia",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Statistics, General",
-      "listType": "areas_of_study",
-      "name": "Statistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Sciences, Other",
-      "listType": "areas_of_study",
-      "name": "Social Sciences, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Relations and Affairs",
-      "listType": "areas_of_study",
-      "name": "International Relations and Affairs",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Creative Writing",
-      "listType": "areas_of_study",
-      "name": "Creative Writing",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Applied Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Health",
-      "listType": "areas_of_study",
-      "name": "Environmental Health",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Technologies/Technicians, General",
-      "listType": "areas_of_study",
-      "name": "Engineering Technologies/Technicians, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, Other",
-      "listType": "areas_of_study",
-      "name": "Physics, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Environmental Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Women's Studies",
-      "listType": "areas_of_study",
-      "name": "Women's Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Health, General",
-      "listType": "areas_of_study",
-      "name": "Public Health, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Science",
-      "listType": "areas_of_study",
-      "name": "Engineering Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -669,9 +186,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Jazz/Jazz Studies",
+      "displayName": "American/United States Studies/Civilization",
       "listType": "areas_of_study",
-      "name": "Jazz/Jazz Studies",
+      "name": "American/United States Studies/Civilization",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -681,10 +198,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology (BA)",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Teacher Education",
+      "displayName": "Anthropology, General",
       "listType": "areas_of_study",
-      "name": "Music Teacher Education",
+      "name": "Anthropology, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -694,10 +222,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics (BS)",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "displayName": "Applied Mathematics, General",
       "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "name": "Applied Mathematics, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -707,108 +246,26 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Liberal Arts and Sciences/Liberal Studies",
-      "listType": "areas_of_study",
-      "name": "Liberal Arts and Sciences/Liberal Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Archaeology, Technology, and Historical Structures (BA)",
+      "listType": "major",
+      "name": "Archaeology, Technology, and Historical Structures",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_rochester_2026_undergraduate_program_inventory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Epidemiology",
-      "listType": "areas_of_study",
-      "name": "Epidemiology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History (BA)",
+      "listType": "major",
+      "name": "Art History",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_rochester_2026_undergraduate_program_inventory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Optics/Optical Sciences",
-      "listType": "areas_of_study",
-      "name": "Optics/Optical Sciences",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Theory and Composition",
-      "listType": "areas_of_study",
-      "name": "Music Theory and Composition",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Comparative Literature",
-      "listType": "areas_of_study",
-      "name": "Comparative Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioethics/Medical Ethics",
-      "listType": "areas_of_study",
-      "name": "Bioethics/Medical Ethics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -824,10 +281,32 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Audio and Music Engineering (BS)",
+      "listType": "major",
+      "name": "Audio and Music Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Audio Arts and Technology (BA)",
+      "listType": "major",
+      "name": "Audio Arts and Technology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
+      "displayName": "Bioengineering and Biomedical Engineering",
       "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
+      "name": "Bioengineering and Biomedical Engineering",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -837,10 +316,21 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioethics (BA)",
+      "listType": "major",
+      "name": "Bioethics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
+      "displayName": "Bioethics/Medical Ethics",
       "listType": "areas_of_study",
-      "name": "German Language and Literature",
+      "name": "Bioethics/Medical Ethics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -850,10 +340,120 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (BS)",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Biochemistry (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Biochemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Cell and Developmental Biology (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Cell and Developmental Biology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Computational Biology (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Computational Biology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Ecology and Evolutionary Biology (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Ecology and Evolutionary Biology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Microbiology (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Microbiology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Molecular Genetics (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Molecular Genetics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Neuroscience (BS)",
+      "listType": "major",
+      "name": "Biological Sciences: Neuroscience",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences: Neuroscience/Neuroscience (BS/MS)",
+      "listType": "major",
+      "name": "Biological Sciences: Neuroscience/Neuroscience",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology (BA)",
+      "listType": "major",
+      "name": "Biology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
+      "displayName": "Biology/Biological Sciences, General",
       "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
+      "name": "Biology/Biological Sciences, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -863,10 +463,43 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering (BS, BS/MS)",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Black Studies (BA)",
+      "listType": "major",
+      "name": "Black Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Brain and Cognitive Sciences (BA)",
+      "listType": "major",
+      "name": "Brain and Cognitive Sciences",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
+      "displayName": "Business/Managerial Economics",
       "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
+      "name": "Business/Managerial Economics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -876,10 +509,32 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering (BS, BS/MS)",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
+      "displayName": "Chemistry, General",
       "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
+      "name": "Chemistry, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -889,75 +544,76 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Dance, General",
-      "listType": "areas_of_study",
-      "name": "Dance, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry: Biological Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry: Biological Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_rochester_2026_undergraduate_program_inventory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry: Inorganic Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry: Inorganic Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry: Organic Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry: Organic Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry: Physical Chemistry (BA)",
+      "listType": "major",
+      "name": "Chemistry: Physical Chemistry",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Civilizations (BA)",
+      "listType": "major",
+      "name": "Classical Civilizations",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics (BA)",
+      "listType": "major",
+      "name": "Classics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese Language and Literature",
+      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
       "listType": "areas_of_study",
-      "name": "Japanese Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Studies",
-      "listType": "areas_of_study",
-      "name": "East Asian Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Statistics, Other",
-      "listType": "areas_of_study",
-      "name": "Mathematics and Statistics, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
+      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -980,10 +636,56 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Clinical and Translational Sciences (BS)",
+      "listType": "major",
+      "name": "Clinical and Translational Sciences",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature (BA)",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Studies",
+      "displayName": "Computational Science",
       "listType": "areas_of_study",
-      "name": "Russian Studies",
+      "name": "Computational Science",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science (BA)",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Creative Writing",
+      "listType": "areas_of_study",
+      "name": "Creative Writing",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -994,9 +696,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
+      "displayName": "Dance, General",
       "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
+      "name": "Dance, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1006,10 +708,43 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance: Creative Expression and Performance (BA)",
+      "listType": "major",
+      "name": "Dance: Creative Expression and Performance",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance: Dance Studies (BA)",
+      "listType": "major",
+      "name": "Dance: Dance Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science (BA)",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Research Methodology and Quantitative Methods",
+      "displayName": "Digital Communication and Media/Multimedia",
       "listType": "areas_of_study",
-      "name": "Research Methodology and Quantitative Methods",
+      "name": "Digital Communication and Media/Multimedia",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1019,10 +754,43 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Digital Media Studies (BA)",
+      "listType": "major",
+      "name": "Digital Media Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth, Environmental, and Planetary Science (BS)",
+      "listType": "major",
+      "name": "Earth, Environmental, and Planetary Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Studies (BA)",
+      "listType": "major",
+      "name": "East Asian Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, Other",
+      "displayName": "Econometrics and Quantitative Economics",
       "listType": "areas_of_study",
-      "name": "Music, Other",
+      "name": "Econometrics and Quantitative Economics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1032,10 +800,67 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics (BA)",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical and Computer Engineering (BS)",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "American/United States Studies/Civilization",
+      "displayName": "Electrical and Electronics Engineering",
       "listType": "areas_of_study",
-      "name": "American/United States Studies/Civilization",
+      "name": "Electrical and Electronics Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering and Applied Science (BS)",
+      "listType": "major",
+      "name": "Engineering and Applied Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Science (BA)",
+      "listType": "major",
+      "name": "Engineering Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Engineering Technologies/Technicians, General",
+      "listType": "areas_of_study",
+      "name": "Engineering Technologies/Technicians, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1059,6 +884,227 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
+      "displayName": "English Language and Literature, General",
+      "listType": "areas_of_study",
+      "name": "English Language and Literature, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: British and American Literature (BA)",
+      "listType": "major",
+      "name": "English: British and American Literature",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: Creative Writing (BA)",
+      "listType": "major",
+      "name": "English: Creative Writing",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: Language, Media and Communication (BA)",
+      "listType": "major",
+      "name": "English: Language, Media and Communication",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: Theater (BA)",
+      "listType": "major",
+      "name": "English: Theater",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Health (BS)",
+      "listType": "major",
+      "name": "Environmental Health",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Health/Epidemiology (BS/MS)",
+      "listType": "major",
+      "name": "Environmental Health/Epidemiology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Environmental Science",
+      "listType": "areas_of_study",
+      "name": "Environmental Science",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies (BA)",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Epidemiology (BA)",
+      "listType": "major",
+      "name": "Epidemiology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Experimental Psychology",
+      "listType": "areas_of_study",
+      "name": "Experimental Psychology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Media Studies (BA)",
+      "listType": "major",
+      "name": "Film and Media Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Film/Cinema/Media Studies",
+      "listType": "areas_of_study",
+      "name": "Film/Cinema/Media Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Economics (BS)",
+      "listType": "major",
+      "name": "Financial Economics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Fine/Studio Arts, General",
+      "listType": "areas_of_study",
+      "name": "Fine/Studio Arts, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French (BA)",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "French Language and Literature",
+      "listType": "areas_of_study",
+      "name": "French Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender, Sexuality and Women’s Studies (BA)",
+      "listType": "major",
+      "name": "Gender, Sexuality and Women’s Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geological Sciences (BA)",
+      "listType": "major",
+      "name": "Geological Sciences",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
       "displayName": "Geological/Geophysical Engineering",
       "listType": "areas_of_study",
       "name": "Geological/Geophysical Engineering",
@@ -1072,9 +1118,775 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business/Managerial Economics",
+      "displayName": "Geology/Earth Science, General",
       "listType": "areas_of_study",
-      "name": "Business/Managerial Economics",
+      "name": "Geology/Earth Science, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geomechanics (BS)",
+      "listType": "major",
+      "name": "Geomechanics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German (BA)",
+      "listType": "major",
+      "name": "German",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "German Language and Literature",
+      "listType": "areas_of_study",
+      "name": "German Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Behavior and Society (BA)",
+      "listType": "major",
+      "name": "Health Behavior and Society",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Policy (BA)",
+      "listType": "major",
+      "name": "Health Policy",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History (BA)",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History, General",
+      "listType": "areas_of_study",
+      "name": "History, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdepartmental Degree Program (BA)",
+      "listType": "major",
+      "name": "Interdepartmental Degree Program",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations (BA)",
+      "listType": "major",
+      "name": "International Relations",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "International Relations and Affairs",
+      "listType": "areas_of_study",
+      "name": "International Relations and Affairs",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian (BA)",
+      "listType": "major",
+      "name": "Italian",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Italian Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Italian Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese (BA)",
+      "listType": "major",
+      "name": "Japanese",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Japanese Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Japanese Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Jazz/Jazz Studies",
+      "listType": "areas_of_study",
+      "name": "Jazz/Jazz Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Laser and Optical Engineering",
+      "listType": "areas_of_study",
+      "name": "Laser and Optical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American, Caribbean, and Latinx Studies (BA)",
+      "listType": "major",
+      "name": "Latin American, Caribbean, and Latinx Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Liberal Arts and Sciences/Liberal Studies",
+      "listType": "areas_of_study",
+      "name": "Liberal Arts and Sciences/Liberal Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics (BA)",
+      "listType": "major",
+      "name": "Linguistics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Management Sciences and Quantitative Methods, Other",
+      "listType": "areas_of_study",
+      "name": "Management Sciences and Quantitative Methods, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics (BA)",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics and Statistics (BA)",
+      "listType": "major",
+      "name": "Mathematics and Statistics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics and Statistics, Other",
+      "listType": "areas_of_study",
+      "name": "Mathematics and Statistics, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics, General",
+      "listType": "areas_of_study",
+      "name": "Mathematics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering (BS)",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Medical Anthropology (BA)",
+      "listType": "major",
+      "name": "Medical Anthropology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Multi-/Interdisciplinary Studies, Other",
+      "listType": "areas_of_study",
+      "name": "Multi-/Interdisciplinary Studies, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Multidisciplinary Studies (BA)",
+      "listType": "major",
+      "name": "Multidisciplinary Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music (BA)",
+      "listType": "major",
+      "name": "Music",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Performance, General",
+      "listType": "areas_of_study",
+      "name": "Music Performance, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Teacher Education",
+      "listType": "areas_of_study",
+      "name": "Music Teacher Education",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Theory and Composition",
+      "listType": "areas_of_study",
+      "name": "Music Theory and Composition",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music, General",
+      "listType": "areas_of_study",
+      "name": "Music, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music, Other",
+      "listType": "areas_of_study",
+      "name": "Music, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Optical Engineering (BS)",
+      "listType": "major",
+      "name": "Optical Engineering",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Optics (BS, BS/MS)",
+      "listType": "major",
+      "name": "Optics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Optics/Optical Sciences",
+      "listType": "areas_of_study",
+      "name": "Optics/Optical Sciences",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy (BA)",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics (BA)",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics and Astronomy (BA)",
+      "listType": "major",
+      "name": "Physics and Astronomy",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics, General",
+      "listType": "areas_of_study",
+      "name": "Physics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics, Other",
+      "listType": "areas_of_study",
+      "name": "Physics, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science (BS)",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Political Science and Government, General",
+      "listType": "areas_of_study",
+      "name": "Political Science and Government, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Politics, Philosophy, and Economics (BA)",
+      "listType": "major",
+      "name": "Politics, Philosophy, and Economics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology (BA)",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Public Health, General",
+      "listType": "areas_of_study",
+      "name": "Public Health, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Registered Nursing/Registered Nurse",
+      "listType": "areas_of_study",
+      "name": "Registered Nursing/Registered Nurse",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion (BA)",
+      "listType": "major",
+      "name": "Religion",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion, Politics, and Society (BA)",
+      "listType": "major",
+      "name": "Religion, Politics, and Society",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Religion/Religious Studies",
+      "listType": "areas_of_study",
+      "name": "Religion/Religious Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Research and Experimental Psychology, Other",
+      "listType": "areas_of_study",
+      "name": "Research and Experimental Psychology, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Research Methodology and Quantitative Methods",
+      "listType": "areas_of_study",
+      "name": "Research Methodology and Quantitative Methods",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian (BA)",
+      "listType": "major",
+      "name": "Russian",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Russian Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Russian Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Studies (BA)",
+      "listType": "major",
+      "name": "Russian Studies",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Social Sciences, Other",
+      "listType": "areas_of_study",
+      "name": "Social Sciences, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish (BA)",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Spanish Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Spanish Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics (BA)",
+      "listType": "major",
+      "name": "Statistics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Statistics, General",
+      "listType": "areas_of_study",
+      "name": "Statistics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics/Biostatistics (BA/MS)",
+      "listType": "major",
+      "name": "Statistics/Biostatistics",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Arts (BA)",
+      "listType": "major",
+      "name": "Studio Arts",
+      "officialUrl": "https://www.rochester.edu/bulletin/college/programs.html",
+      "sourceIds": [
+        "source_rochester_2026_undergraduate_program_inventory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Women's Studies",
+      "listType": "areas_of_study",
+      "name": "Women's Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1085,8 +1897,8 @@
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "nullReason": null
   },
   "anecdotes": [
     {
@@ -1358,8 +2170,8 @@
   ],
   "region": "Mid East",
   "schoolType": "private_nonprofit",
-  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceCommit": "source-index:source_rochester_2026_undergraduate_program_inventory",
+  "sourceStatus": "verified",
   "state": "NY",
   "studentFacultyRatio": 9.0,
   "topPrograms": [
