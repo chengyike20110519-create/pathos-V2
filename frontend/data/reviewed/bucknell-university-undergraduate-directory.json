@@ -6,12 +6,12 @@
   "sourceUrl": "https://coursecatalog.bucknell.edu/",
   "scope": [
     "official Bucknell University 2026-2027 catalog degree pages",
-    "verified subset only: 30 undergraduate major entries",
+    "verified subset only: 35 undergraduate major entries",
     "Bachelor of Arts catalog scope remains under review"
   ],
   "status": "official_catalog_observed_partial_scope",
   "checkedAt": "2026-10-25",
-  "entryCount": 30,
+  "entryCount": 35,
   "entries": [
     {
       "degreeType": "undergraduate_major",
@@ -368,6 +368,66 @@
       "name": "Vocal Performance",
       "degreeAward": "BMus",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/datascience/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education",
+      "listType": "major",
+      "name": "Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/educationeduc/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/environmentalstudiesenst/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science",
+      "listType": "major",
+      "name": "Environmental Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/environmentalstudiesenst/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/musicmusc/",
       "sourceIds": [
         "source_bucknell_2026_27_degree_pages"
       ],
