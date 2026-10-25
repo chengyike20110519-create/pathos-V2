@@ -5486,6 +5486,20 @@
       ],
       "retrievedAt": "2026-10-25",
       "notes": "Official Syracuse Data Hub API; 124 undergraduate bachelor-level catalog program records after excluding minors, certificates, associate, and graduate/combined programs."
+    },
+    {
+      "sourceId": "source_umich_2026_27_official_majors_degrees_page",
+      "sourceType": "official_undergraduate_major_directory",
+      "publisher": "University of Michigan Office of Undergraduate Admissions",
+      "referenceYear": "2026-2027",
+      "url": "https://admissions.umich.edu/academics-majors/majors-degrees",
+      "status": "verified",
+      "scope": [
+        "official University of Michigan Office of Undergraduate Admissions Majors & Degrees page",
+        "all entries explicitly listed as majors or sub-majors on the current official page"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "Official current majors and degrees page; duplicate school rows deduped by name and school."
     }
   ]
 }
