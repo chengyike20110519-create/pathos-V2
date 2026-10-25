@@ -5572,6 +5572,32 @@
       ],
       "retrievedAt": "2026-10-25",
       "notes": "Used only for distinctive-program evidence; does not establish an external academic ranking."
+    },
+    {
+      "sourceId": "source_yale_humanities_program_2026_27",
+      "sourceType": "official_institutional",
+      "publisher": "Yale University Humanities Program",
+      "referenceYear": "2026-27",
+      "url": "https://humanities.yale.edu/academics",
+      "status": "verified",
+      "scope": [
+        "Humanities undergraduate major description"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "Used for distinctive-program description, not an external ranking."
+    },
+    {
+      "sourceId": "source_yale_math_philosophy_major_2026_27",
+      "sourceType": "official_catalog",
+      "publisher": "Yale College",
+      "referenceYear": "2026-27",
+      "url": "https://college.yale.edu/academics/explore-majors",
+      "status": "verified",
+      "scope": [
+        "Mathematics and Philosophy undergraduate major description"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "Used for distinctive-program description, not an external ranking."
     }
   ]
 }
