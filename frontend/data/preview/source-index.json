@@ -5443,6 +5443,21 @@
       ],
       "retrievedAt": "2026-10-25",
       "notes": "367 distinct official program pages after excluding minors, certificates, graduate and accelerated-only pages."
+    },
+    {
+      "sourceId": "source_ucla_2026_27_official_catalog_major_search",
+      "sourceType": "official_catalog_api_search",
+      "publisher": "University of California, Los Angeles",
+      "referenceYear": "2026-2027",
+      "url": "https://catalog.registrar.ucla.edu/search",
+      "status": "verified",
+      "scope": [
+        "UCLA General Catalog",
+        "current year 2026-27",
+        "Major content type filtered to undergraduate bachelor-level degrees"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "144 unique current undergraduate major records returned by official catalog search endpoint; official URI retained for each record."
     }
   ]
 }

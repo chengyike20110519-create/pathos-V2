@@ -110,537 +110,16 @@
   ],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering BS",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AerospaceEngineeringBS",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Behavioral Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Behavioral Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cell/Cellular and Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Cell/Cellular and Molecular Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cognitive Science, General",
-      "listType": "areas_of_study",
-      "name": "Cognitive Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Communication, General",
-      "listType": "areas_of_study",
-      "name": "Communication, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physiology, General",
-      "listType": "areas_of_study",
-      "name": "Physiology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Applied Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Human Biology",
-      "listType": "areas_of_study",
-      "name": "Human Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Biochemistry",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Statistics, General",
-      "listType": "areas_of_study",
-      "name": "Statistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Microbiological Sciences and Immunology, Other",
-      "listType": "areas_of_study",
-      "name": "Microbiological Sciences and Immunology, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, Other",
-      "listType": "areas_of_study",
-      "name": "Mathematics, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Policy Analysis, General",
-      "listType": "areas_of_study",
-      "name": "Public Policy Analysis, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Development Economics and International Development",
-      "listType": "areas_of_study",
-      "name": "Development Economics and International Development",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computational Mathematics",
-      "listType": "areas_of_study",
-      "name": "Computational Mathematics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social and Philosophical Foundations of Education",
-      "listType": "areas_of_study",
-      "name": "Social and Philosophical Foundations of Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistic, Comparative, and Related Language Studies and Services, Other",
-      "listType": "areas_of_study",
-      "name": "Linguistic, Comparative, and Related Language Studies and Services, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Financial Mathematics",
-      "listType": "areas_of_study",
-      "name": "Financial Mathematics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
-      "listType": "areas_of_study",
-      "name": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biomathematics, Bioinformatics, and Computational Biology, Other",
-      "listType": "areas_of_study",
-      "name": "Biomathematics, Bioinformatics, and Computational Biology, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -656,147 +135,28 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "African American Studies BA",
+      "listType": "major",
+      "name": "African American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AfricanAmericanStudiesBA",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "African and Middle Eastern Studies BA",
+      "listType": "major",
+      "name": "African and Middle Eastern Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AfricanandMiddleEasternStudiesBA",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography",
-      "listType": "areas_of_study",
-      "name": "Geography",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art/Art Studies, General",
-      "listType": "areas_of_study",
-      "name": "Art/Art Studies, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Design and Applied Arts, Other",
-      "listType": "areas_of_study",
-      "name": "Design and Applied Arts, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Statistics",
-      "listType": "areas_of_study",
-      "name": "Mathematics and Statistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",
-      "listType": "areas_of_study",
-      "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography and Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Geography and Environmental Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Labor Studies",
-      "listType": "areas_of_study",
-      "name": "Labor Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ecology",
-      "listType": "areas_of_study",
-      "name": "Ecology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -813,9 +173,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Astrophysics",
+      "displayName": "Agricultural Engineering",
       "listType": "areas_of_study",
-      "name": "Astrophysics",
+      "name": "Agricultural Engineering",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -825,88 +185,22 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine Arts and Art Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Fine Arts and Art Studies, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "American Indian Studies BA",
+      "listType": "major",
+      "name": "American Indian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AmericanIndianStudiesBA",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Materials Engineering",
+      "displayName": "American Indian/Native American Studies",
       "listType": "areas_of_study",
-      "name": "Materials Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Asian Studies/Civilization",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Performance, General",
-      "listType": "areas_of_study",
-      "name": "Music Performance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Dance, General",
-      "listType": "areas_of_study",
-      "name": "Dance, General",
+      "name": "American Indian/Native American Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -929,10 +223,34 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Literature and Culture BA",
+      "listType": "major",
+      "name": "American Literature and Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AmericanLiteratureandCultureBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ancient Near East and Egyptology BA",
+      "listType": "major",
+      "name": "Ancient Near East and Egyptology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AncientNearEastandEgyptologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
+      "displayName": "Ancient/Classical Greek Language and Literature",
       "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
+      "name": "Ancient/Classical Greek Language and Literature",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -940,6 +258,117 @@
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology BA",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AnthropologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology BS",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AnthropologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Anthropology, General",
+      "listType": "areas_of_study",
+      "name": "Anthropology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Linguistics BA",
+      "listType": "major",
+      "name": "Applied Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AppliedLinguisticsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics BS",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AppliedMathematicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Applied Mathematics, General",
+      "listType": "areas_of_study",
+      "name": "Applied Mathematics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arabic BA",
+      "listType": "major",
+      "name": "Arabic",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ArabicBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Arabic Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Arabic Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies BA",
+      "listType": "major",
+      "name": "Architectural Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ArchitecturalStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -956,9 +385,46 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Comparative Literature",
+      "displayName": "Area Studies, Other",
       "listType": "areas_of_study",
-      "name": "Comparative Literature",
+      "name": "Area Studies, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BA",
+      "listType": "major",
+      "name": "Art",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ArtBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History BA",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ArtHistoryBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Art History, Criticism and Conservation",
+      "listType": "areas_of_study",
+      "name": "Art History, Criticism and Conservation",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -969,9 +435,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Japanese Language and Literature",
+      "displayName": "Art/Art Studies, General",
       "listType": "areas_of_study",
-      "name": "Japanese Language and Literature",
+      "name": "Art/Art Studies, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -981,10 +447,70 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian American Studies BA",
+      "listType": "major",
+      "name": "Asian American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianAmericanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Humanities BA",
+      "listType": "major",
+      "name": "Asian Humanities",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianHumanitiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Languages and Linguistics BA",
+      "listType": "major",
+      "name": "Asian Languages and Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianLanguagesandLinguisticsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Religions BA",
+      "listType": "major",
+      "name": "Asian Religions",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianReligionsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Studies BA",
+      "listType": "major",
+      "name": "Asian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Musicology and Ethnomusicology",
+      "displayName": "Asian Studies/Civilization",
       "listType": "areas_of_study",
-      "name": "Musicology and Ethnomusicology",
+      "name": "Asian Studies/Civilization",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -994,231 +520,46 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Management",
-      "listType": "areas_of_study",
-      "name": "Music Management",
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysics BS",
+      "listType": "major",
+      "name": "Astrophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AstrophysicsBS",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Jazz/Jazz Studies",
-      "listType": "areas_of_study",
-      "name": "Jazz/Jazz Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric and Oceanic Sciences BS",
+      "listType": "major",
+      "name": "Atmospheric and Oceanic Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AtmosphericandOceanicSciencesBS",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marine Biology and Biological Oceanography",
-      "listType": "areas_of_study",
-      "name": "Marine Biology and Biological Oceanography",
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric and Oceanic Sciences/Mathematics BS",
+      "listType": "major",
+      "name": "Atmospheric and Oceanic Sciences/Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AtmosphericandOceanicSciencesMathematicsBS",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology",
-      "listType": "areas_of_study",
-      "name": "Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian-American Studies",
-      "listType": "areas_of_study",
-      "name": "Asian-American Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Music Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Korean Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Korean Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Materials Science",
-      "listType": "areas_of_study",
-      "name": "Materials Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Foreign Languages, Literatures, and Linguistics, Other",
-      "listType": "areas_of_study",
-      "name": "Foreign Languages, Literatures, and Linguistics, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Atmospheric Sciences and Meteorology, General",
       "listType": "areas_of_study",
       "name": "Atmospheric Sciences and Meteorology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "American Indian/Native American Studies",
-      "listType": "areas_of_study",
-      "name": "American Indian/Native American Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chinese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Chinese Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Studies",
-      "listType": "areas_of_study",
-      "name": "Russian Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Arabic Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Arabic Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biophysics",
-      "listType": "areas_of_study",
-      "name": "Biophysics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
-      "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1242,9 +583,1525 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
+      "displayName": "Behavioral Neuroscience",
+      "listType": "areas_of_study",
+      "name": "Behavioral Neuroscience",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry BS",
+      "listType": "major",
+      "name": "Biochemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BiochemistryBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Bioengineering and Biomedical Engineering",
+      "listType": "areas_of_study",
+      "name": "Bioengineering and Biomedical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioengineering BS",
+      "listType": "major",
+      "name": "Bioengineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BioengineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology BS",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biology/Biological Sciences, General",
+      "listType": "areas_of_study",
+      "name": "Biology/Biological Sciences, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Biomathematics, Bioinformatics, and Computational Biology, Other",
+      "listType": "areas_of_study",
+      "name": "Biomathematics, Bioinformatics, and Computational Biology, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biophysics BS",
+      "listType": "major",
+      "name": "Biophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BiophysicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Economics BA",
+      "listType": "major",
+      "name": "Business Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BusinessEconomicsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Business/Managerial Economics",
+      "listType": "areas_of_study",
+      "name": "Business/Managerial Economics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Cell/Cellular and Molecular Biology",
+      "listType": "areas_of_study",
+      "name": "Cell/Cellular and Molecular Biology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Central and East European Languages and Cultures BA",
+      "listType": "major",
+      "name": "Central and East European Languages and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/CentralandEastEuropeanLanguagesandCulturesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering BS",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChemicalEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry BS",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChemistryBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chemistry, General",
+      "listType": "areas_of_study",
+      "name": "Chemistry, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry/Materials Science BS",
+      "listType": "major",
+      "name": "Chemistry/Materials Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChemistryMaterialsScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chicana/o and Central American Studies BA",
+      "listType": "major",
+      "name": "Chicana/o and Central American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChicanaoandCentralAmericanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chinese BA",
+      "listType": "major",
+      "name": "Chinese",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChineseBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Chinese Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Chinese Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering BS",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/CivilEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Civil Engineering, General",
+      "listType": "areas_of_study",
+      "name": "Civil Engineering, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Civilization BA",
+      "listType": "major",
+      "name": "Classical Civilization",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ClassicalCivilizationBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology",
+      "listType": "areas_of_study",
+      "name": "Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, Other",
+      "listType": "areas_of_study",
+      "name": "Classics and Classical Languages, Literatures, and Linguistics, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Climate Science BS",
+      "listType": "major",
+      "name": "Climate Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ClimateScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Cognitive Science, General",
+      "listType": "areas_of_study",
+      "name": "Cognitive Science, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication BA",
+      "listType": "major",
+      "name": "Communication",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/CommunicationBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Communication, General",
+      "listType": "areas_of_study",
+      "name": "Communication, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature BA",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComparativeLiteratureBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Art BA",
+      "listType": "major",
+      "name": "Computational Art",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputationalArtBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Biology BS",
+      "listType": "major",
+      "name": "Computational Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputationalBiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computational Mathematics",
+      "listType": "areas_of_study",
+      "name": "Computational Mathematics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering BS",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputerEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Computer Engineering, General",
+      "listType": "areas_of_study",
+      "name": "Computer Engineering, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Engineering BS",
+      "listType": "major",
+      "name": "Computer Science and Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputerScienceandEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science BS",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputerScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance BA",
+      "listType": "major",
+      "name": "Dance",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DanceBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Dance, General",
+      "listType": "areas_of_study",
+      "name": "Dance, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Theory BS",
+      "listType": "major",
+      "name": "Data Theory",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DataTheoryBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Design and Applied Arts, Other",
+      "listType": "areas_of_study",
+      "name": "Design and Applied Arts, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Design and Visual Communications, General",
+      "listType": "areas_of_study",
+      "name": "Design and Visual Communications, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design BA",
+      "listType": "major",
+      "name": "Design",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DesignBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design|Media Arts BA",
+      "listType": "major",
+      "name": "Design|Media Arts",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DesignMediaArtsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Development Economics and International Development",
+      "listType": "areas_of_study",
+      "name": "Development Economics and International Development",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Digital Humanities BA",
+      "listType": "major",
+      "name": "Digital Humanities",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DigitalHumanitiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Disability Studies BA",
+      "listType": "major",
+      "name": "Disability Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DisabilityStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Drama and Dramatics/Theatre Arts, General",
+      "listType": "areas_of_study",
+      "name": "Drama and Dramatics/Theatre Arts, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth and Environmental Science BA",
+      "listType": "major",
+      "name": "Earth and Environmental Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EarthandEnvironmentalScienceBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "East Asian Studies",
+      "listType": "areas_of_study",
+      "name": "East Asian Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Ecology",
+      "listType": "areas_of_study",
+      "name": "Ecology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology, Behavior, and Evolution BS",
+      "listType": "major",
+      "name": "Ecology, Behavior, and Evolution",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EcologyBehaviorandEvolutionBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Econometrics and Quantitative Economics",
+      "listType": "areas_of_study",
+      "name": "Econometrics and Quantitative Economics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics BA",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EconomicsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Economics, General",
+      "listType": "areas_of_study",
+      "name": "Economics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education and Social Transformation BA",
+      "listType": "major",
+      "name": "Education and Social Transformation",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EducationandSocialTransformationBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Electrical and Electronics Engineering",
+      "listType": "areas_of_study",
+      "name": "Electrical and Electronics Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering BS",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ElectricalEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Geology BS",
+      "listType": "major",
+      "name": "Engineering Geology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EngineeringGeologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English BA",
+      "listType": "major",
+      "name": "English",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EnglishBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "English Language and Literature, General",
+      "listType": "areas_of_study",
+      "name": "English Language and Literature, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science BS",
+      "listType": "major",
+      "name": "Environmental Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EnvironmentalScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
+      "listType": "areas_of_study",
+      "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ethnomusicology BA",
+      "listType": "major",
+      "name": "Ethnomusicology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EthnomusicologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies with French and Francophone BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies with French and Francophone",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithFrenchandFrancophoneBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies with German BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies with German",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithGermanBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies with Italian BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies with Italian",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithItalianBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies with Scandinavian BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies with Scandinavian",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithScandinavianBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Studies BA",
+      "listType": "major",
+      "name": "European Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
       "displayName": "European Studies/Civilization",
       "listType": "areas_of_study",
       "name": "European Studies/Civilization",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Television BA",
+      "listType": "major",
+      "name": "Film and Television",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/FilmandTelevisionBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Film/Cinema/Media Studies",
+      "listType": "areas_of_study",
+      "name": "Film/Cinema/Media Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Actuarial Mathematics BS",
+      "listType": "major",
+      "name": "Financial Actuarial Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/FinancialActuarialMathematicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Financial Mathematics",
+      "listType": "areas_of_study",
+      "name": "Financial Mathematics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Fine Arts and Art Studies, Other",
+      "listType": "areas_of_study",
+      "name": "Fine Arts and Art Studies, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Foreign Languages, Literatures, and Linguistics, Other",
+      "listType": "areas_of_study",
+      "name": "Foreign Languages, Literatures, and Linguistics, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "French Language and Literature",
+      "listType": "areas_of_study",
+      "name": "French Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Games BA",
+      "listType": "major",
+      "name": "Games",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GamesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender Studies BA",
+      "listType": "major",
+      "name": "Gender Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GenderStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Chemistry BS",
+      "listType": "major",
+      "name": "General Chemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeneralChemistryBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geography and Environmental Studies",
+      "listType": "areas_of_study",
+      "name": "Geography and Environmental Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography BA",
+      "listType": "major",
+      "name": "Geography",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeographyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geography, Other",
+      "listType": "areas_of_study",
+      "name": "Geography, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography/Environmental Studies BA",
+      "listType": "major",
+      "name": "Geography/Environmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeographyEnvironmentalStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geological and Earth Sciences/Geosciences, Other",
+      "listType": "areas_of_study",
+      "name": "Geological and Earth Sciences/Geosciences, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geological/Geophysical Engineering",
+      "listType": "areas_of_study",
+      "name": "Geological/Geophysical Engineering",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology BS",
+      "listType": "major",
+      "name": "Geology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geology/Earth Science, General",
+      "listType": "areas_of_study",
+      "name": "Geology/Earth Science, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Geophysics and Seismology",
+      "listType": "areas_of_study",
+      "name": "Geophysics and Seismology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geophysics BS",
+      "listType": "major",
+      "name": "Geophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeophysicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "German Language and Literature",
+      "listType": "areas_of_study",
+      "name": "German Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Germanic Languages, Literatures, and Linguistics, Other",
+      "listType": "areas_of_study",
+      "name": "Germanic Languages, Literatures, and Linguistics, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Jazz Studies BA",
+      "listType": "major",
+      "name": "Global Jazz Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GlobalJazzStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies BA",
+      "listType": "major",
+      "name": "Global Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GlobalStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Greek and Latin BA",
+      "listType": "major",
+      "name": "Greek and Latin",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GreekandLatinBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Greek BA",
+      "listType": "major",
+      "name": "Greek",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GreekBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Hebrew Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Hebrew Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
+      "listType": "areas_of_study",
+      "name": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History BA",
+      "listType": "major",
+      "name": "History",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/HistoryBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "History, General",
+      "listType": "areas_of_study",
+      "name": "History, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Human Biology",
+      "listType": "areas_of_study",
+      "name": "Human Biology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology and Society BA",
+      "listType": "major",
+      "name": "Human Biology and Society",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology and Society BS",
+      "listType": "major",
+      "name": "Human Biology and Society",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Field of Concentration BA in Arts and Architecture",
+      "listType": "major",
+      "name": "Individual Field of Concentration BA in Arts and Architecture",
+      "degreeAward": "Architecture",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinArtsandArchitecture",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Field of Concentration BA in Letters and Science",
+      "listType": "major",
+      "name": "Individual Field of Concentration BA in Letters and Science",
+      "degreeAward": "Science",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinLettersandScience",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Field of Concentration BA in Theater, Film, and Television",
+      "listType": "major",
+      "name": "Individual Field of Concentration BA in Theater, Film, and Television",
+      "degreeAward": "Television",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinTheaterFilmandTelevision",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Field of Concentration BS in Letters and Science",
+      "listType": "major",
+      "name": "Individual Field of Concentration BS in Letters and Science",
+      "degreeAward": "Science",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBSinLettersandScience",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Development Studies BA",
+      "listType": "major",
+      "name": "International Development Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/InternationalDevelopmentStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "International Economics",
+      "listType": "areas_of_study",
+      "name": "International Economics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "International/Globalization Studies",
+      "listType": "areas_of_study",
+      "name": "International/Globalization Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Iranian Studies BA",
+      "listType": "major",
+      "name": "Iranian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IranianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Italian Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Italian Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese BA",
+      "listType": "major",
+      "name": "Japanese",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/JapaneseBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Japanese Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Japanese Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Jazz/Jazz Studies",
+      "listType": "areas_of_study",
+      "name": "Jazz/Jazz Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies BA",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/JewishStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Jewish/Judaic Studies",
+      "listType": "areas_of_study",
+      "name": "Jewish/Judaic Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Korean BA",
+      "listType": "major",
+      "name": "Korean",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/KoreanBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Korean Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Korean Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Labor Studies BA",
+      "listType": "major",
+      "name": "Labor Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LaborStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American Studies BA",
+      "listType": "major",
+      "name": "Latin American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LatinAmericanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin BA",
+      "listType": "major",
+      "name": "Latin",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LatinBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Latin Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Latin Language and Literature",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1268,9 +2125,155 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American Studies",
+      "displayName": "Linguistic, Comparative, and Related Language Studies and Services, Other",
       "listType": "areas_of_study",
-      "name": "Latin American Studies",
+      "name": "Linguistic, Comparative, and Related Language Studies and Services, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Anthropology BA",
+      "listType": "major",
+      "name": "Linguistics and Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandAnthropologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Asian Languages and Cultures BA",
+      "listType": "major",
+      "name": "Linguistics and Asian Languages and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandAsianLanguagesandCulturesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Computer Science BA",
+      "listType": "major",
+      "name": "Linguistics and Computer Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandComputerScienceBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and English BA",
+      "listType": "major",
+      "name": "Linguistics and English",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandEnglishBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Philosophy BA",
+      "listType": "major",
+      "name": "Linguistics and Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandPhilosophyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Psychology BA",
+      "listType": "major",
+      "name": "Linguistics and Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandPsychologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Spanish BA",
+      "listType": "major",
+      "name": "Linguistics and Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandSpanishBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics BA",
+      "listType": "major",
+      "name": "Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Marine Biology and Biological Oceanography",
+      "listType": "areas_of_study",
+      "name": "Marine Biology and Biological Oceanography",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marine Biology BS",
+      "listType": "major",
+      "name": "Marine Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MarineBiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Engineering BS",
+      "listType": "major",
+      "name": "Materials Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MaterialsEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Materials Science",
+      "listType": "areas_of_study",
+      "name": "Materials Science",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1281,9 +2284,58 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Near and Middle Eastern Studies",
+      "displayName": "Mathematics and Statistics",
       "listType": "areas_of_study",
-      "name": "Near and Middle Eastern Studies",
+      "name": "Mathematics and Statistics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics BS",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics for Teaching BS",
+      "listType": "major",
+      "name": "Mathematics for Teaching",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsforTeachingBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics of Computation BS",
+      "listType": "major",
+      "name": "Mathematics of Computation",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsofComputationBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Mathematics, General",
+      "listType": "areas_of_study",
+      "name": "Mathematics, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1294,9 +2346,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Scandinavian Studies",
+      "displayName": "Mathematics, Other",
       "listType": "areas_of_study",
-      "name": "Scandinavian Studies",
+      "name": "Mathematics, Other",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1306,10 +2358,46 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics/Applied Science BS",
+      "listType": "major",
+      "name": "Mathematics/Applied Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsAppliedScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics/Economics BS",
+      "listType": "major",
+      "name": "Mathematics/Economics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsEconomicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering BS",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MechanicalEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Germanic Languages, Literatures, and Linguistics, Other",
+      "displayName": "Microbiological Sciences and Immunology, Other",
       "listType": "areas_of_study",
-      "name": "Germanic Languages, Literatures, and Linguistics, Other",
+      "name": "Microbiological Sciences and Immunology, Other",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1319,10 +2407,34 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology, Immunology, and Molecular Genetics BS",
+      "listType": "major",
+      "name": "Microbiology, Immunology, and Molecular Genetics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MicrobiologyImmunologyandMolecularGeneticsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle Eastern Studies BA",
+      "listType": "major",
+      "name": "Middle Eastern Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MiddleEasternStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin Language and Literature",
+      "displayName": "Molecular Genetics",
       "listType": "areas_of_study",
-      "name": "Latin Language and Literature",
+      "name": "Molecular Genetics",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1332,17 +2444,16 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, Other",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular, Cell, and Developmental Biology BS",
+      "listType": "major",
+      "name": "Molecular, Cell, and Developmental Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MolecularCellandDevelopmentalBiologyBS",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1358,10 +2469,121 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music BA",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Composition BA",
+      "listType": "major",
+      "name": "Music Composition",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicCompositionBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Education BA",
+      "listType": "major",
+      "name": "Music Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicEducationBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music History and Industry BA",
+      "listType": "major",
+      "name": "Music History and Industry",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicHistoryandIndustryBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
+      "displayName": "Music History, Literature, and Theory",
       "listType": "areas_of_study",
-      "name": "Music, General",
+      "name": "Music History, Literature, and Theory",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Industry BA",
+      "listType": "major",
+      "name": "Music Industry",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicIndustryBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Management",
+      "listType": "areas_of_study",
+      "name": "Music Management",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Performance BM",
+      "listType": "major",
+      "name": "Music Performance",
+      "degreeAward": "BM",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicPerformanceBM",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Performance, General",
+      "listType": "areas_of_study",
+      "name": "Music Performance, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Music Teacher Education",
+      "listType": "areas_of_study",
+      "name": "Music Teacher Education",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1385,9 +2607,382 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geological/Geophysical Engineering",
+      "displayName": "Music, General",
       "listType": "areas_of_study",
-      "name": "Geological/Geophysical Engineering",
+      "name": "Music, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Musicology and Ethnomusicology",
+      "listType": "areas_of_study",
+      "name": "Musicology and Ethnomusicology",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Musicology BA",
+      "listType": "major",
+      "name": "Musicology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Near and Middle Eastern Studies",
+      "listType": "areas_of_study",
+      "name": "Near and Middle Eastern Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience BS",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/NeuroscienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nordic Studies BA",
+      "listType": "major",
+      "name": "Nordic Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/NordicStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing BS Prelicensure",
+      "listType": "major",
+      "name": "Nursing BS Prelicensure",
+      "degreeAward": "Prelicensure",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/NursingBSPrelicensure",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Nursing Science",
+      "listType": "areas_of_study",
+      "name": "Nursing Science",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy BA",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhilosophyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics BA",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhysicsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics BS",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhysicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physics, General",
+      "listType": "areas_of_study",
+      "name": "Physics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physiological Science BS",
+      "listType": "major",
+      "name": "Physiological Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhysiologicalScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Physiology, General",
+      "listType": "areas_of_study",
+      "name": "Physiology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Political Science and Government, General",
+      "listType": "areas_of_study",
+      "name": "Political Science and Government, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science BA",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PoliticalScienceBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Portuguese and Brazilian Studies BA",
+      "listType": "major",
+      "name": "Portuguese and Brazilian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PortugueseandBrazilianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Portuguese Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Portuguese Language and Literature",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychobiology BS",
+      "listType": "major",
+      "name": "Psychobiology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PsychobiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology BA",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PsychologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Psychology, General",
+      "listType": "areas_of_study",
+      "name": "Psychology, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Affairs BA",
+      "listType": "major",
+      "name": "Public Affairs",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PublicAffairsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health BA",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PublicHealthBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health BS",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PublicHealthBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Public Policy Analysis, General",
+      "listType": "areas_of_study",
+      "name": "Public Policy Analysis, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",
+      "listType": "areas_of_study",
+      "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Religion/Religious Studies",
+      "listType": "areas_of_study",
+      "name": "Religion/Religious Studies",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Language and Literature BA",
+      "listType": "major",
+      "name": "Russian Language and Literature",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/RussianLanguageandLiteratureBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Studies BA",
+      "listType": "major",
+      "name": "Russian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/RussianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Scandinavian Languages, Literatures, and Linguistics",
+      "listType": "areas_of_study",
+      "name": "Scandinavian Languages, Literatures, and Linguistics",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Scandinavian Studies",
+      "listType": "areas_of_study",
+      "name": "Scandinavian Studies",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1411,9 +3006,9 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
+      "displayName": "Social and Philosophical Foundations of Education",
       "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
+      "name": "Social and Philosophical Foundations of Education",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1423,10 +3018,22 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology BA",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SociologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
+      "displayName": "Sociology, General",
       "listType": "areas_of_study",
-      "name": "German Language and Literature",
+      "name": "Sociology, General",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1436,49 +3043,70 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geophysics and Seismology",
-      "listType": "areas_of_study",
-      "name": "Geophysics and Seismology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Studies",
-      "listType": "areas_of_study",
-      "name": "East Asian Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Southeast Asian Studies",
-      "listType": "areas_of_study",
+      "degreeType": "undergraduate_major",
+      "displayName": "Southeast Asian Studies BA",
+      "listType": "major",
       "name": "Southeast Asian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SoutheastAsianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Community and Culture BA",
+      "listType": "major",
+      "name": "Spanish and Community and Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SpanishandCommunityandCultureBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Linguistics BA",
+      "listType": "major",
+      "name": "Spanish and Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SpanishandLinguisticsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Portuguese BA",
+      "listType": "major",
+      "name": "Spanish and Portuguese",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SpanishandPortugueseBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish BA",
+      "listType": "major",
+      "name": "Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SpanishBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Spanish Language and Literature",
+      "listType": "areas_of_study",
+      "name": "Spanish Language and Literature",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1488,10 +3116,59 @@
       ]
     },
     {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics and Data Science BS",
+      "listType": "major",
+      "name": "Statistics and Data Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/StatisticsandDataScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Area Studies, Other",
+      "displayName": "Statistics, General",
       "listType": "areas_of_study",
-      "name": "Area Studies, Other",
+      "name": "Statistics, General",
+      "sourceIds": [
+        "source_ipeds_c2023_completions"
+      ],
+      "status": "source_limited",
+      "warnings": [
+        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
+      ]
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Study of Religion BA",
+      "listType": "major",
+      "name": "Study of Religion",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/StudyofReligionBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theater BA",
+      "listType": "major",
+      "name": "Theater",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/TheaterBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "bachelor_degree_award_area",
+      "displayName": "Visual and Performing Arts, Other",
+      "listType": "areas_of_study",
+      "name": "Visual and Performing Arts, Other",
       "sourceIds": [
         "source_ipeds_c2023_completions"
       ],
@@ -1514,217 +3191,21 @@
       ]
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Agricultural Engineering",
-      "listType": "areas_of_study",
-      "name": "Agricultural Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "World Arts and Cultures BA",
+      "listType": "major",
+      "name": "World Arts and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/WorldArtsandCulturesBA",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ucla_2026_27_official_catalog_major_search"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Scandinavian Languages, Literatures, and Linguistics",
-      "listType": "areas_of_study",
-      "name": "Scandinavian Languages, Literatures, and Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Portuguese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Portuguese Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hebrew Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Hebrew Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient/Classical Greek Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Ancient/Classical Greek Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Molecular Genetics",
-      "listType": "areas_of_study",
-      "name": "Molecular Genetics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Jewish/Judaic Studies",
-      "listType": "areas_of_study",
-      "name": "Jewish/Judaic Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geological and Earth Sciences/Geosciences, Other",
-      "listType": "areas_of_study",
-      "name": "Geological and Earth Sciences/Geosciences, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Economics",
-      "listType": "areas_of_study",
-      "name": "International Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography, Other",
-      "listType": "areas_of_study",
-      "name": "Geography, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Design and Visual Communications, General",
-      "listType": "areas_of_study",
-      "name": "Design and Visual Communications, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music History, Literature, and Theory",
-      "listType": "areas_of_study",
-      "name": "Music History, Literature, and Theory",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Visual and Performing Arts, Other",
-      "listType": "areas_of_study",
-      "name": "Visual and Performing Arts, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Nursing Science",
-      "listType": "areas_of_study",
-      "name": "Nursing Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business/Managerial Economics",
-      "listType": "areas_of_study",
-      "name": "Business/Managerial Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "nullReason": null
   },
   "anecdotes": [
     {
@@ -2008,8 +3489,8 @@
   ],
   "region": "Far West",
   "schoolType": "public",
-  "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceCommit": "source-index:source_ucla_2026_27_official_catalog_major_search",
+  "sourceStatus": "verified",
   "state": "CA",
   "studentFacultyRatio": 18.0,
   "topPrograms": [

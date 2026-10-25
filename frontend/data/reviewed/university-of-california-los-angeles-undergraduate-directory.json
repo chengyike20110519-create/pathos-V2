@@ -1,0 +1,1745 @@
+{
+  "universityId": "candidate-v2:university-of-california-los-angeles",
+  "schoolSlug": "university-of-california-los-angeles",
+  "schoolName": "University of California, Los Angeles",
+  "sourceId": "source_ucla_2026_27_official_catalog_major_search",
+  "sourceUrl": "https://catalog.registrar.ucla.edu/search",
+  "scope": [
+    "official UCLA General Catalog 2026-27",
+    "content type Major; catalog year 2026-27",
+    "144 unique current undergraduate bachelor-level major records"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-25",
+  "entryCount": 144,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering BS",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AerospaceEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African American Studies BA",
+      "listType": "major",
+      "name": "African American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AfricanAmericanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "African and Middle Eastern Studies BA",
+      "listType": "major",
+      "name": "African and Middle Eastern Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AfricanandMiddleEasternStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Indian Studies BA",
+      "listType": "major",
+      "name": "American Indian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AmericanIndianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Literature and Culture BA",
+      "listType": "major",
+      "name": "American Literature and Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AmericanLiteratureandCultureBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ancient Near East and Egyptology BA",
+      "listType": "major",
+      "name": "Ancient Near East and Egyptology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AncientNearEastandEgyptologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology BA",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AnthropologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology BS",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AnthropologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Linguistics BA",
+      "listType": "major",
+      "name": "Applied Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AppliedLinguisticsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics BS",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AppliedMathematicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arabic BA",
+      "listType": "major",
+      "name": "Arabic",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ArabicBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies BA",
+      "listType": "major",
+      "name": "Architectural Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ArchitecturalStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art BA",
+      "listType": "major",
+      "name": "Art",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ArtBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History BA",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ArtHistoryBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian American Studies BA",
+      "listType": "major",
+      "name": "Asian American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianAmericanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Humanities BA",
+      "listType": "major",
+      "name": "Asian Humanities",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianHumanitiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Languages and Linguistics BA",
+      "listType": "major",
+      "name": "Asian Languages and Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianLanguagesandLinguisticsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Religions BA",
+      "listType": "major",
+      "name": "Asian Religions",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianReligionsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Studies BA",
+      "listType": "major",
+      "name": "Asian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AsianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astrophysics BS",
+      "listType": "major",
+      "name": "Astrophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AstrophysicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric and Oceanic Sciences BS",
+      "listType": "major",
+      "name": "Atmospheric and Oceanic Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AtmosphericandOceanicSciencesBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Atmospheric and Oceanic Sciences/Mathematics BS",
+      "listType": "major",
+      "name": "Atmospheric and Oceanic Sciences/Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AtmosphericandOceanicSciencesMathematicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry BS",
+      "listType": "major",
+      "name": "Biochemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BiochemistryBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioengineering BS",
+      "listType": "major",
+      "name": "Bioengineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BioengineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology BS",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biophysics BS",
+      "listType": "major",
+      "name": "Biophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BiophysicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Economics BA",
+      "listType": "major",
+      "name": "Business Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/BusinessEconomicsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Central and East European Languages and Cultures BA",
+      "listType": "major",
+      "name": "Central and East European Languages and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/CentralandEastEuropeanLanguagesandCulturesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering BS",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChemicalEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry BS",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChemistryBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry/Materials Science BS",
+      "listType": "major",
+      "name": "Chemistry/Materials Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChemistryMaterialsScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chicana/o and Central American Studies BA",
+      "listType": "major",
+      "name": "Chicana/o and Central American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChicanaoandCentralAmericanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chinese BA",
+      "listType": "major",
+      "name": "Chinese",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ChineseBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering BS",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/CivilEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Civilization BA",
+      "listType": "major",
+      "name": "Classical Civilization",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ClassicalCivilizationBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Climate Science BS",
+      "listType": "major",
+      "name": "Climate Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ClimateScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication BA",
+      "listType": "major",
+      "name": "Communication",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/CommunicationBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature BA",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComparativeLiteratureBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Art BA",
+      "listType": "major",
+      "name": "Computational Art",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputationalArtBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Biology BS",
+      "listType": "major",
+      "name": "Computational Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputationalBiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering BS",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputerEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Engineering BS",
+      "listType": "major",
+      "name": "Computer Science and Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputerScienceandEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science BS",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ComputerScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance BA",
+      "listType": "major",
+      "name": "Dance",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DanceBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Theory BS",
+      "listType": "major",
+      "name": "Data Theory",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DataTheoryBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design BA",
+      "listType": "major",
+      "name": "Design",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DesignBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design|Media Arts BA",
+      "listType": "major",
+      "name": "Design|Media Arts",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DesignMediaArtsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Digital Humanities BA",
+      "listType": "major",
+      "name": "Digital Humanities",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DigitalHumanitiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Disability Studies BA",
+      "listType": "major",
+      "name": "Disability Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/DisabilityStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth and Environmental Science BA",
+      "listType": "major",
+      "name": "Earth and Environmental Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EarthandEnvironmentalScienceBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ecology, Behavior, and Evolution BS",
+      "listType": "major",
+      "name": "Ecology, Behavior, and Evolution",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EcologyBehaviorandEvolutionBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics BA",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EconomicsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education and Social Transformation BA",
+      "listType": "major",
+      "name": "Education and Social Transformation",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EducationandSocialTransformationBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering BS",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/ElectricalEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Geology BS",
+      "listType": "major",
+      "name": "Engineering Geology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EngineeringGeologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English BA",
+      "listType": "major",
+      "name": "English",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EnglishBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science BS",
+      "listType": "major",
+      "name": "Environmental Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EnvironmentalScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ethnomusicology BA",
+      "listType": "major",
+      "name": "Ethnomusicology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EthnomusicologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies with French and Francophone BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies with French and Francophone",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithFrenchandFrancophoneBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies with German BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies with German",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithGermanBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies with Italian BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies with Italian",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithItalianBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Languages and Transcultural Studies with Scandinavian BA",
+      "listType": "major",
+      "name": "European Languages and Transcultural Studies with Scandinavian",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithScandinavianBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "European Studies BA",
+      "listType": "major",
+      "name": "European Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/EuropeanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Television BA",
+      "listType": "major",
+      "name": "Film and Television",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/FilmandTelevisionBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Financial Actuarial Mathematics BS",
+      "listType": "major",
+      "name": "Financial Actuarial Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/FinancialActuarialMathematicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Games BA",
+      "listType": "major",
+      "name": "Games",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GamesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender Studies BA",
+      "listType": "major",
+      "name": "Gender Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GenderStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Chemistry BS",
+      "listType": "major",
+      "name": "General Chemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeneralChemistryBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography BA",
+      "listType": "major",
+      "name": "Geography",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeographyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geography/Environmental Studies BA",
+      "listType": "major",
+      "name": "Geography/Environmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeographyEnvironmentalStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology BS",
+      "listType": "major",
+      "name": "Geology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geophysics BS",
+      "listType": "major",
+      "name": "Geophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GeophysicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Jazz Studies BA",
+      "listType": "major",
+      "name": "Global Jazz Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GlobalJazzStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies BA",
+      "listType": "major",
+      "name": "Global Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GlobalStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Greek and Latin BA",
+      "listType": "major",
+      "name": "Greek and Latin",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GreekandLatinBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Greek BA",
+      "listType": "major",
+      "name": "Greek",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/GreekBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History BA",
+      "listType": "major",
+      "name": "History",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/HistoryBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology and Society BA",
+      "listType": "major",
+      "name": "Human Biology and Society",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology and Society BS",
+      "listType": "major",
+      "name": "Human Biology and Society",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Field of Concentration BA in Arts and Architecture",
+      "listType": "major",
+      "name": "Individual Field of Concentration BA in Arts and Architecture",
+      "degreeAward": "Architecture",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinArtsandArchitecture",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Field of Concentration BA in Letters and Science",
+      "listType": "major",
+      "name": "Individual Field of Concentration BA in Letters and Science",
+      "degreeAward": "Science",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinLettersandScience",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Field of Concentration BA in Theater, Film, and Television",
+      "listType": "major",
+      "name": "Individual Field of Concentration BA in Theater, Film, and Television",
+      "degreeAward": "Television",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinTheaterFilmandTelevision",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Individual Field of Concentration BS in Letters and Science",
+      "listType": "major",
+      "name": "Individual Field of Concentration BS in Letters and Science",
+      "degreeAward": "Science",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBSinLettersandScience",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Development Studies BA",
+      "listType": "major",
+      "name": "International Development Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/InternationalDevelopmentStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Iranian Studies BA",
+      "listType": "major",
+      "name": "Iranian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/IranianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Japanese BA",
+      "listType": "major",
+      "name": "Japanese",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/JapaneseBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies BA",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/JewishStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Korean BA",
+      "listType": "major",
+      "name": "Korean",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/KoreanBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Labor Studies BA",
+      "listType": "major",
+      "name": "Labor Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LaborStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American Studies BA",
+      "listType": "major",
+      "name": "Latin American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LatinAmericanStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin BA",
+      "listType": "major",
+      "name": "Latin",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LatinBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Anthropology BA",
+      "listType": "major",
+      "name": "Linguistics and Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandAnthropologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Asian Languages and Cultures BA",
+      "listType": "major",
+      "name": "Linguistics and Asian Languages and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandAsianLanguagesandCulturesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Computer Science BA",
+      "listType": "major",
+      "name": "Linguistics and Computer Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandComputerScienceBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and English BA",
+      "listType": "major",
+      "name": "Linguistics and English",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandEnglishBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Philosophy BA",
+      "listType": "major",
+      "name": "Linguistics and Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandPhilosophyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Psychology BA",
+      "listType": "major",
+      "name": "Linguistics and Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandPsychologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Spanish BA",
+      "listType": "major",
+      "name": "Linguistics and Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandSpanishBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics BA",
+      "listType": "major",
+      "name": "Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marine Biology BS",
+      "listType": "major",
+      "name": "Marine Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MarineBiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Materials Engineering BS",
+      "listType": "major",
+      "name": "Materials Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MaterialsEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics BS",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics for Teaching BS",
+      "listType": "major",
+      "name": "Mathematics for Teaching",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsforTeachingBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics of Computation BS",
+      "listType": "major",
+      "name": "Mathematics of Computation",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsofComputationBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics/Applied Science BS",
+      "listType": "major",
+      "name": "Mathematics/Applied Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsAppliedScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics/Economics BS",
+      "listType": "major",
+      "name": "Mathematics/Economics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MathematicsEconomicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering BS",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MechanicalEngineeringBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology, Immunology, and Molecular Genetics BS",
+      "listType": "major",
+      "name": "Microbiology, Immunology, and Molecular Genetics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MicrobiologyImmunologyandMolecularGeneticsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle Eastern Studies BA",
+      "listType": "major",
+      "name": "Middle Eastern Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MiddleEasternStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular, Cell, and Developmental Biology BS",
+      "listType": "major",
+      "name": "Molecular, Cell, and Developmental Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MolecularCellandDevelopmentalBiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music BA",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Composition BA",
+      "listType": "major",
+      "name": "Music Composition",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicCompositionBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Education BA",
+      "listType": "major",
+      "name": "Music Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicEducationBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music History and Industry BA",
+      "listType": "major",
+      "name": "Music History and Industry",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicHistoryandIndustryBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Industry BA",
+      "listType": "major",
+      "name": "Music Industry",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicIndustryBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Performance BM",
+      "listType": "major",
+      "name": "Music Performance",
+      "degreeAward": "BM",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicPerformanceBM",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Musicology BA",
+      "listType": "major",
+      "name": "Musicology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/MusicologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience BS",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/NeuroscienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nordic Studies BA",
+      "listType": "major",
+      "name": "Nordic Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/NordicStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing BS Prelicensure",
+      "listType": "major",
+      "name": "Nursing BS Prelicensure",
+      "degreeAward": "Prelicensure",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/NursingBSPrelicensure",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy BA",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhilosophyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics BA",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhysicsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics BS",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhysicsBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physiological Science BS",
+      "listType": "major",
+      "name": "Physiological Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhysiologicalScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science BA",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PoliticalScienceBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Portuguese and Brazilian Studies BA",
+      "listType": "major",
+      "name": "Portuguese and Brazilian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PortugueseandBrazilianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychobiology BS",
+      "listType": "major",
+      "name": "Psychobiology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PsychobiologyBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology BA",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PsychologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Affairs BA",
+      "listType": "major",
+      "name": "Public Affairs",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PublicAffairsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health BA",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PublicHealthBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health BS",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PublicHealthBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Language and Literature BA",
+      "listType": "major",
+      "name": "Russian Language and Literature",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/RussianLanguageandLiteratureBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Studies BA",
+      "listType": "major",
+      "name": "Russian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/RussianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology BA",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SociologyBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Southeast Asian Studies BA",
+      "listType": "major",
+      "name": "Southeast Asian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SoutheastAsianStudiesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Community and Culture BA",
+      "listType": "major",
+      "name": "Spanish and Community and Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SpanishandCommunityandCultureBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Linguistics BA",
+      "listType": "major",
+      "name": "Spanish and Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SpanishandLinguisticsBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Portuguese BA",
+      "listType": "major",
+      "name": "Spanish and Portuguese",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SpanishandPortugueseBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish BA",
+      "listType": "major",
+      "name": "Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/SpanishBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics and Data Science BS",
+      "listType": "major",
+      "name": "Statistics and Data Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/StatisticsandDataScienceBS",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Study of Religion BA",
+      "listType": "major",
+      "name": "Study of Religion",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/StudyofReligionBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theater BA",
+      "listType": "major",
+      "name": "Theater",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/TheaterBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "World Arts and Cultures BA",
+      "listType": "major",
+      "name": "World Arts and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/WorldArtsandCulturesBA",
+      "sourceIds": [
+        "source_ucla_2026_27_official_catalog_major_search"
+      ],
+      "status": "verified"
+    }
+  ]
+}
