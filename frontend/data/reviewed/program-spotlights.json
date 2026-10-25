@@ -39,7 +39,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://bulletin.wfu.edu/undergraduate/departments-programs/computer-science/ba-computer-science/"]
+    "supportingUrls": [
+      "https://bulletin.wfu.edu/undergraduate/departments-programs/computer-science/ba-computer-science/"
+    ]
   },
   {
     "universityId": "candidate-v2:worcester-polytechnic-institute",
@@ -53,7 +55,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://www.wpi.edu/academics/departments/computer-science"]
+    "supportingUrls": [
+      "https://www.wpi.edu/academics/departments/computer-science"
+    ]
   },
   {
     "universityId": "candidate-v2:university-of-illinois-at-chicago",
@@ -81,7 +85,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://bulletin.miami.edu/undergraduate-academic-programs/arts-sciences/computer-science/"]
+    "supportingUrls": [
+      "https://bulletin.miami.edu/undergraduate-academic-programs/arts-sciences/computer-science/"
+    ]
   },
   {
     "universityId": "candidate-v2:university-of-south-carolina-columbia",
@@ -95,7 +101,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://academicbulletins.sc.edu/undergraduate/engineering-computing/computer-science-engineering/"]
+    "supportingUrls": [
+      "https://academicbulletins.sc.edu/undergraduate/engineering-computing/computer-science-engineering/"
+    ]
   },
   {
     "universityId": "candidate-v2:virginia-polytechnic-institute-and-state-university",
@@ -109,7 +117,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://website.cs.vt.edu/academic/undergraduate/cs-dcc-sc-major-checksheets-and-roadmaps.html"]
+    "supportingUrls": [
+      "https://website.cs.vt.edu/academic/undergraduate/cs-dcc-sc-major-checksheets-and-roadmaps.html"
+    ]
   },
   {
     "universityId": "candidate-v2:southern-methodist-university",
@@ -123,7 +133,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://catalog.smu.edu/programs/CS-BS/requirements-krhha"]
+    "supportingUrls": [
+      "https://catalog.smu.edu/programs/CS-BS/requirements-krhha"
+    ]
   },
   {
     "universityId": "candidate-v2:stevens-institute-of-technology",
@@ -137,7 +149,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://www.stevens.edu/school-computing/undergraduate-studies"]
+    "supportingUrls": [
+      "https://www.stevens.edu/school-computing/undergraduate-studies"
+    ]
   },
   {
     "universityId": "candidate-v2:texas-a-and-m-university",
@@ -165,7 +179,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-ba/"]
+    "supportingUrls": [
+      "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-ba/"
+    ]
   },
   {
     "universityId": "candidate-v2:olin-college-of-engineering",
@@ -193,7 +209,9 @@
         "checkedOn": "2026-10-21"
       }
     ],
-    "supportingUrls": ["https://www.rpi.edu/academics"]
+    "supportingUrls": [
+      "https://www.rpi.edu/academics"
+    ]
   },
   {
     "universityId": "candidate-v2:michigan-state-university",
@@ -1002,10 +1020,51 @@
         "reason": "以人与计算机的关系为主题，结合计算机科学、语言学、数学、哲学、心理学与统计学。这是跨学科特色介绍，不是专业实力排名；应用逻辑是其细分方向之一。",
         "sourceUrl": "https://symsys.stanford.edu/",
         "checkedOn": "2026-10-19"
+      },
+      {
+        "name": "Computer Science",
+        "nameZh": "计算机科学",
+        "kind": "distinctive",
+        "reason": "Stanford Fact Book 2025 将其列为 2023–24 年本科授予学位数量最多的方向之一。这里表示本科生选择与授予学位的集中度，不代表外部学术排名。",
+        "sourceUrl": "https://facts.stanford.edu/wp-content/uploads/sites/20/2025/03/2025-Stanford-Fact-Book_WEB.pdf",
+        "checkedOn": "2026-10-25",
+        "referenceYear": "2023-24",
+        "evidenceType": "top_undergraduate_degrees_awarded"
+      },
+      {
+        "name": "Human Biology",
+        "nameZh": "人类生物学",
+        "kind": "distinctive",
+        "reason": "Stanford Fact Book 2025 将其列为 2023–24 年本科授予学位数量最多的方向之一。这里表示本科生选择与授予学位的集中度，不代表外部学术排名。",
+        "sourceUrl": "https://facts.stanford.edu/wp-content/uploads/sites/20/2025/03/2025-Stanford-Fact-Book_WEB.pdf",
+        "checkedOn": "2026-10-25",
+        "referenceYear": "2023-24",
+        "evidenceType": "top_undergraduate_degrees_awarded"
+      },
+      {
+        "name": "Economics",
+        "nameZh": "经济学",
+        "kind": "distinctive",
+        "reason": "Stanford Fact Book 2025 将其列为 2023–24 年本科授予学位数量最多的方向之一。这里表示本科生选择与授予学位的集中度，不代表外部学术排名。",
+        "sourceUrl": "https://facts.stanford.edu/wp-content/uploads/sites/20/2025/03/2025-Stanford-Fact-Book_WEB.pdf",
+        "checkedOn": "2026-10-25",
+        "referenceYear": "2023-24",
+        "evidenceType": "top_undergraduate_degrees_awarded"
+      },
+      {
+        "name": "Engineering",
+        "nameZh": "工程学",
+        "kind": "distinctive",
+        "reason": "Stanford Fact Book 2025 将其列为 2023–24 年本科授予学位数量最多的方向之一。这里表示本科生选择与授予学位的集中度，不代表外部学术排名。",
+        "sourceUrl": "https://facts.stanford.edu/wp-content/uploads/sites/20/2025/03/2025-Stanford-Fact-Book_WEB.pdf",
+        "checkedOn": "2026-10-25",
+        "referenceYear": "2023-24",
+        "evidenceType": "top_undergraduate_degrees_awarded"
       }
     ],
     "supportingUrls": [
-      "https://symsys.stanford.edu/undergraduates/bs-program"
+      "https://symsys.stanford.edu/undergraduates/bs-program",
+      "https://facts.stanford.edu/wp-content/uploads/sites/20/2025/03/2025-Stanford-Fact-Book_WEB.pdf"
     ]
   },
   {
@@ -1044,28 +1103,49 @@
     "universityId": "candidate-v2:massachusetts-institute-of-technology",
     "spotlights": [
       {
-        "name": "Mechanical Engineering", "nameZh": "机械工程", "kind": "strength",
+        "name": "Mechanical Engineering",
+        "nameZh": "机械工程",
+        "kind": "strength",
         "reason": "2027 版本科机械工程专业排名第 1；比较范围为授予博士学位院校的工程专业。",
         "sourceUrl": "https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922",
-        "checkedOn": "2026-10-19", "publishedOn": "2026-09-22", "rankingYear": 2027,
-        "educationLevel": "undergraduate", "rankingPublisher": "U.S. News & World Report",
-        "rankingScope": "doctoral_institution_engineering_specialty", "rank": 1, "tied": null
+        "checkedOn": "2026-10-19",
+        "publishedOn": "2026-09-22",
+        "rankingYear": 2027,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "doctoral_institution_engineering_specialty",
+        "rank": 1,
+        "tied": null
       },
       {
-        "name": "Chemical Engineering", "nameZh": "化学工程", "kind": "strength",
+        "name": "Chemical Engineering",
+        "nameZh": "化学工程",
+        "kind": "strength",
         "reason": "2027 版本科化学工程专业排名第 1；比较范围为授予博士学位院校的工程专业。",
         "sourceUrl": "https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922",
-        "checkedOn": "2026-10-19", "publishedOn": "2026-09-22", "rankingYear": 2027,
-        "educationLevel": "undergraduate", "rankingPublisher": "U.S. News & World Report",
-        "rankingScope": "doctoral_institution_engineering_specialty", "rank": 1, "tied": null
+        "checkedOn": "2026-10-19",
+        "publishedOn": "2026-09-22",
+        "rankingYear": 2027,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "doctoral_institution_engineering_specialty",
+        "rank": 1,
+        "tied": null
       },
       {
-        "name": "Economics", "nameZh": "经济学", "kind": "strength",
+        "name": "Economics",
+        "nameZh": "经济学",
+        "kind": "strength",
         "reason": "2027 版美国本科经济学专业并列第 1；这是专业排名，不是学校综合排名。",
         "sourceUrl": "https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922",
-        "checkedOn": "2026-10-19", "publishedOn": "2026-09-22", "rankingYear": 2027,
-        "educationLevel": "undergraduate", "rankingPublisher": "U.S. News & World Report",
-        "rankingScope": "national_undergraduate_program", "rank": 1, "tied": true
+        "checkedOn": "2026-10-19",
+        "publishedOn": "2026-09-22",
+        "rankingYear": 2027,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 1,
+        "tied": true
       }
     ]
   },
@@ -1073,28 +1153,49 @@
     "universityId": "candidate-v2:georgia-institute-of-technology",
     "spotlights": [
       {
-        "name": "Industrial Engineering", "nameZh": "工业工程", "kind": "strength",
+        "name": "Industrial Engineering",
+        "nameZh": "工业工程",
+        "kind": "strength",
         "reason": "2027 版本科工业工程专业排名第 1；依据学校工程学院公布的本科专业榜单。",
         "sourceUrl": "https://coe.gatech.edu/news/2026/09/undergrad-engineering-reaches-no-2-2027-us-news-rankings",
-        "checkedOn": "2026-10-19", "publishedOn": "2026-09-22", "rankingYear": 2027,
-        "educationLevel": "undergraduate", "rankingPublisher": "U.S. News & World Report",
-        "rankingScope": "national_undergraduate_program", "rank": 1, "tied": null
+        "checkedOn": "2026-10-19",
+        "publishedOn": "2026-09-22",
+        "rankingYear": 2027,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 1,
+        "tied": null
       },
       {
-        "name": "Civil Engineering", "nameZh": "土木工程", "kind": "strength",
+        "name": "Civil Engineering",
+        "nameZh": "土木工程",
+        "kind": "strength",
         "reason": "2027 版本科土木工程专业排名第 1；依据学校工程学院公布的本科专业榜单。",
         "sourceUrl": "https://coe.gatech.edu/news/2026/09/undergrad-engineering-reaches-no-2-2027-us-news-rankings",
-        "checkedOn": "2026-10-19", "publishedOn": "2026-09-22", "rankingYear": 2027,
-        "educationLevel": "undergraduate", "rankingPublisher": "U.S. News & World Report",
-        "rankingScope": "national_undergraduate_program", "rank": 1, "tied": null
+        "checkedOn": "2026-10-19",
+        "publishedOn": "2026-09-22",
+        "rankingYear": 2027,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 1,
+        "tied": null
       },
       {
-        "name": "Environmental Engineering", "nameZh": "环境工程", "kind": "strength",
+        "name": "Environmental Engineering",
+        "nameZh": "环境工程",
+        "kind": "strength",
         "reason": "2027 版本科环境工程专业排名第 1；依据学校工程学院公布的本科专业榜单。",
         "sourceUrl": "https://coe.gatech.edu/news/2026/09/undergrad-engineering-reaches-no-2-2027-us-news-rankings",
-        "checkedOn": "2026-10-19", "publishedOn": "2026-09-22", "rankingYear": 2027,
-        "educationLevel": "undergraduate", "rankingPublisher": "U.S. News & World Report",
-        "rankingScope": "national_undergraduate_program", "rank": 1, "tied": null
+        "checkedOn": "2026-10-19",
+        "publishedOn": "2026-09-22",
+        "rankingYear": 2027,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 1,
+        "tied": null
       }
     ]
   },
