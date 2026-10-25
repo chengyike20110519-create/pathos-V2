@@ -2,734 +2,25 @@
   "universityId": "candidate-v2:loyola-university-chicago",
   "schoolSlug": "loyola-university-chicago",
   "schoolName": "Loyola University Chicago",
-  "sourceId": "source_loyola_cas_2026_27_official_majors_page",
-  "sourceUrl": "https://www.luc.edu/cas/academics/majorsminors/",
+  "sourceId": "source_loyola_2026_27_official_undergraduate_majors_page",
+  "sourceUrl": "https://www.luc.edu/undergrad/academics/majorsandminors/",
   "scope": [
-    "official Loyola University Chicago 2026-2027 College of Arts and Sciences majors page",
-    "verified official entries from CAS plus Quinlan, Nursing, and Parkinson school pages: 77 entries",
-    "other Loyola undergraduate schools remain under review"
+    "official Loyola University Chicago 2026-2027 undergraduate majors and minors page",
+    "all entries explicitly classified by the page as Major; minors excluded"
   ],
-  "status": "official_catalog_observed_partial_scope",
+  "status": "verified_official_undergraduate_majors",
   "checkedAt": "2026-10-25",
-  "entryCount": 77,
+  "entryCount": 86,
   "entries": [
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Applied Mathematics",
-      "listType": "major",
-      "name": "Applied Mathematics",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Biochemistry",
-      "listType": "major",
-      "name": "Biochemistry",
-      "degreeAward": "BA/BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Bioinformatics",
-      "listType": "major",
-      "name": "Bioinformatics",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Biology",
-      "listType": "major",
-      "name": "Biology",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Biology with Ecology Emphasis",
-      "listType": "major",
-      "name": "Biology with Ecology Emphasis",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Biology with Molecular Biology Emphasis",
-      "listType": "major",
-      "name": "Biology with Molecular Biology Emphasis",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Biomedical Engineering",
-      "listType": "major",
-      "name": "Biomedical Engineering",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Biophysics",
-      "listType": "major",
-      "name": "Biophysics",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Chemistry",
-      "listType": "major",
-      "name": "Chemistry",
-      "degreeAward": "BA/BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Cognitive & Behavioral Neuroscience",
-      "listType": "major",
-      "name": "Cognitive & Behavioral Neuroscience",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Computer Engineering",
-      "listType": "major",
-      "name": "Computer Engineering",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Computer Science",
-      "listType": "major",
-      "name": "Computer Science",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Cybersecurity",
-      "listType": "major",
-      "name": "Cybersecurity",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Data Science",
-      "listType": "major",
-      "name": "Data Science",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Environmental Engineering",
-      "listType": "major",
-      "name": "Environmental Engineering",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Forensic Science",
-      "listType": "major",
-      "name": "Forensic Science",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Information Technology",
-      "listType": "major",
-      "name": "Information Technology",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Mathematics",
-      "listType": "major",
-      "name": "Mathematics",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Mathematics and Computer Science",
-      "listType": "major",
-      "name": "Mathematics and Computer Science",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Mathematics: Education Track",
-      "listType": "major",
-      "name": "Mathematics: Education Track",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Molecular & Cellular Neuroscience",
-      "listType": "major",
-      "name": "Molecular & Cellular Neuroscience",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Physics",
-      "listType": "major",
-      "name": "Physics",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Physics with Computer Science",
-      "listType": "major",
-      "name": "Physics with Computer Science",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Software Engineering",
-      "listType": "major",
-      "name": "Software Engineering",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Statistics",
-      "listType": "major",
-      "name": "Statistics",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Theoretical Physics and Applied Mathematics",
-      "listType": "major",
-      "name": "Theoretical Physics and Applied Mathematics",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Art History",
-      "listType": "major",
-      "name": "Art History",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Classical Civilization",
-      "listType": "major",
-      "name": "Classical Civilization",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Dance",
-      "listType": "major",
-      "name": "Dance",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "English",
-      "listType": "major",
-      "name": "English",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "English: Creative Writing",
-      "listType": "major",
-      "name": "English: Creative Writing",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "French",
-      "listType": "major",
-      "name": "French",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "History",
-      "listType": "major",
-      "name": "History",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Italian Studies",
-      "listType": "major",
-      "name": "Italian Studies",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Latin",
-      "listType": "major",
-      "name": "Latin",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Music",
-      "listType": "major",
-      "name": "Music",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Music: Jazz Studies",
-      "listType": "major",
-      "name": "Music: Jazz Studies",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Music: Liturgical Music",
-      "listType": "major",
-      "name": "Music: Liturgical Music",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Music: Vocal Performance",
-      "listType": "major",
-      "name": "Music: Vocal Performance",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Philosophy",
-      "listType": "major",
-      "name": "Philosophy",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Photography & Video Art",
-      "listType": "major",
-      "name": "Photography & Video Art",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Religious Studies",
-      "listType": "major",
-      "name": "Religious Studies",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Sculpture & Ceramics",
-      "listType": "major",
-      "name": "Sculpture & Ceramics",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Spanish",
-      "listType": "major",
-      "name": "Spanish",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Studio Art",
-      "listType": "major",
-      "name": "Studio Art",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Theatre",
-      "listType": "major",
-      "name": "Theatre",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Theology",
-      "listType": "major",
-      "name": "Theology",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Visual Communication",
-      "listType": "major",
-      "name": "Visual Communication",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Women’s Studies & Gender Studies",
-      "listType": "major",
-      "name": "Women’s Studies & Gender Studies",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "African Studies & the African Diaspora",
-      "listType": "major",
-      "name": "African Studies & the African Diaspora",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Anthropology",
-      "listType": "major",
-      "name": "Anthropology",
-      "degreeAward": "BA/BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Criminal Justice & Criminology",
-      "listType": "major",
-      "name": "Criminal Justice & Criminology",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Economics",
-      "listType": "major",
-      "name": "Economics",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Global Studies",
-      "listType": "major",
-      "name": "Global Studies",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Human Services",
-      "listType": "major",
-      "name": "Human Services",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Political Science",
-      "listType": "major",
-      "name": "Political Science",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Psychology",
-      "listType": "major",
-      "name": "Psychology",
-      "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Sociology",
-      "listType": "major",
-      "name": "Sociology",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Sociology and Anthropology",
-      "listType": "major",
-      "name": "Sociology and Anthropology",
-      "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
-      "sourceIds": [
-        "source_loyola_cas_2026_27_official_majors_page"
-      ],
-      "status": "verified"
-    },
     {
       "degreeType": "undergraduate_major",
       "displayName": "Accounting",
       "listType": "major",
       "name": "Accounting",
       "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainaccounting/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
@@ -739,21 +30,357 @@
       "listType": "major",
       "name": "Accounting and Analytics",
       "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainaccountingandanalytics/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Economics",
+      "displayName": "Advertising and Public Relations",
       "listType": "major",
-      "name": "Economics",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "name": "Advertising and Public Relations",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/advertisingandpublicrelations/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Advertising Creative",
+      "listType": "major",
+      "name": "Advertising Creative",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/advertisingcreative/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/anthropology/academics.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/applied-mathematics-bs/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/finearts/academics/majorinarthistory/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/chemistry/undergraduate_program.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Bioinformatics",
+      "listType": "major",
+      "name": "Bioinformatics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/bioinformatics/bsinbioinformatics/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/biology/biology-bs/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology: Ecology",
+      "listType": "major",
+      "name": "Biology: Ecology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/biology/biology-bs/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology: Molecular Biology",
+      "listType": "major",
+      "name": "Biology: Molecular Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/biology/biology-bs/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biophysics",
+      "listType": "major",
+      "name": "Biophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/physics/bs_biophysics.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/chemistry/undergraduate_program.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Civilization",
+      "listType": "major",
+      "name": "Classical Civilization",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/classicalstudies/baandminorinclassicalcivilization/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies",
+      "listType": "major",
+      "name": "Communication Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/communicationstudies/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/cs/academics/majors/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice and Criminology",
+      "listType": "major",
+      "name": "Criminal Justice and Criminology",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/criminaljustice/bsincriminaljusticecriminology/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity",
+      "listType": "major",
+      "name": "Cybersecurity",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/cs/academics/majors/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance",
+      "listType": "major",
+      "name": "Dance",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/dance/academics/dance-major/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/datascience/academics/undergraduate/majorbs/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Childhood/Special Education",
+      "listType": "major",
+      "name": "Early Childhood/Special Education",
+      "degreeAward": "BSEd",
+      "officialUrl": "https://www.luc.edu/education/academics/degreeprograms/undergraduatedegrees/bsedinearlychildhoodspecialeducation/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics (BA)",
+      "listType": "major",
+      "name": "Economics (BA)",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/economics/economics-ba/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics (BBA)",
+      "listType": "major",
+      "name": "Economics (BBA)",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbaineconomics/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education",
+      "listType": "major",
+      "name": "Elementary Education",
+      "degreeAward": "BSEd",
+      "officialUrl": "https://www.luc.edu/education/academics/degreeprograms/undergraduatedegrees/bsedinelementaryeducation/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering: Biomedical Engineering Specialization",
+      "listType": "major",
+      "name": "Engineering: Biomedical Engineering Specialization",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/engineering/curriculum/specializations/biomedicalengineering/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering: Computer Engineering Specialization",
+      "listType": "major",
+      "name": "Engineering: Computer Engineering Specialization",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/engineering/curriculum/specializations/computerengineering/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering: Environmental Engineering Specialization",
+      "listType": "major",
+      "name": "Engineering: Environmental Engineering Specialization",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/engineering/curriculum/specializations/environmentalengineering/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English (BA)",
+      "listType": "major",
+      "name": "English (BA)",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/english/undergraduate.shtml#major",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English (BA)/Secondary Education (BSEd)",
+      "listType": "major",
+      "name": "English (BA)/Secondary Education (BSEd)",
+      "degreeAward": "BA, BSEd",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/english/english-babsed/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: Creative Writing (BA)",
+      "listType": "major",
+      "name": "English: Creative Writing (BA)",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/english/creative-writing-concentration/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
@@ -763,129 +390,93 @@
       "listType": "major",
       "name": "Entrepreneurship",
       "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainentrepreneurship/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Finance",
+      "displayName": "Environmental Economics and Sustainability: Governance",
       "listType": "major",
-      "name": "Finance",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "name": "Environmental Economics and Sustainability: Governance",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/environmental-sustainability/environmental-economics-sustainability-governance-ba/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Human Resource Management",
+      "displayName": "Environmental Economics and Sustainability: Management",
       "listType": "major",
-      "name": "Human Resource Management",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "name": "Environmental Economics and Sustainability: Management",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/environmental-sustainability/environmental-economics-sustainability-management-ba/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Information Systems and Analytics",
+      "displayName": "Environmental Policy",
       "listType": "major",
-      "name": "Information Systems and Analytics",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "name": "Environmental Policy",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bainenvironmentalpolicy/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "International Business",
+      "displayName": "Environmental Science",
       "listType": "major",
-      "name": "International Business",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "name": "Environmental Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bsinenvironmentalscience/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Management",
+      "displayName": "Environmental Science: Climate and Energy",
       "listType": "major",
-      "name": "Management",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "name": "Environmental Science: Climate and Energy",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bsinenvironmentalscience/bsinenvironmentalscienceclimateandenergy/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Marketing",
+      "displayName": "Environmental Science: Conservation and Restoration Ecology",
       "listType": "major",
-      "name": "Marketing",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "name": "Environmental Science: Conservation and Restoration Ecology",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bsinenvironmentalscience/bsinenvironmentalscienceconservationandrestorationecology/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Sport Management",
+      "displayName": "Environmental Studies",
       "listType": "major",
-      "name": "Sport Management",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "name": "Environmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bainenvironmentalstudies/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Supply Chain Management",
-      "listType": "major",
-      "name": "Supply Chain Management",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
-      "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "U.S./Europe Double Degree",
-      "listType": "major",
-      "name": "U.S./Europe Double Degree",
-      "degreeAward": "BBA",
-      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
-      "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Nursing",
-      "listType": "major",
-      "name": "Nursing",
-      "degreeAward": "BSN",
-      "officialUrl": "https://www.luc.edu/nursing/academics/degreeprograms/undergraduateprogram/",
-      "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
@@ -895,9 +486,81 @@
       "listType": "major",
       "name": "Exercise Science",
       "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/departments/appliedhealthsciences/exercisescience/bsexercisescience/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Digital Media",
+      "listType": "major",
+      "name": "Film and Digital Media",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/filmanddigitalmedia/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainfinance/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Forensic Science",
+      "listType": "major",
+      "name": "Forensic Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/forensicscience/bs.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/modernlang/baprograms/french/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies",
+      "listType": "major",
+      "name": "Global Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/globalstudies/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science",
+      "listType": "major",
+      "name": "Health Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/bsinhealthscience/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
@@ -907,21 +570,249 @@
       "listType": "major",
       "name": "Healthcare Administration",
       "degreeAward": "BS",
-      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/departments/healthcareadministration/bshealthcareadministration/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Public Health",
+      "displayName": "History",
       "listType": "major",
-      "name": "Public Health",
+      "name": "History",
       "degreeAward": "BA",
-      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
+      "officialUrl": "https://www.luc.edu/history/historymajor/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Resource Management",
+      "listType": "major",
+      "name": "Human Resource Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainhumanresourcemanagement/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Systems and Analytics",
+      "listType": "major",
+      "name": "Information Systems and Analytics",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbaininformationsystemsandanalytics/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Technology",
+      "listType": "major",
+      "name": "Information Technology",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/cs/academics/majors/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Business",
+      "listType": "major",
+      "name": "International Business",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbaininternationalbusiness/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian Studies",
+      "listType": "major",
+      "name": "Italian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/modernlang/baprograms/italian/baitalianstudies/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmarketing/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/math/bsmath.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Multimedia Journalism",
+      "listType": "major",
+      "name": "Multimedia Journalism",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/multimediajournalism/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/music/academics/major/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience: Cognitive and Behavioral",
+      "listType": "major",
+      "name": "Neuroscience: Cognitive and Behavioral",
+      "degreeAward": "BS",
+      "officialUrl": "https://luc.edu/neuroscience/bsinneuroscience/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience: Molecular and Cellular",
+      "listType": "major",
+      "name": "Neuroscience: Molecular and Cellular",
+      "degreeAward": "BS",
+      "officialUrl": "https://luc.edu/neuroscience/bsinneuroscience/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing",
+      "listType": "major",
+      "name": "Nursing",
+      "degreeAward": "BSN",
+      "officialUrl": "https://www.luc.edu/nursing/academics/degreeprograms/undergraduateprogram/four-yearbsn/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/philosophy/ba.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/physics/bs_physics.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics and Engineering",
+      "listType": "major",
+      "name": "Physics and Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/physics/engineering/index.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/politicalscience/undergraduate.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/psychology/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Communication and Advocacy",
+      "listType": "major",
+      "name": "Public Communication and Advocacy",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/publiccommunicationandadvocacy/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     },
@@ -930,15 +821,229 @@
       "displayName": "Public Health",
       "listType": "major",
       "name": "Public Health",
-      "degreeAward": "BS",
+      "degreeAward": "BA, BS",
       "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
       "sourceIds": [
-        "source_loyola_2026_27_official_school_pages"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education",
+      "listType": "major",
+      "name": "Secondary Education",
+      "degreeAward": "BSEd",
+      "officialUrl": "https://www.luc.edu/education/academics/degreeprograms/undergraduatedegrees/bsedinsecondaryeducation/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "degreeAward": "BSW",
+      "officialUrl": "https://www.luc.edu/socialwork/academics/undergrad/bsw/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/sociology/academics/undergraduateprograms/ba-sociology/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and Anthropology",
+      "listType": "major",
+      "name": "Sociology and Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/sociology/academics/undergraduateprograms/bainsociology-anthropology/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Software Engineering",
+      "listType": "major",
+      "name": "Software Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/cs/academics/majors/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/modernlang/baprograms/spanish/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Special Education",
+      "listType": "major",
+      "name": "Special Education",
+      "degreeAward": "BSEd",
+      "officialUrl": "https://www.luc.edu/education/academics/degreeprograms/undergraduatedegrees/bsedinspecialeducation/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Management",
+      "listType": "major",
+      "name": "Sport Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainsportmanagement/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sports Media",
+      "listType": "major",
+      "name": "Sports Media",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/sportsmedia/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/statistics-bs/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Art",
+      "listType": "major",
+      "name": "Studio Art",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/finearts/academics/majorinstudioarts/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain Management",
+      "listType": "major",
+      "name": "Supply Chain Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainsupplychainmanagement/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre",
+      "listType": "major",
+      "name": "Theatre",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/theatre/academics/majorintheatre/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theology",
+      "listType": "major",
+      "name": "Theology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/theology/theology-ba/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theoretical Physics and Applied Mathematics",
+      "listType": "major",
+      "name": "Theoretical Physics and Applied Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/physics/bs_theoreticalphys.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "US/Europe Business Double Degree",
+      "listType": "major",
+      "name": "US/Europe Business Double Degree",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/useuropebba/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Visual Communication",
+      "listType": "major",
+      "name": "Visual Communication",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/finearts/academics/majorinvisualcommunication/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women’s Studies and Gender Studies",
+      "listType": "major",
+      "name": "Women’s Studies and Gender Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/wsgs/academics/undergraduateprogram/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
       "status": "verified"
     }
   ],
-  "warnings": [
-    "Partial college scope; not the complete university undergraduate program directory."
-  ]
+  "warnings": []
 }
