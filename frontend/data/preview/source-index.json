@@ -5500,6 +5500,21 @@
       ],
       "retrievedAt": "2026-10-25",
       "notes": "Official current majors and degrees page; duplicate school rows deduped by name and school."
+    },
+    {
+      "sourceId": "source_usc_2026_27_official_majors_minors_directory",
+      "sourceType": "official_undergraduate_major_directory",
+      "publisher": "University of Southern California",
+      "referenceYear": "2026-2027",
+      "url": "https://usc.edu/majors-minors/",
+      "status": "verified",
+      "scope": [
+        "official USC Majors & Minors directory",
+        "55 pages of current directory pagination",
+        "all entries with bachelor degree suffix retained; minors and graduate programs excluded"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "Official USC directory; 189 bachelor-level entries after excluding minors and graduate/professional entries."
     }
   ]
 }

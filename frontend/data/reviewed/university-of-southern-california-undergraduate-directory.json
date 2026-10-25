@@ -1,0 +1,2286 @@
+{
+  "universityId": "candidate-v2:university-of-southern-california",
+  "schoolSlug": "university-of-southern-california",
+  "schoolName": "University of Southern California",
+  "sourceId": "source_usc_2026_27_official_majors_minors_directory",
+  "sourceUrl": "https://usc.edu/majors-minors/",
+  "scope": [
+    "official USC Majors & Minors directory",
+    "55 pages of current directory pagination",
+    "all entries with bachelor degree suffix retained; minors and graduate programs excluded"
+  ],
+  "status": "verified_official_undergraduate_majors",
+  "checkedAt": "2026-10-25",
+  "entryCount": 189,
+  "entries": [
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biopharmaceutical Sciences",
+      "listType": "major",
+      "name": "Biopharmaceutical Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biopharmaceutical Sciences",
+      "listType": "major",
+      "name": "Biopharmaceutical Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biophysics",
+      "listType": "major",
+      "name": "Biophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration",
+      "listType": "major",
+      "name": "Business Administration",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Business Analytics)",
+      "listType": "major",
+      "name": "Business Administration (Business Analytics)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Cinematic Arts)",
+      "listType": "major",
+      "name": "Business Administration (Cinematic Arts)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Communication)",
+      "listType": "major",
+      "name": "Business Administration (Communication)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronautical Engineering",
+      "listType": "major",
+      "name": "Astronautical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy",
+      "listType": "major",
+      "name": "Astronomy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy",
+      "listType": "major",
+      "name": "Astronomy",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Behavioral Economics and Psychology",
+      "listType": "major",
+      "name": "Behavioral Economics and Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (Biotechnology)",
+      "listType": "major",
+      "name": "Biological Sciences (Biotechnology)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Entrepreneurship and Innovation)",
+      "listType": "major",
+      "name": "Business Administration (Entrepreneurship and Innovation)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Finance)",
+      "listType": "major",
+      "name": "Business Administration (Finance)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (International Relations)",
+      "listType": "major",
+      "name": "Business Administration (International Relations)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Leadership and Innovation)",
+      "listType": "major",
+      "name": "Business Administration (Leadership and Innovation)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Marketing)",
+      "listType": "major",
+      "name": "Business Administration (Marketing)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Real Estate Finance)",
+      "listType": "major",
+      "name": "Business Administration (Real Estate Finance)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Risk Management)",
+      "listType": "major",
+      "name": "Business Administration (Risk Management)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (World Program)",
+      "listType": "major",
+      "name": "Business Administration (World Program)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, Materials Engineering Emphasis",
+      "listType": "major",
+      "name": "Chemical Engineering, Materials Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, Petroleum and Subsurface Engineering Emphasis",
+      "listType": "major",
+      "name": "Chemical Engineering, Petroleum and Subsurface Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry (Chemical Biology)",
+      "listType": "major",
+      "name": "Chemistry (Chemical Biology)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry (Chemical Nanoscience)",
+      "listType": "major",
+      "name": "Chemistry (Chemical Nanoscience)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry (Research)",
+      "listType": "major",
+      "name": "Chemistry (Research)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting and Finance",
+      "listType": "major",
+      "name": "Accounting and Finance",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Acting, Stage and Screen",
+      "listType": "major",
+      "name": "Acting, Stage and Screen",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Popular Culture",
+      "listType": "major",
+      "name": "American Popular Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business of Cinematic Arts",
+      "listType": "major",
+      "name": "Business of Cinematic Arts",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business of Innovation",
+      "listType": "major",
+      "name": "Business of Innovation",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Central European Studies",
+      "listType": "major",
+      "name": "Central European Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, Biological and Pharmaceutical Engineering Emphasis",
+      "listType": "major",
+      "name": "Chemical Engineering, Biological and Pharmaceutical Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, Energy and Sustainability Emphasis",
+      "listType": "major",
+      "name": "Chemical Engineering, Energy and Sustainability Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence",
+      "listType": "major",
+      "name": "Artificial Intelligence",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence for Business",
+      "listType": "major",
+      "name": "Artificial Intelligence for Business",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arts, Technology and the Business of Innovation",
+      "listType": "major",
+      "name": "Arts, Technology and the Business of Innovation",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (Ecology, Evolution and Environment)",
+      "listType": "major",
+      "name": "Biological Sciences (Ecology, Evolution and Environment)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (Marine Biology)",
+      "listType": "major",
+      "name": "Biological Sciences (Marine Biology)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (Molecular, Cellular and Developmental Biology)",
+      "listType": "major",
+      "name": "Biological Sciences (Molecular, Cellular and Developmental Biology)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering, Electrical Engineering Emphasis",
+      "listType": "major",
+      "name": "Biomedical Engineering, Electrical Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering, Mechanical Engineering Emphasis",
+      "listType": "major",
+      "name": "Biomedical Engineering, Mechanical Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering, Molecular and Cellular Engineering Emphasis",
+      "listType": "major",
+      "name": "Biomedical Engineering, Molecular and Cellular Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies and Ethnicity (African American Studies)",
+      "listType": "major",
+      "name": "American Studies and Ethnicity (African American Studies)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies and Ethnicity (Asian American Studies)",
+      "listType": "major",
+      "name": "American Studies and Ethnicity (Asian American Studies)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies and Ethnicity",
+      "listType": "major",
+      "name": "American Studies and Ethnicity",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies and Ethnicity (Chicano/Latino Studies)",
+      "listType": "major",
+      "name": "American Studies and Ethnicity (Chicano/Latino Studies)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animation and Digital Arts",
+      "listType": "major",
+      "name": "Animation and Digital Arts",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology (Visual Anthropology)",
+      "listType": "major",
+      "name": "Anthropology (Visual Anthropology)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied and Computational Mathematics",
+      "listType": "major",
+      "name": "Applied and Computational Mathematics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied and Computational Mathematics",
+      "listType": "major",
+      "name": "Applied and Computational Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Archaeology and Heritage Studies",
+      "listType": "major",
+      "name": "Archaeology and Heritage Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies",
+      "listType": "major",
+      "name": "Architectural Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture and Inventive Technologies",
+      "listType": "major",
+      "name": "Architecture and Inventive Technologies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "degreeAward": "BArch",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Choral Music",
+      "listType": "major",
+      "name": "Choral Music",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinematic Arts, Film and Television Production",
+      "listType": "major",
+      "name": "Cinematic Arts, Film and Television Production",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Building Science Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Building Science Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Construction Engineering and Management Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Construction Engineering and Management Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Environmental Engineering Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Environmental Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Structural Engineering Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Structural Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Water Resources Engineering Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Water Resources Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics",
+      "listType": "major",
+      "name": "Classics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Area Studies",
+      "listType": "major",
+      "name": "East Asian Area Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages and Cultures",
+      "listType": "major",
+      "name": "East Asian Languages and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Data Science",
+      "listType": "major",
+      "name": "Economics and Data Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics/Mathematics",
+      "listType": "major",
+      "name": "Economics/Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance",
+      "listType": "major",
+      "name": "Dance",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Contemporary Latino and Latin American Studies",
+      "listType": "major",
+      "name": "Contemporary Latino and Latin American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design",
+      "listType": "major",
+      "name": "Design",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth Sciences",
+      "listType": "major",
+      "name": "Earth Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Linguistics",
+      "listType": "major",
+      "name": "Computational Linguistics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Neuroscience",
+      "listType": "major",
+      "name": "Computational Neuroscience",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering and Computer Science",
+      "listType": "major",
+      "name": "Computer Engineering and Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science/Business Administration",
+      "listType": "major",
+      "name": "Computer Science/Business Administration",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science Games",
+      "listType": "major",
+      "name": "Computer Science Games",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition",
+      "listType": "major",
+      "name": "Composition",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science and Health",
+      "listType": "major",
+      "name": "Environmental Science and Health",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science and Health",
+      "listType": "major",
+      "name": "Environmental Science and Health",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Systems Science",
+      "listType": "major",
+      "name": "Environmental Systems Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical and Computer Engineering",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fine Arts",
+      "listType": "major",
+      "name": "Fine Arts",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Game Art",
+      "listType": "major",
+      "name": "Game Art",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Game Development and Interactive Design",
+      "listType": "major",
+      "name": "Game Development and Interactive Design",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Geodesign",
+      "listType": "major",
+      "name": "Global Geodesign",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Health Studies",
+      "listType": "major",
+      "name": "Global Health Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies",
+      "listType": "major",
+      "name": "Global Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health and Human Sciences",
+      "listType": "major",
+      "name": "Health and Human Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender and Sexuality Studies",
+      "listType": "major",
+      "name": "Gender and Sexuality Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geodesign",
+      "listType": "major",
+      "name": "Geodesign",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geological Sciences",
+      "listType": "major",
+      "name": "Geological Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations (Global Business)",
+      "listType": "major",
+      "name": "International Relations (Global Business)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian",
+      "listType": "major",
+      "name": "Italian",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz Studies",
+      "listType": "major",
+      "name": "Jazz Studies",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial and Systems Engineering",
+      "listType": "major",
+      "name": "Industrial and Systems Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Intelligence and Cyber Operations",
+      "listType": "major",
+      "name": "Intelligence and Cyber Operations",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies",
+      "listType": "major",
+      "name": "Interdisciplinary Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations and the Global Economy",
+      "listType": "major",
+      "name": "International Relations and the Global Economy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations",
+      "listType": "major",
+      "name": "International Relations",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Promotion and Disease Prevention Studies",
+      "listType": "major",
+      "name": "Health Promotion and Disease Prevention Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology",
+      "listType": "major",
+      "name": "Human Biology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology",
+      "listType": "major",
+      "name": "Human Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American and Iberian Cultures, Media and Politics",
+      "listType": "major",
+      "name": "Latin American and Iberian Cultures, Media and Politics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Aging",
+      "listType": "major",
+      "name": "Human Development and Aging",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Aging, Health Science Track",
+      "listType": "major",
+      "name": "Human Development and Aging, Health Science Track",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Aging, Honors Programs",
+      "listType": "major",
+      "name": "Human Development and Aging, Honors Programs",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Security and Geospatial Intelligence",
+      "listType": "major",
+      "name": "Human Security and Geospatial Intelligence",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Technology Interaction",
+      "listType": "major",
+      "name": "Human Technology Interaction",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Law and Economics",
+      "listType": "major",
+      "name": "Law and Economics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Law, History, and Culture",
+      "listType": "major",
+      "name": "Law, History, and Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Legal Studies",
+      "listType": "major",
+      "name": "Legal Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Lifespan Health",
+      "listType": "major",
+      "name": "Lifespan Health",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Cognitive Science",
+      "listType": "major",
+      "name": "Linguistics and Cognitive Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and East Asian Languages and Cultures",
+      "listType": "major",
+      "name": "Linguistics and East Asian Languages and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Philosophy",
+      "listType": "major",
+      "name": "Linguistics and Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Production",
+      "listType": "major",
+      "name": "Music Production",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Musical Theatre",
+      "listType": "major",
+      "name": "Musical Theatre",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Narrative Studies",
+      "listType": "major",
+      "name": "Narrative Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics/Economics",
+      "listType": "major",
+      "name": "Mathematics/Economics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle East Studies",
+      "listType": "major",
+      "name": "Middle East Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Industry",
+      "listType": "major",
+      "name": "Music Industry",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Industry",
+      "listType": "major",
+      "name": "Music Industry",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Non-Governmental Organizations and Social Change",
+      "listType": "major",
+      "name": "Non-Governmental Organizations and Social Change",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Popular Music)",
+      "listType": "major",
+      "name": "Performance (Popular Music)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Studio Guitar)",
+      "listType": "major",
+      "name": "Performance (Studio Guitar)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Violin), (Viola), (Violoncello), (Double Bass) or (Harp)",
+      "listType": "major",
+      "name": "Performance (Violin), (Viola), (Violoncello), (Double Bass) or (Harp)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Vocal Arts)",
+      "listType": "major",
+      "name": "Performance (Vocal Arts)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Pharmacology and Drug Development",
+      "listType": "major",
+      "name": "Pharmacology and Drug Development",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, Politics and Economics",
+      "listType": "major",
+      "name": "Philosophy, Politics and Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, Politics and Law",
+      "listType": "major",
+      "name": "Philosophy, Politics and Law",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physical Sciences",
+      "listType": "major",
+      "name": "Physical Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Occupational Therapy",
+      "listType": "major",
+      "name": "Occupational Therapy",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Classical Guitar)",
+      "listType": "major",
+      "name": "Performance (Classical Guitar)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion)",
+      "listType": "major",
+      "name": "Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Organ)",
+      "listType": "major",
+      "name": "Performance (Organ)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Piano)",
+      "listType": "major",
+      "name": "Performance (Piano)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Stage Management",
+      "listType": "major",
+      "name": "Stage Management",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Policy",
+      "listType": "major",
+      "name": "Public Policy",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics/Computer Science",
+      "listType": "major",
+      "name": "Physics/Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Economy",
+      "listType": "major",
+      "name": "Political Economy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Quantitative Biology",
+      "listType": "major",
+      "name": "Quantitative Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate Development",
+      "listType": "major",
+      "name": "Real Estate Development",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate Finance and Development",
+      "listType": "major",
+      "name": "Real Estate Finance and Development",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion",
+      "listType": "major",
+      "name": "Religion",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Sciences, with an Emphasis in Psychology",
+      "listType": "major",
+      "name": "Social Sciences, with an Emphasis in Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "degreeAward": "BSW",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sound Design",
+      "listType": "major",
+      "name": "Sound Design",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian",
+      "listType": "major",
+      "name": "Russian",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Sciences, with an Emphasis in Economics",
+      "listType": "major",
+      "name": "Social Sciences, with an Emphasis in Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Technical Direction",
+      "listType": "major",
+      "name": "Technical Direction",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatrical Design",
+      "listType": "major",
+      "name": "Theatrical Design",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Themed Entertainment",
+      "listType": "major",
+      "name": "Themed Entertainment",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Urban Studies and Planning",
+      "listType": "major",
+      "name": "Urban Studies and Planning",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Writing for Screen and Television",
+      "listType": "major",
+      "name": "Writing for Screen and Television",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    }
+  ],
+  "warnings": []
+}

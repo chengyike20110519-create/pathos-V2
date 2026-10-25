@@ -148,1530 +148,2282 @@
   ],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Science",
-      "listType": "areas_of_study",
-      "name": "Management Science",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biopharmaceutical Sciences",
+      "listType": "major",
+      "name": "Biopharmaceutical Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biopharmaceutical Sciences",
+      "listType": "major",
+      "name": "Biopharmaceutical Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Speech Communication and Rhetoric",
-      "listType": "areas_of_study",
-      "name": "Speech Communication and Rhetoric",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Human Biology",
-      "listType": "areas_of_study",
-      "name": "Human Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Relations and Affairs",
-      "listType": "areas_of_study",
-      "name": "International Relations and Affairs",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Journalism",
-      "listType": "areas_of_study",
-      "name": "Journalism",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cinematography and Film/Video Production",
-      "listType": "areas_of_study",
-      "name": "Cinematography and Film/Video Production",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Real Estate Development",
-      "listType": "areas_of_study",
-      "name": "Real Estate Development",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Relations/Image Management",
-      "listType": "areas_of_study",
-      "name": "Public Relations/Image Management",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Management",
-      "listType": "areas_of_study",
-      "name": "Music Management",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computational and Applied Mathematics",
-      "listType": "areas_of_study",
-      "name": "Computational and Applied Mathematics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Industrial Engineering",
-      "listType": "areas_of_study",
-      "name": "Industrial Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Behavioral Aspects of Health",
-      "listType": "areas_of_study",
-      "name": "Behavioral Aspects of Health",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architectural and Building Sciences/Technology",
-      "listType": "areas_of_study",
-      "name": "Architectural and Building Sciences/Technology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy, Other",
-      "listType": "areas_of_study",
-      "name": "Philosophy, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Computer Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Computer Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Aerospace, Aeronautical, and Astronautical/Space Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Aerospace, Aeronautical, and Astronautical/Space Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Financial Mathematics",
-      "listType": "areas_of_study",
-      "name": "Financial Mathematics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Acting",
-      "listType": "areas_of_study",
-      "name": "Acting",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, Other",
-      "listType": "areas_of_study",
-      "name": "History, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Design and Visual Communications, General",
-      "listType": "areas_of_study",
-      "name": "Design and Visual Communications, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cognitive Science, General",
-      "listType": "areas_of_study",
-      "name": "Cognitive Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Public Health/International Health",
-      "listType": "areas_of_study",
-      "name": "International Public Health/International Health",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Creative Writing",
-      "listType": "areas_of_study",
-      "name": "Creative Writing",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Policy Analysis, General",
-      "listType": "areas_of_study",
-      "name": "Public Policy Analysis, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Modeling, Virtual Environments and Simulation",
-      "listType": "areas_of_study",
-      "name": "Modeling, Virtual Environments and Simulation",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Digital Arts",
-      "listType": "areas_of_study",
-      "name": "Digital Arts",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering-Related Fields, Other",
-      "listType": "areas_of_study",
-      "name": "Engineering-Related Fields, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Biochemistry",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Informatics",
-      "listType": "areas_of_study",
-      "name": "Informatics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Playwriting and Screenwriting",
-      "listType": "areas_of_study",
-      "name": "Playwriting and Screenwriting",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "East Asian Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cyber/Computer Forensics and Counterterrorism",
-      "listType": "areas_of_study",
-      "name": "Cyber/Computer Forensics and Counterterrorism",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Environmental Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Game and Interactive Media Design",
-      "listType": "areas_of_study",
-      "name": "Game and Interactive Media Design",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Gerontology",
-      "listType": "areas_of_study",
-      "name": "Gerontology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computational Biology",
-      "listType": "areas_of_study",
-      "name": "Computational Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Social Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geographic Information Science and Cartography",
-      "listType": "areas_of_study",
-      "name": "Geographic Information Science and Cartography",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Dance, General",
-      "listType": "areas_of_study",
-      "name": "Dance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Structural Engineering",
-      "listType": "areas_of_study",
-      "name": "Structural Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neurobiology and Neurosciences, Other",
-      "listType": "areas_of_study",
-      "name": "Neurobiology and Neurosciences, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pharmacology and Toxicology, Other",
-      "listType": "areas_of_study",
-      "name": "Pharmacology and Toxicology, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art/Art Studies, General",
-      "listType": "areas_of_study",
-      "name": "Art/Art Studies, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architecture",
-      "listType": "areas_of_study",
-      "name": "Architecture",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Economy",
-      "listType": "areas_of_study",
-      "name": "Political Economy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Urban Studies/Affairs",
-      "listType": "areas_of_study",
-      "name": "Urban Studies/Affairs",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Performance, General",
-      "listType": "areas_of_study",
-      "name": "Music Performance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Jazz/Jazz Studies",
-      "listType": "areas_of_study",
-      "name": "Jazz/Jazz Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Musical Theatre",
-      "listType": "areas_of_study",
-      "name": "Musical Theatre",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Occupational Therapy/Therapist",
-      "listType": "areas_of_study",
-      "name": "Occupational Therapy/Therapist",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Archeology",
-      "listType": "areas_of_study",
-      "name": "Archeology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Technical Theatre/Theatre Design and Technology",
-      "listType": "areas_of_study",
-      "name": "Technical Theatre/Theatre Design and Technology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Stringed Instruments",
-      "listType": "areas_of_study",
-      "name": "Stringed Instruments",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Environmental Health Engineering",
-      "listType": "areas_of_study",
-      "name": "Environmental/Environmental Health Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistic, Comparative, and Related Language Studies and Services, Other",
-      "listType": "areas_of_study",
-      "name": "Linguistic, Comparative, and Related Language Studies and Services, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Voice and Opera",
-      "listType": "areas_of_study",
-      "name": "Voice and Opera",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, Other",
-      "listType": "areas_of_study",
-      "name": "Music, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "American/United States Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "American/United States Studies/Civilization",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
-      "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Theory and Composition",
-      "listType": "areas_of_study",
-      "name": "Music Theory and Composition",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Keyboard Instruments",
-      "listType": "areas_of_study",
-      "name": "Keyboard Instruments",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Health Services/Allied Health/Health Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Health Services/Allied Health/Health Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Comparative Literature",
-      "listType": "areas_of_study",
-      "name": "Comparative Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Astronomy",
-      "listType": "areas_of_study",
-      "name": "Astronomy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Area Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Area Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
-      "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Visual and Performing Arts, General",
-      "listType": "areas_of_study",
-      "name": "Visual and Performing Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Percussion Instruments",
-      "listType": "areas_of_study",
-      "name": "Percussion Instruments",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "East Asian Studies",
-      "listType": "areas_of_study",
-      "name": "East Asian Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Near and Middle Eastern Studies",
-      "listType": "areas_of_study",
-      "name": "Near and Middle Eastern Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
-      "listType": "areas_of_study",
-      "name": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Biophysics",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Biophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ecology, Evolution, Systematics and Population Biology, Other",
-      "listType": "areas_of_study",
-      "name": "Ecology, Evolution, Systematics and Population Biology, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration",
+      "listType": "major",
+      "name": "Business Administration",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Dramatic/Theatre Arts and Stagecraft, Other",
-      "listType": "areas_of_study",
-      "name": "Dramatic/Theatre Arts and Stagecraft, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Business Analytics)",
+      "listType": "major",
+      "name": "Business Administration (Business Analytics)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Brass Instruments",
-      "listType": "areas_of_study",
-      "name": "Brass Instruments",
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Cinematic Arts)",
+      "listType": "major",
+      "name": "Business Administration (Cinematic Arts)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Woodwind Instruments",
-      "listType": "areas_of_study",
-      "name": "Woodwind Instruments",
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Communication)",
+      "listType": "major",
+      "name": "Business Administration (Communication)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian-American Studies",
-      "listType": "areas_of_study",
-      "name": "Asian-American Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronautical Engineering",
+      "listType": "major",
+      "name": "Astronautical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Water Resources Engineering",
-      "listType": "areas_of_study",
-      "name": "Water Resources Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy",
+      "listType": "major",
+      "name": "Astronomy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy",
+      "listType": "major",
+      "name": "Astronomy",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cell/Cellular and Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Cell/Cellular and Molecular Biology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Behavioral Economics and Psychology",
+      "listType": "major",
+      "name": "Behavioral Economics and Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biotechnology",
-      "listType": "areas_of_study",
-      "name": "Biotechnology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marine Biology and Biological Oceanography",
-      "listType": "areas_of_study",
-      "name": "Marine Biology and Biological Oceanography",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Registered Nursing/Registered Nurse",
-      "listType": "areas_of_study",
-      "name": "Registered Nursing/Registered Nurse",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (Biotechnology)",
+      "listType": "major",
+      "name": "Biological Sciences (Biotechnology)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_usc_2026_27_official_majors_minors_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Entrepreneurship and Innovation)",
+      "listType": "major",
+      "name": "Business Administration (Entrepreneurship and Innovation)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Finance)",
+      "listType": "major",
+      "name": "Business Administration (Finance)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (International Relations)",
+      "listType": "major",
+      "name": "Business Administration (International Relations)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Leadership and Innovation)",
+      "listType": "major",
+      "name": "Business Administration (Leadership and Innovation)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Marketing)",
+      "listType": "major",
+      "name": "Business Administration (Marketing)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Real Estate Finance)",
+      "listType": "major",
+      "name": "Business Administration (Real Estate Finance)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (Risk Management)",
+      "listType": "major",
+      "name": "Business Administration (Risk Management)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Administration (World Program)",
+      "listType": "major",
+      "name": "Business Administration (World Program)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, Materials Engineering Emphasis",
+      "listType": "major",
+      "name": "Chemical Engineering, Materials Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, Petroleum and Subsurface Engineering Emphasis",
+      "listType": "major",
+      "name": "Chemical Engineering, Petroleum and Subsurface Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry (Chemical Biology)",
+      "listType": "major",
+      "name": "Chemistry (Chemical Biology)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry (Chemical Nanoscience)",
+      "listType": "major",
+      "name": "Chemistry (Chemical Nanoscience)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry (Research)",
+      "listType": "major",
+      "name": "Chemistry (Research)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting and Finance",
+      "listType": "major",
+      "name": "Accounting and Finance",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Acting, Stage and Screen",
+      "listType": "major",
+      "name": "Acting, Stage and Screen",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Popular Culture",
+      "listType": "major",
+      "name": "American Popular Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business of Cinematic Arts",
+      "listType": "major",
+      "name": "Business of Cinematic Arts",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business of Innovation",
+      "listType": "major",
+      "name": "Business of Innovation",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Central European Studies",
+      "listType": "major",
+      "name": "Central European Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, Biological and Pharmaceutical Engineering Emphasis",
+      "listType": "major",
+      "name": "Chemical Engineering, Biological and Pharmaceutical Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering, Energy and Sustainability Emphasis",
+      "listType": "major",
+      "name": "Chemical Engineering, Energy and Sustainability Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence",
+      "listType": "major",
+      "name": "Artificial Intelligence",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Artificial Intelligence for Business",
+      "listType": "major",
+      "name": "Artificial Intelligence for Business",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Arts, Technology and the Business of Innovation",
+      "listType": "major",
+      "name": "Arts, Technology and the Business of Innovation",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (Ecology, Evolution and Environment)",
+      "listType": "major",
+      "name": "Biological Sciences (Ecology, Evolution and Environment)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (Marine Biology)",
+      "listType": "major",
+      "name": "Biological Sciences (Marine Biology)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences (Molecular, Cellular and Developmental Biology)",
+      "listType": "major",
+      "name": "Biological Sciences (Molecular, Cellular and Developmental Biology)",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering, Electrical Engineering Emphasis",
+      "listType": "major",
+      "name": "Biomedical Engineering, Electrical Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering, Mechanical Engineering Emphasis",
+      "listType": "major",
+      "name": "Biomedical Engineering, Mechanical Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering, Molecular and Cellular Engineering Emphasis",
+      "listType": "major",
+      "name": "Biomedical Engineering, Molecular and Cellular Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies and Ethnicity (African American Studies)",
+      "listType": "major",
+      "name": "American Studies and Ethnicity (African American Studies)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies and Ethnicity (Asian American Studies)",
+      "listType": "major",
+      "name": "American Studies and Ethnicity (Asian American Studies)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies and Ethnicity",
+      "listType": "major",
+      "name": "American Studies and Ethnicity",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "American Studies and Ethnicity (Chicano/Latino Studies)",
+      "listType": "major",
+      "name": "American Studies and Ethnicity (Chicano/Latino Studies)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animation and Digital Arts",
+      "listType": "major",
+      "name": "Animation and Digital Arts",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology (Visual Anthropology)",
+      "listType": "major",
+      "name": "Anthropology (Visual Anthropology)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied and Computational Mathematics",
+      "listType": "major",
+      "name": "Applied and Computational Mathematics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied and Computational Mathematics",
+      "listType": "major",
+      "name": "Applied and Computational Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Archaeology and Heritage Studies",
+      "listType": "major",
+      "name": "Archaeology and Heritage Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architectural Studies",
+      "listType": "major",
+      "name": "Architectural Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture and Inventive Technologies",
+      "listType": "major",
+      "name": "Architecture and Inventive Technologies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "degreeAward": "BArch",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Choral Music",
+      "listType": "major",
+      "name": "Choral Music",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinematic Arts, Film and Television Production",
+      "listType": "major",
+      "name": "Cinematic Arts, Film and Television Production",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Building Science Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Building Science Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Construction Engineering and Management Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Construction Engineering and Management Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Environmental Engineering Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Environmental Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Structural Engineering Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Structural Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering, Water Resources Engineering Emphasis",
+      "listType": "major",
+      "name": "Civil Engineering, Water Resources Engineering Emphasis",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Classics",
+      "listType": "major",
+      "name": "Classics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Science",
+      "listType": "major",
+      "name": "Cognitive Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Area Studies",
+      "listType": "major",
+      "name": "East Asian Area Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "East Asian Languages and Cultures",
+      "listType": "major",
+      "name": "East Asian Languages and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and Data Science",
+      "listType": "major",
+      "name": "Economics and Data Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics/Mathematics",
+      "listType": "major",
+      "name": "Economics/Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance",
+      "listType": "major",
+      "name": "Dance",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Contemporary Latino and Latin American Studies",
+      "listType": "major",
+      "name": "Contemporary Latino and Latin American Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design",
+      "listType": "major",
+      "name": "Design",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth Sciences",
+      "listType": "major",
+      "name": "Earth Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Linguistics",
+      "listType": "major",
+      "name": "Computational Linguistics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computational Neuroscience",
+      "listType": "major",
+      "name": "Computational Neuroscience",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering and Computer Science",
+      "listType": "major",
+      "name": "Computer Engineering and Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science/Business Administration",
+      "listType": "major",
+      "name": "Computer Science/Business Administration",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science Games",
+      "listType": "major",
+      "name": "Computer Science Games",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Comparative Literature",
+      "listType": "major",
+      "name": "Comparative Literature",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Composition",
+      "listType": "major",
+      "name": "Composition",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science and Health",
+      "listType": "major",
+      "name": "Environmental Science and Health",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science and Health",
+      "listType": "major",
+      "name": "Environmental Science and Health",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Systems Science",
+      "listType": "major",
+      "name": "Environmental Systems Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical and Computer Engineering",
+      "listType": "major",
+      "name": "Electrical and Computer Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fine Arts",
+      "listType": "major",
+      "name": "Fine Arts",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Game Art",
+      "listType": "major",
+      "name": "Game Art",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Game Development and Interactive Design",
+      "listType": "major",
+      "name": "Game Development and Interactive Design",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Geodesign",
+      "listType": "major",
+      "name": "Global Geodesign",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Health Studies",
+      "listType": "major",
+      "name": "Global Health Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies",
+      "listType": "major",
+      "name": "Global Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health and Human Sciences",
+      "listType": "major",
+      "name": "Health and Human Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender and Sexuality Studies",
+      "listType": "major",
+      "name": "Gender and Sexuality Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geodesign",
+      "listType": "major",
+      "name": "Geodesign",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geological Sciences",
+      "listType": "major",
+      "name": "Geological Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations (Global Business)",
+      "listType": "major",
+      "name": "International Relations (Global Business)",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Italian",
+      "listType": "major",
+      "name": "Italian",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz Studies",
+      "listType": "major",
+      "name": "Jazz Studies",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial and Systems Engineering",
+      "listType": "major",
+      "name": "Industrial and Systems Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Intelligence and Cyber Operations",
+      "listType": "major",
+      "name": "Intelligence and Cyber Operations",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary Studies",
+      "listType": "major",
+      "name": "Interdisciplinary Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations and the Global Economy",
+      "listType": "major",
+      "name": "International Relations and the Global Economy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations",
+      "listType": "major",
+      "name": "International Relations",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Promotion and Disease Prevention Studies",
+      "listType": "major",
+      "name": "Health Promotion and Disease Prevention Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology",
+      "listType": "major",
+      "name": "Human Biology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Biology",
+      "listType": "major",
+      "name": "Human Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American and Iberian Cultures, Media and Politics",
+      "listType": "major",
+      "name": "Latin American and Iberian Cultures, Media and Politics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Aging",
+      "listType": "major",
+      "name": "Human Development and Aging",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Aging, Health Science Track",
+      "listType": "major",
+      "name": "Human Development and Aging, Health Science Track",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Aging, Honors Programs",
+      "listType": "major",
+      "name": "Human Development and Aging, Honors Programs",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Security and Geospatial Intelligence",
+      "listType": "major",
+      "name": "Human Security and Geospatial Intelligence",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Technology Interaction",
+      "listType": "major",
+      "name": "Human Technology Interaction",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Law and Economics",
+      "listType": "major",
+      "name": "Law and Economics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Law, History, and Culture",
+      "listType": "major",
+      "name": "Law, History, and Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Legal Studies",
+      "listType": "major",
+      "name": "Legal Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Lifespan Health",
+      "listType": "major",
+      "name": "Lifespan Health",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Cognitive Science",
+      "listType": "major",
+      "name": "Linguistics and Cognitive Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and East Asian Languages and Cultures",
+      "listType": "major",
+      "name": "Linguistics and East Asian Languages and Cultures",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics and Philosophy",
+      "listType": "major",
+      "name": "Linguistics and Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Production",
+      "listType": "major",
+      "name": "Music Production",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Musical Theatre",
+      "listType": "major",
+      "name": "Musical Theatre",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Narrative Studies",
+      "listType": "major",
+      "name": "Narrative Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics/Economics",
+      "listType": "major",
+      "name": "Mathematics/Economics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Middle East Studies",
+      "listType": "major",
+      "name": "Middle East Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Industry",
+      "listType": "major",
+      "name": "Music Industry",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Industry",
+      "listType": "major",
+      "name": "Music Industry",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Non-Governmental Organizations and Social Change",
+      "listType": "major",
+      "name": "Non-Governmental Organizations and Social Change",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Popular Music)",
+      "listType": "major",
+      "name": "Performance (Popular Music)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Studio Guitar)",
+      "listType": "major",
+      "name": "Performance (Studio Guitar)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Violin), (Viola), (Violoncello), (Double Bass) or (Harp)",
+      "listType": "major",
+      "name": "Performance (Violin), (Viola), (Violoncello), (Double Bass) or (Harp)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Vocal Arts)",
+      "listType": "major",
+      "name": "Performance (Vocal Arts)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Pharmacology and Drug Development",
+      "listType": "major",
+      "name": "Pharmacology and Drug Development",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, Politics and Economics",
+      "listType": "major",
+      "name": "Philosophy, Politics and Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy, Politics and Law",
+      "listType": "major",
+      "name": "Philosophy, Politics and Law",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physical Sciences",
+      "listType": "major",
+      "name": "Physical Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Occupational Therapy",
+      "listType": "major",
+      "name": "Occupational Therapy",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Classical Guitar)",
+      "listType": "major",
+      "name": "Performance (Classical Guitar)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion)",
+      "listType": "major",
+      "name": "Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Organ)",
+      "listType": "major",
+      "name": "Performance (Organ)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance (Piano)",
+      "listType": "major",
+      "name": "Performance (Piano)",
+      "degreeAward": "BM",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Stage Management",
+      "listType": "major",
+      "name": "Stage Management",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Policy",
+      "listType": "major",
+      "name": "Public Policy",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics/Computer Science",
+      "listType": "major",
+      "name": "Physics/Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Economy",
+      "listType": "major",
+      "name": "Political Economy",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Quantitative Biology",
+      "listType": "major",
+      "name": "Quantitative Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate Development",
+      "listType": "major",
+      "name": "Real Estate Development",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate Finance and Development",
+      "listType": "major",
+      "name": "Real Estate Finance and Development",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion",
+      "listType": "major",
+      "name": "Religion",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Sciences, with an Emphasis in Psychology",
+      "listType": "major",
+      "name": "Social Sciences, with an Emphasis in Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "degreeAward": "BSW",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sound Design",
+      "listType": "major",
+      "name": "Sound Design",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian",
+      "listType": "major",
+      "name": "Russian",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Sciences, with an Emphasis in Economics",
+      "listType": "major",
+      "name": "Social Sciences, with an Emphasis in Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Technical Direction",
+      "listType": "major",
+      "name": "Technical Direction",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatrical Design",
+      "listType": "major",
+      "name": "Theatrical Design",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Themed Entertainment",
+      "listType": "major",
+      "name": "Themed Entertainment",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Urban Studies and Planning",
+      "listType": "major",
+      "name": "Urban Studies and Planning",
+      "degreeAward": "BS",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Writing for Screen and Television",
+      "listType": "major",
+      "name": "Writing for Screen and Television",
+      "degreeAward": "BFA",
+      "officialUrl": "https://usc.edu/majors-minors/",
+      "sourceIds": [
+        "source_usc_2026_27_official_majors_minors_directory"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "scope": "Official USC Majors & Minors directory; bachelor degree suffixes only",
+    "sourceIds": [
+      "source_usc_2026_27_official_majors_minors_directory"
+    ],
+    "checkedAt": "2026-10-25",
+    "warnings": []
   },
   "anecdotes": [
     {
