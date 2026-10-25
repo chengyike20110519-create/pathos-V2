@@ -11,7 +11,7 @@
   ],
   "status": "official_catalog_observed_partial_scope",
   "checkedAt": "2026-10-25",
-  "entryCount": 41,
+  "entryCount": 42,
   "entries": [
     {
       "degreeType": "undergraduate_major",
@@ -20,6 +20,18 @@
       "name": "Accounting",
       "degreeAward": "BSBA",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/accountingandfinancialmanagement/accounting/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Animal Behavior",
+      "listType": "major",
+      "name": "Animal Behavior",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/animalbehavioranbe/",
       "sourceIds": [
         "source_bucknell_2026_27_degree_pages"
       ],
@@ -509,4 +521,4 @@
   "warnings": [
     "The Bachelor of Arts catalog is still under review; this file is a verified partial directory and must not be treated as the complete Bucknell major list."
   ]
-}\n
+}
