@@ -5587,6 +5587,28 @@
       "notes": "Used as official degree-volume context for distinctive-program descriptions; does not establish an external academic ranking."
     },
     {
+      "sourceId": "source_harvard_computer_science_undergraduate_2026",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+      "referenceYear": "2026",
+      "url": "https://seas.harvard.edu/computer-science/undergraduate-program",
+      "status": "verified",
+      "scope": ["Harvard Computer Science undergraduate program description"],
+      "retrievedAt": "2026-10-25",
+      "notes": "Used for distinctive-program description; not an external ranking."
+    },
+    {
+      "sourceId": "source_harvard_economics_undergraduate_2026",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Harvard University Department of Economics",
+      "referenceYear": "2026",
+      "url": "https://www.economics.harvard.edu/undergraduate",
+      "status": "verified",
+      "scope": ["Harvard Economics undergraduate concentration description"],
+      "retrievedAt": "2026-10-25",
+      "notes": "Used for distinctive-program description; not an external ranking."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",
