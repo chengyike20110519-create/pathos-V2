@@ -5515,6 +5515,17 @@
       ],
       "retrievedAt": "2026-10-25",
       "notes": "Official USC directory; 189 bachelor-level entries after excluding minors and graduate/professional entries."
+    },
+    {
+      "sourceId": "source_iowa_2026_27_official_undergraduate_program_directory",
+      "sourceType": "official_undergraduate_program_directory",
+      "publisher": "University of Iowa General Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.registrar.uiowa.edu/your-program/",
+      "status": "verified",
+      "scope": "Current undergraduate bachelor degree program entries in the official Find Your Program directory",
+      "retrievedAt": "2026-10-25",
+      "notes": "Filtered to BA, BS, BSE, BBA, BM, BFA, BAS, and BLS awards; excluded graduate, minor, certificate, professional, and non-degree entries."
     }
   ]
 }

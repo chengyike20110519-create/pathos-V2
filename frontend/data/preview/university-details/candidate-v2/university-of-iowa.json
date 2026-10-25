@@ -148,1283 +148,1397 @@
   ],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Exercise Science and Kinesiology",
-      "listType": "areas_of_study",
-      "name": "Exercise Science and Kinesiology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Finance, General",
-      "listType": "areas_of_study",
-      "name": "Finance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Behavioral Sciences",
-      "listType": "areas_of_study",
-      "name": "Behavioral Sciences",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marketing/Marketing Management, General",
-      "listType": "areas_of_study",
-      "name": "Marketing/Marketing Management, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Registered Nursing/Registered Nurse",
-      "listType": "areas_of_study",
-      "name": "Registered Nursing/Registered Nurse",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Organizational Leadership",
-      "listType": "areas_of_study",
-      "name": "Organizational Leadership",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Liberal Arts and Sciences/Liberal Studies",
-      "listType": "areas_of_study",
-      "name": "Liberal Arts and Sciences/Liberal Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Labor and Industrial Relations",
-      "listType": "areas_of_study",
-      "name": "Labor and Industrial Relations",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Sciences and Quantitative Methods, Other",
-      "listType": "areas_of_study",
-      "name": "Management Sciences and Quantitative Methods, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Speech Communication and Rhetoric",
-      "listType": "areas_of_study",
-      "name": "Speech Communication and Rhetoric",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Elementary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Elementary Education and Teaching",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature/Letters, Other",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature/Letters, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Accounting",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Accounting",
+      "degreeAward": "BBA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/accounting/accounting-bba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sport and Fitness Administration/Management",
-      "listType": "areas_of_study",
-      "name": "Sport and Fitness Administration/Management",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Journalism",
-      "listType": "areas_of_study",
-      "name": "Journalism",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Criminology",
-      "listType": "areas_of_study",
-      "name": "Criminology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art/Art Studies, General",
-      "listType": "areas_of_study",
-      "name": "Art/Art Studies, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Audiology/Audiologist and Speech-Language Pathology/Pathologist",
-      "listType": "areas_of_study",
-      "name": "Audiology/Audiologist and Speech-Language Pathology/Pathologist",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Health, General",
-      "listType": "areas_of_study",
-      "name": "Public Health, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Parks, Recreation, and Leisure Studies",
-      "listType": "areas_of_study",
-      "name": "Parks, Recreation, and Leisure Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Radiologic Technology/Science - Radiographer",
-      "listType": "areas_of_study",
-      "name": "Radiologic Technology/Science - Radiographer",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Work",
-      "listType": "areas_of_study",
-      "name": "Social Work",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Biochemistry",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, General",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Industrial Engineering",
-      "listType": "areas_of_study",
-      "name": "Industrial Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Microbiology, General",
-      "listType": "areas_of_study",
-      "name": "Microbiology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Informatics",
-      "listType": "areas_of_study",
-      "name": "Informatics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biomedical Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biomedical Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Statistics, General",
-      "listType": "areas_of_study",
-      "name": "Statistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Relations and Affairs",
-      "listType": "areas_of_study",
-      "name": "International Relations and Affairs",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English/Language Arts Teacher Education",
-      "listType": "areas_of_study",
-      "name": "English/Language Arts Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Studies Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Social Studies Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Environmental Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sports Studies",
-      "listType": "areas_of_study",
-      "name": "Sports Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Playwriting and Screenwriting",
-      "listType": "areas_of_study",
-      "name": "Playwriting and Screenwriting",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Actuarial Science",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Actuarial Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/statistics-actuarial-science/actuarial-science-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Environmental Health Engineering",
-      "listType": "areas_of_study",
-      "name": "Environmental/Environmental Health Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "Ancient Civilization",
+      "listType": "major",
+      "name": "Ancient Civilization",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/classics-religious-studies/ancient-civilization-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Linguistics",
-      "listType": "areas_of_study",
-      "name": "Linguistics",
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/anthropology/anthropology-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/anthropology/anthropology-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Dance, General",
-      "listType": "areas_of_study",
-      "name": "Dance, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art Education",
+      "listType": "major",
+      "name": "Art Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/art-education-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Asian Studies/Civilization",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/art-art-history-design/art-history-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Music Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art",
+      "listType": "major",
+      "name": "Art",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/art-art-history-design/art-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Ancient Studies/Civilization",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art",
+      "listType": "major",
+      "name": "Art",
+      "degreeAward": "BFA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/art-art-history-design/art-bfa/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Mathematics Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Languages and Literature",
+      "listType": "major",
+      "name": "Asian Languages and Literature",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/languages-linguistics-literatures-cultures/asian-languages-literature-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Systems Science and Theory",
-      "listType": "areas_of_study",
-      "name": "Systems Science and Theory",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Data Science, General",
-      "listType": "areas_of_study",
-      "name": "Data Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Therapeutic Recreation/Recreational Therapy",
-      "listType": "areas_of_study",
-      "name": "Therapeutic Recreation/Recreational Therapy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Women's Studies",
-      "listType": "areas_of_study",
-      "name": "Women's Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Science Teacher Education/General Science Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Science Teacher Education/General Science Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geography",
-      "listType": "areas_of_study",
-      "name": "Geography",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Musical Theatre",
-      "listType": "areas_of_study",
-      "name": "Musical Theatre",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
-      "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
-      "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Astronomy",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Astronomy",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/physics-astronomy/astronomy-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Nuclear Medical Technology/Technologist",
-      "listType": "areas_of_study",
-      "name": "Nuclear Medical Technology/Technologist",
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy",
+      "listType": "major",
+      "name": "Astronomy",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/physics-astronomy/astronomy-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Art Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Bachelor of Applied Studies",
+      "listType": "major",
+      "name": "Bachelor of Applied Studies",
+      "degreeAward": "BAS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/university-college/bachelor-of-applied-studies/bas/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
-      "listType": "areas_of_study",
-      "name": "German Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Bachelor of Liberal Studies",
+      "listType": "major",
+      "name": "Bachelor of Liberal Studies",
+      "degreeAward": "BLS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/university-college/bachelor-of-liberal-studies/bls/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Bachelor of Science in Engineering",
+      "listType": "major",
+      "name": "Bachelor of Science in Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/bachelor-of-science-engineering/bse/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Foreign Language Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Foreign Language Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry and Molecular Biology",
+      "listType": "major",
+      "name": "Biochemistry and Molecular Biology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/carver-medicine/biochemistry-molecular-biology/biochemistry-molecular-biology-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry and Molecular Biology",
+      "listType": "major",
+      "name": "Biochemistry and Molecular Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/carver-medicine/biochemistry-molecular-biology/biochemistry-molecular-biology-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "American/United States Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "American/United States Studies/Civilization",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/biology/biology-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Language Interpretation and Translation",
-      "listType": "areas_of_study",
-      "name": "Language Interpretation and Translation",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/biology/biology-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Clinical Laboratory Science/Medical Technology/Technologist",
-      "listType": "areas_of_study",
-      "name": "Clinical Laboratory Science/Medical Technology/Technologist",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/roy-j-carver-biomedical-engineering/bse/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Engineering, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Sciences",
+      "listType": "major",
+      "name": "Biomedical Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/biology/biomedical-sciences-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Comparative Literature",
-      "listType": "areas_of_study",
-      "name": "Comparative Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Analytics and Information Systems",
+      "listType": "major",
+      "name": "Business Analytics and Information Systems",
+      "degreeAward": "BBA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/business-analytics/business-analytics-information-systems-bba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Portuguese Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Portuguese Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/chemical-biochemical-engineering/chemical-engineering-bse/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/chemistry/chemistry-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business/Commerce, General",
-      "listType": "areas_of_study",
-      "name": "Business/Commerce, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/chemistry/chemistry-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Insurance",
-      "listType": "areas_of_study",
-      "name": "Insurance",
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema",
+      "listType": "major",
+      "name": "Cinema",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/cinematic-arts/cinema-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/civil-environmental-engineering/civil-engineering-bse/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies",
+      "listType": "major",
+      "name": "Communication Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/communication-studies/communication-studies-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/electrical-computer-engineering/computer-engineering-bse/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science and Engineering",
+      "listType": "major",
+      "name": "Computer Science and Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/electrical-computer-engineering/computer-science-engineering-bse/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/computer-science/computer-science-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/computer-science/computer-science-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Counseling and Behavioral Health Services",
+      "listType": "major",
+      "name": "Counseling and Behavioral Health Services",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/psychological-quantitative-foundations/counseling-behavioral-health-services-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminology, Law, and Justice",
+      "listType": "major",
+      "name": "Criminology, Law, and Justice",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/sociology-criminology/criminology-law-justice-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance",
+      "listType": "major",
+      "name": "Dance",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/dance/dance-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance",
+      "listType": "major",
+      "name": "Dance",
+      "degreeAward": "BFA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/dance/dance-bfa/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/statistics-actuarial-science/data-science-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth and Environmental Sciences",
+      "listType": "major",
+      "name": "Earth and Environmental Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/earth-environment-sustainability/earth-environmental-sciences-BA/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth and Environmental Sciences",
+      "listType": "major",
+      "name": "Earth and Environmental Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/earth-environment-sustainability/earth-environmental-sciences-BS/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/economics/economics-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "BBA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/economics/economics-bba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/economics/economics-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education Studies and Human Relations",
+      "listType": "major",
+      "name": "Education Studies and Human Relations",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/education-studies-human-relations-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/electrical-computer-engineering/electrical-engineering-bse/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education",
+      "listType": "major",
+      "name": "Elementary Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/elementary-education-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English Education",
+      "listType": "major",
+      "name": "English Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/english-education-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Creative Writing",
+      "listType": "major",
+      "name": "English and Creative Writing",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/english/english-creative-writing-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/english/english-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Enterprise Leadership",
+      "listType": "major",
+      "name": "Enterprise Leadership",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/division-interdisciplinary-programs/enterprise-leadership-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entrepreneurship",
+      "listType": "major",
+      "name": "Entrepreneurship",
+      "degreeAward": "BBA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/management-entrepreneurship/entrepreneurship-bba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/civil-environmental-engineering/environmental-engineering-bse/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Policy and Planning",
+      "listType": "major",
+      "name": "Environmental Policy and Planning",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/earth-environment-sustainability/environmental-policy-planning-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Ethics and Public Policy",
+      "listType": "major",
+      "name": "Ethics and Public Policy",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/philosophy/ethics-and-public-policy-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Exercise Science",
+      "listType": "major",
+      "name": "Exercise Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/health-sport-human-physiology/exercise-science-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "degreeAward": "BBA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/finance/finance-bba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/languages-linguistics-literatures-cultures/french-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geographical and Sustainability Sciences",
+      "listType": "major",
+      "name": "Geographical and Sustainability Sciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/earth-environment-sustainability/geographical-sustainability-sciences-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geographical and Sustainability Sciences",
+      "listType": "major",
+      "name": "Geographical and Sustainability Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/earth-environment-sustainability/geographical-sustainability-sciences-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "German",
+      "listType": "major",
+      "name": "German",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/languages-linguistics-literatures-cultures/german-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Health Studies",
+      "listType": "major",
+      "name": "Global Health Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/anthropology/global-health-studies-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Health Studies",
+      "listType": "major",
+      "name": "Global Health Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/anthropology/global-health-studies-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Promotion",
+      "listType": "major",
+      "name": "Health Promotion",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/health-sport-human-physiology/health-promotion-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Studies",
+      "listType": "major",
+      "name": "Health Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/health-sport-human-physiology/health-studies-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/history/history-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Physiology",
+      "listType": "major",
+      "name": "Human Physiology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/health-sport-human-physiology/human-physiology-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial Engineering",
+      "listType": "major",
+      "name": "Industrial Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/industrial-systems-engineering/industrial-engineering-bse/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Informatics",
+      "listType": "major",
+      "name": "Informatics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/computer-science/informatics-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Informatics",
+      "listType": "major",
+      "name": "Informatics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/computer-science/informatics-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdepartmental Studies",
+      "listType": "major",
+      "name": "Interdepartmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/division-interdisciplinary-programs/interdepartmental-studies-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations",
+      "listType": "major",
+      "name": "International Relations",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/political-science/international-relations-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations",
+      "listType": "major",
+      "name": "International Relations",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/political-science/international-relations-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Studies",
+      "listType": "major",
+      "name": "International Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/languages-linguistics-literatures-cultures/international-studies-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism and Mass Communication",
+      "listType": "major",
+      "name": "Journalism and Mass Communication",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/journalism-mass-communication/journalism-mass-communication-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistics",
+      "listType": "major",
+      "name": "Linguistics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/languages-linguistics-literatures-cultures/linguistics-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/management-entrepreneurship/management-bba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "degreeAward": "BBA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/marketing/marketing-bba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics Education",
+      "listType": "major",
+      "name": "Mathematics Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/mathematics-education-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/mathematics/mathematics-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/mathematics/mathematics-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "degreeAward": "BSE",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/engineering/mechanical-engineering/mechanical-engineering-bse/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Medical Laboratory Science",
+      "listType": "major",
+      "name": "Medical Laboratory Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/carver-medicine/medical-laboratory-science/medical-laboratory-science-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Microbiology",
+      "listType": "major",
+      "name": "Microbiology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/carver-medicine/microbiology-immunology/microbiology-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Education",
+      "listType": "major",
+      "name": "Music Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/music-education-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/music/music-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "BM",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/music/music-bm/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/biology/neuroscience-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nuclear Medicine Technology",
+      "listType": "major",
+      "name": "Nuclear Medicine Technology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/carver-medicine/nuclear-medicine-technology/bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/philosophy/philosophy-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/physics-astronomy/physics-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/physics-astronomy/physics-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/political-science/political-science-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/political-science/political-science-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/psychological-brain-sciences/psychology-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/psychological-brain-sciences/psychology-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/public-health/public-health-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/public-health/public-health-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Radiation Sciences",
+      "listType": "major",
+      "name": "Radiation Sciences",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/carver-medicine/radiation-sciences/radiation-sciences-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies",
+      "listType": "major",
+      "name": "Religious Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/classics-religious-studies/religious-studies-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Risk Management and Insurance",
+      "listType": "major",
+      "name": "Risk Management and Insurance",
+      "degreeAward": "BBA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/finance/risk-management-insurance-bba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Science Education",
+      "listType": "major",
+      "name": "Science Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/science-education-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Science Studies",
+      "listType": "major",
+      "name": "Science Studies",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/science-studies-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Screenwriting Arts",
+      "listType": "major",
+      "name": "Screenwriting Arts",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/cinematic-arts/screenwriting-arts-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Studies Education",
+      "listType": "major",
+      "name": "Social Studies Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/social-studies-education-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/social-work/social-work-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/sociology-criminology/sociology-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/spanish-portuguese/spanish-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Special Education",
+      "listType": "major",
+      "name": "Special Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/special-education-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Speech and Hearing Science",
+      "listType": "major",
+      "name": "Speech and Hearing Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/communication-sciences-disorders/speech-hearing-science-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Media and Culture",
+      "listType": "major",
+      "name": "Sport Media and Culture",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/journalism-mass-communication/sport-media-culture-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport and Recreation Management",
+      "listType": "major",
+      "name": "Sport and Recreation Management",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/health-sport-human-physiology/sport-recreation-management-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/statistics-actuarial-science/statistics-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre Arts",
+      "listType": "major",
+      "name": "Theatre Arts",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/theatre-arts/theatre-arts-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Therapeutic Recreation",
+      "listType": "major",
+      "name": "Therapeutic Recreation",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/health-sport-human-physiology/therapeutic-recreation-bs/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Translation",
+      "listType": "major",
+      "name": "Translation",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/languages-linguistics-literatures-cultures/translation-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "World Language Education",
+      "listType": "major",
+      "name": "World Language Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.registrar.uiowa.edu/education/teaching-learning/world-language-education-ba/",
+      "sourceIds": [
+        "source_iowa_2026_27_official_undergraduate_program_directory"
+      ],
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "sourceIds": [
+      "source_iowa_2026_27_official_undergraduate_program_directory"
+    ],
+    "referenceYear": "2026-27",
+    "scope": "official undergraduate bachelor degree program directory",
+    "entryCount": 115,
+    "warnings": [
+      "Degree-level entries are retained as separate records when the official catalog lists the same field under multiple undergraduate awards."
+    ]
   },
   "anecdotes": [
     {
@@ -1704,7 +1818,7 @@
   "region": "Plains",
   "schoolType": "public",
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceStatus": "reviewed_official_undergraduate_directory",
   "state": "IA",
   "studentFacultyRatio": 15.0,
   "topPrograms": [
