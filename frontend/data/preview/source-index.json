@@ -5526,6 +5526,17 @@
       "scope": "Current undergraduate bachelor degree program entries in the official Find Your Program directory",
       "retrievedAt": "2026-10-25",
       "notes": "Filtered to BA, BS, BSE, BBA, BM, BFA, BAS, and BLS awards; excluded graduate, minor, certificate, professional, and non-degree entries."
+    },
+    {
+      "sourceId": "source_ucsb_2026_27_official_undergraduate_majors_directory",
+      "sourceType": "official_undergraduate_major_directory",
+      "publisher": "UC Santa Barbara Undergraduate Admissions",
+      "referenceYear": "2026-27",
+      "url": "https://admissions.sa.ucsb.edu/majors",
+      "status": "verified",
+      "scope": "Current UCSB undergraduate majors across L&S, Engineering, Creative Studies, and Gevirtz School sections",
+      "retrievedAt": "2026-10-25",
+      "notes": "Excluded 5-year program links and available minors; degree awards are recorded only where the page states them or the L&S page-wide BA note applies."
     }
   ]
 }
