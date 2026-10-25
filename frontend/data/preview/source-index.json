@@ -5537,6 +5537,17 @@
       "scope": "Current UCSB undergraduate majors across L&S, Engineering, Creative Studies, and Gevirtz School sections",
       "retrievedAt": "2026-10-25",
       "notes": "Excluded 5-year program links and available minors; degree awards are recorded only where the page states them or the L&S page-wide BA note applies."
+    },
+    {
+      "sourceId": "source_vanderbilt_2026_official_program_finder_bachelors",
+      "sourceType": "official_undergraduate_program_finder_api",
+      "publisher": "Vanderbilt University Undergraduate Admissions",
+      "referenceYear": "2026",
+      "url": "https://web.dev-api.vanderbilt.edu/program-finder",
+      "status": "verified",
+      "scope": "Official Vanderbilt bachelor-level program finder records across undergraduate schools",
+      "retrievedAt": "2026-10-25",
+      "notes": "Filtered to records exposing a bachelors URL; excluded graduate-only, minor-only, certificate, and non-degree records."
     }
   ]
 }

@@ -148,1062 +148,927 @@
   ],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Social Sciences, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "African American and Diaspora Studies",
+      "listType": "major",
+      "name": "African American and Diaspora Studies",
+      "officialUrl": "https://admissions.vanderbilt.edu/academics/fact-sheet/?program=1244",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1103
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Econometrics and Quantitative Economics",
-      "listType": "areas_of_study",
-      "name": "Econometrics and Quantitative Economics",
+      "degreeType": "undergraduate_major",
+      "displayName": "AI Design and Practice",
+      "listType": "major",
+      "name": "AI Design and Practice",
+      "officialUrl": "https://computing.vanderbilt.edu/undergraduate-programs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Connected Computing",
+      "programFinderId": 1265
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "officialUrl": "https://as.vanderbilt.edu/anthropology/undergraduate/aboutmajor.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1085
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Science",
-      "listType": "areas_of_study",
-      "name": "Computer Science",
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture and the Built Environment",
+      "listType": "major",
+      "name": "Architecture and the Built Environment",
+      "officialUrl": "https://as.vanderbilt.edu/history-art-architecture/major-minors/#major-environment",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1213
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art",
+      "listType": "major",
+      "name": "Art",
+      "officialUrl": "https://www.vanderbilt.edu/arts/undergraduate-program-in-studio-art/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1097
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian American and Asian Diaspora Studies",
+      "listType": "major",
+      "name": "Asian American and Asian Diaspora Studies",
+      "officialUrl": "https://as.vanderbilt.edu/asian-studies/major-and-minor/#asian-american",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1232
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Asian Studies",
+      "listType": "major",
+      "name": "Asian Studies",
+      "officialUrl": "https://as.vanderbilt.edu/asian-studies/major-and-minor/#asian",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1105
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neuroscience",
-      "listType": "areas_of_study",
-      "name": "Neuroscience",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry and Chemical Biology",
+      "listType": "major",
+      "name": "Biochemistry and Chemical Biology",
+      "officialUrl": "https://as.vanderbilt.edu/bcb/requirements/major.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1158
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biological Sciences",
+      "listType": "major",
+      "name": "Biological Sciences",
+      "officialUrl": "https://as.vanderbilt.edu/biological-sciences/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1116
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mechanical Engineering",
-      "listType": "areas_of_study",
-      "name": "Mechanical Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "officialUrl": "https://engineering.vanderbilt.edu/academics/Undergraduate/index.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "School of Engineering",
+      "programFinderId": 1024
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Cognitive Science, General",
-      "listType": "areas_of_study",
-      "name": "Cognitive Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Molecular Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Chemical Engineering",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Chemical Engineering",
+      "officialUrl": "https://engineering.vanderbilt.edu/chbe/UndergraduateProgram/undergraduate.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "School of Engineering",
+      "programFinderId": 1025
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Developmental and Child Psychology",
-      "listType": "areas_of_study",
-      "name": "Developmental and Child Psychology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "officialUrl": "https://www.vanderbilt.edu/chemistry/undergraduate.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1077
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering Science",
-      "listType": "areas_of_study",
-      "name": "Engineering Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biochemistry",
-      "listType": "areas_of_study",
-      "name": "Biochemistry",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Policy Analysis, General",
-      "listType": "areas_of_study",
-      "name": "Public Policy Analysis, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, Other",
-      "listType": "areas_of_study",
-      "name": "History, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Speech Communication and Rhetoric",
-      "listType": "areas_of_study",
-      "name": "Speech Communication and Rhetoric",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Civil Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Civil Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Legal Studies",
-      "listType": "areas_of_study",
-      "name": "Legal Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Science, Technology and Society",
-      "listType": "areas_of_study",
-      "name": "Science, Technology and Society",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Child Development",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Child Development",
+      "officialUrl": "https://peabody.vanderbilt.edu/academics/undergraduate-majors/psychology-specializations/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Peabody College of Education and Human Development",
+      "programFinderId": 1145
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Child Studies",
+      "listType": "major",
+      "name": "Child Studies",
+      "officialUrl": "https://peabody.vanderbilt.edu/academics/undergraduate-majors/psychology-specializations/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Peabody College of Education and Human Development",
+      "programFinderId": 1006
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Cinema and Media Arts",
+      "listType": "major",
+      "name": "Cinema and Media Arts",
+      "officialUrl": "https://as.vanderbilt.edu/cinema-media-arts/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1130
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "officialUrl": "https://engineering.vanderbilt.edu/cee/Undergraduate/index.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "School of Engineering",
+      "programFinderId": 1027
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education, General",
-      "listType": "areas_of_study",
-      "name": "Education, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical and Mediterranean Studies",
+      "listType": "major",
+      "name": "Classical and Mediterranean Studies",
+      "officialUrl": "https://as.vanderbilt.edu/classics/undergraduate.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1173
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Teacher Education, Multiple Levels",
-      "listType": "areas_of_study",
-      "name": "Teacher Education, Multiple Levels",
+      "degreeType": "undergraduate_major",
+      "displayName": "Climate and Environmental Studies",
+      "listType": "major",
+      "name": "Climate and Environmental Studies",
+      "officialUrl": "https://as.vanderbilt.edu/climate-environmental/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1226
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Cognitive Studies",
+      "listType": "major",
+      "name": "Cognitive Studies",
+      "officialUrl": "https://peabody.vanderbilt.edu/academics/undergraduate-majors/psychology-specializations/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Peabody College of Education and Human Development",
+      "programFinderId": 1007
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Film/Cinema/Media Studies",
-      "listType": "areas_of_study",
-      "name": "Film/Cinema/Media Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication of Science and Technology",
+      "listType": "major",
+      "name": "Communication of Science and Technology",
+      "officialUrl": "https://as.vanderbilt.edu/cst/Major_Requirements.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1004
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Stringed Instruments",
-      "listType": "areas_of_study",
-      "name": "Stringed Instruments",
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies",
+      "listType": "major",
+      "name": "Communication Studies",
+      "officialUrl": "https://as.vanderbilt.edu/communication/student-resources/major/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1005
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Electrical and Electronics Engineering",
-      "listType": "areas_of_study",
-      "name": "Electrical and Electronics Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "officialUrl": "https://engineering.vanderbilt.edu/cs/Undergraduate/index.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Graduate School",
+      "programFinderId": 1029
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Geology/Earth Science, General",
-      "listType": "areas_of_study",
-      "name": "Geology/Earth Science, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Culture, Advocacy, and Leadership",
+      "listType": "major",
+      "name": "Culture, Advocacy, and Leadership",
+      "officialUrl": "https://as.vanderbilt.edu/american-studies/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1237
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Woodwind Instruments",
-      "listType": "areas_of_study",
-      "name": "Woodwind Instruments",
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "officialUrl": "https://computing.vanderbilt.edu/undergraduate-programs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Connected Computing",
+      "programFinderId": 1266
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Secondary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Secondary Education and Teaching",
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth and Environmental Sciences",
+      "listType": "major",
+      "name": "Earth and Environmental Sciences",
+      "officialUrl": "https://as.vanderbilt.edu/earth-environmental-sciences/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1078
     },
     {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "officialUrl": "https://as.vanderbilt.edu/economics/major-minor/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1087
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics and History",
+      "listType": "major",
+      "name": "Economics and History",
+      "officialUrl": "https://as.vanderbilt.edu/history/undergraduate/ehst.php",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1088
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Electrical and Computer Engineering",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Electrical and Computer Engineering",
+      "officialUrl": "https://vu.edu/ece",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "School of Engineering",
+      "programFinderId": 1227
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Asian Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Asian Studies/Civilization",
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education",
+      "listType": "major",
+      "name": "Elementary Education",
+      "officialUrl": "https://admissions.vanderbilt.edu/academics/fact-sheet/?program=1008",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Peabody College of Education and Human Development",
+      "programFinderId": 1008
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Special Education and Teaching, General",
-      "listType": "areas_of_study",
-      "name": "Special Education and Teaching, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering Science",
+      "listType": "major",
+      "name": "Engineering Science",
+      "officialUrl": "https://engineering.vanderbilt.edu/ge/engineering-science/index.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "School of Engineering",
+      "programFinderId": 1031
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "English",
+      "listType": "major",
+      "name": "English",
+      "officialUrl": "https://as.vanderbilt.edu/english/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1037
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology",
-      "listType": "areas_of_study",
-      "name": "Classical, Ancient Mediterranean, and Near Eastern Studies and Archaeology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "officialUrl": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/undergraduate-program/#h2-environmental-engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "School of Engineering",
+      "programFinderId": 1149
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Architectural History and Criticism, General",
-      "listType": "areas_of_study",
-      "name": "Architectural History and Criticism, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "European Studies",
+      "listType": "major",
+      "name": "European Studies",
+      "officialUrl": "https://as.vanderbilt.edu/europeanstudies/majorminor/major.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1110
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "officialUrl": "https://as.vanderbilt.edu/french-italian/undergraduate/french-major-2/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1194
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ecology and Evolutionary Biology",
-      "listType": "areas_of_study",
-      "name": "Ecology and Evolutionary Biology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Gender and Sexuality Studies",
+      "listType": "major",
+      "name": "Gender and Sexuality Studies",
+      "officialUrl": "https://as.vanderbilt.edu/gender-sexuality/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1114
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Music Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Keyboard Instruments",
-      "listType": "areas_of_study",
-      "name": "Keyboard Instruments",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Brass Instruments",
-      "listType": "areas_of_study",
-      "name": "Brass Instruments",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "American/United States Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "American/United States Studies/Civilization",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Voice and Opera",
-      "listType": "areas_of_study",
-      "name": "Voice and Opera",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sustainability Studies",
-      "listType": "areas_of_study",
-      "name": "Sustainability Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
-      "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Russian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Russian Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin American Studies",
-      "listType": "areas_of_study",
-      "name": "Latin American Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Romance Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Romance Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music Theory and Composition",
-      "listType": "areas_of_study",
-      "name": "Music Theory and Composition",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "European Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "European Studies/Civilization",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "German Studies",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "German Studies",
+      "officialUrl": "https://as.vanderbilt.edu/german-russian-studies/major-minor/#german",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1193
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Foreign Language Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Foreign Language Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "officialUrl": "https://as.vanderbilt.edu/history/majors-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1067
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
-      "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "History of Art",
+      "listType": "major",
+      "name": "History of Art",
+      "officialUrl": "https://as.vanderbilt.edu/history-art-architecture/major-minors/#major",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1169
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Jewish/Judaic Studies",
-      "listType": "areas_of_study",
-      "name": "Jewish/Judaic Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Human and Organizational Development",
+      "listType": "major",
+      "name": "Human and Organizational Development",
+      "officialUrl": "https://peabody.vanderbilt.edu/academics/undergraduate-majors/human-organizational-development/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Peabody College of Education and Human Development",
+      "programFinderId": 1090
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Percussion Instruments",
-      "listType": "areas_of_study",
-      "name": "Percussion Instruments",
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrative Biology",
+      "listType": "major",
+      "name": "Integrative Biology",
+      "officialUrl": "https://as.vanderbilt.edu/biological-sciences/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1245
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
-      "listType": "areas_of_study",
-      "name": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Jazz Studies",
+      "listType": "major",
+      "name": "Jazz Studies",
+      "officialUrl": "https://blair.vanderbilt.edu/departments/jazz.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Blair School of Music",
+      "programFinderId": 1209
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Elementary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Elementary Education and Teaching",
+      "degreeType": "undergraduate_major",
+      "displayName": "Jewish Studies",
+      "listType": "major",
+      "name": "Jewish Studies",
+      "officialUrl": "https://as.vanderbilt.edu/jewishstudies/undergraduates/major/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1073
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Education, Other",
-      "listType": "areas_of_study",
-      "name": "Education, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Language Sciences",
+      "listType": "major",
+      "name": "Language Sciences",
+      "officialUrl": "https://peabody.vanderbilt.edu/academics/departments/psych/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Peabody College of Education and Human Development",
+      "programFinderId": 1244
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Jazz/Jazz Studies",
-      "listType": "areas_of_study",
-      "name": "Jazz/Jazz Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Latin American, Caribbean, and Latinx Studies",
+      "listType": "major",
+      "name": "Latin American, Caribbean, and Latinx Studies",
+      "officialUrl": "https://as.vanderbilt.edu/clacx/majors-and-minors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1246
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, Other",
-      "listType": "areas_of_study",
-      "name": "Music, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Law, History, and Society",
+      "listType": "major",
+      "name": "Law, History, and Society",
+      "officialUrl": "https://as.vanderbilt.edu/history/undergraduate/LHS.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1167
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Women's Studies",
-      "listType": "areas_of_study",
-      "name": "Women's Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "officialUrl": "https://as.vanderbilt.edu/math/undergraduate/mathematics-major-and-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1070
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Early Childhood Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Early Childhood Education and Teaching",
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "officialUrl": "https://engineering.vanderbilt.edu/me/undergraduates/index.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "School of Engineering",
+      "programFinderId": 1035
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "German Language and Literature",
-      "listType": "areas_of_study",
-      "name": "German Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Medicine, Health, and Society",
+      "listType": "major",
+      "name": "Medicine, Health, and Society",
+      "officialUrl": "https://www.vanderbilt.edu/mhs/undergraduate/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1072
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Molecular and Cellular Biology",
+      "listType": "major",
+      "name": "Molecular and Cellular Biology",
+      "officialUrl": "https://as.vanderbilt.edu/biological-sciences/major-minor/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1122
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient Studies/Civilization",
-      "listType": "areas_of_study",
-      "name": "Ancient Studies/Civilization",
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Composition",
+      "listType": "major",
+      "name": "Music Composition",
+      "officialUrl": "https://blair.vanderbilt.edu/admissions/programs.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Blair School of Music",
+      "programFinderId": 1098
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Education (Blair-to-Peabody)",
+      "listType": "major",
+      "name": "Music Education (Blair-to-Peabody)",
+      "officialUrl": "https://blair.vanderbilt.edu/admissions/programs.php",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_vanderbilt_2026_official_program_finder_bachelors"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified",
+      "school": "Blair School of Music",
+      "programFinderId": 1225
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Integrated Studies",
+      "listType": "major",
+      "name": "Music Integrated Studies",
+      "officialUrl": "https://blair.vanderbilt.edu/admissions/programs.php",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "Blair School of Music",
+      "programFinderId": 1101
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Performance",
+      "listType": "major",
+      "name": "Music Performance",
+      "officialUrl": "https://blair.vanderbilt.edu/admissions/programs.php",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "Blair School of Music",
+      "programFinderId": 1100
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Musical Arts",
+      "listType": "major",
+      "name": "Musical Arts",
+      "officialUrl": "https://blair.vanderbilt.edu/admissions/programs.php",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "Blair School of Music",
+      "programFinderId": 1205
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "National Security",
+      "listType": "major",
+      "name": "National Security",
+      "officialUrl": "https://as.vanderbilt.edu/political-science/national-security-major-and-minor/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1267
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "officialUrl": "https://as.vanderbilt.edu/neuroscience/major/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1123
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "officialUrl": "https://as.vanderbilt.edu/philosophy/undergraduate/undergradmajorminor.php",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1074
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "officialUrl": "https://as.vanderbilt.edu/physics-astronomy/majors-and-minor/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1195
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "officialUrl": "https://as.vanderbilt.edu/political-science/major-minor/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1092
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "officialUrl": "https://as.vanderbilt.edu/psychology/majors-and-minor/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1082
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Policy Studies",
+      "listType": "major",
+      "name": "Public Policy Studies",
+      "officialUrl": "https://as.vanderbilt.edu/public-policy-studies/major",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1132
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religious Studies",
+      "listType": "major",
+      "name": "Religious Studies",
+      "officialUrl": "https://as.vanderbilt.edu/religiousstudies/major.php",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1075
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Romance Languages, Cultures, and Diasporas",
+      "listType": "major",
+      "name": "Romance Languages, Cultures, and Diasporas",
+      "officialUrl": "https://as.vanderbilt.edu/undergraduate-programs/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1264
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Russian Studies",
+      "listType": "major",
+      "name": "Russian Studies",
+      "officialUrl": "https://as.vanderbilt.edu/german-russian-studies/major-minor/#russian",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1128
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education",
+      "listType": "major",
+      "name": "Secondary Education",
+      "officialUrl": "https://admissions.vanderbilt.edu/academics/fact-sheet/?program=1022",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "Peabody College of Education and Human Development",
+      "programFinderId": 1022
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "officialUrl": "https://as.vanderbilt.edu/sociology/undergraduate/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1094
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "officialUrl": "https://as.vanderbilt.edu/spanish-portuguese/major-minor/#spanish",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1113
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish and Portuguese",
+      "listType": "major",
+      "name": "Spanish and Portuguese",
+      "officialUrl": "https://as.vanderbilt.edu/spanish-portuguese/major-minor/#spanishportuguese",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1044
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Special Education (B.S.)",
+      "listType": "major",
+      "name": "Special Education (B.S.)",
+      "officialUrl": "https://peabody.vanderbilt.edu/academics/undergraduate-majors/special-education/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "Peabody College of Education and Human Development",
+      "programFinderId": 1191
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre",
+      "listType": "major",
+      "name": "Theatre",
+      "officialUrl": "https://as.vanderbilt.edu/theatre/curriculum/",
+      "sourceIds": [
+        "source_vanderbilt_2026_official_program_finder_bachelors"
+      ],
+      "status": "verified",
+      "school": "College of Arts and Science",
+      "programFinderId": 1102
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "sourceIds": [
+      "source_vanderbilt_2026_official_program_finder_bachelors"
+    ],
+    "referenceYear": "2026",
+    "scope": "official Vanderbilt bachelor-level program finder",
+    "entryCount": 70,
+    "warnings": [
+      "The API identifies bachelor-level availability but does not expose a uniform major-specific degree abbreviation; exact B.A./B.S./B.E./B.Mus. labels remain linked to each official program page."
+    ]
   },
   "anecdotes": [
     {
@@ -1463,7 +1328,7 @@
   "region": "Southeast",
   "schoolType": "private_nonprofit",
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
-  "sourceStatus": "verified_frozen_with_warnings",
+  "sourceStatus": "reviewed_official_undergraduate_directory",
   "state": "TN",
   "studentFacultyRatio": 7.0,
   "topPrograms": [
