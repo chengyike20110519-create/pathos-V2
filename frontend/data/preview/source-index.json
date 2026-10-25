@@ -5559,6 +5559,19 @@
       "scope": "Official Penn 2026-27 undergraduate Programs A-Z directory, including degree-specific majors and listed program directions",
       "retrievedAt": "2026-10-25",
       "notes": "Graduate, certificate, minor, and professional-only entries are excluded when rebuilding the school directory; official concentrations and tracks remain explicit where the catalog lists them."
+    },
+    {
+      "sourceId": "source_stanford_fact_book_2025",
+      "sourceType": "official_institutional",
+      "publisher": "Stanford University Facts",
+      "referenceYear": 2025,
+      "url": "https://facts.stanford.edu/wp-content/uploads/sites/20/2025/03/2025-Stanford-Fact-Book_WEB.pdf",
+      "status": "verified",
+      "scope": [
+        "top undergraduate degrees awarded in 2023-24"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "Used only for distinctive-program evidence; does not establish an external academic ranking."
     }
   ]
 }
