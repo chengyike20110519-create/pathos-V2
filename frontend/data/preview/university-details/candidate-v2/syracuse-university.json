@@ -49,7 +49,7 @@
   "displayTier": "preview",
   "previewOnly": true,
   "sourceCommit": "2026-10-23-syracuse-official-catalog-pages",
-  "sourceStatus": "official_catalog_partial",
+  "sourceStatus": "verified_frozen_with_warnings",
   "datasetVersion": "stage5-preview-ec8c66e",
   "warningSummary": {
     "codes": [
@@ -71,334 +71,2003 @@
   "programs": [],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Aerospace Engineering",
-      "listType": "official_undergraduate_major",
-      "name": "Aerospace Engineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/accounting-bs/",
       "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/accounting-bs/"
     },
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Bioengineering",
-      "listType": "official_undergraduate_major",
-      "name": "Bioengineering",
+      "degreeType": "undergraduate_major",
+      "displayName": "African American Studies",
+      "listType": "major",
+      "name": "African American Studies",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/african-american-studies-ba/",
       "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Chemical Engineering",
-      "listType": "official_undergraduate_major",
-      "name": "Chemical Engineering",
-      "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
+      "school": [
+        "College of Arts and Sciences"
       ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/african-american-studies-ba/"
     },
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Civil Engineering",
-      "listType": "official_undergraduate_major",
-      "name": "Civil Engineering",
-      "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Computer Engineering",
-      "listType": "official_undergraduate_major",
-      "name": "Computer Engineering",
-      "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Computer Science",
-      "listType": "official_undergraduate_major",
-      "name": "Computer Science",
-      "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Electrical Engineering",
-      "listType": "official_undergraduate_major",
-      "name": "Electrical Engineering",
-      "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Environmental Engineering",
-      "listType": "official_undergraduate_major",
-      "name": "Environmental Engineering",
-      "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Mechanical Engineering",
-      "listType": "official_undergraduate_major",
-      "name": "Mechanical Engineering",
-      "sourceIds": [
-        "official-source-7f2246e16e350f8afd2168e4"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Applied Data Science",
-      "listType": "official_undergraduate_major",
-      "name": "Applied Data Science",
-      "sourceIds": [
-        "official-source-14b142beb2d05f3334b22a83"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Information Management and Technology",
-      "listType": "official_undergraduate_major",
-      "name": "Information Management and Technology",
-      "sourceIds": [
-        "official-source-14b142beb2d05f3334b22a83"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Innovation, Society, and Technology",
-      "listType": "official_undergraduate_major",
-      "name": "Innovation, Society, and Technology",
-      "sourceIds": [
-        "official-source-14b142beb2d05f3334b22a83"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Integrative Artificial Intelligence",
-      "listType": "official_undergraduate_major",
-      "name": "Integrative Artificial Intelligence",
-      "sourceIds": [
-        "official-source-14b142beb2d05f3334b22a83"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
+      "degreeType": "undergraduate_major",
       "displayName": "Anthropology",
-      "listType": "official_undergraduate_major",
+      "listType": "major",
       "name": "Anthropology",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/anthropology-ba/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/anthropology-ba/"
     },
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Citizenship & Civic Engagement",
-      "listType": "official_undergraduate_major",
-      "name": "Citizenship & Civic Engagement",
+      "degreeType": "undergraduate_major",
+      "displayName": "Architecture",
+      "listType": "major",
+      "name": "Architecture",
+      "degreeAward": "B.Arch.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/architecture/architecture-barch/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "School of Architecture"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/architecture/architecture-barch/"
     },
     {
-      "degreeType": "bachelor_degree_program",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/art-history-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/art-history-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Art Photography",
+      "listType": "major",
+      "name": "Art Photography",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/film-media-arts/art-photography-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/film-media-arts/art-photography-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biology-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biology-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/chemistry-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/chemistry-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Sciences and Disorders",
+      "listType": "major",
+      "name": "Communication Sciences and Disorders",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/communication-sciences-disorders-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/communication-sciences-disorders-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication and Rhetorical Studies",
+      "listType": "major",
+      "name": "Communication and Rhetorical Studies",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/communication-rhetorical-studies/communication-rhetorical-studies-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/communication-rhetorical-studies/communication-rhetorical-studies-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Engineering",
+      "listType": "major",
+      "name": "Computer Engineering",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/computer-engineering-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/computer-engineering-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/computer-science-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/computer-science-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Design Futures",
+      "listType": "major",
+      "name": "Design Futures",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/design-futures-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/design-futures-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Earth Sciences",
+      "listType": "major",
+      "name": "Earth Sciences",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/earth-sciences-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/earth-sciences-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Economics",
-      "listType": "official_undergraduate_major",
+      "listType": "major",
       "name": "Economics",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/economics-bs/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/economics-bs/"
     },
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Environment, Sustainability, and Policy",
-      "listType": "official_undergraduate_major",
-      "name": "Environment, Sustainability, and Policy",
+      "degreeType": "undergraduate_major",
+      "displayName": "Electrical Engineering",
+      "listType": "major",
+      "name": "Electrical Engineering",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/electrical-engineering-bs/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/electrical-engineering-bs/"
     },
     {
-      "degreeType": "bachelor_degree_program",
+      "degreeType": "undergraduate_major",
+      "displayName": "English and Textual Studies",
+      "listType": "major",
+      "name": "English and Textual Studies",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/english-textual-studies-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/english-textual-studies-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entrepreneurship and Emerging Enterprises",
+      "listType": "major",
+      "name": "Entrepreneurship and Emerging Enterprises",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/entrepreneurship-emerging-enterprises-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/entrepreneurship-emerging-enterprises-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/finance-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/finance-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Forensic Science",
+      "listType": "major",
+      "name": "Forensic Science",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/forensic-science-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/forensic-science-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Geography",
-      "listType": "official_undergraduate_major",
+      "listType": "major",
       "name": "Geography",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/geography-ba/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/geography-ba/"
     },
     {
-      "degreeType": "bachelor_degree_program",
+      "degreeType": "undergraduate_major",
       "displayName": "History",
-      "listType": "official_undergraduate_major",
+      "listType": "major",
       "name": "History",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/history-ba/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/history-ba/"
     },
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "International Relations",
-      "listType": "official_undergraduate_major",
-      "name": "International Relations",
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Development and Family Science",
+      "listType": "major",
+      "name": "Human Development and Family Science",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/human-development-family-science-bs/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/human-development-family-science-bs/"
     },
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Law, Society and Policy",
-      "listType": "official_undergraduate_major",
-      "name": "Law, Society and Policy",
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Management and Technology",
+      "listType": "major",
+      "name": "Information Management and Technology",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/information-studies/information-management-technology-bs/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "School of Information Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/information-studies/information-management-technology-bs/"
     },
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Political Science",
-      "listType": "official_undergraduate_major",
-      "name": "Political Science",
+      "degreeType": "undergraduate_major",
+      "displayName": "Linguistic Studies",
+      "listType": "major",
+      "name": "Linguistic Studies",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/linguistic-studies-ba/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/linguistic-studies-ba/"
     },
     {
-      "degreeType": "bachelor_degree_program",
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/mathematics-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/mathematics-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music History and Cultures",
+      "listType": "major",
+      "name": "Music History and Cultures",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/music-history-cultures-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/music-history-cultures-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Industry",
+      "listType": "major",
+      "name": "Music Industry",
+      "degreeAward": "B.Mus.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/music-industry-bmus/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/music-industry-bmus/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/philosophy-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/philosophy-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/physics-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/physics-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Policy Studies",
-      "listType": "official_undergraduate_major",
+      "listType": "major",
       "name": "Policy Studies",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/policy-studies-ba/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/policy-studies-ba/"
     },
     {
-      "degreeType": "bachelor_degree_program",
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/political-science-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/political-science-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/psychology-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/psychology-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Public Health",
-      "listType": "official_undergraduate_major",
+      "listType": "major",
       "name": "Public Health",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/public-health-bs/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/public-health-bs/"
     },
     {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Sociology",
-      "listType": "official_undergraduate_major",
-      "name": "Sociology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Real Estate",
+      "listType": "major",
+      "name": "Real Estate",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/real-estate-bs/",
       "sourceIds": [
-        "official-source-52e19b8cee5506bd5846d88a"
+        "source_syracuse_2026_27_official_academic_programs_api"
       ],
       "status": "verified",
-      "warnings": [
-        "scope_syracuse_selected_official_catalog_pages"
-      ]
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/real-estate-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Religion",
+      "listType": "major",
+      "name": "Religion",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/religion-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/religion-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Retail Management",
+      "listType": "major",
+      "name": "Retail Management",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/retail-management-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/retail-management-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/sociology-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/sociology-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Analytics",
+      "listType": "major",
+      "name": "Sport Analytics",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/sport/sport-analytics/sport-analytics-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "David B. Falk College of Sport"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/sport/sport-analytics/sport-analytics-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Management",
+      "listType": "major",
+      "name": "Sport Management",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/sport/sport-management/sport-management-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "David B. Falk College of Sport"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/sport/sport-management/sport-management-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Women’s and Gender Studies",
+      "listType": "major",
+      "name": "Women’s and Gender Studies",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/womens-gender-studies-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/womens-gender-studies-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Organizational Development and Leadership",
+      "listType": "major",
+      "name": "Organizational Development and Leadership",
+      "degreeAward": "Online B.P.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/organizational-development-leadership-bps/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Professional Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/organizational-development-leadership-bps/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity Administration",
+      "listType": "major",
+      "name": "Cybersecurity Administration",
+      "degreeAward": "Online B.P.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/cybersecurity-administration-bps/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Professional Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/cybersecurity-administration-bps/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Liberal Studies",
+      "listType": "major",
+      "name": "Liberal Studies",
+      "degreeAward": "Online B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/liberal-studies-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/liberal-studies-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biology-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biology-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/chemistry-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/chemistry-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/economics-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/economics-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/physics-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/physics-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/psychology-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/psychology-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Forensic Science",
+      "listType": "major",
+      "name": "Forensic Science",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/forensic-science-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/forensic-science-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/mathematics-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/mathematics-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Advertising",
+      "listType": "major",
+      "name": "Advertising",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/advertising-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "S.I. Newhouse School of Public Communications"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/advertising-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Aerospace Engineering",
+      "listType": "major",
+      "name": "Aerospace Engineering",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/aerospace-engineering-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/aerospace-engineering-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/applied-mathematics-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/applied-mathematics-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/applied-mathematics-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/applied-mathematics-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biochemistry",
+      "listType": "major",
+      "name": "Biochemistry",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biochemistry-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biochemistry-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biomedical Engineering",
+      "listType": "major",
+      "name": "Biomedical Engineering",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/biomedical-engineering-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/biomedical-engineering-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biotechnology",
+      "listType": "major",
+      "name": "Biotechnology",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biotechnology-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biotechnology-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Analytics",
+      "listType": "major",
+      "name": "Business Analytics",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/business-analytics-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/business-analytics-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Business Management",
+      "listType": "major",
+      "name": "Business Management",
+      "degreeAward": "Online B.P.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/business-management-bps/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Professional Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/business-management-bps/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemical Engineering",
+      "listType": "major",
+      "name": "Chemical Engineering",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/chemical-engineering-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/chemical-engineering-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Civil Engineering",
+      "listType": "major",
+      "name": "Civil Engineering",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/civil-engineering-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/civil-engineering-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Communications Design",
+      "listType": "major",
+      "name": "Communications Design",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/communications-design-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/communications-design-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Art and Animation",
+      "listType": "major",
+      "name": "Computer Art and Animation",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/film-media-arts/computer-art-animation-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/film-media-arts/computer-art-animation-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Creative Writing",
+      "listType": "major",
+      "name": "Creative Writing",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/creative-writing-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/creative-writing-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Drama",
+      "listType": "major",
+      "name": "Drama",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/drama-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/drama-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environment, Sustainability and Policy",
+      "listType": "major",
+      "name": "Environment, Sustainability and Policy",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environment-sustainability-policy-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environment-sustainability-policy-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environment, Sustainability and Policy",
+      "listType": "major",
+      "name": "Environment, Sustainability and Policy",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environment-sustainability-policy-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environment-sustainability-policy-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Engineering",
+      "listType": "major",
+      "name": "Environmental Engineering",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/environmental-engineering-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/environmental-engineering-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental and Interior Design",
+      "listType": "major",
+      "name": "Environmental and Interior Design",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/environmental-interior-design-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/environmental-interior-design-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Fashion Design",
+      "listType": "major",
+      "name": "Fashion Design",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/fashion-design-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/fashion-design-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film",
+      "listType": "major",
+      "name": "Film",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/film-media-arts/film-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/film-media-arts/film-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "General Accounting",
+      "listType": "major",
+      "name": "General Accounting",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/general-accounting-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/general-accounting-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geology",
+      "listType": "major",
+      "name": "Geology",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/geology-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/geology-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Humanities",
+      "listType": "major",
+      "name": "Health Humanities",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/health-humanities-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/health-humanities-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health and Exercise Science",
+      "listType": "major",
+      "name": "Health and Exercise Science",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/sport/human-performance/health-exercise-science-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "David B. Falk College of Sport"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/sport/human-performance/health-exercise-science-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Industrial and Interaction Design",
+      "listType": "major",
+      "name": "Industrial and Interaction Design",
+      "degreeAward": "B.I.D.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/industrial-interaction-design-bid/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/design/industrial-interaction-design-bid/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations",
+      "listType": "major",
+      "name": "International Relations",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/international-relations-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/international-relations-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/management-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/management-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing Management",
+      "listType": "major",
+      "name": "Marketing Management",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/marketing-management-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/marketing-management-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mechanical Engineering",
+      "listType": "major",
+      "name": "Mechanical Engineering",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/mechanical-engineering-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/mechanical-engineering-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "World Languages and Cultures",
+      "listType": "major",
+      "name": "World Languages and Cultures",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/world-languages-and-cultures-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/world-languages-and-cultures-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://courses.syracuse.edu/undergraduate/majors/music-ba",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://courses.syracuse.edu/undergraduate/majors/music-ba"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/music-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/music-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Composition",
+      "listType": "major",
+      "name": "Music Composition",
+      "degreeAward": "B.Mus.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/music-composition-bmus/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/music-composition-bmus/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music Education (PreK-Grade 12)",
+      "listType": "major",
+      "name": "Music Education (PreK-Grade 12)",
+      "degreeAward": "B.Mus.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/music-education-bmus/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts",
+        "School of Education"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/music-education-bmus/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Musical Theater",
+      "listType": "major",
+      "name": "Musical Theater",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/musical-theater-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/musical-theater-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/neuroscience-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/neuroscience-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience",
+      "listType": "major",
+      "name": "Neuroscience",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/neuroscience-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/neuroscience-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nutrition",
+      "listType": "major",
+      "name": "Nutrition",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/sport/human-performance/nutrition-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "David B. Falk College of Sport"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/sport/human-performance/nutrition-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Performance",
+      "listType": "major",
+      "name": "Performance",
+      "degreeAward": "B.Mus.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/performance-bmus/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/performance-bmus/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Philosophy",
+      "listType": "major",
+      "name": "Political Philosophy",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/political-philosophy-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences",
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/political-philosophy-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Relations",
+      "listType": "major",
+      "name": "Public Relations",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/public-relations-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "S.I. Newhouse School of Public Communications"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/public-relations-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Recording and Entertainment Industries (Bandier Program)",
+      "listType": "major",
+      "name": "Recording and Entertainment Industries (Bandier Program)",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/recording-entertainment-industries-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "S.I. Newhouse School of Public Communications"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/recording-entertainment-industries-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education and Society",
+      "listType": "major",
+      "name": "Education and Society",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/education-and-society-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "School of Education"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/education-and-society-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/social-work/social-work-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "School of Education"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/social-work/social-work-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sound Recording Technology",
+      "listType": "major",
+      "name": "Sound Recording Technology",
+      "degreeAward": "B.Mus.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/sound-recording-technology-bmus/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/sound-recording-technology-bmus/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish Language, Literature, and Culture",
+      "listType": "major",
+      "name": "Spanish Language, Literature, and Culture",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/spanish-language-literature-culture-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/spanish-language-literature-culture-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Stage Management",
+      "listType": "major",
+      "name": "Stage Management",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/stage-management-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/stage-management-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Arts",
+      "listType": "major",
+      "name": "Studio Arts",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/art/studio-arts-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/art/studio-arts-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Arts",
+      "listType": "major",
+      "name": "Studio Arts",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/art/studio-arts-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/art/studio-arts-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain Management",
+      "listType": "major",
+      "name": "Supply Chain Management",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/supply-chain-management-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/supply-chain-management-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Television, Radio and Film",
+      "listType": "major",
+      "name": "Television, Radio and Film",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/television-radio-film-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "S.I. Newhouse School of Public Communications"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/television-radio-film-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Theater Design and Technology",
+      "listType": "major",
+      "name": "Theater Design and Technology",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/theater-design-technology-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/theater-design-technology-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Writing and Rhetoric",
+      "listType": "major",
+      "name": "Writing and Rhetoric",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/writing-rhetoric-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/writing-rhetoric-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Acting",
+      "listType": "major",
+      "name": "Acting",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/acting-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/drama/acting-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Data Science",
+      "listType": "major",
+      "name": "Applied Data Science",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/information-studies/applied-data-analytics-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "School of Information Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/information-studies/applied-data-analytics-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Policy Studies",
+      "listType": "major",
+      "name": "Policy Studies",
+      "degreeAward": "Online B.P.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/policy-studies-bps/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Professional Studies",
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/policy-studies-bps/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Geoscience",
+      "listType": "major",
+      "name": "Environmental Geoscience",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environmental-geoscience-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environmental-geoscience-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Esports Communications and Management",
+      "listType": "major",
+      "name": "Esports Communications and Management",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/esports-communications-management-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "David B. Falk College of Sport",
+        "S.I. Newhouse School of Public Communications"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/esports-communications-management-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Relations",
+      "listType": "major",
+      "name": "International Relations",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/international-relations-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/international-relations-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Visual Communications",
+      "listType": "major",
+      "name": "Visual Communications",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/visual-communications-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "S.I. Newhouse School of Public Communications"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/visual-communications-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Project Management",
+      "listType": "major",
+      "name": "Project Management",
+      "degreeAward": "Online B.P.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/project-management-bps/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Professional Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/project-management-bps/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Law, Society and Policy",
+      "listType": "major",
+      "name": "Law, Society and Policy",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/law-society-policy-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "Maxwell School of Citizenship and Public Affairs"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/law-society-policy-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management and Sport Management Dual",
+      "listType": "major",
+      "name": "Management and Sport Management Dual",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/management-sport-management-dual-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "David B. Falk College of Sport",
+        "Martin J. Whitman School of Management"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/management/management-sport-management-dual-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Inclusive Childhood Education",
+      "listType": "major",
+      "name": "Inclusive Childhood Education",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/inclusive-childhood-education-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "School of Education"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/inclusive-childhood-education-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Inclusive Adolescent Education",
+      "listType": "major",
+      "name": "Inclusive Adolescent Education",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/inclusive-adolescent-education-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "School of Education"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/education/inclusive-adolescent-education-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Journalism",
+      "listType": "major",
+      "name": "Journalism",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/journalism-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "S.I. Newhouse School of Public Communications"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/journalism-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Astronomy",
+      "listType": "major",
+      "name": "Astronomy",
+      "degreeAward": "B.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/astronomy-ba/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Arts and Sciences"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/astronomy-ba/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "AI in Business Process Automation",
+      "listType": "major",
+      "name": "AI in Business Process Automation",
+      "degreeAward": "Online B.P.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/ai-in-business-process-automation-bps/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Professional Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/ai-in-business-process-automation-bps/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "AI Science",
+      "listType": "major",
+      "name": "AI Science",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/artificial-intelligence-science-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Engineering and Computer Science"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/artificial-intelligence-science-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Integrative Artificial Intelligence",
+      "listType": "major",
+      "name": "Integrative Artificial Intelligence",
+      "degreeAward": "B.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/information-studies/integrative-artificial-intelligence-bs/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "School of Information Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/information-studies/integrative-artificial-intelligence-bs/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Illustration and Animation",
+      "listType": "major",
+      "name": "Illustration and Animation",
+      "degreeAward": "B.F.A.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/art/illustration-and-animation-bfa/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Visual and Performing Arts"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/art/illustration-and-animation-bfa/"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Interdisciplinary",
+      "listType": "major",
+      "name": "Interdisciplinary",
+      "degreeAward": "Online B.P.S.",
+      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/interdisciplinary-studies-bps/",
+      "sourceIds": [
+        "source_syracuse_2026_27_official_academic_programs_api"
+      ],
+      "status": "verified",
+      "school": [
+        "College of Professional Studies"
+      ],
+      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/interdisciplinary-studies-bps/"
     }
   ],
   "allMajorsStatus": {
-    "status": "official_catalog_observed_partial_scope",
-    "scope": "selected Syracuse undergraduate majors from official Engineering and Computer Science, Information Studies, and Maxwell catalog pages; remaining schools and colleges pending"
+    "status": "verified_official_undergraduate_majors",
+    "scope": "Official Syracuse 2026-27 academic programs API; undergraduate bachelor-level catalog URLs; minors and graduate/combined programs excluded",
+    "sourceIds": [
+      "source_syracuse_2026_27_official_academic_programs_api"
+    ],
+    "checkedAt": "2026-10-25",
+    "warnings": []
   },
   "enrollment": {
     "undergraduate": {

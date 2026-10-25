@@ -5471,6 +5471,21 @@
         "Official undergraduate admissions majors directory."
       ],
       "sourceType": "official_undergraduate_major_directory"
+    },
+    {
+      "sourceId": "source_syracuse_2026_27_official_academic_programs_api",
+      "sourceType": "official_undergraduate_programs_api",
+      "publisher": "Syracuse University",
+      "referenceYear": "2026-2027",
+      "url": "https://data-hub.apps.syr.edu/api/v2/academic-programs/",
+      "status": "verified",
+      "scope": [
+        "official Syracuse University academic programs API",
+        "undergraduate catalog URLs with bachelor-level degree suffixes",
+        "minors, certificates, associate and graduate/combined programs excluded"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "Official Syracuse Data Hub API; 124 undergraduate bachelor-level catalog program records after excluding minors, certificates, associate, and graduate/combined programs."
     }
   ]
 }
