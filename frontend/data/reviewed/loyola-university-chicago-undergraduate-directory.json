@@ -6,12 +6,12 @@
   "sourceUrl": "https://www.luc.edu/cas/academics/majorsminors/",
   "scope": [
     "official Loyola University Chicago 2026-2027 College of Arts and Sciences majors page",
-    "63 majors stated by the university page; this file captures the directly listed entries",
+    "verified official entries from CAS plus Quinlan, Nursing, and Parkinson school pages: 77 entries",
     "other Loyola undergraduate schools remain under review"
   ],
   "status": "official_catalog_observed_partial_scope",
   "checkedAt": "2026-10-25",
-  "entryCount": 59,
+  "entryCount": 77,
   "entries": [
     {
       "degreeType": "undergraduate_major",
@@ -718,6 +718,222 @@
       "officialUrl": "https://www.luc.edu/cas/academics/majorsminors/",
       "sourceIds": [
         "source_loyola_cas_2026_27_official_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting",
+      "listType": "major",
+      "name": "Accounting",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting and Analytics",
+      "listType": "major",
+      "name": "Accounting and Analytics",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics",
+      "listType": "major",
+      "name": "Economics",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entrepreneurship",
+      "listType": "major",
+      "name": "Entrepreneurship",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Resource Management",
+      "listType": "major",
+      "name": "Human Resource Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Systems and Analytics",
+      "listType": "major",
+      "name": "Information Systems and Analytics",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Business",
+      "listType": "major",
+      "name": "International Business",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Management",
+      "listType": "major",
+      "name": "Sport Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain Management",
+      "listType": "major",
+      "name": "Supply Chain Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "U.S./Europe Double Degree",
+      "listType": "major",
+      "name": "U.S./Europe Double Degree",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing",
+      "listType": "major",
+      "name": "Nursing",
+      "degreeAward": "BSN",
+      "officialUrl": "https://www.luc.edu/nursing/academics/degreeprograms/undergraduateprogram/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Exercise Science",
+      "listType": "major",
+      "name": "Exercise Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Healthcare Administration",
+      "listType": "major",
+      "name": "Healthcare Administration",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_school_pages"
       ],
       "status": "verified"
     }
