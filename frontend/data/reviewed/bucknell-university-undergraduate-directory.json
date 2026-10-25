@@ -6,12 +6,12 @@
   "sourceUrl": "https://coursecatalog.bucknell.edu/",
   "scope": [
     "official Bucknell University 2026-2027 catalog degree pages",
-    "verified subset only: 35 undergraduate major entries",
-    "Bachelor of Arts catalog scope remains under review"
+    "verified subset now includes explicit BA records for eight official dual-track areas",
+    "Bachelor of Arts directory remains partial and is not presented as complete"
   ],
   "status": "official_catalog_observed_partial_scope",
   "checkedAt": "2026-10-25",
-  "entryCount": 35,
+  "entryCount": 41,
   "entries": [
     {
       "degreeType": "undergraduate_major",
@@ -44,6 +44,18 @@
       "name": "Applied Mathematics",
       "degreeAward": "BS",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/biologybiol/",
       "sourceIds": [
         "source_bucknell_2026_27_degree_pages"
       ],
@@ -126,6 +138,18 @@
       "displayName": "Chemistry",
       "listType": "major",
       "name": "Chemistry",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/chemistrychem/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
       "degreeAward": "BS",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
       "sourceIds": [
@@ -162,6 +186,18 @@
       "displayName": "Computer Science",
       "listType": "major",
       "name": "Computer Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/computersciencecsci/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
       "degreeAward": "BS",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
       "sourceIds": [
@@ -183,11 +219,35 @@
     },
     {
       "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/datascience/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Early Childhood Education",
       "listType": "major",
       "name": "Early Childhood Education",
       "degreeAward": "BSEd",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Education",
+      "listType": "major",
+      "name": "Education",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/educationeduc/",
       "sourceIds": [
         "source_bucknell_2026_27_degree_pages"
       ],
@@ -231,11 +291,47 @@
     },
     {
       "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science",
+      "listType": "major",
+      "name": "Environmental Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/environmentalstudiesenst/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/environmentalstudiesenst/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Finance",
       "listType": "major",
       "name": "Finance",
       "degreeAward": "BSBA",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/accountingandfinancialmanagement/finance/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Geosciences",
+      "listType": "major",
+      "name": "Geosciences",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/geologygeol/",
       "sourceIds": [
         "source_bucknell_2026_27_degree_pages"
       ],
@@ -294,6 +390,18 @@
       "displayName": "Mathematics",
       "listType": "major",
       "name": "Mathematics",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/mathematicsmath/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
       "degreeAward": "BS",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
       "sourceIds": [
@@ -308,6 +416,18 @@
       "name": "Mechanical Engineering",
       "degreeAward": "BSE",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/musicmusc/",
       "sourceIds": [
         "source_bucknell_2026_27_degree_pages"
       ],
@@ -332,6 +452,18 @@
       "name": "Neuroscience",
       "degreeAward": "BS",
       "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
+      "sourceIds": [
+        "source_bucknell_2026_27_degree_pages"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BA",
+      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/physicsandastronomy/",
       "sourceIds": [
         "source_bucknell_2026_27_degree_pages"
       ],
@@ -372,69 +504,9 @@
         "source_bucknell_2026_27_degree_pages"
       ],
       "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Data Science",
-      "listType": "major",
-      "name": "Data Science",
-      "degreeAward": "BA",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/datascience/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Education",
-      "listType": "major",
-      "name": "Education",
-      "degreeAward": "BA",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/educationeduc/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Environmental Studies",
-      "listType": "major",
-      "name": "Environmental Studies",
-      "degreeAward": "BA",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/environmentalstudiesenst/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Environmental Science",
-      "listType": "major",
-      "name": "Environmental Science",
-      "degreeAward": "BA",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/environmentalstudiesenst/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Music",
-      "listType": "major",
-      "name": "Music",
-      "degreeAward": "BA",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/areasofstudy/musicmusc/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
     }
   ],
   "warnings": [
-    "This directory is intentionally partial; it must not be presented as the complete Bucknell major list."
+    "The Bachelor of Arts catalog is still under review; this file is a verified partial directory and must not be treated as the complete Bucknell major list."
   ]
-}
+}\n
