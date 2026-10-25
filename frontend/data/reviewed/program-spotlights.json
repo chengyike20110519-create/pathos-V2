@@ -1398,6 +1398,24 @@
         "reason": "耶鲁官方本科项目将心理学、计算机科学、语言学、哲学、经济学和神经科学结合，并允许学生围绕主题设计课程组合；这是项目特色说明，不是外部排名。",
         "sourceUrl": "https://cogsci.yale.edu/the-undergraduate-program",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Humanities",
+        "nameZh": "人文学科",
+        "kind": "distinctive",
+        "reason": "Yale Humanities 官方页面称 Humanities Major 跨学科整合文学、艺术、历史、哲学与科学等课程，属于学校明确介绍的特色本科课程体系。 这里是官方项目特色事实，不代表外部排名。",
+        "sourceUrl": "https://humanities.yale.edu/academics",
+        "checkedOn": "2026-10-25",
+        "evidenceType": "official_program_description"
+      },
+      {
+        "name": "Mathematics and Philosophy",
+        "nameZh": "数学与哲学",
+        "kind": "distinctive",
+        "reason": "Yale College 官方专业介绍说明该专业探索数学与哲学交汇处，尤其包括数理逻辑与数学哲学。 这里是官方项目特色事实，不代表外部排名。",
+        "sourceUrl": "https://college.yale.edu/academics/explore-majors",
+        "checkedOn": "2026-10-25",
+        "evidenceType": "official_program_description"
       }
     ]
   },
