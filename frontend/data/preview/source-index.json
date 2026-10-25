@@ -5574,6 +5574,19 @@
       "notes": "Used only for distinctive-program evidence; does not establish an external academic ranking."
     },
     {
+      "sourceId": "source_harvard_fact_book_degrees_2024_25",
+      "sourceType": "official_institutional_fact_book",
+      "publisher": "Harvard University Office of Institutional Research & Analytics",
+      "referenceYear": "AY2024-25",
+      "url": "https://oira.harvard.edu/factbook/fact-book-degrees/",
+      "status": "verified",
+      "scope": [
+        "Harvard College degrees conferred by concentration in AY2024-25"
+      ],
+      "retrievedAt": "2026-10-25",
+      "notes": "Used as official degree-volume context for distinctive-program descriptions; does not establish an external academic ranking."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",
