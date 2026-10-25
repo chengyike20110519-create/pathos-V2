@@ -5548,6 +5548,17 @@
       "scope": "Official Vanderbilt bachelor-level program finder records across undergraduate schools",
       "retrievedAt": "2026-10-25",
       "notes": "Filtered to records exposing a bachelors URL; excluded graduate-only, minor-only, certificate, and non-degree records."
+    },
+    {
+      "sourceId": "source_penn_2026_27_official_undergraduate_programs_directory",
+      "sourceType": "official_undergraduate_program_directory",
+      "publisher": "University of Pennsylvania Undergraduate Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.upenn.edu/undergraduate/programs/",
+      "status": "verified",
+      "scope": "Official Penn 2026-27 undergraduate Programs A-Z directory, including degree-specific majors and listed program directions",
+      "retrievedAt": "2026-10-25",
+      "notes": "Graduate, certificate, minor, and professional-only entries are excluded when rebuilding the school directory; official concentrations and tracks remain explicit where the catalog lists them."
     }
   ]
 }
