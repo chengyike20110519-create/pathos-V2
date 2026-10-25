@@ -1791,12 +1791,12 @@
         "name": "Computational and Applied Mathematics",
         "nameZh": "计算与应用数学",
         "kind": "distinctive",
-        "reason": "Rice 官方本科专业页面将 Computational and Applied Mathematics 列为工程与计算领域的本科专业；该项目体现了数学、计算和应用问题之间的交叉培养。这里记录的是官方项目结构特色，不是外部排名结论。",
-        "sourceUrl": "https://www.rice.edu/majors-minors-and-programs",
-        "checkedOn": "2026-10-20"
+        "reason": "Rice 官方 Computational Applied Mathematics and Operations Research 部门页说明，该本科方向把数学基础、算法计算与数据科学训练结合起来，并可应用于工程、物理生命科学、社会科学和计算机科学等领域。这里记录的是官方培养结构特色，不是外部排名结论。",
+        "sourceUrl": "https://ga.rice.edu/programs-study/departments-programs/engineering/computational-applied-mathematics-operations-research/",
+        "checkedOn": "2026-10-25"
       },
       {
-        "name": "Materials Science and Nanoengineering",
+        "name": "Materials Science and NanoEngineering",
         "nameZh": "材料科学与纳米工程",
         "kind": "distinctive",
         "reason": "Rice 官方本科专业页面将 Materials Science and Nanoengineering 列为 George R. Brown 工程与计算学院的本科专业；这是项目归属和名称的官方确认，不是外部排名结论。",
@@ -1813,7 +1813,8 @@
       }
     ],
     "supportingUrls": [
-      "https://ga.rice.edu/undergraduate-students/academic-opportunities/majors-minors-certificates/"
+      "https://ga.rice.edu/undergraduate-students/academic-opportunities/majors-minors-certificates/",
+      "https://ga.rice.edu/programs-study/departments-programs/engineering/computational-applied-mathematics-operations-research/computational-applied-mathematics-ba/"
     ]
   }
 ]
