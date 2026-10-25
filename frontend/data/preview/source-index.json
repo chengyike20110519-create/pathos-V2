@@ -5458,6 +5458,19 @@
       ],
       "retrievedAt": "2026-10-25",
       "notes": "144 unique current undergraduate major records returned by official catalog search endpoint; official URI retained for each record."
+    },
+    {
+      "sourceId": "source_loyola_2026_27_official_undergraduate_majors_page",
+      "title": "Loyola University Chicago official undergraduate majors and minors page (2026-2027)",
+      "publisher": "Loyola University Chicago",
+      "url": "https://www.luc.edu/undergrad/academics/majorsandminors/",
+      "retrievedAt": "2026-10-25",
+      "status": "verified",
+      "scope": "All entries explicitly marked Major on official page; minors excluded",
+      "notes": [
+        "Official undergraduate admissions majors directory."
+      ],
+      "sourceType": "official_undergraduate_major_directory"
     }
   ]
 }

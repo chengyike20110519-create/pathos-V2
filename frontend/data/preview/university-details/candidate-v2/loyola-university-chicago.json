@@ -148,1543 +148,1046 @@
   ],
   "allMajors": [
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Registered Nursing/Registered Nurse",
-      "listType": "areas_of_study",
-      "name": "Registered Nursing/Registered Nurse",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, General",
-      "listType": "areas_of_study",
-      "name": "Psychology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Biology/Biological Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Biology/Biological Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Finance, General",
-      "listType": "areas_of_study",
-      "name": "Finance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Political Science and Government, General",
-      "listType": "areas_of_study",
-      "name": "Political Science and Government, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Marketing/Marketing Management, General",
-      "listType": "areas_of_study",
-      "name": "Marketing/Marketing Management, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Relations, Advertising, and Applied Communication, Other",
-      "listType": "areas_of_study",
-      "name": "Public Relations, Advertising, and Applied Communication, Other",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Criminal Justice and Corrections, General",
-      "listType": "areas_of_study",
-      "name": "Criminal Justice and Corrections, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Management Information Systems, General",
-      "listType": "areas_of_study",
-      "name": "Management Information Systems, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Accounting",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Accounting",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainaccounting/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Office Management and Supervision",
-      "listType": "areas_of_study",
-      "name": "Office Management and Supervision",
+      "degreeType": "undergraduate_major",
+      "displayName": "Accounting and Analytics",
+      "listType": "major",
+      "name": "Accounting and Analytics",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainaccountingandanalytics/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Social Work",
-      "listType": "areas_of_study",
-      "name": "Social Work",
+      "degreeType": "undergraduate_major",
+      "displayName": "Advertising and Public Relations",
+      "listType": "major",
+      "name": "Advertising and Public Relations",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/advertisingandpublicrelations/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neurobiology and Behavior",
-      "listType": "areas_of_study",
-      "name": "Neurobiology and Behavior",
+      "degreeType": "undergraduate_major",
+      "displayName": "Advertising Creative",
+      "listType": "major",
+      "name": "Advertising Creative",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/advertisingcreative/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Neurobiology and Neurosciences, Other",
-      "listType": "areas_of_study",
-      "name": "Neurobiology and Neurosciences, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Anthropology",
+      "listType": "major",
+      "name": "Anthropology",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/anthropology/academics.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History, General",
-      "listType": "areas_of_study",
-      "name": "History, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Applied Mathematics",
+      "listType": "major",
+      "name": "Applied Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/applied-mathematics-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Speech Communication and Rhetoric",
-      "listType": "areas_of_study",
-      "name": "Speech Communication and Rhetoric",
+      "degreeType": "undergraduate_major",
+      "displayName": "Art History",
+      "listType": "major",
+      "name": "Art History",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/finearts/academics/majorinarthistory/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Science",
-      "listType": "areas_of_study",
-      "name": "Environmental Science",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English Language and Literature, General",
-      "listType": "areas_of_study",
-      "name": "English Language and Literature, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Digital Communication and Media/Multimedia",
-      "listType": "areas_of_study",
-      "name": "Digital Communication and Media/Multimedia",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International/Globalization Studies",
-      "listType": "areas_of_study",
-      "name": "International/Globalization Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Exercise Science and Kinesiology",
-      "listType": "areas_of_study",
-      "name": "Exercise Science and Kinesiology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business/Managerial Economics",
-      "listType": "areas_of_study",
-      "name": "Business/Managerial Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Business/Trade/Commerce",
-      "listType": "areas_of_study",
-      "name": "International Business/Trade/Commerce",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer and Information Sciences, General",
-      "listType": "areas_of_study",
-      "name": "Computer and Information Sciences, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Biochemistry",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Biochemistry",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/chemistry/undergraduate_program.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Health/Health Care Administration/Management",
-      "listType": "areas_of_study",
-      "name": "Health/Health Care Administration/Management",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Operations Management and Supervision",
-      "listType": "areas_of_study",
-      "name": "Operations Management and Supervision",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Philosophy",
-      "listType": "areas_of_study",
-      "name": "Philosophy",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology, General",
-      "listType": "areas_of_study",
-      "name": "Sociology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Natural Resource Economics",
-      "listType": "areas_of_study",
-      "name": "Environmental/Natural Resource Economics",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Journalism",
-      "listType": "areas_of_study",
-      "name": "Journalism",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Forensic Science and Technology",
-      "listType": "areas_of_study",
-      "name": "Forensic Science and Technology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Studies",
-      "listType": "areas_of_study",
-      "name": "Environmental Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Public Health, General",
-      "listType": "areas_of_study",
-      "name": "Public Health, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Elementary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Elementary Education and Teaching",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business Administration and Management, General",
-      "listType": "areas_of_study",
-      "name": "Business Administration and Management, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Design and Visual Communications, General",
-      "listType": "areas_of_study",
-      "name": "Design and Visual Communications, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Anthropology, General",
-      "listType": "areas_of_study",
-      "name": "Anthropology, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Drama and Dramatics/Theatre Arts, General",
-      "listType": "areas_of_study",
-      "name": "Drama and Dramatics/Theatre Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Software Engineering",
-      "listType": "areas_of_study",
-      "name": "Computer Software Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Spanish Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer and Information Systems Security/Auditing/Information Assurance",
-      "listType": "areas_of_study",
-      "name": "Computer and Information Systems Security/Auditing/Information Assurance",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Dance, General",
-      "listType": "areas_of_study",
-      "name": "Dance, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Human Resources Management/Personnel Administration, General",
-      "listType": "areas_of_study",
-      "name": "Human Resources Management/Personnel Administration, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Information Technology",
-      "listType": "areas_of_study",
-      "name": "Information Technology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Secondary Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Secondary Education and Teaching",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Engineering, General",
-      "listType": "areas_of_study",
-      "name": "Computer Engineering, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Conservation Biology",
-      "listType": "areas_of_study",
-      "name": "Conservation Biology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Mathematics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Entrepreneurship/Entrepreneurial Studies",
-      "listType": "areas_of_study",
-      "name": "Entrepreneurship/Entrepreneurial Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Environmental Health Engineering",
-      "listType": "areas_of_study",
-      "name": "Environmental/Environmental Health Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Creative Writing",
-      "listType": "areas_of_study",
-      "name": "Creative Writing",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Bioinformatics",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Bioinformatics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/bioinformatics/bsinbioinformatics/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Psychology",
-      "listType": "areas_of_study",
-      "name": "Applied Psychology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology",
+      "listType": "major",
+      "name": "Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/biology/biology-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Economics, General",
-      "listType": "areas_of_study",
-      "name": "Economics, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology: Ecology",
+      "listType": "major",
+      "name": "Biology: Ecology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/biology/biology-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Business, Management, Marketing, and Related Support Services, Other",
-      "listType": "areas_of_study",
-      "name": "Business, Management, Marketing, and Related Support Services, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Biology: Molecular Biology",
+      "listType": "major",
+      "name": "Biology: Molecular Biology",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/biology/biology-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Special Education and Teaching, General",
-      "listType": "areas_of_study",
-      "name": "Special Education and Teaching, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Early Childhood Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Early Childhood Education and Teaching",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bioengineering and Biomedical Engineering",
-      "listType": "areas_of_study",
-      "name": "Bioengineering and Biomedical Engineering",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Art History, Criticism and Conservation",
-      "listType": "areas_of_study",
-      "name": "Art History, Criticism and Conservation",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Chemistry, General",
-      "listType": "areas_of_study",
-      "name": "Chemistry, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Statistics, General",
-      "listType": "areas_of_study",
-      "name": "Statistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Human Services, General",
-      "listType": "areas_of_study",
-      "name": "Human Services, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "International Relations and Affairs",
-      "listType": "areas_of_study",
-      "name": "International Relations and Affairs",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Music, General",
-      "listType": "areas_of_study",
-      "name": "Music, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Women's Studies",
-      "listType": "areas_of_study",
-      "name": "Women's Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Advertising",
-      "listType": "areas_of_study",
-      "name": "Advertising",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Mathematics Teacher Education",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Legal Assistant/Paralegal",
-      "listType": "areas_of_study",
-      "name": "Legal Assistant/Paralegal",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physics, General",
-      "listType": "areas_of_study",
-      "name": "Physics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Fine/Studio Arts, General",
-      "listType": "areas_of_study",
-      "name": "Fine/Studio Arts, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Agroecology and Sustainable Agriculture",
-      "listType": "areas_of_study",
-      "name": "Agroecology and Sustainable Agriculture",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Data Science, General",
-      "listType": "areas_of_study",
-      "name": "Data Science, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Sociology and Anthropology",
-      "listType": "areas_of_study",
-      "name": "Sociology and Anthropology",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "French Language and Literature",
-      "listType": "areas_of_study",
-      "name": "French Language and Literature",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "listType": "areas_of_study",
-      "name": "Classics and Classical Languages, Literatures, and Linguistics, General",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
       "displayName": "Biophysics",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Biophysics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/physics/bs_biophysics.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Junior High/Intermediate/Middle School Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Junior High/Intermediate/Middle School Education and Teaching",
+      "degreeType": "undergraduate_major",
+      "displayName": "Chemistry",
+      "listType": "major",
+      "name": "Chemistry",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/chemistry/undergraduate_program.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Voice and Opera",
-      "listType": "areas_of_study",
-      "name": "Voice and Opera",
+      "degreeType": "undergraduate_major",
+      "displayName": "Classical Civilization",
+      "listType": "major",
+      "name": "Classical Civilization",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/classicalstudies/baandminorinclassicalcivilization/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
+      "degreeType": "undergraduate_major",
+      "displayName": "Communication Studies",
+      "listType": "major",
+      "name": "Communication Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/communicationstudies/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Computer Science",
+      "listType": "major",
+      "name": "Computer Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/cs/academics/majors/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Criminal Justice and Criminology",
+      "listType": "major",
+      "name": "Criminal Justice and Criminology",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/criminaljustice/bsincriminaljusticecriminology/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Cybersecurity",
+      "listType": "major",
+      "name": "Cybersecurity",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/cs/academics/majors/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Dance",
+      "listType": "major",
+      "name": "Dance",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/dance/academics/dance-major/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Data Science",
+      "listType": "major",
+      "name": "Data Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/datascience/academics/undergraduate/majorbs/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Early Childhood/Special Education",
+      "listType": "major",
+      "name": "Early Childhood/Special Education",
+      "degreeAward": "BSEd",
+      "officialUrl": "https://www.luc.edu/education/academics/degreeprograms/undergraduatedegrees/bsedinearlychildhoodspecialeducation/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics (BA)",
+      "listType": "major",
+      "name": "Economics (BA)",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/economics/economics-ba/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Economics (BBA)",
+      "listType": "major",
+      "name": "Economics (BBA)",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbaineconomics/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Elementary Education",
+      "listType": "major",
+      "name": "Elementary Education",
+      "degreeAward": "BSEd",
+      "officialUrl": "https://www.luc.edu/education/academics/degreeprograms/undergraduatedegrees/bsedinelementaryeducation/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering: Biomedical Engineering Specialization",
+      "listType": "major",
+      "name": "Engineering: Biomedical Engineering Specialization",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/engineering/curriculum/specializations/biomedicalengineering/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering: Computer Engineering Specialization",
+      "listType": "major",
+      "name": "Engineering: Computer Engineering Specialization",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/engineering/curriculum/specializations/computerengineering/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Engineering: Environmental Engineering Specialization",
+      "listType": "major",
+      "name": "Engineering: Environmental Engineering Specialization",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/engineering/curriculum/specializations/environmentalengineering/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English (BA)",
+      "listType": "major",
+      "name": "English (BA)",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/english/undergraduate.shtml#major",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English (BA)/Secondary Education (BSEd)",
+      "listType": "major",
+      "name": "English (BA)/Secondary Education (BSEd)",
+      "degreeAward": "BA, BSEd",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/english/english-babsed/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "English: Creative Writing (BA)",
+      "listType": "major",
+      "name": "English: Creative Writing (BA)",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/english/creative-writing-concentration/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Entrepreneurship",
+      "listType": "major",
+      "name": "Entrepreneurship",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainentrepreneurship/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Economics and Sustainability: Governance",
+      "listType": "major",
+      "name": "Environmental Economics and Sustainability: Governance",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/environmental-sustainability/environmental-economics-sustainability-governance-ba/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Economics and Sustainability: Management",
+      "listType": "major",
+      "name": "Environmental Economics and Sustainability: Management",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/environmental-sustainability/environmental-economics-sustainability-management-ba/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Policy",
+      "listType": "major",
+      "name": "Environmental Policy",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bainenvironmentalpolicy/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science",
+      "listType": "major",
+      "name": "Environmental Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bsinenvironmentalscience/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science: Climate and Energy",
+      "listType": "major",
+      "name": "Environmental Science: Climate and Energy",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bsinenvironmentalscience/bsinenvironmentalscienceclimateandenergy/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Science: Conservation and Restoration Ecology",
+      "listType": "major",
+      "name": "Environmental Science: Conservation and Restoration Ecology",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bsinenvironmentalscience/bsinenvironmentalscienceconservationandrestorationecology/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Environmental Studies",
+      "listType": "major",
+      "name": "Environmental Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/sustainability/academics/undergraduatedegrees/bainenvironmentalstudies/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Exercise Science",
+      "listType": "major",
+      "name": "Exercise Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/departments/appliedhealthsciences/exercisescience/bsexercisescience/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Film and Digital Media",
+      "listType": "major",
+      "name": "Film and Digital Media",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/filmanddigitalmedia/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Finance",
+      "listType": "major",
+      "name": "Finance",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainfinance/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Forensic Science",
+      "listType": "major",
+      "name": "Forensic Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/forensicscience/bs.shtml",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "French",
+      "listType": "major",
+      "name": "French",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/modernlang/baprograms/french/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Global Studies",
+      "listType": "major",
+      "name": "Global Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/globalstudies/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Health Science",
+      "listType": "major",
+      "name": "Health Science",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/bsinhealthscience/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Healthcare Administration",
+      "listType": "major",
+      "name": "Healthcare Administration",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/departments/healthcareadministration/bshealthcareadministration/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "History",
+      "listType": "major",
+      "name": "History",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/history/historymajor/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Human Resource Management",
+      "listType": "major",
+      "name": "Human Resource Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainhumanresourcemanagement/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Systems and Analytics",
+      "listType": "major",
+      "name": "Information Systems and Analytics",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbaininformationsystemsandanalytics/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "Information Technology",
+      "listType": "major",
+      "name": "Information Technology",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/cs/academics/majors/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
+      "displayName": "International Business",
+      "listType": "major",
+      "name": "International Business",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbaininternationalbusiness/",
+      "sourceIds": [
+        "source_loyola_2026_27_official_undergraduate_majors_page"
+      ],
+      "status": "verified"
+    },
+    {
+      "degreeType": "undergraduate_major",
       "displayName": "Italian Studies",
-      "listType": "areas_of_study",
+      "listType": "major",
       "name": "Italian Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/modernlang/baprograms/italian/baitalianstudies/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Bilingual and Multilingual Education",
-      "listType": "areas_of_study",
-      "name": "Bilingual and Multilingual Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Management",
+      "listType": "major",
+      "name": "Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmanagement/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Multi-/Interdisciplinary Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Multi-/Interdisciplinary Studies, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Marketing",
+      "listType": "major",
+      "name": "Marketing",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainmarketing/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Theology/Theological Studies",
-      "listType": "areas_of_study",
-      "name": "Theology/Theological Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Mathematics",
+      "listType": "major",
+      "name": "Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/math/bsmath.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental Health",
-      "listType": "areas_of_study",
-      "name": "Environmental Health",
+      "degreeType": "undergraduate_major",
+      "displayName": "Multimedia Journalism",
+      "listType": "major",
+      "name": "Multimedia Journalism",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/multimediajournalism/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Environmental/Natural Resources Management and Policy, General",
-      "listType": "areas_of_study",
-      "name": "Environmental/Natural Resources Management and Policy, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Music",
+      "listType": "major",
+      "name": "Music",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/music/academics/major/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Latin Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Latin Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience: Cognitive and Behavioral",
+      "listType": "major",
+      "name": "Neuroscience: Cognitive and Behavioral",
+      "degreeAward": "BS",
+      "officialUrl": "https://luc.edu/neuroscience/bsinneuroscience/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Mathematics and Computer Science",
-      "listType": "areas_of_study",
-      "name": "Mathematics and Computer Science",
+      "degreeType": "undergraduate_major",
+      "displayName": "Neuroscience: Molecular and Cellular",
+      "listType": "major",
+      "name": "Neuroscience: Molecular and Cellular",
+      "degreeAward": "BS",
+      "officialUrl": "https://luc.edu/neuroscience/bsinneuroscience/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Pastoral Studies/Counseling",
-      "listType": "areas_of_study",
-      "name": "Pastoral Studies/Counseling",
+      "degreeType": "undergraduate_major",
+      "displayName": "Nursing",
+      "listType": "major",
+      "name": "Nursing",
+      "degreeAward": "BSN",
+      "officialUrl": "https://www.luc.edu/nursing/academics/degreeprograms/undergraduateprogram/four-yearbsn/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Theoretical and Mathematical Physics",
-      "listType": "areas_of_study",
-      "name": "Theoretical and Mathematical Physics",
+      "degreeType": "undergraduate_major",
+      "displayName": "Philosophy",
+      "listType": "major",
+      "name": "Philosophy",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/philosophy/ba.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Photography",
-      "listType": "areas_of_study",
-      "name": "Photography",
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics",
+      "listType": "major",
+      "name": "Physics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/physics/bs_physics.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Jazz/Jazz Studies",
-      "listType": "areas_of_study",
-      "name": "Jazz/Jazz Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Physics and Engineering",
+      "listType": "major",
+      "name": "Physics and Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/physics/engineering/index.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "African Studies",
-      "listType": "areas_of_study",
-      "name": "African Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Political Science",
+      "listType": "major",
+      "name": "Political Science",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/politicalscience/undergraduate.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "African-American/Black Studies",
-      "listType": "areas_of_study",
-      "name": "African-American/Black Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Psychology",
+      "listType": "major",
+      "name": "Psychology",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/psychology/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Communication and Media Studies, Other",
-      "listType": "areas_of_study",
-      "name": "Communication and Media Studies, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Communication and Advocacy",
+      "listType": "major",
+      "name": "Public Communication and Advocacy",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/publiccommunicationandadvocacy/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Organizational Communication, General",
-      "listType": "areas_of_study",
-      "name": "Organizational Communication, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Public Health",
+      "listType": "major",
+      "name": "Public Health",
+      "degreeAward": "BA, BS",
+      "officialUrl": "https://www.luc.edu/parkinson/academics/undergraduatedegrees/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Web Page, Digital/Multimedia and Information Resources Design",
-      "listType": "areas_of_study",
-      "name": "Web Page, Digital/Multimedia and Information Resources Design",
+      "degreeType": "undergraduate_major",
+      "displayName": "Secondary Education",
+      "listType": "major",
+      "name": "Secondary Education",
+      "degreeAward": "BSEd",
+      "officialUrl": "https://www.luc.edu/education/academics/degreeprograms/undergraduatedegrees/bsedinsecondaryeducation/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Computer Software and Media Applications, Other",
-      "listType": "areas_of_study",
-      "name": "Computer Software and Media Applications, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "Social Work",
+      "listType": "major",
+      "name": "Social Work",
+      "degreeAward": "BSW",
+      "officialUrl": "https://www.luc.edu/socialwork/academics/undergrad/bsw/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Kindergarten/Preschool Education and Teaching",
-      "listType": "areas_of_study",
-      "name": "Kindergarten/Preschool Education and Teaching",
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology",
+      "listType": "major",
+      "name": "Sociology",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/sociology/academics/undergraduateprograms/ba-sociology/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "English/Language Arts Teacher Education",
-      "listType": "areas_of_study",
-      "name": "English/Language Arts Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Sociology and Anthropology",
+      "listType": "major",
+      "name": "Sociology and Anthropology",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/sociology/academics/undergraduateprograms/bainsociology-anthropology/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Foreign Language Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Foreign Language Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Software Engineering",
+      "listType": "major",
+      "name": "Software Engineering",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/cs/academics/majors/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Science Teacher Education/General Science Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Science Teacher Education/General Science Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Spanish",
+      "listType": "major",
+      "name": "Spanish",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/modernlang/baprograms/spanish/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "History Teacher Education",
-      "listType": "areas_of_study",
-      "name": "History Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Special Education",
+      "listType": "major",
+      "name": "Special Education",
+      "degreeAward": "BSEd",
+      "officialUrl": "https://www.luc.edu/education/academics/degreeprograms/undergraduatedegrees/bsedinspecialeducation/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Spanish Language Teacher Education",
-      "listType": "areas_of_study",
-      "name": "Spanish Language Teacher Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Sport Management",
+      "listType": "major",
+      "name": "Sport Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainsportmanagement/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Italian Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Italian Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Sports Media",
+      "listType": "major",
+      "name": "Sports Media",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/soc/academics/undergraduatedegrees/sportsmedia/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Ancient/Classical Greek Language and Literature",
-      "listType": "areas_of_study",
-      "name": "Ancient/Classical Greek Language and Literature",
+      "degreeType": "undergraduate_major",
+      "displayName": "Statistics",
+      "listType": "major",
+      "name": "Statistics",
+      "degreeAward": "BS",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/mathematics-statistics/statistics-bs/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "General Studies",
-      "listType": "areas_of_study",
-      "name": "General Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Studio Art",
+      "listType": "major",
+      "name": "Studio Art",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/finearts/academics/majorinstudioarts/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Molecular Biology",
-      "listType": "areas_of_study",
-      "name": "Molecular Biology",
+      "degreeType": "undergraduate_major",
+      "displayName": "Supply Chain Management",
+      "listType": "major",
+      "name": "Supply Chain Management",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/bbainsupplychainmanagement/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Applied Mathematics, General",
-      "listType": "areas_of_study",
-      "name": "Applied Mathematics, General",
+      "degreeType": "undergraduate_major",
+      "displayName": "Theatre",
+      "listType": "major",
+      "name": "Theatre",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/theatre/academics/majorintheatre/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religion/Religious Studies",
-      "listType": "areas_of_study",
-      "name": "Religion/Religious Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Theology",
+      "listType": "major",
+      "name": "Theology",
+      "degreeAward": "BA",
+      "officialUrl": "https://catalog.luc.edu/undergraduate/arts-sciences/theology/theology-ba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Religious Education",
-      "listType": "areas_of_study",
-      "name": "Religious Education",
+      "degreeType": "undergraduate_major",
+      "displayName": "Theoretical Physics and Applied Mathematics",
+      "listType": "major",
+      "name": "Theoretical Physics and Applied Mathematics",
+      "degreeAward": "BS",
+      "officialUrl": "https://www.luc.edu/physics/bs_theoreticalphys.shtml",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Psychology, Other",
-      "listType": "areas_of_study",
-      "name": "Psychology, Other",
+      "degreeType": "undergraduate_major",
+      "displayName": "US/Europe Business Double Degree",
+      "listType": "major",
+      "name": "US/Europe Business Double Degree",
+      "degreeAward": "BBA",
+      "officialUrl": "https://www.luc.edu/quinlan/academics/undergraduatedegrees/bba/useuropebba/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Criminal Justice/Safety Studies",
-      "listType": "areas_of_study",
-      "name": "Criminal Justice/Safety Studies",
+      "degreeType": "undergraduate_major",
+      "displayName": "Visual Communication",
+      "listType": "major",
+      "name": "Visual Communication",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/finearts/academics/majorinvisualcommunication/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     },
     {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Theatre/Theatre Arts Management",
-      "listType": "areas_of_study",
-      "name": "Theatre/Theatre Arts Management",
+      "degreeType": "undergraduate_major",
+      "displayName": "Women’s Studies and Gender Studies",
+      "listType": "major",
+      "name": "Women’s Studies and Gender Studies",
+      "degreeAward": "BA",
+      "officialUrl": "https://www.luc.edu/wsgs/academics/undergraduateprogram/",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_loyola_2026_27_official_undergraduate_majors_page"
       ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Clinical Laboratory Science/Medical Technology/Technologist",
-      "listType": "areas_of_study",
-      "name": "Clinical Laboratory Science/Medical Technology/Technologist",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Physical Therapy/Therapist",
-      "listType": "areas_of_study",
-      "name": "Physical Therapy/Therapist",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Clinical Nutrition/Nutritionist",
-      "listType": "areas_of_study",
-      "name": "Clinical Nutrition/Nutritionist",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Logistics, Materials, and Supply Chain Management",
-      "listType": "areas_of_study",
-      "name": "Logistics, Materials, and Supply Chain Management",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Organizational Behavior Studies",
-      "listType": "areas_of_study",
-      "name": "Organizational Behavior Studies",
-      "sourceIds": [
-        "source_ipeds_c2023_completions"
-      ],
-      "status": "source_limited",
-      "warnings": [
-        "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
-      ]
+      "status": "verified"
     }
   ],
   "allMajorsStatus": {
-    "nullReason": null,
-    "status": "source_limited"
+    "status": "verified_official_undergraduate_majors",
+    "scope": "Official Loyola 2026-2027 undergraduate majors page; entries explicitly classified as Major; minors excluded",
+    "sourceIds": [
+      "source_loyola_2026_27_official_undergraduate_majors_page"
+    ],
+    "checkedAt": "2026-10-25",
+    "warnings": []
   },
   "anecdotes": [
     {
