@@ -29,8 +29,12 @@ async function main() {
       if (!parsed.length || parsed.length !== record.spotlights.length) throw new Error("Invalid reviewed spotlight");
       const majors = majorsByUniversity.get(record.universityId);
       if (majors === undefined) throw new Error(`School not found: ${record.universityId}`);
-      const names = (majors as (string | { name: string })[]).map((item) => typeof item === "string" ? item : item.name);
-      if (parsed.some((program) => !names.includes(program.name))) throw new Error("Spotlight not in the existing school directory");
+      const names = (majors as (string | { name?: string; displayName?: string })[])
+        .map((item) => typeof item === "string" ? item : item.name ?? item.displayName ?? "")
+        .map((name) => name.replace(/\s+/g, " ").trim().toLocaleLowerCase());
+      if (parsed.some((program) => !names.includes(program.name.replace(/\s+/g, " ").trim().toLocaleLowerCase()))) {
+        throw new Error("Spotlight not in the existing school directory");
+      }
       const existingFact = factsByUniversity.get(record.universityId);
       const prior = existingFact ? JSON.parse(existingFact) : [];
       const priorParsed = parseProgramSpotlights(prior);

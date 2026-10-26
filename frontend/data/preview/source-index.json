@@ -5622,6 +5622,19 @@
       "notes": "The page reports top-10 public-university program recognition but does not provide an exact major rank for the listed fields; not imported as a strength rank."
     },
     {
+      "sourceId": "source_uw_official_undergraduate_rankings_2024",
+      "sourceType": "official_institutional_rankings",
+      "publisher": "University of Washington Office of Research",
+      "referenceYear": 2024,
+      "url": "https://www.washington.edu/research/wp-content/uploads/US-News-Rankings-Undergraduate-Graduate-2024.pdf",
+      "status": "verified",
+      "scope": [
+        "UW 2024 U.S. News undergraduate program rankings for Computer Science, Nursing, and Psychology"
+      ],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for exact undergraduate program ranks recorded in the UW spotlight data."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",

@@ -1642,7 +1642,7 @@
     "universityId": "candidate-v2:university-of-washington",
     "spotlights": [
       {
-        "name": "Aeronautics & Astronautics",
+        "name": "Aeronautics and Astronautics",
         "nameZh": "航空与航天工程",
         "kind": "distinctive",
         "reason": "University of Washington Boeing Department 官方页面说明，其本科 BSAAE 学位覆盖航空工程与航天工程两个方向，并面向工业、政府和研究领域；这是官方项目范围说明，不是外部排名结论。",
@@ -1656,6 +1656,51 @@
         "reason": "University of Washington Allen School 官方本科页面明确区分 Computer Science 与 Computer Engineering 两条本科理学学士路径，并说明前者更强调软件系统与应用、后者更强调硬件和底层系统；这是官方培养结构特色，不是外部排名结论。",
         "sourceUrl": "https://www.cs.washington.edu/academics/undergraduate/",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Computer Science",
+        "nameZh": "计算机科学",
+        "kind": "strength",
+        "reason": "2024 版 U.S. News 本科计算机科学专业排名第 10；比较范围为授予博士学位院校的本科专业。",
+        "sourceUrl": "https://www.washington.edu/research/wp-content/uploads/US-News-Rankings-Undergraduate-Graduate-2024.pdf",
+        "checkedOn": "2026-10-26",
+        "publishedOn": "2024-08-24",
+        "rankingYear": 2024,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 10,
+        "tied": null
+      },
+      {
+        "name": "Nursing",
+        "nameZh": "护理学",
+        "kind": "strength",
+        "reason": "2024 版 U.S. News 本科护理学专业排名第 7；比较范围为授予博士学位院校的本科专业。",
+        "sourceUrl": "https://www.washington.edu/research/wp-content/uploads/US-News-Rankings-Undergraduate-Graduate-2024.pdf",
+        "checkedOn": "2026-10-26",
+        "publishedOn": "2024-08-24",
+        "rankingYear": 2024,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 7,
+        "tied": null
+      },
+      {
+        "name": "Psychology",
+        "nameZh": "心理学",
+        "kind": "strength",
+        "reason": "2024 版 U.S. News 本科心理学专业排名第 27；比较范围为授予博士学位院校的本科专业。",
+        "sourceUrl": "https://www.washington.edu/research/wp-content/uploads/US-News-Rankings-Undergraduate-Graduate-2024.pdf",
+        "checkedOn": "2026-10-26",
+        "publishedOn": "2024-08-24",
+        "rankingYear": 2024,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 27,
+        "tied": null
       }
     ],
     "supportingUrls": [
