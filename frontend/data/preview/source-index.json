@@ -8262,6 +8262,58 @@
       "url": "https://admissions.ncsu.edu/apply/international/first-year/",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.umass.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-df717912ec5d80c4d9530d04",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.umass.edu/admissions/english-language-proficiency",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — undergraduate.admissions.gwu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-ae765f9ffb1a4f2fd101ad56",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://undergraduate.admissions.gwu.edu/apply/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.tulane.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-e578cdb3d114a1bd1c33989e",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.tulane.edu/international",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.miami.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-59c996551559bb021bfc8343",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.miami.edu/_assets/pdf/apply/undergraduate-admission-policies.pdf",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

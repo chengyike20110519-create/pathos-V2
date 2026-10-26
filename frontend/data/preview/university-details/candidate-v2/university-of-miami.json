@@ -2065,15 +2065,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-59c996551559bb021bfc8343"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "The University of Miami requires non-native English speakers applying internationally to submit TOEFL, IELTS, or Duolingo English Test results, generally valid for two years. The official undergraduate policy reviewed describes waiver routes for demonstrated English proficiency and conditional admission, but does not publish a universal minimum score in that source.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

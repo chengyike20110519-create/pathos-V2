@@ -1053,15 +1053,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-ae765f9ffb1a4f2fd101ad56"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "GW requires official English-proficiency scores when English is not the applicant's first language. The undergraduate admissions page lists TOEFL 90 before January 26, 2026 or 4.5 afterward, IELTS 6.5, PTE Academic 61, or Duolingo 120; higher scores may waive English for Academic Purposes coursework, and published waiver criteria also include qualifying SAT/ACT performance.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

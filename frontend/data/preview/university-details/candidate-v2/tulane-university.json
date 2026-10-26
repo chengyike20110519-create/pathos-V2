@@ -1352,15 +1352,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-e578cdb3d114a1bd1c33989e"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Tulane requires English proficiency for admission when the applicant is not a native English speaker. The official page lists typical successful-applicant scores of TOEFL 95+, IELTS 6.5+, or Duolingo 130+, and states that SAT Evidence-Based Reading and Writing 600+ or ACT English 27+ can waive the English-proficiency score requirement; some English-official-language study may also qualify for a waiver.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

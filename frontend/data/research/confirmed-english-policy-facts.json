@@ -3,6 +3,30 @@
   "sourcePolicy": "Only official university undergraduate admissions pages are accepted.",
   "records": [
     {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "fact": "UMass Amherst requires non-native English speakers to demonstrate English proficiency. For first-year applicants it lists Duolingo 115, TOEFL 80 before January 21, 2026 or 4.5 afterward, IELTS Academic 6.5, or Cambridge English 176, with stated section minimums for several tests; verified waiver paths include qualifying English-medium schooling and are not automatic.",
+      "status": "confirmed",
+      "source": "https://www.umass.edu/admissions/english-language-proficiency"
+    },
+    {
+      "universityId": "candidate-v2:george-washington-university",
+      "fact": "GW requires official English-proficiency scores when English is not the applicant's first language. The undergraduate admissions page lists TOEFL 90 before January 26, 2026 or 4.5 afterward, IELTS 6.5, PTE Academic 61, or Duolingo 120; higher scores may waive English for Academic Purposes coursework, and published waiver criteria also include qualifying SAT/ACT performance.",
+      "status": "confirmed",
+      "source": "https://undergraduate.admissions.gwu.edu/apply/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:tulane-university",
+      "fact": "Tulane requires English proficiency for admission when the applicant is not a native English speaker. The official page lists typical successful-applicant scores of TOEFL 95+, IELTS 6.5+, or Duolingo 130+, and states that SAT Evidence-Based Reading and Writing 600+ or ACT English 27+ can waive the English-proficiency score requirement; some English-official-language study may also qualify for a waiver.",
+      "status": "confirmed",
+      "source": "https://admission.tulane.edu/international"
+    },
+    {
+      "universityId": "candidate-v2:university-of-miami",
+      "fact": "The University of Miami requires non-native English speakers applying internationally to submit TOEFL, IELTS, or Duolingo English Test results, generally valid for two years. The official undergraduate policy reviewed describes waiver routes for demonstrated English proficiency and conditional admission, but does not publish a universal minimum score in that source.",
+      "status": "confirmed",
+      "source": "https://admissions.miami.edu/_assets/pdf/apply/undergraduate-admission-policies.pdf"
+    },
+    {
       "universityId": "candidate-v2:college-of-william-and-mary",
       "fact": "William & Mary's official undergraduate international-applicant guidance says students whose native language is not English and whose recent schooling was not in English should strongly consider TOEFL or IELTS Academic; Duolingo is also accepted when TOEFL/IELTS are unavailable. The page describes this as strongly recommended rather than a universal published minimum-score requirement.",
       "status": "confirmed",

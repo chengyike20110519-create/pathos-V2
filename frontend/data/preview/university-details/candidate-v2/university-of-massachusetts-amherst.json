@@ -1241,15 +1241,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-df717912ec5d80c4d9530d04"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UMass Amherst requires non-native English speakers to demonstrate English proficiency. For first-year applicants it lists Duolingo 115, TOEFL 80 before January 21, 2026 or 4.5 afterward, IELTS Academic 6.5, or Cambridge English 176, with stated section minimums for several tests; verified waiver paths include qualifying English-medium schooling and are not automatic.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
