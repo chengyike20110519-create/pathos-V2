@@ -21,6 +21,8 @@ export const EXPECTED_MIGRATIONS = [
   "014-preview-rls",
   "015-server-only-public-schema",
   "016-source-reference-gaps",
+  "017-university-media",
+  "018-university-content",
 ] as const;
 
 export interface SchemaReadiness {
