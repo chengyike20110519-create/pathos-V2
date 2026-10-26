@@ -5646,6 +5646,19 @@
       "notes": "Official university report of the latest U.S. News undergraduate nursing ranking; recorded as a tied national rank."
     },
     {
+      "sourceId": "source_umn_cse_undergraduate_rankings_2027",
+      "sourceType": "official_institutional_rankings",
+      "publisher": "University of Minnesota Twin Cities College of Science and Engineering",
+      "referenceYear": 2027,
+      "url": "https://cse.umn.edu/college/news/cse-undergraduate-programs-rise-2027-us-news-rankings",
+      "status": "verified",
+      "scope": [
+        "UMN 2027 U.S. News undergraduate engineering and computer science rankings"
+      ],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for exact national ranks recorded for matching UMN undergraduate programs."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",
