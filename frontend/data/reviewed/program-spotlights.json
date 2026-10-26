@@ -1168,6 +1168,24 @@
         "reason": "康奈尔官方本科项目说明明确提供工程学院 BS 与文理学院 BA 两条计算机科学培养路径，课程覆盖人工智能、算法、理论、系统等方向，并保留实践/项目与跨领域方向；这是项目结构特色说明，不是外部排名。",
         "sourceUrl": "https://www.cs.cornell.edu/bachelor-science-computer-science",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Biology & Society",
+        "nameZh": "生物学与社会",
+        "kind": "distinctive",
+        "reason": "Cornell 官方项目目录将 Biology & Society 定义为跨学科本科专业，结合生物学、人文、社会科学和数学，讨论现代生物学的社会与伦理问题；这是官方项目结构特色，不代表外部排名。",
+        "sourceUrl": "https://catalog.cornell.edu/programs/biology-society-ba/",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
+      },
+      {
+        "name": "Information Science",
+        "nameZh": "信息科学",
+        "kind": "distinctive",
+        "reason": "Cornell 官方本科信息说明显示 Information Science 横跨 Arts and Sciences 与 Cornell Bowers College of Computing and Information Science，并提供不同学院的学位路径；这是官方培养结构事实，不代表外部排名。",
+        "sourceUrl": "https://as.cornell.edu/major_minor_gradfield/information-science",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [

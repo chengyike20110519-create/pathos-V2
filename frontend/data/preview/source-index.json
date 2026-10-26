@@ -5738,6 +5738,28 @@
       "notes": "Used for official program description; not an external ranking."
     },
     {
+      "sourceId": "source_cornell_biology_society_undergraduate_2026",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Cornell University Undergraduate Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.cornell.edu/programs/biology-society-ba/",
+      "status": "verified",
+      "scope": ["Cornell Biology & Society undergraduate major"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official interdisciplinary program description; not an external ranking."
+    },
+    {
+      "sourceId": "source_cornell_information_science_undergraduate_2026",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Cornell University College of Arts and Sciences",
+      "referenceYear": "2026-27",
+      "url": "https://as.cornell.edu/major_minor_gradfield/information-science",
+      "status": "verified",
+      "scope": ["Cornell Information Science undergraduate major and college pathways"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program-structure description; not an external ranking."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",
