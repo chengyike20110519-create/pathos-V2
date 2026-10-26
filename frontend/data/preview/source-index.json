@@ -7521,6 +7521,45 @@
       "url": "https://admission.virginia.edu/i-am/international",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.bu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-2e07dd8ca050026664cdbfd3",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.bu.edu/admissions/apply/international/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.northeastern.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-31289591243157fb008abe29",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.northeastern.edu/application-information/international-applicants/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.tufts.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-3934b798f1d78ee2e5cabbc3",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.tufts.edu/apply/applying-as-an-international-s/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

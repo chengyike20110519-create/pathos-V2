@@ -139,6 +139,24 @@
       "fact": "UVA strongly encourages applicants whose first language is not English to submit English-language assessment results. UVA accepts TOEFL, IELTS, Cambridge, and Duolingo results and also considers InitialView or Vericant evaluations.",
       "status": "confirmed",
       "source": "https://admission.virginia.edu/i-am/international"
+    },
+    {
+      "universityId": "candidate-v2:boston-university",
+      "fact": "Boston University requires international students to submit English proficiency testing as the primary means of evaluating English ability. Its undergraduate admissions page lists TOEFL, IELTS, and Duolingo and publishes competitive score guidance.",
+      "status": "confirmed",
+      "source": "https://www.bu.edu/admissions/apply/international/"
+    },
+    {
+      "universityId": "candidate-v2:northeastern-university",
+      "fact": "Northeastern requires all first-year and transfer applicants to demonstrate English proficiency. It accepts Cambridge, Duolingo, IELTS Academic, PTE Academic, and TOEFL, with waiver options based on the instructional language of prior study.",
+      "status": "confirmed",
+      "source": "https://admissions.northeastern.edu/application-information/international-applicants/"
+    },
+    {
+      "universityId": "candidate-v2:tufts-university",
+      "fact": "Tufts requires applicants whose primary language is not English to submit proof of English proficiency unless they completed at least three years in a secondary school where English was the primary language. Tufts accepts TOEFL, IELTS, PTE, and Duolingo.",
+      "status": "confirmed",
+      "source": "https://admissions.tufts.edu/apply/applying-as-an-international-s/"
     }
   ]
 }
