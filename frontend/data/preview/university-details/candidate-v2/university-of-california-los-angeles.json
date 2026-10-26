@@ -41,15 +41,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-bd429339b6bfa6d72c104ccb"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UCLA considers applicants proficient when all secondary education was completed in English. Otherwise, applicants with less than three years of English instruction must demonstrate proficiency through TOEFL, IELTS, or Duolingo; UCLA publishes competitive score guidance.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -3403,7 +3406,6 @@
     "status": "warning",
     "warningCodes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ]
@@ -3471,11 +3473,10 @@
   "warningSummary": {
     "codes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }

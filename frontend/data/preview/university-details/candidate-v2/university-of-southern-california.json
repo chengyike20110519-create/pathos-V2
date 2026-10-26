@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-b78c272cce11214e0ab22fd7"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "USC requires international applicants whose native language is not English to demonstrate English proficiency. USC lists TOEFL, IELTS, Cambridge, PTE, SAT/ACT English, and Duolingo alternatives with published minimums and conditions.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -2527,7 +2530,6 @@
     "status": "warning",
     "warningCodes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -2585,10 +2587,9 @@
   "warningSummary": {
     "codes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 3,
+    "count": 2,
     "hasWarnings": true
   }
 }

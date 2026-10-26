@@ -79,6 +79,24 @@
       "fact": "The University of Michigan requires non-native English speakers to demonstrate English proficiency for undergraduate admission consideration. The official policy lists TOEFL, IELTS, ECPE, CAE/CPE, PTE Academic, and MET, with specified score ranges and exemptions.",
       "status": "confirmed",
       "source": "https://admissions.umich.edu/apply/international-applicants/exams-visas"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-berkeley",
+      "fact": "UC Berkeley requires international applicants to demonstrate English proficiency. Accepted routes include TOEFL, IELTS, Duolingo, qualifying AP or IB English results, qualifying ACT/SAT English results, or at least three years of English language of instruction.",
+      "status": "confirmed",
+      "source": "https://www.admissions.berkeley.edu/apply-to-berkeley/international-students/requirements-for-international-students/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-los-angeles",
+      "fact": "UCLA considers applicants proficient when all secondary education was completed in English. Otherwise, applicants with less than three years of English instruction must demonstrate proficiency through TOEFL, IELTS, or Duolingo; UCLA publishes competitive score guidance.",
+      "status": "confirmed",
+      "source": "https://admission.ucla.edu/apply/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:university-of-southern-california",
+      "fact": "USC requires international applicants whose native language is not English to demonstrate English proficiency. USC lists TOEFL, IELTS, Cambridge, PTE, SAT/ACT English, and Duolingo alternatives with published minimums and conditions.",
+      "status": "confirmed",
+      "source": "https://admission.usc.edu/prospective-students/how-to-apply/international-students/"
     }
   ]
 }

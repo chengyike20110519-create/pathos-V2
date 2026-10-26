@@ -41,15 +41,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-319d627acbc9cb343c90d1ee"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC Berkeley requires international applicants to demonstrate English proficiency. Accepted routes include TOEFL, IELTS, Duolingo, qualifying AP or IB English results, qualifying ACT/SAT English results, or at least three years of English language of instruction.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -3340,7 +3343,6 @@
     "status": "warning",
     "warningCodes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ]
@@ -3408,11 +3410,10 @@
   "warningSummary": {
     "codes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }

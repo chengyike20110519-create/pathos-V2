@@ -7391,6 +7391,45 @@
       "url": "https://admissions.umich.edu/apply/international-applicants/exams-visas",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.berkeley.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-319d627acbc9cb343c90d1ee",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.berkeley.edu/apply-to-berkeley/international-students/requirements-for-international-students/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.ucla.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-bd429339b6bfa6d72c104ccb",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.ucla.edu/apply/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.usc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-b78c272cce11214e0ab22fd7",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.usc.edu/prospective-students/how-to-apply/international-students/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }
