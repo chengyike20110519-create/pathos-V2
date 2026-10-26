@@ -330,6 +330,19 @@
       "url": "https://www.columbia.edu/content/university-history"
     },
     {
+      "universityId": "candidate-v2:columbia-university",
+      "publisher": "Columbia University Office of Planning and Institutional Research",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate admissions statistics",
+        "Columbia College and Columbia Engineering institutional overview"
+      ],
+      "sourceId": "official-columbia-opir-cds-2025-26",
+      "sourceType": "official_institutional_report",
+      "status": "verified",
+      "url": "https://opir.columbia.edu/view_the_data/cds"
+    },
+    {
       "publisher": "Cornell University Undergraduate Admissions Office",
       "referenceYear": null,
       "scope": [],
