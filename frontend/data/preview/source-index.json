@@ -7989,6 +7989,32 @@
       "url": "https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/standardized-testing/",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.rose-hulman.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-ff5e7bd33d56ba5b19f5bcb9",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.rose-hulman.edu/admissions-and-aid/the-application-process/application-and-deadlines/international-students.html",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.tamu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-f477eeb64ac604f56322e689",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.tamu.edu/apply/international/international-freshman.html",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

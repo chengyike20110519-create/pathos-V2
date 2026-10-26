@@ -355,6 +355,18 @@
       "fact": "Johns Hopkins recommends, but does not require, TOEFL, IELTS, Duolingo, or Cambridge English results for applicants whose primary language is not English or who have not attended an English-language school for the last three years. The official testing page gives competitive guidance of TOEFL 5 total with preferred subscores, IELTS 7.0 in each band, Duolingo 120 with preferred subscores, or Cambridge 185+; SAT/ACT is required for first-year admission.",
       "status": "confirmed",
       "source": "https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/standardized-testing/"
+    },
+    {
+      "universityId": "candidate-v2:rose-hulman-institute-of-technology",
+      "fact": "Rose-Hulman requires international undergraduate applicants to submit proof of English proficiency as part of a complete admission application. The official international-students page accepts TOEFL, IELTS, or Duolingo scores; the page does not state a universal minimum score in the available admissions requirements section.",
+      "status": "confirmed",
+      "source": "https://www.rose-hulman.edu/admissions-and-aid/the-application-process/application-and-deadlines/international-students.html"
+    },
+    {
+      "universityId": "candidate-v2:texas-a-and-m-university",
+      "fact": "Texas A&M requires international freshman applicants whose spoken language is not English to demonstrate English proficiency. Accepted routes include TOEFL iBT 80 before January 21, 2026 or 4.5 overall with at least 4.0 in each skill on or after that date, TOEFL Essentials 8.5, IELTS Academic 6.0, SAT Evidence-Based Reading and Writing 560, ACT English 21, or completing all four years of high school in the United States; the official page also lists specified English-speaking-country exemptions.",
+      "status": "confirmed",
+      "source": "https://admissions.tamu.edu/apply/international/international-freshman.html"
     }
   ]
 }

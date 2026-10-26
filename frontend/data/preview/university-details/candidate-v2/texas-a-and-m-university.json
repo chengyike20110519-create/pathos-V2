@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-f477eeb64ac604f56322e689"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Texas A&M requires international freshman applicants whose spoken language is not English to demonstrate English proficiency. Accepted routes include TOEFL iBT 80 before January 21, 2026 or 4.5 overall with at least 4.0 in each skill on or after that date, TOEFL Essentials 8.5, IELTS Academic 6.0, SAT Evidence-Based Reading and Writing 560, ACT English 21, or completing all four years of high school in the United States; the official page also lists specified English-speaking-country exemptions.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -3311,7 +3314,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
@@ -3377,12 +3379,11 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }
