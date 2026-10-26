@@ -367,6 +367,18 @@
       "fact": "Texas A&M requires international freshman applicants whose spoken language is not English to demonstrate English proficiency. Accepted routes include TOEFL iBT 80 before January 21, 2026 or 4.5 overall with at least 4.0 in each skill on or after that date, TOEFL Essentials 8.5, IELTS Academic 6.0, SAT Evidence-Based Reading and Writing 560, ACT English 21, or completing all four years of high school in the United States; the official page also lists specified English-speaking-country exemptions.",
       "status": "confirmed",
       "source": "https://admissions.tamu.edu/apply/international/international-freshman.html"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-davis",
+      "fact": "UC Davis requires international applicants to demonstrate English proficiency when they studied in the United States for fewer than three years and received instruction in a language other than English before arriving. Accepted routes include specified AP/IB results, transferable college coursework, TOEFL, IELTS, and Duolingo; UC's systemwide first-year benchmarks include IELTS 6.5+, TOEFL iBT 4.5+ on the post-January-2026 scale (80+ before), or Duolingo 115+.",
+      "status": "confirmed",
+      "source": "https://www.ucdavis.edu/admissions/undergraduate/international/exams-visas"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-irvine",
+      "fact": "UC Irvine requires English proficiency evidence when an applicant has had fewer than three years of English instruction by high-school graduation. Accepted routes include ACT English 24, SAT Writing and Language 31 or SAT EBRW 680, specified AP/IB results, IELTS 6.5+, TOEFL iBT 4.5+ from January 2026 (80+ before), Duolingo 115+, or a qualifying UC-transferable English composition course; UC Irvine does not accept TOEFL MyBest scores.",
+      "status": "confirmed",
+      "source": "https://www.admissions.uci.edu/apply/international-students.php"
     }
   ]
 }

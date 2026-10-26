@@ -41,15 +41,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-749b545ce2fb826fd31b7e67"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC Irvine requires English proficiency evidence when an applicant has had fewer than three years of English instruction by high-school graduation. Accepted routes include ACT English 24, SAT Writing and Language 31 or SAT EBRW 680, specified AP/IB results, IELTS 6.5+, TOEFL iBT 4.5+ from January 2026 (80+ before), Duolingo 115+, or a qualifying UC-transferable English composition course; UC Irvine does not accept TOEFL MyBest scores.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -2455,7 +2458,6 @@
     "status": "warning",
     "warningCodes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ]
@@ -2523,11 +2525,10 @@
   "warningSummary": {
     "codes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }

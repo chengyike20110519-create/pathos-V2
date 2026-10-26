@@ -8015,6 +8015,32 @@
       "url": "https://admissions.tamu.edu/apply/international/international-freshman.html",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.ucdavis.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-6145c8a0501dab9efc796499",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.ucdavis.edu/admissions/undergraduate/international/exams-visas",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.uci.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-749b545ce2fb826fd31b7e67",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.uci.edu/apply/international-students.php",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

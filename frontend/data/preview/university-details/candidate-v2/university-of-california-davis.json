@@ -41,15 +41,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-6145c8a0501dab9efc796499"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC Davis requires international applicants to demonstrate English proficiency when they studied in the United States for fewer than three years and received instruction in a language other than English before arriving. Accepted routes include specified AP/IB results, transferable college coursework, TOEFL, IELTS, and Duolingo; UC's systemwide first-year benchmarks include IELTS 6.5+, TOEFL iBT 4.5+ on the post-January-2026 scale (80+ before), or Duolingo 115+.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -2957,7 +2960,6 @@
     "status": "warning",
     "warningCodes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ]
@@ -3025,11 +3027,10 @@
   "warningSummary": {
     "codes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }
