@@ -720,15 +720,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-647290bf58ceffc1c4ba50c8"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC system test-free policy applies: SAT/ACT are not considered for admission or scholarships; they may be used for eligibility alternatives or placement after enrollment.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

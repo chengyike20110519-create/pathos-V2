@@ -685,15 +685,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-000c981d37e1c5a0f9755141"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-optional for undergraduate applicants through the Fall 2030 application cycle; applicants choose whether SAT/ACT scores are considered. The Physician-Scientist B.S./M.D. program requires official scores.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

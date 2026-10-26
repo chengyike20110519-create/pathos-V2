@@ -753,15 +753,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-9e5bd4887057cbd2ad80a673"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-optional for undergraduate admission; applicants choose whether SAT/ACT scores are considered, and all applicants remain eligible for merit scholarships and academic programs regardless of score submission.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

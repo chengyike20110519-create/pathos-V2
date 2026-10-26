@@ -1337,15 +1337,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-d83ece5026d45f3154ae6ea9"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "SAT/ACT optional for Fall 2027 first-year and transfer admission; scores are required for the invitation-only Pathways to Medicine program and are preferred for some academic merit scholarships.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

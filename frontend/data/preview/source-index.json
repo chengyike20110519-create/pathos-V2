@@ -6078,6 +6078,1150 @@
       "status": "verified",
       "url": "https://ed-public-download.scorecard.network/downloads/Most-Recent-Cohorts-Institution_10152026.zip",
       "checkedOn": "2026-10-17"
+    },
+    {
+      "publisher": "Official university admissions — admission.asu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-52129e60bfb886232203b2d9",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.asu.edu/apply",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.caltech.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-2e7e3910719c73cce9936bc9",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.caltech.edu/apply/first-year-applicants/standardized-tests",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — undergrad.osu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-e0fbd9f6819f287bb18ac59e",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://undergrad.osu.edu/apply/freshmen-columbus/apply-step-by-step",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.sc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-baf8b4e022ca9dad50032a51",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.sc.edu/about/offices_and_divisions/undergraduate_admissions/apply/for_freshmen/test_optional/index.php",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.berkeley.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-dd9bc20f14a9492d24b53cc6",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.berkeley.edu/apply-to-berkeley/first-year-applicants-uc-berkeley/first-year-policy-changes/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.universityofcalifornia.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-647290bf58ceffc1c4ba50c8",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/after-you-apply/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.ucla.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-14e8129d99dfd126546d75e9",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.ucla.edu/admitted-students/first-year-submit-transcripts",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — college.harvard.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-aa0832044fd63d8699791878",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://college.harvard.edu/resources/faq/which-standardized-tests-does-harvard-require",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — mitadmissions.org",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-600fe783c80073e0936e36c2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://mitadmissions.org/apply/firstyear/tests-scores/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.stanford.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-ea1154b417f3546ce6af1d50",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.stanford.edu/apply/first-year/testing.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.northwestern.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-10fb8c41ac719b31610d2dfc",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.northwestern.edu/faqs/standardized-testing-policy/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.princeton.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-da58d1c7d18209495c676ae5",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.princeton.edu/apply/standardized-testing",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.brown.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-989a41db09625b1dccd19787",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.brown.edu/first-year/standardized-tests",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.cornell.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-e2fe9d69f68ee686078dca1f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.cornell.edu/policies/standardized-testing-policy",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — communications.news.columbia.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-279ce17f8e6502b08df652c6",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://communications.news.columbia.edu/news/update-columbia-college-and-columbia-engineering-testing-policy",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.dartmouth.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-e492a36b85d63be79b05510f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.dartmouth.edu/glossary-question/are-standardized-test-scores-required",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — uadmissions.georgetown.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-57fcb6f878b094aad3750459",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://uadmissions.georgetown.edu/apply/first-year-applicants/how-to-prepare/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.upenn.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-f47763afe463f41015de7b26",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.upenn.edu/visit-connect/penn-perspectives/blog/what-is-penns-testing-policy",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.yale.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-e06ee1b6e8858712d5b131e3",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.yale.edu/standardized-testing",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.duke.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-7b9e454753140c2fe031045f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.duke.edu/apply/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.vanderbilt.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-1e4c560319e39a047d210770",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.vanderbilt.edu/apply/testing-policies",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.wisc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-819878f03e20a837fa166c5c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.wisc.edu/act_sat_faq/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.utexas.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-724a1f2e4512921a526c84be",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.utexas.edu/apply/freshman/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.gatech.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-e1288d0dfcb9f4b48015679b",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.gatech.edu/first-year/standardized-tests",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.umich.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-60239e0ccd631f667161ae2d",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.virginia.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-d3a131e2e7d26af3d8a7bece",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.virginia.edu/admission/deadlines-instructions",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admit.washington.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-bc1e74c51ba2475d48d9567f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admit.washington.edu/apply/first-year/how-to-apply/test-scores/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.rice.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-dcaaa4d39ae9413e9e838114",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.rice.edu/questbridge-applicants",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — meet.nyu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-67ee3e271ee36ae5e816c7ab",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://meet.nyu.edu/advice/test-optional-at-nyu-what-it-is-and-isnt/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — apply.emory.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-1deba408ac77d8f23fd295c2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://apply.emory.edu/apply/requirements/exams",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.bu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-7cf878a017f259ae5b1fdf31",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.bu.edu/admissions/apply/first-year/test-policy/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.bc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-f8e83abe2d55c9d1aa656ba4",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.bc.edu/content/bc-web/admission/apply/test-optional.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.cmu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-4acf32b0f463dbaa11bd822b",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.cmu.edu/leadership/the-provost/campus-comms/2024/2024-08-29.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — catalog.lehigh.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-5ffe1aaddcdd04d97f365895",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://catalog.lehigh.edu/informationofgeneralinterest/entranceexaminations/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.northeastern.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-31289591243157fb008abe29",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.northeastern.edu/application-information/international-applicants/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.tufts.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-3934b798f1d78ee2e5cabbc3",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.tufts.edu/apply/applying-as-an-international-s/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.indiana.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-a71c5b516cb99b5ccf4d6ffa",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.indiana.edu/doc/scholarships-financial-aid-managing-costs.pdf",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — apply.jhu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-801fe4aa61c74c6f383e90a3",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/standardized-testing/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.usc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-b78c272cce11214e0ab22fd7",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.usc.edu/prospective-students/how-to-apply/international-students/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.uga.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-8742e0a129d737e776527ede",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.uga.edu/admissions/first-year/first-year-admission-criteria/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.ufl.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-f185f51b9ae1488265815d26",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.ufl.edu/apply/freshman/international",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.umd.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-160c790ffafa0ace638a9221",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.umd.edu/apply/international-applicants",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.tc.umn.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-151661da1b9b3369d7a261df",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.tc.umn.edu/admissions/freshman-admission/act-sat-information",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.nd.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-725bc2acb08d48c2761a8e49",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.nd.edu/apply/resources-for/international-applicants/application-information/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.rochester.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-f9b674d47d8f498661266f7e",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.rochester.edu/applying/testing-policies/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.washu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-e26b61fc1a967288990c6750",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.washu.edu/how-to-apply/english-testing-requirements/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.luc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-c608adc7bb5fb64eb0222f3c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.luc.edu/undergrad/admissions/internationalstudents/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.olin.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-28e933e79ba3774bc982ba0c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.olin.edu/admission/faq",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — catalog.colorado.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-d951e2d783493e55e640063c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://catalog.colorado.edu/undergraduate/admissions/application-process/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — collegeadmissions.uchicago.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-2a478ac97757d577a921e37c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://collegeadmissions.uchicago.edu/apply/application/required-materials/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.uiowa.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-9dacdc77c30d3b155f80794d",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.uiowa.edu/international-first-year-admission-requirements",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.illinois.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-3a3f04b9e16fbd599c8ee7bf",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.illinois.edu/first-year-apply-faq/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — case.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-299e5baa38741d25f48fc936",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://case.edu/admission/apply/deadlines-and-requirements/test-policy",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.wfu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-06a81cb015c3e7ca49309463",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.wfu.edu/become-a-deacon/first-year/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.ncsu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-c2bf9c43289a811e65236599",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ncsu.edu/apply/first-year/test-score-consideration-in-admission-decisions/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.purdue.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-37c72a3c8b4472a24b4dacf6",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.purdue.edu/become-student/first-year-criteria/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.fsu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-5985fc826720666f45b67e67",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.fsu.edu/international/first-year",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.hmc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-9d56a3432113fbfe2fb56641",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.hmc.edu/admission/apply/faqs/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.rutgers.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-4b5b01ac6f902bb97a56ed7a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.rutgers.edu/apply/first-year-applicants",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.rose-hulman.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-b0b788f4cedc3fd6937d30f1",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.rose-hulman.edu/admissions-and-aid/the-application-process/application-and-deadlines/application-evaluation-criteria.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.wm.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-4feafaf79c778a3a524e371a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.wm.edu/admission/undergraduateadmission/how-to-apply/first-year-applicants/standardizedtesting/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.buffalo.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-1930e87095eb30c1c6fb04c7",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.buffalo.edu/highschool/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.uconn.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-21c05b9a76829945aac9e489",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.uconn.edu/apply/first-year/instructions/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.udel.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-7d1e59dcf460d41b219de2c0",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.udel.edu/apply/undergraduate-admissions/apply-to-ud/freshman-admissions/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.stevens.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-a5fdca6522e06c9a94fee784",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.stevens.edu/admission-aid/undergraduate-admissions/first-year-students",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.umass.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-1b69082f8fd2aeeb4225016f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.umass.edu/admissions/test-optional-policy",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — undergraduate.admissions.gwu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-7f442d37d69b22e471c7cc97",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://undergraduate.admissions.gwu.edu/apply/test-optional",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — bulletin.fordham.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-7a3e57abe249e4c85140e714",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://bulletin.fordham.edu/undergraduate/academic-policies-procedures/admissions/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.msu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-c648a887fd09925d6092b059",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.msu.edu/apply/first-year/act-sat-test-optional",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.marquette.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-c3fc634c86efae2108763245",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.marquette.edu/apply/application-scores.php",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.smu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-bc3c476933721987f9cad8e5",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.smu.edu/admission/apply/undergraduate-admission/testing",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.stonybrook.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-b0c0caa1b4a0010ddabd584a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.stonybrook.edu/undergraduate-admissions/apply/test-optional.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.syracuse.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-350fa9ff859198b9f17eea00",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.syracuse.edu/admissions-aid/application-process/undergraduate/first-year/requirements/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.clemson.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-ea5a5e9e54fe93b061cf0370",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.clemson.edu/admissions/undergraduate-admissions/apply/first-year.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.wpi.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-7c4bfad3040a6b3559e01271",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.wpi.edu/admissions/undergraduate/apply/how-to/test-optional-admissions",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.brandeis.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-9e5bd4887057cbd2ad80a673",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.brandeis.edu/admissions/apply/test-optional-policy.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.tulane.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-d83ece5026d45f3154ae6ea9",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.tulane.edu/apply/instructions/standardized-tests",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www3.tamucc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-9377fe93a383b58f2ffa89e0",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www3.tamucc.edu/admissions/first-time-freshmen.php",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — unc-public.courseleaf.com",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-8aac8b8b8aee3682e22c9916",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://unc-public.courseleaf.com/admissions/undergraduate/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.vt.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-3dfb8535a506f6e79e2ee058",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.vt.edu/content/vt_edu/en/admissions/frequently-asked-questions/test-optional.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — undergrad.admissions.rpi.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-000c981d37e1c5a0f9755141",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://undergrad.admissions.rpi.edu/prospective-students/prospective-students-frequently-asked-questions/fall-2027-admission-cycle-test",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — undergraduate-admissions.mines.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-bda1ab61d00df9d8806cdf80",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://undergraduate-admissions.mines.edu/first-year/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.uic.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-313b1534d985b5f14e20d94a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.uic.edu/undergraduate/requirements-deadlines/first-year-requirements/test-optional-faq",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.villanova.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-69f2b637419657e7aa7a1851",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.villanova.edu/university/undergraduate-admission/faqs.html",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — behrend.psu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-bf99373c128052ff3eb22a65",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://behrend.psu.edu/notice-test-optional-policy",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.bucknell.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-4053fba234738a52ee75c5b2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.bucknell.edu/admissions-aid/apply-bucknell/undergraduate-admission-requirements",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — bulletin.miami.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-af461708e8f414aab71882d6",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://bulletin.miami.edu/general-university-information/undergraduate-policies-and-procedures/admission/freshman-admission/",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.upb.pitt.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "admissions_testing_policy"
+      ],
+      "sourceId": "confirmed-policy-source-b5216c087d7bdfbaef82a867",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.upb.pitt.edu/how-apply",
+      "checkedOn": "2026-10-17",
+      "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

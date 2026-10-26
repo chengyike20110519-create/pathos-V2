@@ -1050,15 +1050,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-69f2b637419657e7aa7a1851"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-optional through the 2026-27 admission campaign (Class of 2031); applicants may choose whether SAT/ACT scores are considered and will not be disadvantaged without scores.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

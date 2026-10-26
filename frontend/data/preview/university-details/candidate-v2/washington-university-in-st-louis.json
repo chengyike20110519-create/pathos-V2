@@ -131,15 +131,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-e26b61fc1a967288990c6750"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "WashU requires English-proficiency testing for international students whose second language is English; beginning with Fall 2027 applicants, SAT/ACT will no longer substitute for that English-proficiency requirement.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -3686,8 +3689,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$62,982",
-    "maximumUsd": 62982.0,
-    "minimumUsd": 62982.0,
+    "maximumUsd": 62982,
+    "minimumUsd": 62982,
     "scopes": [
       "private_single_rate"
     ],
@@ -3891,8 +3894,7 @@
     "warningCodes": [
       "county_scope_only",
       "english_policy_pending_external_access",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ]
   },
   "rankingBand": "national_top_50",
@@ -3911,7 +3913,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 62982.0,
+      "amountUsd": 62982,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -3924,7 +3926,7 @@
   "sourceCommit": "source-index:source_washu_2026_27_undergraduate_majors",
   "sourceStatus": "verified",
   "state": "MO",
-  "studentFacultyRatio": 7.0,
+  "studentFacultyRatio": 7,
   "topPrograms": [
     "Computer Science",
     "Finance, General",
@@ -3950,10 +3952,9 @@
     "codes": [
       "county_scope_only",
       "english_policy_pending_external_access",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }

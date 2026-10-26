@@ -1863,15 +1863,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-7d1e59dcf460d41b219de2c0"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-optional for all first-year applicants; submitting SAT/ACT is optional and choosing not to submit does not negatively affect holistic admission or merit consideration.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

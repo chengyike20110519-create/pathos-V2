@@ -93,15 +93,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-647290bf58ceffc1c4ba50c8"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC system test-free policy applies: SAT/ACT are not considered for admission or scholarships; they may be used for eligibility alternatives or placement after enrollment.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -1065,8 +1068,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$14,965–$45,742",
-    "maximumUsd": 45742.0,
-    "minimumUsd": 14965.0,
+    "maximumUsd": 45742,
+    "minimumUsd": 14965,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -1288,8 +1291,7 @@
       "county_scope_only",
       "english_policy_pending_external_access",
       "sat_not_reported",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ]
   },
   "rankingBand": "national_top_50",
@@ -1308,7 +1310,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 14965.0,
+      "amountUsd": 14965,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -1317,7 +1319,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 45742.0,
+      "amountUsd": 45742,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -1330,7 +1332,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "reviewed_official_undergraduate_directory",
   "state": "CA",
-  "studentFacultyRatio": 17.0,
+  "studentFacultyRatio": 17,
   "topPrograms": [
     "Econometrics and Quantitative Economics",
     "Sociology, General",
@@ -1358,10 +1360,9 @@
       "county_scope_only",
       "english_policy_pending_external_access",
       "sat_not_reported",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ],
-    "count": 6,
+    "count": 5,
     "hasWarnings": true
   }
 }

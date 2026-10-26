@@ -1368,15 +1368,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-21c05b9a76829945aac9e489"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-optional for first-year applicants; SAT/ACT submission is optional, and UConn superscores submitted results while excluding writing and science sections from review.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

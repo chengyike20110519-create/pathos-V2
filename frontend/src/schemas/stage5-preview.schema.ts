@@ -337,7 +337,13 @@ export function parseStage5Detail(raw: unknown): Stage5Detail {
   const admissions = object(value.admissions, `${summary.id}.admissions`);
   for (const policy of ["testPolicy", "englishPolicy"]) {
     const field = parseField(admissions[policy], `${summary.id}.admissions.${policy}`);
-    if (field.value !== null || field.status !== "pending_external_access") {
+    const confirmedTestPolicy = policy === "testPolicy"
+      && field.status === "verified"
+      && typeof field.value === "string"
+      && field.value.trim().length > 0
+      && Array.isArray(field.sourceIds)
+      && field.sourceIds.length > 0;
+    if (!confirmedTestPolicy && (field.value !== null || field.status !== "pending_external_access")) {
       throw new Error(`${summary.id}.${policy} pending contract invalid`);
     }
   }

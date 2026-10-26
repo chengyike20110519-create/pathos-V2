@@ -131,15 +131,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-aa0832044fd63d8699791878"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "SAT or ACT required; exceptional applicants without access may use AP, IB, GCSE/A-Level or national leaving exam results/predictions.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -1032,8 +1035,7 @@
     "status": "warning",
     "warningCodes": [
       "english_policy_pending_external_access",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ]
   },
   "rankingBand": "national_top_50",
@@ -1090,10 +1092,9 @@
   "warningSummary": {
     "codes": [
       "english_policy_pending_external_access",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ],
-    "count": 3,
+    "count": 2,
     "hasWarnings": true
   }
 }

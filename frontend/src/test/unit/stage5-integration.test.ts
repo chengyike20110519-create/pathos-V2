@@ -392,12 +392,13 @@ describe("Stage 5 frontend/backend integration contract", () => {
     expect(details.filter((d: any) => d.admissions.act.status === "not_reported")).toHaveLength(9);
   });
 
-  it("22 test policy pending", async () => {
+  it("22 confirmed test policy is surfaced", async () => {
     const { detail } = await realFixture();
     expect(detail.admissions.testPolicy).toMatchObject({
-      value: null,
-      status: "pending_external_access",
+      status: "verified",
     });
+    expect(detail.admissions.testPolicy.value).toContain("ACT/SAT");
+    expect(detail.admissions.testPolicy.sourceIds.length).toBeGreaterThan(0);
   });
 
   it("23 English policy pending", async () => {

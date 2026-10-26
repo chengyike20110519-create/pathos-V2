@@ -93,15 +93,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-dd9bc20f14a9492d24b53cc6"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-free: SAT/ACT are not used in admission, holistic review or scholarship decisions; they may be used for placement or subject credit after admission.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -3122,8 +3125,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$14,850–$45,627",
-    "maximumUsd": 45627.0,
-    "minimumUsd": 14850.0,
+    "maximumUsd": 45627,
+    "minimumUsd": 14850,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -3339,8 +3342,7 @@
       "act_not_reported",
       "english_policy_pending_external_access",
       "sat_not_reported",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ]
   },
   "rankingBand": "national_top_50",
@@ -3359,7 +3361,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 14850.0,
+      "amountUsd": 14850,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -3368,7 +3370,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 45627.0,
+      "amountUsd": 45627,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -3381,7 +3383,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "CA",
-  "studentFacultyRatio": 18.0,
+  "studentFacultyRatio": 18,
   "topPrograms": [
     "Real Estate",
     "Supply Chain Management/Logistics",
@@ -3408,10 +3410,9 @@
       "act_not_reported",
       "english_policy_pending_external_access",
       "sat_not_reported",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ],
-    "count": 5,
+    "count": 4,
     "hasWarnings": true
   }
 }

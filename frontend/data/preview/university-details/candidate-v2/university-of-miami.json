@@ -2050,15 +2050,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-af461708e8f414aab71882d6"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "For the current undergraduate admission policy, SAT/ACT scores are considered for first-year applicants; the official bulletin identifies test-optional admission specifically for performance-based Frost School of Music applicants, while non-native English speakers must submit English-proficiency scores. The prior COVID-era test-optional window covered Fall 2025 and Spring 2026.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

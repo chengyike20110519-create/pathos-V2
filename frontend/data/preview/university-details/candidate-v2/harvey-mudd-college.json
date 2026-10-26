@@ -131,15 +131,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-9d56a3432113fbfe2fb56641"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-optional for students applying for Fall 2027; SAT/ACT will be required again for the Fall 2028 application cycle. International applicants still need an approved English-proficiency test unless an exception applies.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -539,7 +542,6 @@
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year",
-      "test_policy_pending_external_access",
       "total_enrollment_not_reported"
     ]
   },
@@ -599,10 +601,9 @@
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year",
-      "test_policy_pending_external_access",
       "total_enrollment_not_reported"
     ],
-    "count": 7,
+    "count": 6,
     "hasWarnings": true
   }
 }

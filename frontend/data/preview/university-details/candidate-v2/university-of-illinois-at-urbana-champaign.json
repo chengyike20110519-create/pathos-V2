@@ -131,15 +131,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-3a3f04b9e16fbd599c8ee7bf"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "ACT/SAT optional for all first-year applicants, including international students; applicants may choose whether scores are considered, while English-proficiency rules still apply when required.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -3461,8 +3464,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$18,060–$39,192",
-    "maximumUsd": 39192.0,
-    "minimumUsd": 18060.0,
+    "maximumUsd": 39192,
+    "minimumUsd": 18060,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -3681,8 +3684,7 @@
     "status": "warning",
     "warningCodes": [
       "english_policy_pending_external_access",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ]
   },
   "rankingBand": "national_top_50",
@@ -3701,7 +3703,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 18060.0,
+      "amountUsd": 18060,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -3710,7 +3712,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 39192.0,
+      "amountUsd": 39192,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -3723,7 +3725,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "IL",
-  "studentFacultyRatio": 20.0,
+  "studentFacultyRatio": 20,
   "topPrograms": [
     "Research and Experimental Psychology, Other",
     "Computer Engineering, General",
@@ -3748,10 +3750,9 @@
   "warningSummary": {
     "codes": [
       "english_policy_pending_external_access",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ],
-    "count": 3,
+    "count": 2,
     "hasWarnings": true
   }
 }

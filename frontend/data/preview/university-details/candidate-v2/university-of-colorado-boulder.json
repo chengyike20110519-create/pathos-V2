@@ -131,15 +131,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-d951e2d783493e55e640063c"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-optional for first-year admission; SAT/ACT scores are not required, but applicants may self-report them for consideration. International applicants must separately meet English-proficiency requirements.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -2150,8 +2153,7 @@
       "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ]
   },
   "rankingBand": "outside_numeric_scope",
@@ -2217,10 +2219,9 @@
       "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ],
-    "count": 5,
+    "count": 4,
     "hasWarnings": true
   }
 }

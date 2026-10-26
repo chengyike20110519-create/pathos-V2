@@ -1236,15 +1236,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-b5216c087d7bdfbaef82a867"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Pitt-Bradford is test-optional for new students; applicants may submit SAT/ACT scores, and only scores that benefit the student factor into the admission decision. Certain programs may have separate requirements.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

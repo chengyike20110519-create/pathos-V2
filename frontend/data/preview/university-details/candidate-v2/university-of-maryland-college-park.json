@@ -131,15 +131,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-160c790ffafa0ace638a9221"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Test-optional through Spring and Fall 2027; non-native English speakers still need approved English-proficiency scores or an approved waiver.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -3059,8 +3062,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$11,505–$40,306",
-    "maximumUsd": 40306.0,
-    "minimumUsd": 11505.0,
+    "maximumUsd": 40306,
+    "minimumUsd": 11505,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -3261,8 +3264,7 @@
     "status": "warning",
     "warningCodes": [
       "english_policy_pending_external_access",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ]
   },
   "rankingBand": "national_top_50",
@@ -3281,7 +3283,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 11505.0,
+      "amountUsd": 11505,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -3290,7 +3292,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 40306.0,
+      "amountUsd": 40306,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -3303,7 +3305,7 @@
   "sourceCommit": "source-index:source_umd_2026_27_undergraduate_programs",
   "sourceStatus": "verified",
   "state": "MD",
-  "studentFacultyRatio": 18.0,
+  "studentFacultyRatio": 18,
   "topPrograms": [
     "Computer Science",
     "Information Science/Studies",
@@ -3328,10 +3330,9 @@
   "warningSummary": {
     "codes": [
       "english_policy_pending_external_access",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ],
-    "count": 3,
+    "count": 2,
     "hasWarnings": true
   }
 }

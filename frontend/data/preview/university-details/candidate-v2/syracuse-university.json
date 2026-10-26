@@ -1942,15 +1942,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-350fa9ff859198b9f17eea00"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "SAT/ACT not required for applicants entering Fall 2026, Spring 2027, Fall 2027 or Spring 2028; applicants without scores are not disadvantaged and remain eligible for merit scholarships.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "englishPolicy": {

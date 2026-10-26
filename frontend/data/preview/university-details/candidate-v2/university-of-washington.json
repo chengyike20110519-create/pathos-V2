@@ -93,15 +93,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-bc1e74c51ba2475d48d9567f"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "SAT/ACT not required; scores are generally not seen in review, though very high scores may help a small number of applicants; international English proficiency remains required.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -1638,8 +1641,7 @@
       "act_not_reported",
       "english_policy_pending_external_access",
       "sat_not_reported",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ]
   },
   "rankingBand": "national_top_50",
@@ -1707,10 +1709,9 @@
       "act_not_reported",
       "english_policy_pending_external_access",
       "sat_not_reported",
-      "stale_reference_year",
-      "test_policy_pending_external_access"
+      "stale_reference_year"
     ],
-    "count": 5,
+    "count": 4,
     "hasWarnings": true
   }
 }

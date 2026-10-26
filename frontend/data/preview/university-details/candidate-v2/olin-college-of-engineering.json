@@ -131,15 +131,18 @@
       "warnings": []
     },
     "testPolicy": {
-      "nullReason": "official_admissions_policy_bulk_unavailable_and_school_page_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-policy-source-28e933e79ba3774bc982ba0c"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "SAT/ACT requirements are suspended through the 2026-27 cycle; international applicants who do not submit SAT/ACT must submit an approved English-proficiency exam unless their school uses English as the primary language of instruction.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
@@ -420,7 +423,6 @@
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year",
-      "test_policy_pending_external_access",
       "total_enrollment_not_reported"
     ]
   },
@@ -480,10 +482,9 @@
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year",
-      "test_policy_pending_external_access",
       "total_enrollment_not_reported"
     ],
-    "count": 7,
+    "count": 6,
     "hasWarnings": true
   }
 }
