@@ -5716,6 +5716,28 @@
       "notes": "Used for official program-structure description; not an external ranking."
     },
     {
+      "sourceId": "source_columbia_applied_mathematics_undergraduate_2026_27",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Columbia University Bulletin",
+      "referenceYear": "2026-27",
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/applied-mathematics/",
+      "status": "verified",
+      "scope": ["Columbia Applied Mathematics undergraduate major"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program-structure description; not an external ranking."
+    },
+    {
+      "sourceId": "source_columbia_cognitive_science_undergraduate_2026_27",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Columbia University Bulletin",
+      "referenceYear": "2026-27",
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/psychology/",
+      "status": "verified",
+      "scope": ["Columbia Cognitive Science undergraduate program listing"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program description; not an external ranking."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",
