@@ -5609,6 +5609,19 @@
       "notes": "Used for distinctive-program description; not an external ranking."
     },
     {
+      "sourceId": "source_ucla_official_rankings_2025",
+      "sourceType": "official_institutional_rankings",
+      "publisher": "University of California, Los Angeles",
+      "referenceYear": 2025,
+      "url": "https://newsroom.ucla.edu/releases/ucla-top-ranked-public-university-eight-straight-years",
+      "status": "verified",
+      "scope": [
+        "UCLA official summary of 2025 U.S. News undergraduate program recognition"
+      ],
+      "retrievedAt": "2026-10-26",
+      "notes": "The page reports top-10 public-university program recognition but does not provide an exact major rank for the listed fields; not imported as a strength rank."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",
