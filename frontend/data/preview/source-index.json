@@ -5771,6 +5771,17 @@
       "notes": "Used for official program-structure description; not an external ranking."
     },
     {
+      "sourceId": "source_penn_bioengineering_undergraduate_2026_27",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "University of Pennsylvania Undergraduate Catalog",
+      "referenceYear": "2026-27",
+      "url": "https://catalog.upenn.edu/undergraduate/programs/bioengineering-bse/",
+      "status": "verified",
+      "scope": ["Penn Bioengineering BSE multidisciplinary structure and concentrations"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program-structure description; the reviewed record uses the existing directory's Bioengineering and Biomedical Engineering label."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",

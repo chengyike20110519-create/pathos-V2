@@ -1673,12 +1673,21 @@
     "universityId": "candidate-v2:university-of-pennsylvania",
     "spotlights": [
       {
-        "name": "Cognitive Science, BA",
+        "name": "Cognitive Science, General",
         "nameZh": "认知科学",
         "kind": "distinctive",
         "reason": "Penn 官方本科项目页面将认知科学描述为结合计算机科学、神经科学、语言学、心理学、哲学和生物学的跨学科专业；这是项目特色说明，不是外部排名。",
         "sourceUrl": "https://mindcore.sas.upenn.edu/education/undergraduate/",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Bioengineering and Biomedical Engineering",
+        "nameZh": "生物工程与生物医学工程",
+        "kind": "distinctive",
+        "reason": "Penn 官方本科目录将 Bioengineering BSE 定义为连接工程科学、生物学、生物医学科学与医学的多学科项目，并提供 Biomedical Data Science and Computational Medicine、Neuroengineering、Systems and Synthetic Biology 等九个方向；这里使用后端目录的合并名称，不代表外部排名。",
+        "sourceUrl": "https://catalog.upenn.edu/undergraduate/programs/bioengineering-bse/",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ]
   },
