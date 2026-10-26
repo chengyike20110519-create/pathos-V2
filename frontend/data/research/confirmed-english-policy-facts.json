@@ -181,6 +181,24 @@
       "fact": "The University of Minnesota Twin Cities requires international applicants and certain non-international applicants to demonstrate English proficiency. It accepts TOEFL, IELTS Academic, PTE Academic, Cambridge, and Duolingo, with alternate waiver routes and conditional admission options.",
       "status": "confirmed",
       "source": "https://admissions.tc.umn.edu/admissions/international-admission/english-proficiency-information"
+    },
+    {
+      "universityId": "candidate-v2:arizona-state-university",
+      "fact": "ASU requires proof of English proficiency from international undergraduate applicants or applicants whose native language is not English. ASU accepts TOEFL, IELTS, PTE, Duolingo, and Cambridge exams, with program-specific minimums and documented exemptions.",
+      "status": "confirmed",
+      "source": "https://admission.asu.edu/apply/international/undergrad/english-proficiency"
+    },
+    {
+      "universityId": "candidate-v2:university-of-georgia",
+      "fact": "UGA states that first-year international applicants whose first language is not English can demonstrate English proficiency through SAT/ACT evidence or IELTS/TOEFL results; it also lists a qualifying U.S. college composition route.",
+      "status": "confirmed",
+      "source": "https://admissions.uga.edu/apply/other-applicants/international-students/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-maryland-college-park",
+      "fact": "The University of Maryland requires international undergraduate applicants to provide official English proficiency scores. It accepts Duolingo, IELTS, and TOEFL, with scores less than two years old and limited waiver discretion.",
+      "status": "confirmed",
+      "source": "https://admissions.umd.edu/apply/international-applicants"
     }
   ]
 }

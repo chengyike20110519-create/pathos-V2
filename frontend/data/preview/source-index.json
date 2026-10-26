@@ -7612,6 +7612,45 @@
       "url": "https://admissions.tc.umn.edu/admissions/international-admission/english-proficiency-information",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.asu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-1d10e1983c202508906814aa",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.asu.edu/apply/international/undergrad/english-proficiency",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.uga.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-9463155aba4783bffd67dfde",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.uga.edu/apply/other-applicants/international-students/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.umd.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-160c790ffafa0ace638a9221",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.umd.edu/apply/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

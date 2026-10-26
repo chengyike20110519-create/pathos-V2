@@ -402,7 +402,9 @@ describe("Stage 5 frontend/backend integration contract", () => {
   });
 
   it("23 English policy pending", async () => {
-    const { detail } = await realFixture();
+    const detail = await artifact<any>(
+      "university-details/candidate-v2/university-of-florida.json",
+    );
     expect(detail.admissions.englishPolicy).toMatchObject({
       value: null,
       status: "pending_external_access",
