@@ -7690,6 +7690,32 @@
       "url": "https://admissions.msu.edu/apply/international/language-requirements",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.rochester.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-7e49d02d54996d2f435d0cec",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.rochester.edu/applying/international-students/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.brandeis.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-3cef6d4dea0bcab7851360fa",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.brandeis.edu/admissions/international-applicants/student-life/visit/contact.html",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

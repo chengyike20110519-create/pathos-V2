@@ -217,6 +217,18 @@
       "fact": "Michigan State publishes English proficiency requirements for undergraduate applicants and accepts TOEFL, IELTS, Duolingo, SAT/ACT, MSUELT, CELP, PTE, AP, IGCSE/GCSE/A-level, and IB English evidence, including regular and provisional admission thresholds.",
       "status": "confirmed",
       "source": "https://admissions.msu.edu/apply/international/language-requirements"
+    },
+    {
+      "universityId": "candidate-v2:university-of-rochester",
+      "fact": "The University of Rochester requires international students to provide English proficiency evidence through an exam or waiver request. It accepts Duolingo, IELTS, and TOEFL and publishes recommended scores, waiver conditions, and an English support pathway.",
+      "status": "confirmed",
+      "source": "https://admissions.rochester.edu/applying/international-students/"
+    },
+    {
+      "universityId": "candidate-v2:brandeis-university",
+      "fact": "Brandeis asks international undergraduate applicants whose native language is not English to submit English proficiency results. Its official undergraduate admissions materials list TOEFL, IELTS, Duolingo, and Cambridge Assessment options.",
+      "status": "confirmed",
+      "source": "https://www.brandeis.edu/admissions/international-applicants/student-life/visit/contact.html"
     }
   ]
 }

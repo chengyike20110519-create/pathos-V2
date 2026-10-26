@@ -768,15 +768,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-3cef6d4dea0bcab7851360fa"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Brandeis asks international undergraduate applicants whose native language is not English to submit English proficiency results. Its official undergraduate admissions materials list TOEFL, IELTS, Duolingo, and Cambridge Assessment options.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
