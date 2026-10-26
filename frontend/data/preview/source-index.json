@@ -7911,6 +7911,32 @@
       "url": "https://www.cmu.edu/admission/admission/international-applicants",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — uadmissions.georgetown.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-592d14c463b80c6b2f6c34cd",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://uadmissions.georgetown.edu/apply/international-applicants/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — ois.iu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-bcb05aa626417b3f7b639f76",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://ois.iu.edu/admissions/apply/freshmen/index.html",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

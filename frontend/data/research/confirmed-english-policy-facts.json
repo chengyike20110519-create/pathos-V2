@@ -319,6 +319,18 @@
       "fact": "Carnegie Mellon requires official English-proficiency results for nonnative-English-speaking undergraduate applicants. It accepts TOEFL iBT or Home Edition, TOEFL Essentials, IELTS Academic or IELTS Online, Duolingo, and Cambridge English. Current requirements include IELTS 7.5 overall, TOEFL iBT 5 overall for tests on or after January 21, 2026 (102 before that date), TOEFL Essentials 11, Duolingo 135, and Cambridge 191; InitialView or Vericant interviews are recommended but not required.",
       "status": "confirmed",
       "source": "https://www.cmu.edu/admission/admission/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:georgetown-university",
+      "fact": "Georgetown recommends, but does not require, English-proficiency test results for undergraduate applicants who attend a school where English is not the language of instruction. It accepts Duolingo, IELTS, and TOEFL results to fulfill this recommendation; the university's undergraduate international admissions page does not publish a universal minimum score for this recommendation.",
+      "status": "confirmed",
+      "source": "https://uadmissions.georgetown.edu/apply/international-applicants/"
+    },
+    {
+      "universityId": "candidate-v2:indiana-university-bloomington",
+      "fact": "Indiana University Bloomington requires all international undergraduate applicants to demonstrate English proficiency within the previous two years. Accepted routes include TOEFL 79 iBT, IELTS 6.5, Duolingo 115, Cambridge 176, PTE 53, Michigan MET 53, SAT Evidence-Based Reading and Writing 560, ACT English 21, specified IB/AP/A-level English results, qualifying English-speaking-country schooling, and IU's intensive English program.",
+      "status": "confirmed",
+      "source": "https://ois.iu.edu/admissions/apply/freshmen/index.html"
     }
   ]
 }

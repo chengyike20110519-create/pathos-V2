@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-bcb05aa626417b3f7b639f76"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Indiana University Bloomington requires all international undergraduate applicants to demonstrate English proficiency within the previous two years. Accepted routes include TOEFL 79 iBT, IELTS 6.5, Duolingo 115, Cambridge 176, PTE 53, Michigan MET 53, SAT Evidence-Based Reading and Writing 560, ACT English 21, specified IB/AP/A-level English results, qualifying English-speaking-country schooling, and IU's intensive English program.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -5572,7 +5575,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
@@ -5638,12 +5640,11 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }
