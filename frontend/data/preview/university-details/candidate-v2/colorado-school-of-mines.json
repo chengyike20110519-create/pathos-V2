@@ -481,15 +481,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-da1f43db32cd6e79c2f45918"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Colorado School of Mines requires non-native-English international applicants to provide English proficiency evidence before enrollment. It accepts TOEFL, IELTS, Duolingo, and Cambridge options, with additional approved routes and published score thresholds.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

@@ -7755,6 +7755,58 @@
       "url": "https://admissions.buffalo.edu/apply/applyingfaq.php",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — undergraduate-admissions.mines.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-da1f43db32cd6e79c2f45918",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://undergraduate-admissions.mines.edu/international-first-year-requirements/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.wpi.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-06fe4260f52f4a4d7616ecd2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.wpi.edu/admissions/undergraduate/apply/international-students",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — stage.stevens.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-b9ec6b2fde33312240a746e2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://stage.stevens.edu/admission-aid/undergraduate-admissions/international-students",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — undergrad.admissions.rpi.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-25d8b37afb120bcd7109d19d",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://undergrad.admissions.rpi.edu/apply/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

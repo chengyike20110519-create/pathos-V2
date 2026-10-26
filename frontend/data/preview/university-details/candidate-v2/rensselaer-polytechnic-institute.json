@@ -700,15 +700,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-25d8b37afb120bcd7109d19d"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Rensselaer requires non-native English speakers or international students with limited U.S. college study to demonstrate English proficiency through TOEFL, IELTS, Duolingo, or PTE. It publishes exemptions based on academic scores and English-medium education.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

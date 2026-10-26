@@ -580,15 +580,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-06fe4260f52f4a4d7616ecd2"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "WPI requires international applicants to provide English proficiency evidence. It accepts TOEFL, IELTS, Duolingo, and PTE with recommended scores; InitialView and Vericant are optional supplements and do not replace testing.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

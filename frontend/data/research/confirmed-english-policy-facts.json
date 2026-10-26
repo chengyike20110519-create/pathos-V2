@@ -247,6 +247,30 @@
       "fact": "The University at Buffalo requires international undergraduates to demonstrate English proficiency unless waived. It accepts TOEFL, IELTS, Duolingo, PTE, SAT, and ACT evidence and lists a transfer-course waiver route.",
       "status": "confirmed",
       "source": "https://admissions.buffalo.edu/apply/applyingfaq.php"
+    },
+    {
+      "universityId": "candidate-v2:colorado-school-of-mines",
+      "fact": "Colorado School of Mines requires non-native-English international applicants to provide English proficiency evidence before enrollment. It accepts TOEFL, IELTS, Duolingo, and Cambridge options, with additional approved routes and published score thresholds.",
+      "status": "confirmed",
+      "source": "https://undergraduate-admissions.mines.edu/international-first-year-requirements/"
+    },
+    {
+      "universityId": "candidate-v2:worcester-polytechnic-institute",
+      "fact": "WPI requires international applicants to provide English proficiency evidence. It accepts TOEFL, IELTS, Duolingo, and PTE with recommended scores; InitialView and Vericant are optional supplements and do not replace testing.",
+      "status": "confirmed",
+      "source": "https://www.wpi.edu/admissions/undergraduate/apply/international-students"
+    },
+    {
+      "universityId": "candidate-v2:stevens-institute-of-technology",
+      "fact": "Stevens requires international applicants whose first language is not English to demonstrate proficiency. It accepts TOEFL, IELTS, Duolingo, PTE, and SAT evidence, with published minimums and case-by-case waiver criteria.",
+      "status": "confirmed",
+      "source": "https://stage.stevens.edu/admission-aid/undergraduate-admissions/international-students"
+    },
+    {
+      "universityId": "candidate-v2:rensselaer-polytechnic-institute",
+      "fact": "Rensselaer requires non-native English speakers or international students with limited U.S. college study to demonstrate English proficiency through TOEFL, IELTS, Duolingo, or PTE. It publishes exemptions based on academic scores and English-medium education.",
+      "status": "confirmed",
+      "source": "https://undergrad.admissions.rpi.edu/apply/international-applicants"
     }
   ]
 }
