@@ -10,6 +10,7 @@ import { parseStage5Manifest } from "../src/schemas/stage5-preview.schema";
 const report: Record<string, any> = { checkedAt: new Date().toISOString(), scope: "read-only live database snapshot; not a full re-crawl of historical sources", sections: {}, timings: [] };
 const connectionString = process.env.DATABASE_URL;
 if (!connectionString) throw new Error("DATABASE_URL is required; never pass it on the command line");
+const previewBaseUrl = (process.env.PATHOS_PREVIEW_URL ?? "http://localhost:3000").replace(/\/$/, "");
 const connectionOptions = { connectionString, ssl: { rejectUnauthorized: false }, connectionTimeoutMillis: 10000, query_timeout: 60000, application_name: "pathos_readonly_audit" };
 const client = new pg.Client(connectionOptions);
 client.on("error", (error) => { report.connectionError = { code: (error as any).code, message: error.message }; });
@@ -304,7 +305,7 @@ async function probes() {
   for (const path of ["/api/health", "/api/ready", "/api/pathos/preview?endpoint=universities&state=CA", "/api/pathos/preview?endpoint=program-options&q=Computer%20Science", "/api/pathos/preview?endpoint=university&id=candidate-v2%3Astanford-university", "/api/information/facts?entityType=university&entityId=candidate-v2%3Astanford-university"]) {
     const start = performance.now();
     try {
-      const response = await fetch(`http://localhost:3000${path}`, { signal: AbortSignal.timeout(30000), cache: "no-store" });
+      const response = await fetch(`${previewBaseUrl}${path}`, { signal: AbortSignal.timeout(30000), cache: "no-store" });
       const text = await response.text(); let body: any; try { body = JSON.parse(text); } catch { body = {}; }
       report.apiProbes.push({ path, status: response.status, ms: Math.round(performance.now() - start), bytes: Buffer.byteLength(text),
         code: body.code, schema: body.schema, statusLabel: body.status, schools: body.universities,
