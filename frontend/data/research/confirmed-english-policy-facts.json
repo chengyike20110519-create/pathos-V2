@@ -3,6 +3,30 @@
   "sourcePolicy": "Only official university undergraduate admissions pages are accepted.",
   "records": [
     {
+      "universityId": "candidate-v2:university-of-north-carolina-at-chapel-hill",
+      "fact": "International undergraduate applicants to UNC-Chapel Hill whose first language is not English must submit English-proficiency test scores. UNC accepts TOEFL, IELTS, Duolingo, and Cambridge exams; the official catalog lists typical strong-applicant scores of TOEFL 100, IELTS Academic 7.5, Duolingo 130, or Cambridge C1 185, and explicitly says these are not minimums.",
+      "status": "confirmed",
+      "source": "https://unc-public.courseleaf.com/admissions/undergraduate/"
+    },
+    {
+      "universityId": "candidate-v2:wake-forest-university",
+      "fact": "Wake Forest requires an English-proficiency score from international undergraduate applicants whose first language is not English and/or whose school is not taught in English. The official page accepts TOEFL, IELTS, or Duolingo and does not publish a universal minimum score on the reviewed page.",
+      "status": "confirmed",
+      "source": "https://admissions.wfu.edu/become-a-deacon/international/"
+    },
+    {
+      "universityId": "candidate-v2:virginia-polytechnic-institute-and-state-university",
+      "fact": "Virginia Tech requires applicants whose native language is not English to demonstrate proficiency. Its international-admissions page accepts TOEFL, IELTS, PTE, Duolingo, and Cambridge options; the published thresholds include TOEFL iBT 80 with no subsection below 16, IELTS 6.5 with no subscore below 6.5, PTE 59, Duolingo 115, and Cambridge 176, with the page also listing updated TOEFL-scale requirements for newer exams.",
+      "status": "confirmed",
+      "source": "https://www.vt.edu/admissions/international/requirements.html"
+    },
+    {
+      "universityId": "candidate-v2:florida-state-university",
+      "fact": "Florida State University requires official English-proficiency results from international applicants whose native language is not English. Minimum undergraduate scores listed by FSU are TOEFL iBT 80 before January 21, 2026, TOEFL iBT 4.0 on or after January 21, 2026, IELTS Academic 6.5, PTE 55, Michigan Language Assessment 55, Duolingo 125, or Cambridge C1/C2 180.",
+      "status": "confirmed",
+      "source": "https://admissions.fsu.edu/international/english-proficiency"
+    },
+    {
       "universityId": "candidate-v2:university-of-south-carolina-columbia",
       "fact": "International freshman applicants to the University of South Carolina must demonstrate English proficiency unless an official exemption applies. The university lists TOEFL iBT 77, TOEFL paper 550, IELTS 6.5, PTE 53, Duolingo English Test 115, SAT Evidence-Based Reading and Writing 560, or ACT English 22 as minimum options; conditional admission through English Programs for Internationals may be available.",
       "status": "confirmed",

@@ -1624,15 +1624,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-34f522871fbac2d6c5e708ef"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Virginia Tech requires applicants whose native language is not English to demonstrate proficiency. Its international-admissions page accepts TOEFL, IELTS, PTE, Duolingo, and Cambridge options; the published thresholds include TOEFL iBT 80 with no subsection below 16, IELTS 6.5 with no subscore below 6.5, PTE 59, Duolingo 115, and Cambridge 176, with the page also listing updated TOEFL-scale requirements for newer exams.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

@@ -790,15 +790,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-759349b5b73e3b4f730b9338"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Wake Forest requires an English-proficiency score from international undergraduate applicants whose first language is not English and/or whose school is not taught in English. The official page accepts TOEFL, IELTS, or Duolingo and does not publish a universal minimum score on the reviewed page.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

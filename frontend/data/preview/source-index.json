@@ -8171,6 +8171,58 @@
       "url": "https://admissions.wustl.edu/app/uploads/2024/09/WUADM_24AtAGlance-Simplified-Chinese.pdf",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — unc-public.courseleaf.com",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-8aac8b8b8aee3682e22c9916",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://unc-public.courseleaf.com/admissions/undergraduate/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.wfu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-759349b5b73e3b4f730b9338",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.wfu.edu/become-a-deacon/international/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.vt.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-34f522871fbac2d6c5e708ef",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.vt.edu/admissions/international/requirements.html",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.fsu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-28f29b723a9e7abe6ceb8afb",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.fsu.edu/international/english-proficiency",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }
