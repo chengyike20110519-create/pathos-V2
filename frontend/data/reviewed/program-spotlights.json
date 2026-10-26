@@ -487,12 +487,21 @@
     "universityId": "candidate-v2:university-of-rochester",
     "spotlights": [
       {
-        "name": "Computer Science, BS",
+        "name": "Computer Science",
         "nameZh": "计算机科学（理学学士）",
         "kind": "distinctive",
         "reason": "University of Rochester 官方计算机科学本科页面说明，BS 学生可在人工智能、人机交互、系统和理论四个方向中选择 concentration，并以完整核心课程和高级计算主题训练为基础；这是官方项目结构特色，不是外部排名结论。",
         "sourceUrl": "https://www.cs.rochester.edu/undergraduate/index.html",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Data Science",
+        "nameZh": "数据科学",
+        "kind": "distinctive",
+        "reason": "Rochester 官方本科项目说明 Data Science 将计算机科学、统计学与学生选择的应用领域结合，涵盖人工智能、生物、脑与认知科学、地球与环境科学及经济与商业等方向；这是官方项目结构事实，不代表外部排名。",
+        "sourceUrl": "https://www.hajim.rochester.edu/dsc/undergraduate/index.html",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [
