@@ -4,6 +4,15 @@ import { readFile } from "node:fs/promises";
 import { getPool } from "../src/server/db";
 import { parseProgramSpotlights } from "../src/schemas/dataset.schema";
 
+function comparableProgramName(name: string): string {
+  return name
+    .replace(/\s*\([^)]*\)\s*$/, "")
+    .replace(/\band\b/gi, "&")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLocaleLowerCase();
+}
+
 async function main() {
   const allRecords = JSON.parse(await readFile("data/reviewed/program-spotlights.json", "utf8")) as Array<{ universityId: string; spotlights: unknown[] }>;
   const only = process.argv.find((arg) => arg.startsWith("--only="))?.slice("--only=".length).trim();
@@ -40,7 +49,13 @@ async function main() {
       const priorParsed = parseProgramSpotlights(prior);
       if (!Array.isArray(prior) || priorParsed.length !== prior.length) throw new Error("Existing highlights require review; refusing to overwrite them");
       const byName = new Map(priorParsed.map((program) => [program.name.toLowerCase(), program]));
-      parsed.forEach((program) => byName.set(program.name.toLowerCase(), program));
+      parsed.forEach((program) => {
+        const comparable = comparableProgramName(program.name);
+        for (const [key, existing] of byName) {
+          if (comparableProgramName(existing.name) === comparable && existing.name !== program.name) byName.delete(key);
+        }
+        byName.set(program.name.toLowerCase(), program);
+      });
       const merged = [...byName.values()];
       if (process.argv.includes("--apply")) {
         await client.query(`INSERT INTO school_confirmed_facts (university_id,fact_type,fact,status,source_url,confirmed_on)

@@ -2094,12 +2094,21 @@
     "universityId": "candidate-v2:boston-university",
     "spotlights": [
       {
-        "name": "Film and Television",
+        "name": "Film & Television",
         "nameZh": "电影与电视",
         "kind": "distinctive",
         "reason": "Boston University 官方本科项目页面说明，Film & Television BS 同时覆盖研究、编剧、制作和管理/制片四个方向，并将专业课程与 BU Hub 通识教育结合；这是官方培养结构特色，不是外部排名结论。",
         "sourceUrl": "https://www.bu.edu/academics/com/programs/film-television/film-televisionbs/",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Cinema & Media Studies",
+        "nameZh": "电影与媒体研究",
+        "kind": "distinctive",
+        "reason": "Boston University 官方本科项目将 Cinema & Media Studies 定义为涵盖移动影像媒体的历史、文化、美学、理论与制作的综合课程，并强调跨院系师资；这是官方项目结构事实，不代表外部排名。",
+        "sourceUrl": "https://www.bu.edu/academics/cas/departments/cinema-media-studies/",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [
