@@ -2811,6 +2811,19 @@
       "url": "https://live-villanova-catalog.cleancatalog.io/programs"
     },
     {
+      "universityId": "candidate-v2:villanova-university",
+      "publisher": "Villanova University Office of Decision Support & Data Integrity",
+      "referenceYear": 2025,
+      "scope": [
+        "six-year graduation rate for 2019 cohort",
+        "first-year retention rate for Fall 2024 cohort"
+      ],
+      "sourceId": "official-villanova-cds-2025-26-outcomes",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://www.villanova.edu/content/dam/villanova/provost/decision_support/CDS-2025-2026-v3.pdf"
+    },
+    {
       "universityId": "candidate-v2:university-of-texas-austin",
       "publisher": "UT Austin Undergraduate Catalog 2026-2027",
       "referenceYear": 2026,
