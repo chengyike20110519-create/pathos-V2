@@ -7560,6 +7560,58 @@
       "url": "https://admissions.tufts.edu/apply/applying-as-an-international-s/",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.purdue.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-51e8b579caba9955063f43f8",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.purdue.edu/become-student/english-proficiency/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — undergrad.osu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-275242a5987edceb1dc7cc0a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://undergrad.osu.edu/apply/international-freshmen/apply-step-by-step",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.wisc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-bd75ef44159760c7daec3947",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.wisc.edu/international/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.tc.umn.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-cdfc12422aff2095e4828dd0",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.tc.umn.edu/admissions/international-admission/english-proficiency-information",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

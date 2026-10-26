@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-275242a5987edceb1dc7cc0a"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Ohio State requires official proof of English language skills for international undergraduate applicants. It accepts approved TOEFL, IELTS, ACT, Duolingo, or SAT evidence, with alternate exemptions based on U.S. schooling or approved citizenship/degree locations.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -2096,7 +2099,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -2162,10 +2164,9 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 2,
+    "count": 1,
     "hasWarnings": true
   }
 }

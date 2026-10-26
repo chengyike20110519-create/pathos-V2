@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-51e8b579caba9955063f43f8"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Purdue evaluates English proficiency for international undergraduate applicants whose first language is not English. It accepts Duolingo, IELTS, TOEFL, ACT, and SAT evidence and publishes minimum scores and score-age rules.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -3936,7 +3939,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -4002,10 +4004,9 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 2,
+    "count": 1,
     "hasWarnings": true
   }
 }

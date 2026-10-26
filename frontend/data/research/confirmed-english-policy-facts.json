@@ -157,6 +157,30 @@
       "fact": "Tufts requires applicants whose primary language is not English to submit proof of English proficiency unless they completed at least three years in a secondary school where English was the primary language. Tufts accepts TOEFL, IELTS, PTE, and Duolingo.",
       "status": "confirmed",
       "source": "https://admissions.tufts.edu/apply/applying-as-an-international-s/"
+    },
+    {
+      "universityId": "candidate-v2:purdue-university-main-campus",
+      "fact": "Purdue evaluates English proficiency for international undergraduate applicants whose first language is not English. It accepts Duolingo, IELTS, TOEFL, ACT, and SAT evidence and publishes minimum scores and score-age rules.",
+      "status": "confirmed",
+      "source": "https://admissions.purdue.edu/become-student/english-proficiency/"
+    },
+    {
+      "universityId": "candidate-v2:ohio-state-university",
+      "fact": "Ohio State requires official proof of English language skills for international undergraduate applicants. It accepts approved TOEFL, IELTS, ACT, Duolingo, or SAT evidence, with alternate exemptions based on U.S. schooling or approved citizenship/degree locations.",
+      "status": "confirmed",
+      "source": "https://undergrad.osu.edu/apply/international-freshmen/apply-step-by-step"
+    },
+    {
+      "universityId": "candidate-v2:university-of-wisconsin-madison",
+      "fact": "UW–Madison requires English proficiency evidence for international undergraduate applicants unless an approved waiver applies. The official policy lists Duolingo, IELTS Academic, and TOEFL iBT minimum scores and waiver procedures.",
+      "status": "confirmed",
+      "source": "https://admissions.wisc.edu/international/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-minnesota-twin-cities",
+      "fact": "The University of Minnesota Twin Cities requires international applicants and certain non-international applicants to demonstrate English proficiency. It accepts TOEFL, IELTS Academic, PTE Academic, Cambridge, and Duolingo, with alternate waiver routes and conditional admission options.",
+      "status": "confirmed",
+      "source": "https://admissions.tc.umn.edu/admissions/international-admission/english-proficiency-information"
     }
   ]
 }
