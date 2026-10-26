@@ -8405,6 +8405,32 @@
       "url": "https://www.smu.edu/admission/apply/international/application-checklist",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.hmc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-5db464a3b4211628af999eb7",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.hmc.edu/admission/apply/international-applicants/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.villanova.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-48ad5e89d710da5b9765a64c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.villanova.edu/university/undergraduate-admission/applying-to-villanova/first-year-applicants.html",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

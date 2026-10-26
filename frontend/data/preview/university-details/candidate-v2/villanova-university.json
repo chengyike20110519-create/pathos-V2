@@ -1065,15 +1065,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-48ad5e89d710da5b9765a64c"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Villanova requires all international undergraduate students to submit proof of English proficiency. The official first-year page accepts Cambridge English, Duolingo, IELTS, Pearson PTE, and TOEFL iBT; the requirement may be waived when English is native or when the applicant has completed more than three consecutive years of secondary schooling where English is the primary language of instruction. The current page does not publish a universal minimum score.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
