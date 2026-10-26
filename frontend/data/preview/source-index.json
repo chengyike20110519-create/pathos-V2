@@ -7274,6 +7274,45 @@
       "url": "https://college.harvard.edu/admissions/apply/international-applicants",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.princeton.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-2962edaccdf447cf8393e296",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.princeton.edu/apply/international-students",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.brown.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-92c9c7aa16f9c009d785162d",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.brown.edu/international/english-proficiency",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.upenn.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-e4a08648d642362e6008dbfa",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.upenn.edu/how-to-apply/international-applicants/guidelines",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

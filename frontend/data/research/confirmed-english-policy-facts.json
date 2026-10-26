@@ -25,6 +25,24 @@
       "fact": "Harvard does not require first-year or transfer applicants to take an English proficiency exam, but applicants may submit TOEFL, IELTS, or Duolingo scores for review.",
       "status": "confirmed",
       "source": "https://college.harvard.edu/admissions/apply/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:princeton-university",
+      "fact": "Princeton requires TOEFL, IELTS Academic, Duolingo English Test, or PTE Academic when English is not the applicant's native language and the secondary school language of instruction is not English. Applicants with at least three years of English-medium secondary education are exempt.",
+      "status": "confirmed",
+      "source": "https://admission.princeton.edu/apply/international-students"
+    },
+    {
+      "universityId": "candidate-v2:brown-university",
+      "fact": "Brown requires admitted international students to demonstrate English proficiency and recommends an English proficiency test for applicants whose first language, home language, or secondary-school instruction is not English. Brown lists TOEFL, IELTS, Duolingo, Pearson, and Cambridge English among accepted tests.",
+      "status": "confirmed",
+      "source": "https://admission.brown.edu/international/english-proficiency"
+    },
+    {
+      "universityId": "candidate-v2:university-of-pennsylvania",
+      "fact": "Penn exempts applicants from an English proficiency test when English is their native language or was the primary language of instruction for at least three years. Otherwise, Penn requires official TOEFL, IELTS Academic, or Duolingo English Test scores for international undergraduate applicants.",
+      "status": "confirmed",
+      "source": "https://admissions.upenn.edu/how-to-apply/international-applicants/guidelines"
     }
   ]
 }
