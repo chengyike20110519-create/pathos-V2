@@ -236,6 +236,12 @@ export function MapShell({
   // ── Hover state for the floating POI tooltip ─────────────────────
   const [hoveredUniversityId, setHoveredUniversityId] = useState<string | null>(null);
   const [hoverPos, setHoverPos] = useState<{ x: number; y: number }>({ x: 0, y: 0 });
+  // Warm one deliberate hover at a time so the first click does not pay the
+  // Supabase pooler's cold detail query. This never loads the full directory
+  // for every school during the initial map render.
+  const detailPrefetchTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const detailPrefetchAbortRef = useRef<AbortController | null>(null);
+  const detailPrefetchIdRef = useRef<string | null>(null);
   useEffect(() => {
     const onMove = (event: PointerEvent | MouseEvent) => {
       // Limit to within the map container if possible.
@@ -546,6 +552,26 @@ export function MapShell({
     flyToDefault();
   }, [setSelectedRegionFips, flyToDefault]);
 
+  const handleUniversityHover = useCallback((id: string | null) => {
+    setHoveredUniversityId(id);
+    if (detailPrefetchTimerRef.current) clearTimeout(detailPrefetchTimerRef.current);
+    detailPrefetchAbortRef.current?.abort();
+    detailPrefetchTimerRef.current = null;
+    if (detailPrefetchIdRef.current === id) return;
+    detailPrefetchIdRef.current = id;
+    if (!id || !dataSource) return;
+    detailPrefetchTimerRef.current = setTimeout(() => {
+      const controller = new AbortController();
+      detailPrefetchAbortRef.current = controller;
+      void dataSource.getUniversityDetail(id, controller.signal).catch(() => undefined);
+    }, 260);
+  }, [dataSource]);
+
+  useEffect(() => () => {
+    if (detailPrefetchTimerRef.current) clearTimeout(detailPrefetchTimerRef.current);
+    detailPrefetchAbortRef.current?.abort();
+  }, []);
+
   const handleMetricChange = useCallback(
     (metricId: MetricId) => {
       const next = { ...viewState, activeMetricId: metricId };
@@ -832,7 +858,7 @@ export function MapShell({
                  }
                }}
                onClusterSelect={(ids) => { setSchoolListScope(ids); setSchoolListOpen(true); setSelectedUniversityId(null); setHoveredUniversityId(null); }}
-               onHover={(id) => setHoveredUniversityId(id)}
+               onHover={handleUniversityHover}
                highlightedId={hoveredUniversityId ?? listHoveredId}
                selectedId={selectedUniversityId}
                pinMinZoom={cityDrilldownEnabled ? 5.0 : 0}

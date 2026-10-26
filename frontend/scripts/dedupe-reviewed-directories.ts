@@ -21,7 +21,7 @@ function keyOf(item: Major): string {
 function arrayUnion(...values: unknown[]): string[] | undefined {
   const items = values.flatMap((value) => Array.isArray(value) ? value : []);
   if (!items.length) return undefined;
-  return [...new Set(items.filter((item): item is string => typeof item === "string" && item.trim()))];
+  return [...new Set(items.filter((item): item is string => typeof item === "string" && item.trim().length > 0))];
 }
 
 function score(item: Major): number {
