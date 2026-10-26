@@ -513,12 +513,21 @@
     "universityId": "candidate-v2:stony-brook-university",
     "spotlights": [
       {
-        "name": "Computer Science, B.S.",
+        "name": "Computer Science",
         "nameZh": "计算机科学（理学学士）",
         "kind": "distinctive",
         "reason": "Stony Brook University 官方本科项目页面列出计算机科学的人工智能与数据科学、计算机安全、游戏编程、人机交互、安全与隐私、系统软件开发等方向，并说明项目同时重视计算机系统设计、理论数学基础和实践应用；这是官方项目结构特色，不是外部排名结论。",
         "sourceUrl": "https://www.stonybrook.edu/undergraduate-admissions/programs/cse.php",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Data Science",
+        "nameZh": "数据科学",
+        "kind": "distinctive",
+        "reason": "Stony Brook 官方本科项目将 Data Science 定义为结合数学、计算机科学和统计学的专业，覆盖机器学习、计算机安全、安全与隐私及医疗数据等方向；这是官方项目结构事实，不代表外部排名。",
+        "sourceUrl": "https://www.stonybrook.edu/undergraduate-admissions/programs/das.php",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [

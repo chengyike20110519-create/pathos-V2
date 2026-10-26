@@ -7,7 +7,7 @@ import { parseProgramSpotlights } from "../src/schemas/dataset.schema";
 function comparableProgramName(name: string): string {
   return name
     .replace(/\s*\([^)]*\)\s*$/, "")
-    .replace(/,\s*(BA|BS|BBA|BFA|BSE)\s*$/i, "")
+    .replace(/,\s*(B\.?A\.?|B\.?S\.?|BBA|BFA|BSE)\s*$/i, "")
     .replace(/\band\b/gi, "&")
     .replace(/\s+/g, " ")
     .trim()
