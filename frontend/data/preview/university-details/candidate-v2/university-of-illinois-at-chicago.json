@@ -1218,15 +1218,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-5e5f65b088ae6510ce910247"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UIC requires international first-year applicants to submit English-proficiency scores when required by the applicant's prior-study country, or qualify for an exemption. UIC accepts TOEFL iBT, IELTS Academic, PTE Academic, and Duolingo English Test for the applicable undergraduate process; the official requirements page says score validity is two years and country-specific requirements determine whether scores are required.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

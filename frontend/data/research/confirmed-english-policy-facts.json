@@ -3,6 +3,30 @@
   "sourcePolicy": "Only official university undergraduate admissions pages are accepted.",
   "records": [
     {
+      "universityId": "candidate-v2:university-of-pittsburgh",
+      "fact": "The University of Pittsburgh's official admissions policy requires international undergraduate applicants to demonstrate English proficiency unless an exemption applies. The policy lists TOEFL iBT 80 or PBT 550 and IELTS 6.5 as baseline evidence; individual academic units may require higher proficiency, and scores below TOEFL iBT 100 or IELTS 7.0 may lead to an additional English assessment after admission.",
+      "status": "confirmed",
+      "source": "https://www.provost.pitt.edu/assessment-english-language-proficiency-admission"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-riverside",
+      "fact": "UC Riverside requires international first-year applicants to demonstrate English proficiency. Its official page lists IELTS Academic 6.5 or higher and recognizes AP/IB English results as alternative benchmarks; the page also directs applicants to the UC-wide English-proficiency requirements for the complete set of accepted evidence.",
+      "status": "confirmed",
+      "source": "https://admissions.ucr.edu/international"
+    },
+    {
+      "universityId": "candidate-v2:university-of-illinois-at-chicago",
+      "fact": "UIC requires international first-year applicants to submit English-proficiency scores when required by the applicant's prior-study country, or qualify for an exemption. UIC accepts TOEFL iBT, IELTS Academic, PTE Academic, and Duolingo English Test for the applicable undergraduate process; the official requirements page says score validity is two years and country-specific requirements determine whether scores are required.",
+      "status": "confirmed",
+      "source": "https://admissions.uic.edu/undergraduate/requirements-deadlines/international-requirements"
+    },
+    {
+      "universityId": "candidate-v2:clemson-university",
+      "fact": "Clemson requires international applicants to submit English-proficiency evidence through Duolingo, TOEFL, or IELTS, with waivers available when English is the primary or an official language. The official undergraduate international application page also describes conditional admission for academically admissible applicants who do not initially meet the university's English requirements, but does not publish a universal minimum score on the reviewed page.",
+      "status": "confirmed",
+      "source": "https://www.clemson.edu/admissions/undergraduate-admissions/apply/international.html"
+    },
+    {
       "universityId": "candidate-v2:university-of-massachusetts-amherst",
       "fact": "UMass Amherst requires non-native English speakers to demonstrate English proficiency. For first-year applicants it lists Duolingo 115, TOEFL 80 before January 21, 2026 or 4.5 afterward, IELTS Academic 6.5, or Cambridge English 176, with stated section minimums for several tests; verified waiver paths include qualifying English-medium schooling and are not automatic.",
       "status": "confirmed",

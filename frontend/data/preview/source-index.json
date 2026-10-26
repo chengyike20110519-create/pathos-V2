@@ -8314,6 +8314,58 @@
       "url": "https://admissions.miami.edu/_assets/pdf/apply/undergraduate-admission-policies.pdf",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.provost.pitt.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-9bbe4f426f06e19803784845",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.provost.pitt.edu/assessment-english-language-proficiency-admission",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.ucr.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-2ca09c732dff59d3730c7fa3",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ucr.edu/international",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.uic.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-5e5f65b088ae6510ce910247",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.uic.edu/undergraduate/requirements-deadlines/international-requirements",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.clemson.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-2108dae455b744182c229d02",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.clemson.edu/admissions/undergraduate-admissions/apply/international.html",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

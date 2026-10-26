@@ -1175,15 +1175,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-2108dae455b744182c229d02"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Clemson requires international applicants to submit English-proficiency evidence through Duolingo, TOEFL, or IELTS, with waivers available when English is the primary or an official language. The official undergraduate international application page also describes conditional admission for academically admissible applicants who do not initially meet the university's English requirements, but does not publish a universal minimum score on the reviewed page.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

@@ -2295,15 +2295,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-2ca09c732dff59d3730c7fa3"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC Riverside requires international first-year applicants to demonstrate English proficiency. Its official page lists IELTS Academic 6.5 or higher and recognizes AP/IB English results as alternative benchmarks; the page also directs applicants to the UC-wide English-proficiency requirements for the complete set of accepted evidence.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
