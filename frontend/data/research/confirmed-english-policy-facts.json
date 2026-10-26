@@ -553,6 +553,12 @@
       "fact": "UC Santa Barbara requires applicants whose native language is not English and whose secondary or higher education was not taught in English, or who have fewer than three years of English instruction, to demonstrate proficiency. Accepted routes include IELTS 6.5+, TOEFL iBT 4.5+ from January 2026 (80+ before), Duolingo 115+, specified AP/IB/SAT/ACT results, or a qualifying UC-transferable English-composition course; UCSB does not accept TOEFL MyBest scores.",
       "status": "confirmed",
       "source": "https://admissions.ext-prod.sa.ucsb.edu/english-language-proficiency"
+    },
+    {
+      "universityId": "candidate-v2:university-of-florida",
+      "fact": "For international undergraduate applicants, the University of Florida catalog states that applicants whose native language is not English must submit official TOEFL or IELTS scores. The current catalog page does not publish a universal minimum score on the freshman admission section, so no numeric threshold is inferred here.",
+      "status": "confirmed",
+      "source": "https://catalog.ufl.edu/UGRD/admission/"
     }
   ]
 }

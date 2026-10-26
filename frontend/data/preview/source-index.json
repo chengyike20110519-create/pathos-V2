@@ -8444,6 +8444,19 @@
       "url": "https://www.villanova.edu/university/undergraduate-admission/applying-to-villanova/first-year-applicants.html",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — catalog.ufl.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-0389ddc9d7fa838dc0e68a44",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://catalog.ufl.edu/UGRD/admission/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

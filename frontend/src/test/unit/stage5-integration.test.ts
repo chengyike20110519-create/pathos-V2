@@ -401,14 +401,15 @@ describe("Stage 5 frontend/backend integration contract", () => {
     expect(detail.admissions.testPolicy.sourceIds.length).toBeGreaterThan(0);
   });
 
-  it("23 English policy pending", async () => {
+  it("23 Florida English policy is confirmed without inventing a score", async () => {
     const detail = await artifact<any>(
       "university-details/candidate-v2/university-of-florida.json",
     );
     expect(detail.admissions.englishPolicy).toMatchObject({
-      value: null,
-      status: "pending_external_access",
+      status: "verified",
     });
+    expect(detail.admissions.englishPolicy.value).toContain("TOEFL or IELTS");
+    expect(detail.admissions.englishPolicy.sourceIds.length).toBeGreaterThan(0);
   });
 
   it("24 county scope", async () => {
