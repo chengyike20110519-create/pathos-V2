@@ -8,6 +8,7 @@ const detailsDir = "data/preview/university-details/candidate-v2";
 const sourceIndexPath = "data/preview/source-index.json";
 const policyPath = "data/research/confirmed-english-policy-facts.json";
 const apply = process.argv.includes("--apply");
+const forceDb = process.argv.includes("--force-db");
 const sourceId = (url: string) => `confirmed-english-source-${createHash("sha256").update(url).digest("hex").slice(0, 24)}`;
 
 async function main(): Promise<void> {
@@ -20,7 +21,7 @@ async function main(): Promise<void> {
     const row = records.get(detail.id);
     if (!row) continue;
     const id = sourceId(row.source);
-    if (detail.admissions?.englishPolicy?.status === "verified" && detail.admissions.englishPolicy.sourceIds?.includes(id)) continue;
+    if (!forceDb && detail.admissions?.englishPolicy?.status === "verified" && detail.admissions.englishPolicy.sourceIds?.includes(id)) continue;
     updates.push({ file, universityId: detail.id, sourceId: id });
     if (apply) {
       detail.admissions = { ...detail.admissions, englishPolicy: { nullReason: null, referenceYear: 2026, scope: "international_first_year_undergraduate", sourceIds: [id], status: "verified", unit: "policy", value: row.fact, warnings: ["confirmed_fact_ledger", "source_fetch_not_repeated"] } };

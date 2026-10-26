@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-6888930ed2014e91794918f4"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Olin highly recommends English-proficiency results for applicants whose primary language is not English, unless they have attended an English-instruction school for at least four years. Olin accepts TOEFL iBT, IELTS, Duolingo, and PTE, with recommended minimums of TOEFL 100+, IELTS 7+, Duolingo 120+, and PTE 65+. Applicants submitting SAT or ACT scores do not also need an English-proficiency exam; applicants submitting neither SAT nor ACT must submit an English exam.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -418,7 +421,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "graduate_enrollment_not_reported",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
@@ -477,14 +479,13 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "graduate_enrollment_not_reported",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year",
       "total_enrollment_not_reported"
     ],
-    "count": 6,
+    "count": 5,
     "hasWarnings": true
   }
 }

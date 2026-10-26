@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-801fe4aa61c74c6f383e90a3"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Johns Hopkins recommends, but does not require, TOEFL, IELTS, Duolingo, or Cambridge English results for applicants whose primary language is not English or who have not attended an English-language school for the last three years. The official testing page gives competitive guidance of TOEFL 5 total with preferred subscores, IELTS 7.0 in each band, Duolingo 120 with preferred subscores, or Cambridge 185+; SAT/ACT is required for first-year admission.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -933,7 +936,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -990,10 +992,9 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 2,
+    "count": 1,
     "hasWarnings": true
   }
 }

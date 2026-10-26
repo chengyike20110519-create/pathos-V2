@@ -7963,6 +7963,32 @@
       "url": "https://bulletins.nyu.edu/undergraduate/arts/admissions/",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.olin.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-6888930ed2014e91794918f4",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.olin.edu/admission/apply/admission-process",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — apply.jhu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-801fe4aa61c74c6f383e90a3",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/standardized-testing/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

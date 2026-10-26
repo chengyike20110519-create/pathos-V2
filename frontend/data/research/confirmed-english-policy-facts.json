@@ -343,6 +343,18 @@
       "fact": "NYU undergraduate applicants whose first language is not English generally need English-language testing unless they are exempt, including applicants with three or more consecutive full academic years in an English-medium school or university. NYU states that it has no minimum language-test score, but competitive applicants typically submit TOEFL iBT 100+, IELTS Academic 7.5+, PTE Academic 70+, Cambridge 191+, iTEP 4.5+, or Duolingo 125+; the accepted tests and score guidance are published in the undergraduate bulletin.",
       "status": "confirmed",
       "source": "https://bulletins.nyu.edu/undergraduate/arts/admissions/"
+    },
+    {
+      "universityId": "candidate-v2:olin-college-of-engineering",
+      "fact": "Olin highly recommends English-proficiency results for applicants whose primary language is not English, unless they have attended an English-instruction school for at least four years. Olin accepts TOEFL iBT, IELTS, Duolingo, and PTE, with recommended minimums of TOEFL 100+, IELTS 7+, Duolingo 120+, and PTE 65+. Applicants submitting SAT or ACT scores do not also need an English-proficiency exam; applicants submitting neither SAT nor ACT must submit an English exam.",
+      "status": "confirmed",
+      "source": "https://www.olin.edu/admission/apply/admission-process"
+    },
+    {
+      "universityId": "candidate-v2:johns-hopkins-university",
+      "fact": "Johns Hopkins recommends, but does not require, TOEFL, IELTS, Duolingo, or Cambridge English results for applicants whose primary language is not English or who have not attended an English-language school for the last three years. The official testing page gives competitive guidance of TOEFL 5 total with preferred subscores, IELTS 7.0 in each band, Duolingo 120 with preferred subscores, or Cambridge 185+; SAT/ACT is required for first-year admission.",
+      "status": "confirmed",
+      "source": "https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/standardized-testing/"
     }
   ]
 }
