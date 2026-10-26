@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-35906a8da17ebf3ff90ba89a"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "International undergraduate applicants must demonstrate English proficiency before enrolling. CU Boulder lists TOEFL iBT 80 for tests taken before January 2026, TOEFL iBT 4.0 for tests taken after January 2026, IELTS 6.5, Cambridge 180, PTE Academic 58, and Duolingo English Test 115 among the qualifying options; approved prior study can also satisfy the requirement.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -2150,7 +2153,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
@@ -2216,12 +2218,11 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }

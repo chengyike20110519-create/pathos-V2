@@ -3,6 +3,24 @@
   "sourcePolicy": "Only official university undergraduate admissions pages are accepted.",
   "records": [
     {
+      "universityId": "candidate-v2:university-of-chicago",
+      "fact": "For undergraduate applicants, the University of Chicago lists an English proficiency examination such as TOEFL, IELTS, or Duolingo as optional application material; the official application materials do not state a universal minimum English-test score requirement.",
+      "status": "confirmed",
+      "source": "https://collegeadmissions.uchicago.edu/files/documents/international-experience.pdf"
+    },
+    {
+      "universityId": "candidate-v2:university-of-colorado-boulder",
+      "fact": "International undergraduate applicants must demonstrate English proficiency before enrolling. CU Boulder lists TOEFL iBT 80 for tests taken before January 2026, TOEFL iBT 4.0 for tests taken after January 2026, IELTS 6.5, Cambridge 180, PTE Academic 58, and Duolingo English Test 115 among the qualifying options; approved prior study can also satisfy the requirement.",
+      "status": "confirmed",
+      "source": "https://www.colorado.edu/admissions/process/international/plan/english-proficiency"
+    },
+    {
+      "universityId": "candidate-v2:university-of-iowa",
+      "fact": "International undergraduate applicants must demonstrate English proficiency. The University of Iowa lists TOEFL iBT 80 before January 2026 with section minimums of 17, TOEFL iBT 4.0 after January 2026 with section minimums of 3.5, TOEFL Home Edition 80 with section minimums of 17, TOEFL Essentials 9, and IELTS 6.5 with all subscores at least 6.0 for admission; lower subscores can trigger additional ESL coursework.",
+      "status": "confirmed",
+      "source": "https://admissions.uiowa.edu/english-proficiency-requirements"
+    },
+    {
       "universityId": "candidate-v2:stanford-university",
       "fact": "Stanford does not require an English proficiency exam for undergraduate admission. Applicants may self-report scores if they wish; English fluency is a prerequisite for admission.",
       "status": "confirmed",

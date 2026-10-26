@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-3b97d62d42d00bc78980813f"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "International undergraduate applicants must demonstrate English proficiency. The University of Iowa lists TOEFL iBT 80 before January 2026 with section minimums of 17, TOEFL iBT 4.0 after January 2026 with section minimums of 3.5, TOEFL Home Edition 80 with section minimums of 17, TOEFL Essentials 9, and IELTS 6.5 with all subscores at least 6.0 for admission; lower subscores can trigger additional ESL coursework.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -1528,7 +1531,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
@@ -1594,12 +1596,11 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }

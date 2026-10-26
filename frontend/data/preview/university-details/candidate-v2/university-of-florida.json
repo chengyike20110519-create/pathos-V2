@@ -56,7 +56,7 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
+      "nullReason": "official_undergraduate_english_policy_not_frozen",
       "referenceYear": null,
       "scope": "international_first_year_undergraduate",
       "sourceIds": [],
@@ -3129,7 +3129,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -3195,10 +3194,9 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 2,
+    "count": 1,
     "hasWarnings": true
   }
 }

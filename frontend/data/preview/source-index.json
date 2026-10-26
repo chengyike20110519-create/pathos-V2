@@ -8067,6 +8067,58 @@
       "url": "https://admissions.ext-prod.sa.ucsb.edu/english-language-proficiency",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — collegeadmissions.uchicago.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-115e3d4589c579d36dab835f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://collegeadmissions.uchicago.edu/files/documents/international-experience.pdf",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.colorado.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-35906a8da17ebf3ff90ba89a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.colorado.edu/admissions/process/international/plan/english-proficiency",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.ufl.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-7ca7b05f035033c606c2333a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ufl.edu/apply/freshman/international",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.uiowa.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-3b97d62d42d00bc78980813f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.uiowa.edu/english-proficiency-requirements",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }
