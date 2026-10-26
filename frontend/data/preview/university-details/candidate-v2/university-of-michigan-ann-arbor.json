@@ -1025,35 +1025,11 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Integrated Business and Engineering",
-      "listType": "major",
-      "name": "Integrated Business and Engineering",
-      "officialUrl": "https://business-engineering.umich.edu",
-      "school": "Ross School of Business",
-      "sourceIds": [
-        "source_umich_2026_27_official_majors_degrees_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Interarts Performance",
       "listType": "major",
       "name": "Interarts Performance",
       "officialUrl": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
       "school": "Stamps School of Art & Design",
-      "sourceIds": [
-        "source_umich_2026_27_official_majors_degrees_page"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Interarts Performance",
-      "listType": "major",
-      "name": "Interarts Performance",
-      "officialUrl": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
-      "school": "School of Music, Theatre & Dance (SMTD)",
       "sourceIds": [
         "source_umich_2026_27_official_majors_degrees_page"
       ],
@@ -2045,8 +2021,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$18,309–$60,107",
-    "maximumUsd": 60107.0,
-    "minimumUsd": 18309.0,
+    "maximumUsd": 60107,
+    "minimumUsd": 18309,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -2253,7 +2229,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 18309.0,
+      "amountUsd": 18309,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -2262,7 +2238,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 60107.0,
+      "amountUsd": 60107,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -2275,7 +2251,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "MI",
-  "studentFacultyRatio": 11.0,
+  "studentFacultyRatio": 11,
   "topPrograms": [
     "Computer and Information Sciences, General",
     "Business Administration and Management, General",

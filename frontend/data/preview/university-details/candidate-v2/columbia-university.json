@@ -197,7 +197,8 @@
       "listType": "official_undergraduate_major",
       "name": "Applied Mathematics",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "source_columbia_engineering_undergraduate_catalog"
       ],
       "status": "verified",
       "warnings": []
@@ -208,7 +209,8 @@
       "listType": "official_undergraduate_major",
       "name": "Archaeology",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-67875fa38788dc1afc9b566d"
       ],
       "status": "verified",
       "warnings": []
@@ -219,7 +221,8 @@
       "listType": "official_undergraduate_major",
       "name": "Architecture",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-67875fa38788dc1afc9b566d"
       ],
       "status": "verified",
       "warnings": []
@@ -230,7 +233,8 @@
       "listType": "official_undergraduate_major",
       "name": "Art History",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-67875fa38788dc1afc9b566d"
       ],
       "status": "verified",
       "warnings": []
@@ -252,7 +256,8 @@
       "listType": "official_undergraduate_major",
       "name": "Astronomy",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-67875fa38788dc1afc9b566d"
       ],
       "status": "verified",
       "warnings": []
@@ -263,7 +268,8 @@
       "listType": "official_undergraduate_major",
       "name": "Astrophysics",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-67875fa38788dc1afc9b566d"
       ],
       "status": "verified",
       "warnings": []
@@ -307,7 +313,8 @@
       "listType": "official_undergraduate_major",
       "name": "Chemical Physics",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-f643b403c77b9e3bc9f3a333"
       ],
       "status": "verified",
       "warnings": []
@@ -329,7 +336,8 @@
       "listType": "official_undergraduate_major",
       "name": "Classics",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-67875fa38788dc1afc9b566d"
       ],
       "status": "verified",
       "warnings": []
@@ -362,7 +370,8 @@
       "listType": "official_undergraduate_major",
       "name": "Cognitive Science",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-67875fa38788dc1afc9b566d"
       ],
       "status": "verified",
       "warnings": []
@@ -395,7 +404,8 @@
       "listType": "official_undergraduate_major",
       "name": "Computer Science",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "source_columbia_engineering_undergraduate_catalog"
       ],
       "status": "verified",
       "warnings": []
@@ -560,7 +570,8 @@
       "listType": "official_undergraduate_major",
       "name": "Environmental Chemistry",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-f643b403c77b9e3bc9f3a333"
       ],
       "status": "verified",
       "warnings": []
@@ -681,7 +692,8 @@
       "listType": "official_undergraduate_major",
       "name": "History and Theory of Architecture",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-67875fa38788dc1afc9b566d"
       ],
       "status": "verified",
       "warnings": []
@@ -769,7 +781,8 @@
       "listType": "official_undergraduate_major",
       "name": "Medical Humanities",
       "sourceIds": [
-        "official-source-ddc2089b53b67104c8e84039"
+        "official-source-ddc2089b53b67104c8e84039",
+        "official-source-0d47913bdf7b3ec8f7241524"
       ],
       "status": "verified",
       "warnings": []
@@ -996,20 +1009,6 @@
     },
     {
       "degreeType": "bachelor_degree_program",
-      "displayName": "Applied Mathematics",
-      "listType": "official_undergraduate_major",
-      "name": "Applied Mathematics",
-      "sourceIds": [
-        "source_columbia_engineering_undergraduate_catalog"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
       "displayName": "Applied Physics",
       "listType": "official_undergraduate_major",
       "name": "Applied Physics",
@@ -1075,20 +1074,6 @@
       "status": "verified",
       "warnings": [
         "scope_engineering",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Computer Science",
-      "listType": "official_undergraduate_major",
-      "name": "Computer Science",
-      "sourceIds": [
-        "source_columbia_engineering_undergraduate_catalog"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
         "normalized_from_legacy_directory_string"
       ]
     },
@@ -1234,62 +1219,6 @@
     },
     {
       "degreeType": "bachelor_degree_program",
-      "displayName": "Archaeology",
-      "listType": "official_undergraduate_major",
-      "name": "Archaeology",
-      "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Architecture",
-      "listType": "official_undergraduate_major",
-      "name": "Architecture",
-      "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Art History",
-      "listType": "official_undergraduate_major",
-      "name": "Art History",
-      "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "History and Theory of Architecture",
-      "listType": "official_undergraduate_major",
-      "name": "History and Theory of Architecture",
-      "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
       "displayName": "Art History+Visual Arts",
       "listType": "official_undergraduate_major",
       "name": "Art History+Visual Arts",
@@ -1299,34 +1228,6 @@
       "status": "verified",
       "warnings": [
         "scope_columbia_college",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Astronomy",
-      "listType": "official_undergraduate_major",
-      "name": "Astronomy",
-      "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Astrophysics",
-      "listType": "official_undergraduate_major",
-      "name": "Astrophysics",
-      "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
         "normalized_from_legacy_directory_string"
       ]
     },
@@ -1346,34 +1247,6 @@
     },
     {
       "degreeType": "bachelor_degree_program",
-      "displayName": "Classics",
-      "listType": "official_undergraduate_major",
-      "name": "Classics",
-      "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Cognitive Science",
-      "listType": "official_undergraduate_major",
-      "name": "Cognitive Science",
-      "sourceIds": [
-        "official-source-67875fa38788dc1afc9b566d"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
       "displayName": "Biological Sciences",
       "listType": "official_undergraduate_major",
       "name": "Biological Sciences",
@@ -1388,34 +1261,6 @@
     },
     {
       "degreeType": "bachelor_degree_program",
-      "displayName": "Chemical Physics",
-      "listType": "official_undergraduate_major",
-      "name": "Chemical Physics",
-      "sourceIds": [
-        "official-source-f643b403c77b9e3bc9f3a333"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Environmental Chemistry",
-      "listType": "official_undergraduate_major",
-      "name": "Environmental Chemistry",
-      "sourceIds": [
-        "official-source-f643b403c77b9e3bc9f3a333"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
       "displayName": "Classical Studies",
       "listType": "official_undergraduate_major",
       "name": "Classical Studies",
@@ -1425,20 +1270,6 @@
       "status": "verified",
       "warnings": [
         "scope_columbia_college",
-        "normalized_from_legacy_directory_string"
-      ]
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Medical Humanities",
-      "listType": "official_undergraduate_major",
-      "name": "Medical Humanities",
-      "sourceIds": [
-        "official-source-0d47913bdf7b3ec8f7241524"
-      ],
-      "status": "verified",
-      "warnings": [
-        "scope_general_studies",
         "normalized_from_legacy_directory_string"
       ]
     }

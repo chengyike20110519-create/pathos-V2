@@ -294,23 +294,13 @@
       "listType": "areas_of_study",
       "name": "Biochemistry and Molecular Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Biochemistry and Molecular Biology, B.S.",
-      "listType": "major",
-      "name": "Biochemistry and Molecular Biology",
-      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/departmentofmolecularbiologyandbiochemistry/biochemistryandmolecularbiology_bs/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -510,23 +500,13 @@
       "listType": "areas_of_study",
       "name": "Chemical Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Chemical Engineering, B.S.",
-      "listType": "major",
-      "name": "Chemical Engineering",
-      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofchemicalandbiomolecularengineering/chemicalengineering_bs/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
@@ -582,23 +562,13 @@
       "listType": "areas_of_study",
       "name": "Chinese Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Chinese Studies, B.A.",
-      "listType": "major",
-      "name": "Chinese Studies",
-      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/chinesestudies_ba/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
@@ -704,23 +674,13 @@
       "listType": "areas_of_study",
       "name": "Comparative Literature",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Comparative Literature, B.A.",
-      "listType": "major",
-      "name": "Comparative Literature",
-      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofcomparativeliterature/comparativeliterature_ba/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -791,23 +751,13 @@
       "listType": "areas_of_study",
       "name": "Computer Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Computer Science, B.S.",
-      "listType": "major",
-      "name": "Computer Science",
-      "officialUrl": "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_bs/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
@@ -863,17 +813,6 @@
       "listType": "major",
       "name": "Dance",
       "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdance/dance_ba/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Dance, B.F.A.",
-      "listType": "major",
-      "name": "Dance",
-      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofdance/dance_bfa/",
       "sourceIds": [
         "source_uci_2026_27_undergraduate_majors"
       ],
@@ -1382,23 +1321,13 @@
       "listType": "areas_of_study",
       "name": "German Studies",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "German Studies, B.A.",
-      "listType": "major",
-      "name": "German Studies",
-      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeuropeanlanguagesandstudies/germanstudies_ba/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
@@ -1465,23 +1394,13 @@
       "listType": "areas_of_study",
       "name": "Human Biology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Human Biology, B.S.",
-      "listType": "major",
-      "name": "Human Biology",
-      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/humanbiology_bs",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1502,23 +1421,13 @@
       "listType": "areas_of_study",
       "name": "Informatics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Informatics, B.S.",
-      "listType": "major",
-      "name": "Informatics",
-      "officialUrl": "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/informatics_bs/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
@@ -1587,23 +1496,13 @@
       "listType": "areas_of_study",
       "name": "Japanese Language and Literature",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Japanese Language and Literature, B.A.",
-      "listType": "major",
-      "name": "Japanese Language and Literature",
-      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofeastasianstudies/japaneselanguageandliterature_ba/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1757,23 +1656,13 @@
       "listType": "areas_of_study",
       "name": "Mechanical Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Mechanical Engineering, B.S.",
-      "listType": "major",
-      "name": "Mechanical Engineering",
-      "officialUrl": "https://catalogue.uci.edu/thehenrysamuelischoolofengineering/departmentofmechanicalandaerospaceengineering/mechanicalengineering_bs/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1794,23 +1683,13 @@
       "listType": "areas_of_study",
       "name": "Microbiology and Immunology",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Microbiology and Immunology, B.S.",
-      "listType": "major",
-      "name": "Microbiology and Immunology",
-      "officialUrl": "https://catalogue.uci.edu/charliedunlopschoolofbiologicalsciences/departmentofmolecularbiologyandbiochemistry/microbiologyandimmunology_bs/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1844,17 +1723,6 @@
       "listType": "major",
       "name": "Music",
       "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofmusic/music_ba/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Music, B.Mus.",
-      "listType": "major",
-      "name": "Music",
-      "officialUrl": "https://catalogue.uci.edu/clairetrevorschoolofthearts/departmentofmusic/music_bmus/",
       "sourceIds": [
         "source_uci_2026_27_undergraduate_majors"
       ],
@@ -1966,23 +1834,13 @@
       "listType": "areas_of_study",
       "name": "Nursing Science",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Nursing Science, B.S.",
-      "listType": "major",
-      "name": "Nursing Science",
-      "officialUrl": "https://catalogue.uci.edu/sueandbillgrossschoolofnursing/nursingscience_bs/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1990,23 +1848,13 @@
       "listType": "areas_of_study",
       "name": "Pharmaceutical Sciences",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Pharmaceutical Sciences, B.S.",
-      "listType": "major",
-      "name": "Pharmaceutical Sciences",
-      "officialUrl": "https://catalogue.uci.edu/schoolofpharmacyandpharmaceuticalsciences/pharmaceuticalsciences_bs/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -2027,23 +1875,13 @@
       "listType": "areas_of_study",
       "name": "Philosophy",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_uci_2026_27_undergraduate_majors"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Philosophy, B.A.",
-      "listType": "major",
-      "name": "Philosophy",
-      "officialUrl": "https://catalogue.uci.edu/schoolofhumanities/departmentofphilosophy/philosophy_ba/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "undergraduate_major",
@@ -2123,17 +1961,6 @@
       "listType": "major",
       "name": "Psychology",
       "officialUrl": "https://catalogue.uci.edu/schoolofsocialecology/departmentofpsychology/psychology_ba/",
-      "sourceIds": [
-        "source_uci_2026_27_undergraduate_majors"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Psychology, B.S.",
-      "listType": "major",
-      "name": "Psychology",
-      "officialUrl": "https://catalogue.uci.edu/schoolofsocialsciences/departmentofcognitivesciences/psychology_bs/",
       "sourceIds": [
         "source_uci_2026_27_undergraduate_majors"
       ],
@@ -2400,8 +2227,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$14,237–$45,014",
-    "maximumUsd": 45014.0,
-    "minimumUsd": 14237.0,
+    "maximumUsd": 45014,
+    "minimumUsd": 14237,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -2647,7 +2474,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 14237.0,
+      "amountUsd": 14237,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -2656,7 +2483,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 45014.0,
+      "amountUsd": 45014,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -2669,7 +2496,7 @@
   "sourceCommit": "source-index:source_uci_2026_27_undergraduate_majors",
   "sourceStatus": "verified",
   "state": "CA",
-  "studentFacultyRatio": 18.0,
+  "studentFacultyRatio": 18,
   "topPrograms": [
     "Biology/Biological Sciences, General",
     "Business/Managerial Economics",

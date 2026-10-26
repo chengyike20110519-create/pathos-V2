@@ -170,17 +170,6 @@
       "status": "verified_official_undergraduate_majors"
     },
     {
-      "degreeType": "B.Arch.",
-      "displayName": "Architecture",
-      "listType": "major",
-      "name": "Architecture",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-barch/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
       "degreeType": "B.F.A.",
       "displayName": "Art",
       "listType": "major",
@@ -204,17 +193,6 @@
     },
     {
       "degreeType": "B.S.",
-      "displayName": "Artificial Intelligence",
-      "listType": "major",
-      "name": "Artificial Intelligence",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-bs/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
       "displayName": "Behavioral Economics",
       "listType": "major",
       "name": "Behavioral Economics",
@@ -230,28 +208,6 @@
       "listType": "additional_major",
       "name": "Biological Sciences",
       "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-additional-major/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.A.",
-      "displayName": "Biological Sciences",
-      "listType": "major",
-      "name": "Biological Sciences",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-ba/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
-      "displayName": "Biological Sciences",
-      "listType": "major",
-      "name": "Biological Sciences",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-bs/",
       "sourceIds": [
         "source_cmu_2026_27_undergraduate_catalog"
       ],
@@ -303,17 +259,6 @@
     },
     {
       "degreeType": "B.S.",
-      "displayName": "Business Administration",
-      "listType": "major",
-      "name": "Business Administration",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-bs/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
       "displayName": "Chemical Engineering",
       "listType": "major",
       "name": "Chemical Engineering",
@@ -329,17 +274,6 @@
       "listType": "major",
       "name": "Chemistry",
       "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-ba/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
-      "displayName": "Chemistry",
-      "listType": "major",
-      "name": "Chemistry",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-bs/",
       "sourceIds": [
         "source_cmu_2026_27_undergraduate_catalog"
       ],
@@ -402,17 +336,6 @@
     },
     {
       "degreeType": "B.S.",
-      "displayName": "Computational Biology",
-      "listType": "major",
-      "name": "Computational Biology",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-bs/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
       "displayName": "Computational Finance",
       "listType": "major",
       "name": "Computational Finance",
@@ -428,17 +351,6 @@
       "listType": "additional_major",
       "name": "Computer Science",
       "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-additional-major/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
-      "displayName": "Computer Science",
-      "listType": "major",
-      "name": "Computer Science",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-bs/",
       "sourceIds": [
         "source_cmu_2026_27_undergraduate_catalog"
       ],
@@ -505,28 +417,6 @@
       "listType": "additional_major",
       "name": "Economics",
       "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-additional-major/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.A.",
-      "displayName": "Economics",
-      "listType": "major",
-      "name": "Economics",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-ba/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
-      "displayName": "Economics",
-      "listType": "major",
-      "name": "Economics",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-bs/",
       "sourceIds": [
         "source_cmu_2026_27_undergraduate_catalog"
       ],
@@ -676,17 +566,6 @@
       "status": "verified_official_undergraduate_majors"
     },
     {
-      "degreeType": "B.A./B.S.",
-      "displayName": "Ethics, History, and Public Policy",
-      "listType": "major",
-      "name": "Ethics, History, and Public Policy",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/ethics-history-public-policy-ba/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
       "degreeType": "B.A.",
       "displayName": "Film and Visual Media",
       "listType": "major",
@@ -747,17 +626,6 @@
       "listType": "additional_major",
       "name": "Human-Computer Interaction",
       "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-additional-major/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
-      "displayName": "Human-Computer Interaction",
-      "listType": "major",
-      "name": "Human-Computer Interaction",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-bs/",
       "sourceIds": [
         "source_cmu_2026_27_undergraduate_catalog"
       ],
@@ -864,17 +732,6 @@
     },
     {
       "degreeType": "B.S.",
-      "displayName": "Mathematical Sciences",
-      "listType": "major",
-      "name": "Mathematical Sciences",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-bs/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
       "displayName": "Mathematical Sciences and Economics",
       "listType": "major",
       "name": "Mathematical Sciences and Economics",
@@ -929,28 +786,6 @@
       "status": "verified_official_undergraduate_majors"
     },
     {
-      "degreeType": "B.S.",
-      "displayName": "Neuroscience",
-      "listType": "major",
-      "name": "Neuroscience",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/neuroscience-bs/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
-      "displayName": "Neuroscience",
-      "listType": "major",
-      "name": "Neuroscience",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/neuroscience-bs/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
       "degreeType": "B.A.",
       "displayName": "Philosophy",
       "listType": "major",
@@ -967,28 +802,6 @@
       "listType": "additional_major",
       "name": "Physics",
       "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-additional-major/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.A.",
-      "displayName": "Physics",
-      "listType": "major",
-      "name": "Physics",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-ba/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
-      "displayName": "Physics",
-      "listType": "major",
-      "name": "Physics",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-bs/",
       "sourceIds": [
         "source_cmu_2026_27_undergraduate_catalog"
       ],
@@ -1055,17 +868,6 @@
       "listType": "additional_major",
       "name": "Robotics",
       "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-additional-major/",
-      "sourceIds": [
-        "source_cmu_2026_27_undergraduate_catalog"
-      ],
-      "status": "verified_official_undergraduate_majors"
-    },
-    {
-      "degreeType": "B.S.",
-      "displayName": "Robotics",
-      "listType": "major",
-      "name": "Robotics",
-      "officialUrl": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-bs/",
       "sourceIds": [
         "source_cmu_2026_27_undergraduate_catalog"
       ],

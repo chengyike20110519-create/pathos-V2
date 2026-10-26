@@ -2068,17 +2068,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Computer Science",
-      "listType": "major",
-      "name": "Computer Science",
-      "officialUrl": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/computer-science/computer-science-major/",
-      "sourceIds": [
-        "source_northwestern_2026_27_programs_az"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Earth and Planetary Sciences",
       "listType": "major",
       "name": "Earth and Planetary Sciences",
@@ -2412,8 +2401,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$65,997",
-    "maximumUsd": 65997.0,
-    "minimumUsd": 65997.0,
+    "maximumUsd": 65997,
+    "minimumUsd": 65997,
     "scopes": [
       "private_single_rate"
     ],
@@ -2638,7 +2627,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 65997.0,
+      "amountUsd": 65997,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -2651,7 +2640,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "IL",
-  "studentFacultyRatio": 6.0,
+  "studentFacultyRatio": 6,
   "topPrograms": [
     "Econometrics and Quantitative Economics",
     "Psychology, General",

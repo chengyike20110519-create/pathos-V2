@@ -272,18 +272,6 @@
       "status": "verified"
     },
     {
-      "degreeType": "undergraduate_major",
-      "displayName": "Anthropology BS",
-      "listType": "major",
-      "name": "Anthropology",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/AnthropologyBS",
-      "sourceIds": [
-        "source_ucla_2026_27_official_catalog_major_search"
-      ],
-      "status": "verified"
-    },
-    {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Anthropology, General",
       "listType": "areas_of_study",
@@ -1852,18 +1840,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Human Biology and Society BS",
-      "listType": "major",
-      "name": "Human Biology and Society",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBS",
-      "sourceIds": [
-        "source_ucla_2026_27_official_catalog_major_search"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Individual Field of Concentration BA in Arts and Architecture",
       "listType": "major",
       "name": "Individual Field of Concentration BA in Arts and Architecture",
@@ -2730,18 +2706,6 @@
       "status": "verified"
     },
     {
-      "degreeType": "undergraduate_major",
-      "displayName": "Physics BS",
-      "listType": "major",
-      "name": "Physics",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PhysicsBS",
-      "sourceIds": [
-        "source_ucla_2026_27_official_catalog_major_search"
-      ],
-      "status": "verified"
-    },
-    {
       "degreeType": "bachelor_degree_award_area",
       "displayName": "Physics, General",
       "listType": "areas_of_study",
@@ -2885,18 +2849,6 @@
       "name": "Public Health",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PublicHealthBA",
-      "sourceIds": [
-        "source_ucla_2026_27_official_catalog_major_search"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Public Health BS",
-      "listType": "major",
-      "name": "Public Health",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.ucla.edu/major/2026/PublicHealthBS",
       "sourceIds": [
         "source_ucla_2026_27_official_catalog_major_search"
       ],
@@ -3223,8 +3175,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$13,747–$44,524",
-    "maximumUsd": 44524.0,
-    "minimumUsd": 13747.0,
+    "maximumUsd": 44524,
+    "minimumUsd": 13747,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -3470,7 +3422,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 13747.0,
+      "amountUsd": 13747,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -3479,7 +3431,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 44524.0,
+      "amountUsd": 44524,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -3492,7 +3444,7 @@
   "sourceCommit": "source-index:source_ucla_2026_27_official_catalog_major_search",
   "sourceStatus": "verified",
   "state": "CA",
-  "studentFacultyRatio": 18.0,
+  "studentFacultyRatio": 18,
   "topPrograms": [
     "Econometrics and Quantitative Economics",
     "Psychology, General",

@@ -776,118 +776,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Biology",
-      "listType": "major",
-      "name": "Biology",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biology-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Arts and Sciences"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/biology-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Chemistry",
-      "listType": "major",
-      "name": "Chemistry",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/chemistry-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Arts and Sciences"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/chemistry-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Economics",
-      "listType": "major",
-      "name": "Economics",
-      "degreeAward": "B.A.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/economics-ba/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "Maxwell School of Citizenship and Public Affairs"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/economics-ba/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Physics",
-      "listType": "major",
-      "name": "Physics",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/physics-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Arts and Sciences"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/physics-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Psychology",
-      "listType": "major",
-      "name": "Psychology",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/psychology-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Arts and Sciences"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/psychology-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Forensic Science",
-      "listType": "major",
-      "name": "Forensic Science",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/forensic-science-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Arts and Sciences"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/forensic-science-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Mathematics",
-      "listType": "major",
-      "name": "Mathematics",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/mathematics-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Arts and Sciences"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/mathematics-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Advertising",
       "listType": "major",
       "name": "Advertising",
@@ -933,22 +821,6 @@
         "College of Arts and Sciences"
       ],
       "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/applied-mathematics-ba/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Applied Mathematics",
-      "listType": "major",
-      "name": "Applied Mathematics",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/applied-mathematics-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Arts and Sciences"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/applied-mathematics-bs/"
     },
     {
       "degreeType": "undergraduate_major",
@@ -1141,22 +1013,6 @@
         "Maxwell School of Citizenship and Public Affairs"
       ],
       "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environment-sustainability-policy-ba/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Environment, Sustainability and Policy",
-      "listType": "major",
-      "name": "Environment, Sustainability and Policy",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environment-sustainability-policy-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "Maxwell School of Citizenship and Public Affairs"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/environment-sustainability-policy-bs/"
     },
     {
       "degreeType": "undergraduate_major",
@@ -1400,22 +1256,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Music",
-      "listType": "major",
-      "name": "Music",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/music-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Visual and Performing Arts"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/setnor-music/music-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Music Composition",
       "listType": "major",
       "name": "Music Composition",
@@ -1478,22 +1318,6 @@
         "College of Arts and Sciences"
       ],
       "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/neuroscience-ba/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Neuroscience",
-      "listType": "major",
-      "name": "Neuroscience",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/neuroscience-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Arts and Sciences"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/neuroscience-bs/"
     },
     {
       "degreeType": "undergraduate_major",
@@ -1674,22 +1498,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Studio Arts",
-      "listType": "major",
-      "name": "Studio Arts",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/art/studio-arts-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Visual and Performing Arts"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/visual-performing-arts/art/studio-arts-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Supply Chain Management",
       "listType": "major",
       "name": "Supply Chain Management",
@@ -1786,23 +1594,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Policy Studies",
-      "listType": "major",
-      "name": "Policy Studies",
-      "degreeAward": "Online B.P.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/policy-studies-bps/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "College of Professional Studies",
-        "Maxwell School of Citizenship and Public Affairs"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/professional-studies/policy-studies-bps/"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Environmental Geoscience",
       "listType": "major",
       "name": "Environmental Geoscience",
@@ -1833,22 +1624,6 @@
         "S.I. Newhouse School of Public Communications"
       ],
       "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/public-communications/esports-communications-management-bs/"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "International Relations",
-      "listType": "major",
-      "name": "International Relations",
-      "degreeAward": "B.S.",
-      "officialUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/international-relations-bs/",
-      "sourceIds": [
-        "source_syracuse_2026_27_official_academic_programs_api"
-      ],
-      "status": "verified",
-      "school": [
-        "Maxwell School of Citizenship and Public Affairs"
-      ],
-      "catalogUrl": "https://coursecatalog.syracuse.edu/undergraduate/arts-sciences/international-relations-bs/"
     },
     {
       "degreeType": "undergraduate_major",

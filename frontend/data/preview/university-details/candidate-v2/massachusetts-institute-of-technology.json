@@ -305,54 +305,6 @@
     },
     {
       "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering (Course 2-A)",
-      "listType": "official_undergraduate_degree_chart",
-      "name": "Engineering",
-      "courseCode": "Course 2-A",
-      "sourceIds": [
-        "official-source-ab57cc69ad90a7721203e50d"
-      ],
-      "status": "verified",
-      "id": "mit-official-undergraduate-program-14"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering (Course 10-ENG)",
-      "listType": "official_undergraduate_degree_chart",
-      "name": "Engineering",
-      "courseCode": "Course 10-ENG",
-      "sourceIds": [
-        "official-source-ab57cc69ad90a7721203e50d"
-      ],
-      "status": "verified",
-      "id": "mit-official-undergraduate-program-15"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering (Course 16-ENG)",
-      "listType": "official_undergraduate_degree_chart",
-      "name": "Engineering",
-      "courseCode": "Course 16-ENG",
-      "sourceIds": [
-        "official-source-ab57cc69ad90a7721203e50d"
-      ],
-      "status": "verified",
-      "id": "mit-official-undergraduate-program-16"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Engineering (Course 22-ENG)",
-      "listType": "official_undergraduate_degree_chart",
-      "name": "Engineering",
-      "courseCode": "Course 22-ENG",
-      "sourceIds": [
-        "official-source-ab57cc69ad90a7721203e50d"
-      ],
-      "status": "verified",
-      "id": "mit-official-undergraduate-program-17"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
       "displayName": "Materials Science and Engineering (Course 3)",
       "listType": "official_undergraduate_degree_chart",
       "name": "Materials Science and Engineering",
@@ -362,18 +314,6 @@
       ],
       "status": "verified",
       "id": "mit-official-undergraduate-program-18"
-    },
-    {
-      "degreeType": "bachelor_degree_award_area",
-      "displayName": "Materials Science and Engineering (Course 3-A)",
-      "listType": "official_undergraduate_degree_chart",
-      "name": "Materials Science and Engineering",
-      "courseCode": "Course 3-A",
-      "sourceIds": [
-        "official-source-ab57cc69ad90a7721203e50d"
-      ],
-      "status": "verified",
-      "id": "mit-official-undergraduate-program-19"
     },
     {
       "degreeType": "bachelor_degree_award_area",

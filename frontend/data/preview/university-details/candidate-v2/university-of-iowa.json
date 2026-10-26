@@ -197,18 +197,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Anthropology",
-      "listType": "major",
-      "name": "Anthropology",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/anthropology/anthropology-bs/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Art Education",
       "listType": "major",
       "name": "Art Education",
@@ -245,18 +233,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Art",
-      "listType": "major",
-      "name": "Art",
-      "degreeAward": "BFA",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/art-art-history-design/art-bfa/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Asian Languages and Literature",
       "listType": "major",
       "name": "Asian Languages and Literature",
@@ -274,18 +250,6 @@
       "name": "Astronomy",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/physics-astronomy/astronomy-ba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Astronomy",
-      "listType": "major",
-      "name": "Astronomy",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/physics-astronomy/astronomy-bs/",
       "sourceIds": [
         "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
@@ -341,35 +305,11 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Biochemistry and Molecular Biology",
-      "listType": "major",
-      "name": "Biochemistry and Molecular Biology",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/carver-medicine/biochemistry-molecular-biology/biochemistry-molecular-biology-bs/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Biology",
       "listType": "major",
       "name": "Biology",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/biology/biology-ba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Biology",
-      "listType": "major",
-      "name": "Biology",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/biology/biology-bs/",
       "sourceIds": [
         "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
@@ -430,18 +370,6 @@
       "name": "Chemistry",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/chemistry/chemistry-ba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Chemistry",
-      "listType": "major",
-      "name": "Chemistry",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/chemistry/chemistry-bs/",
       "sourceIds": [
         "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
@@ -521,18 +449,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Computer Science",
-      "listType": "major",
-      "name": "Computer Science",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/computer-science/computer-science-bs/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Counseling and Behavioral Health Services",
       "listType": "major",
       "name": "Counseling and Behavioral Health Services",
@@ -569,18 +485,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Dance",
-      "listType": "major",
-      "name": "Dance",
-      "degreeAward": "BFA",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/dance/dance-bfa/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Data Science",
       "listType": "major",
       "name": "Data Science",
@@ -605,47 +509,11 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Earth and Environmental Sciences",
-      "listType": "major",
-      "name": "Earth and Environmental Sciences",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/earth-environment-sustainability/earth-environmental-sciences-BS/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Economics",
       "listType": "major",
       "name": "Economics",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/economics/economics-ba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Economics",
-      "listType": "major",
-      "name": "Economics",
-      "degreeAward": "BBA",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/economics/economics-bba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Economics",
-      "listType": "major",
-      "name": "Economics",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/tippie-business/economics/economics-bs/",
       "sourceIds": [
         "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
@@ -833,18 +701,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Geographical and Sustainability Sciences",
-      "listType": "major",
-      "name": "Geographical and Sustainability Sciences",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/earth-environment-sustainability/geographical-sustainability-sciences-bs/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "German",
       "listType": "major",
       "name": "German",
@@ -862,18 +718,6 @@
       "name": "Global Health Studies",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/anthropology/global-health-studies-ba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Global Health Studies",
-      "listType": "major",
-      "name": "Global Health Studies",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/anthropology/global-health-studies-bs/",
       "sourceIds": [
         "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
@@ -953,18 +797,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Informatics",
-      "listType": "major",
-      "name": "Informatics",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/computer-science/informatics-bs/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Interdepartmental Studies",
       "listType": "major",
       "name": "Interdepartmental Studies",
@@ -982,18 +814,6 @@
       "name": "International Relations",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/political-science/international-relations-ba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "International Relations",
-      "listType": "major",
-      "name": "International Relations",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/political-science/international-relations-bs/",
       "sourceIds": [
         "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
@@ -1085,18 +905,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Mathematics",
-      "listType": "major",
-      "name": "Mathematics",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/mathematics/mathematics-bs/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Mechanical Engineering",
       "listType": "major",
       "name": "Mechanical Engineering",
@@ -1157,18 +965,6 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Music",
-      "listType": "major",
-      "name": "Music",
-      "degreeAward": "BM",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/music/music-bm/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Neuroscience",
       "listType": "major",
       "name": "Neuroscience",
@@ -1217,35 +1013,11 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Physics",
-      "listType": "major",
-      "name": "Physics",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/physics-astronomy/physics-bs/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Political Science",
       "listType": "major",
       "name": "Political Science",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/political-science/political-science-ba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Political Science",
-      "listType": "major",
-      "name": "Political Science",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/political-science/political-science-bs/",
       "sourceIds": [
         "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
@@ -1265,35 +1037,11 @@
     },
     {
       "degreeType": "undergraduate_major",
-      "displayName": "Psychology",
-      "listType": "major",
-      "name": "Psychology",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/psychological-brain-sciences/psychology-bs/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
       "displayName": "Public Health",
       "listType": "major",
       "name": "Public Health",
       "degreeAward": "BA",
       "officialUrl": "https://catalog.registrar.uiowa.edu/public-health/public-health-ba/",
-      "sourceIds": [
-        "source_iowa_2026_27_official_undergraduate_program_directory"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "undergraduate_major",
-      "displayName": "Public Health",
-      "listType": "major",
-      "name": "Public Health",
-      "degreeAward": "BS",
-      "officialUrl": "https://catalog.registrar.uiowa.edu/public-health/public-health-bs/",
       "sourceIds": [
         "source_iowa_2026_27_official_undergraduate_program_directory"
       ],
@@ -1556,8 +1304,8 @@
     "comparisonSafe": false,
     "currency": "USD",
     "displayLabel": "$10,964–$32,927",
-    "maximumUsd": 32927.0,
-    "minimumUsd": 10964.0,
+    "maximumUsd": 32927,
+    "minimumUsd": 10964,
     "scopes": [
       "in_state",
       "out_of_state"
@@ -1798,7 +1546,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 10964.0,
+      "amountUsd": 10964,
       "currency": "USD",
       "scope": "in_state",
       "sourceIds": [
@@ -1807,7 +1555,7 @@
     },
     {
       "academicYear": "2023-24",
-      "amountUsd": 32927.0,
+      "amountUsd": 32927,
       "currency": "USD",
       "scope": "out_of_state",
       "sourceIds": [
@@ -1820,7 +1568,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "reviewed_official_undergraduate_directory",
   "state": "IA",
-  "studentFacultyRatio": 15.0,
+  "studentFacultyRatio": 15,
   "topPrograms": [
     "Undergraduate Nursing Programs",
     "Exercise Science and Kinesiology",

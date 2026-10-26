@@ -1791,17 +1791,6 @@
     },
     {
       "degreeType": "bachelor_degree_program",
-      "displayName": "Chemistry (BS)",
-      "listType": "major",
-      "name": "Chemistry",
-      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-bs/",
-      "sourceIds": [
-        "source_nyu_2026_27_undergraduate_bulletin"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_program",
       "displayName": "Chemistry/Chemical and Biomolecular Engineering (BS/BS)",
       "listType": "major",
       "name": "Chemistry/Chemical and Biomolecular Engineering",
@@ -1828,17 +1817,6 @@
       "listType": "major",
       "name": "Cinema Studies",
       "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts/programs/cinema-studies-ba/",
-      "sourceIds": [
-        "source_nyu_2026_27_undergraduate_bulletin"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Cinema Studies (BA)",
-      "listType": "major",
-      "name": "Cinema Studies",
-      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/cinema-studies-ba/",
       "sourceIds": [
         "source_nyu_2026_27_undergraduate_bulletin"
       ],
@@ -1960,17 +1938,6 @@
       "listType": "major",
       "name": "Computer Science",
       "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-ba/",
-      "sourceIds": [
-        "source_nyu_2026_27_undergraduate_bulletin"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Computer Science (BS)",
-      "listType": "major",
-      "name": "Computer Science",
-      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-bs/",
       "sourceIds": [
         "source_nyu_2026_27_undergraduate_bulletin"
       ],
@@ -2693,17 +2660,6 @@
     },
     {
       "degreeType": "bachelor_degree_program",
-      "displayName": "Mathematics (BS)",
-      "listType": "major",
-      "name": "Mathematics",
-      "officialUrl": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mathematics-bs/",
-      "sourceIds": [
-        "source_nyu_2026_27_undergraduate_bulletin"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_program",
       "displayName": "Mathematics and Computer Science (BA)",
       "listType": "major",
       "name": "Mathematics and Computer Science",
@@ -2836,17 +2792,6 @@
     },
     {
       "degreeType": "bachelor_degree_program",
-      "displayName": "Music Business (BS)",
-      "listType": "major",
-      "name": "Music Business",
-      "officialUrl": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-business-bs/",
-      "sourceIds": [
-        "source_nyu_2026_27_undergraduate_bulletin"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_program",
       "displayName": "Music Technology (BM)",
       "listType": "major",
       "name": "Music Technology",
@@ -2884,17 +2829,6 @@
       "listType": "major",
       "name": "Nursing (BS)",
       "officialUrl": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-accelerated-15-month-bs/",
-      "sourceIds": [
-        "source_nyu_2026_27_undergraduate_bulletin"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Nursing (BS) (Traditional 4-Year)",
-      "listType": "major",
-      "name": "Nursing (BS)",
-      "officialUrl": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-traditional-4-year-bs/",
       "sourceIds": [
         "source_nyu_2026_27_undergraduate_bulletin"
       ],
@@ -2961,17 +2895,6 @@
       "listType": "major",
       "name": "Physics",
       "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-ba/",
-      "sourceIds": [
-        "source_nyu_2026_27_undergraduate_bulletin"
-      ],
-      "status": "verified"
-    },
-    {
-      "degreeType": "bachelor_degree_program",
-      "displayName": "Physics (BS)",
-      "listType": "major",
-      "name": "Physics",
-      "officialUrl": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-bs/",
       "sourceIds": [
         "source_nyu_2026_27_undergraduate_bulletin"
       ],
@@ -3477,8 +3400,8 @@
     "comparisonSafe": true,
     "currency": "USD",
     "displayLabel": "$60,438",
-    "maximumUsd": 60438.0,
-    "minimumUsd": 60438.0,
+    "maximumUsd": 60438,
+    "minimumUsd": 60438,
     "scopes": [
       "private_single_rate"
     ],
@@ -3720,7 +3643,7 @@
   "rawCostRecords": [
     {
       "academicYear": "2023-24",
-      "amountUsd": 60438.0,
+      "amountUsd": 60438,
       "currency": "USD",
       "scope": "private_single_rate",
       "sourceIds": [
@@ -3733,7 +3656,7 @@
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceStatus": "verified_frozen_with_warnings",
   "state": "NY",
-  "studentFacultyRatio": 8.0,
+  "studentFacultyRatio": 8,
   "topPrograms": [
     "Liberal Arts and Sciences/Liberal Studies",
     "Econometrics and Quantitative Economics",

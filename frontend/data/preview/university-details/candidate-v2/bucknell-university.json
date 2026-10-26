@@ -153,23 +153,13 @@
       "listType": "areas_of_study",
       "name": "Accounting",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_bucknell_2026_27_degree_pages"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "BSBA",
-      "displayName": "Accounting",
-      "listType": "major",
-      "name": "Accounting",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/accountingandfinancialmanagement/accounting/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -377,23 +367,13 @@
       "listType": "areas_of_study",
       "name": "Biophysics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_bucknell_2026_27_degree_pages"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "BS",
-      "displayName": "Biophysics",
-      "listType": "major",
-      "name": "Biophysics",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -414,23 +394,13 @@
       "listType": "areas_of_study",
       "name": "Business Analytics",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_bucknell_2026_27_degree_pages"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "BSBA",
-      "displayName": "Business Analytics",
-      "listType": "major",
-      "name": "Business Analytics",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofmanagementcurricula/areasofstudy/businessanalytics/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "BS",
@@ -449,23 +419,13 @@
       "listType": "areas_of_study",
       "name": "Chemical Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_bucknell_2026_27_degree_pages"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "BSE",
-      "displayName": "Chemical Engineering",
-      "listType": "major",
-      "name": "Chemical Engineering",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "BS",
@@ -1067,23 +1027,13 @@
       "listType": "areas_of_study",
       "name": "Mechanical Engineering",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_bucknell_2026_27_degree_pages"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "BSE",
-      "displayName": "Mechanical Engineering",
-      "listType": "major",
-      "name": "Mechanical Engineering",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofengineeringcurricula/areasofstudy/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
@@ -1180,23 +1130,13 @@
       "listType": "areas_of_study",
       "name": "Neuroscience",
       "sourceIds": [
-        "source_ipeds_c2023_completions"
+        "source_ipeds_c2023_completions",
+        "source_bucknell_2026_27_degree_pages"
       ],
       "status": "source_limited",
       "warnings": [
         "IPEDS reported bachelor-degree award area for 2022-23; not a current official catalog assertion."
       ]
-    },
-    {
-      "degreeType": "BS",
-      "displayName": "Neuroscience",
-      "listType": "major",
-      "name": "Neuroscience",
-      "officialUrl": "https://coursecatalog.bucknell.edu/collegeofartsandsciencescurricula/curriculaoverview/bachelorofscienceandtheprofessionaldegreemajors/",
-      "sourceIds": [
-        "source_bucknell_2026_27_degree_pages"
-      ],
-      "status": "verified"
     },
     {
       "degreeType": "bachelor_degree_award_area",
