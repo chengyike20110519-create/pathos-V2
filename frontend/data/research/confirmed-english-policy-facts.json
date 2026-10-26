@@ -3,6 +3,30 @@
   "sourcePolicy": "Only official university undergraduate admissions pages are accepted.",
   "records": [
     {
+      "universityId": "candidate-v2:university-of-south-carolina-columbia",
+      "fact": "International freshman applicants to the University of South Carolina must demonstrate English proficiency unless an official exemption applies. The university lists TOEFL iBT 77, TOEFL paper 550, IELTS 6.5, PTE 53, Duolingo English Test 115, SAT Evidence-Based Reading and Writing 560, or ACT English 22 as minimum options; conditional admission through English Programs for Internationals may be available.",
+      "status": "confirmed",
+      "source": "https://sc.edu/about/offices_and_divisions/undergraduate_admissions/apply/for_international_students/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-texas-austin",
+      "fact": "International freshman applicants to The University of Texas at Austin must submit TOEFL, IELTS, or Duolingo English Test scores unless an official exemption applies. The published minimums are TOEFL iBT 79, IELTS Academic 6.5 overall, or Duolingo English Test 115.",
+      "status": "confirmed",
+      "source": "https://admissions.utexas.edu/apply/frequently-asked-questions/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-washington",
+      "fact": "International first-year applicants to the University of Washington must submit an official English-proficiency score. The current page lists TOEFL iBT 76 for tests before January 21, 2026, TOEFL iBT 4.0 effective January 21, 2026, IELTS 6.0, or Duolingo English Test 110 as minimum scores.",
+      "status": "confirmed",
+      "source": "https://admit.washington.edu/apply/first-year/how-to-apply/english-proficiency/"
+    },
+    {
+      "universityId": "candidate-v2:washington-university-in-st-louis",
+      "fact": "WashU requires evidence of English-language proficiency for international undergraduate applicants for whom English is a second language, using TOEFL, IELTS, or Duolingo English Test; the official admissions material reviewed does not publish a universal minimum score in that source.",
+      "status": "confirmed",
+      "source": "https://admissions.wustl.edu/app/uploads/2024/09/WUADM_24AtAGlance-Simplified-Chinese.pdf"
+    },
+    {
       "universityId": "candidate-v2:university-of-chicago",
       "fact": "For undergraduate applicants, the University of Chicago lists an English proficiency examination such as TOEFL, IELTS, or Duolingo as optional application material; the official application materials do not state a universal minimum English-test score requirement.",
       "status": "confirmed",

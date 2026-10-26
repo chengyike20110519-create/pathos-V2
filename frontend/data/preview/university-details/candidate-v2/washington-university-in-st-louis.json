@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-c29b762771d9cb8ac15a6e47"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "WashU requires evidence of English-language proficiency for international undergraduate applicants for whom English is a second language, using TOEFL, IELTS, or Duolingo English Test; the official admissions material reviewed does not publish a universal minimum score in that source.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -3893,7 +3896,6 @@
     "status": "warning",
     "warningCodes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -3951,10 +3953,9 @@
   "warningSummary": {
     "codes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 3,
+    "count": 2,
     "hasWarnings": true
   }
 }

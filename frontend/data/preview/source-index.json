@@ -8119,6 +8119,58 @@
       "url": "https://admissions.uiowa.edu/english-proficiency-requirements",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — sc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-3bc758636b94192e313f70a6",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://sc.edu/about/offices_and_divisions/undergraduate_admissions/apply/for_international_students/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.utexas.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-ef64e09e615a491224897fbe",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.utexas.edu/apply/frequently-asked-questions/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admit.washington.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-25fa77c245bbac475c89aac7",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admit.washington.edu/apply/first-year/how-to-apply/english-proficiency/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.wustl.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-c29b762771d9cb8ac15a6e47",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.wustl.edu/app/uploads/2024/09/WUADM_24AtAGlance-Simplified-Chinese.pdf",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }
