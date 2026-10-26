@@ -7482,6 +7482,45 @@
       "url": "https://admissions.vanderbilt.edu/apply/testing-policies/",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.gatech.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-93041e07bf9974df1514fca1",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.gatech.edu/international/first-year",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.illinois.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-2184b7a64fe5ee91f91e51ea",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.illinois.edu/international-requirements/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.virginia.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-f5f35b06511a27e457b9ce1b",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.virginia.edu/i-am/international",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

@@ -121,6 +121,24 @@
       "fact": "Vanderbilt requires proof of English proficiency for international applicants even while SAT/ACT submission is optional for the current application cycles. Its undergraduate admissions testing policy treats English-proficiency testing separately from general standardized testing.",
       "status": "confirmed",
       "source": "https://admissions.vanderbilt.edu/apply/testing-policies/"
+    },
+    {
+      "universityId": "candidate-v2:georgia-institute-of-technology",
+      "fact": "Georgia Tech requires international applicants to demonstrate English proficiency under University System of Georgia approved methods. The official undergraduate page distinguishes this requirement from optional supplementary materials such as Duolingo, InitialView, and Vericant.",
+      "status": "confirmed",
+      "source": "https://admission.gatech.edu/international/first-year"
+    },
+    {
+      "universityId": "candidate-v2:university-of-illinois-at-urbana-champaign",
+      "fact": "The University of Illinois Urbana-Champaign requires international applicants to demonstrate English proficiency. Depending on curriculum and ACT/SAT submission, applicants must submit TOEFL, IELTS, Duolingo, or qualifying ACT/SAT evidence under the university's published conditions.",
+      "status": "confirmed",
+      "source": "https://www.admissions.illinois.edu/international-requirements/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-virginia",
+      "fact": "UVA strongly encourages applicants whose first language is not English to submit English-language assessment results. UVA accepts TOEFL, IELTS, Cambridge, and Duolingo results and also considers InitialView or Vericant evaluations.",
+      "status": "confirmed",
+      "source": "https://admission.virginia.edu/i-am/international"
     }
   ]
 }

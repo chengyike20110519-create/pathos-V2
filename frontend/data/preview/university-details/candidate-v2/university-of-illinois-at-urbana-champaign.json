@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-2184b7a64fe5ee91f91e51ea"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "The University of Illinois Urbana-Champaign requires international applicants to demonstrate English proficiency. Depending on curriculum and ACT/SAT submission, applicants must submit TOEFL, IELTS, Duolingo, or qualifying ACT/SAT evidence under the university's published conditions.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -3683,7 +3686,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -3749,10 +3751,9 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 2,
+    "count": 1,
     "hasWarnings": true
   }
 }
