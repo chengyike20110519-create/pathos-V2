@@ -2335,15 +2335,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-b53930dc6516ff275ed9bc51"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "SMU requires official English-proficiency scores for first-year applicants whose language of instruction is bilingual or not solely English, with some waiver cases. The official international checklist confirms SMU accepts TOEFL, IELTS, and Duolingo; the undergraduate process page identifies the same submission requirement but does not publish a universal minimum score there.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

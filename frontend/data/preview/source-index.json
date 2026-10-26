@@ -8366,6 +8366,45 @@
       "url": "https://www.clemson.edu/admissions/undergraduate-admissions/apply/international.html",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.ucsc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-df3299c60de87e0272044d67",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ucsc.edu/posts/english-proficiency-requirement",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.udel.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-2dd6102216161255027bf241",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.udel.edu/apply/undergraduate-admissions/apply-to-ud/international-admissions/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.smu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-b53930dc6516ff275ed9bc51",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.smu.edu/admission/apply/international/application-checklist",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

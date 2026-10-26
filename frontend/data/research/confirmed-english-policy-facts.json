@@ -3,6 +3,24 @@
   "sourcePolicy": "Only official university undergraduate admissions pages are accepted.",
   "records": [
     {
+      "universityId": "candidate-v2:university-of-california-santa-cruz",
+      "fact": "UC Santa Cruz requires international first-year applicants whose schooling was not sufficiently English-medium to demonstrate English competency. The official page lists IELTS 6.5, TOEFL iBT 4.5 on the current scale, Duolingo 115, and specified AP/IB, ACT, SAT, or UC-transferable English-course alternatives.",
+      "status": "confirmed",
+      "source": "https://admissions.ucsc.edu/posts/english-proficiency-requirement"
+    },
+    {
+      "universityId": "candidate-v2:university-of-delaware",
+      "fact": "The University of Delaware requires English-proficiency evidence for direct international undergraduate admission. Its official table lists TOEFL iBT 79 before January 21, 2026 or 4 afterward, IELTS 6.5, TOEFL Essentials 8, Duolingo 110+, Cambridge B2 First/171, and pathway thresholds for applicants who need additional English preparation.",
+      "status": "confirmed",
+      "source": "https://www.udel.edu/apply/undergraduate-admissions/apply-to-ud/international-admissions/"
+    },
+    {
+      "universityId": "candidate-v2:southern-methodist-university",
+      "fact": "SMU requires official English-proficiency scores for first-year applicants whose language of instruction is bilingual or not solely English, with some waiver cases. The official international checklist confirms SMU accepts TOEFL, IELTS, and Duolingo; the undergraduate process page identifies the same submission requirement but does not publish a universal minimum score there.",
+      "status": "confirmed",
+      "source": "https://www.smu.edu/admission/apply/international/application-checklist"
+    },
+    {
       "universityId": "candidate-v2:university-of-pittsburgh",
       "fact": "The University of Pittsburgh's official admissions policy requires international undergraduate applicants to demonstrate English proficiency unless an exemption applies. The policy lists TOEFL iBT 80 or PBT 550 and IELTS 6.5 as baseline evidence; individual academic units may require higher proficiency, and scores below TOEFL iBT 100 or IELTS 7.0 may lead to an additional English assessment after admission.",
       "status": "confirmed",
