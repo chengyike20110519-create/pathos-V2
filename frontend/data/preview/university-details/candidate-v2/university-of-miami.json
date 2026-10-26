@@ -1991,7 +1991,20 @@
     }
   },
   "admissions": {
-    "acceptanceRate": {},
+    "acceptanceRate": {
+      "nullReason": null,
+      "referenceYear": null,
+      "scope": "institution_undergraduate_admissions",
+      "sourceIds": [
+        "source_usde_college_scorecard_2026_10_15"
+      ],
+      "status": "verified",
+      "unit": "ratio",
+      "value": 0.189,
+      "warnings": [
+        "scorecard_release_cohort_year_is_not_uniform"
+      ]
+    },
     "graduationRate": {
       "nullReason": "not_reported",
       "referenceYear": 2019,
