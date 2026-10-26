@@ -5659,6 +5659,19 @@
       "notes": "Used for exact national ranks recorded for matching UMN undergraduate programs."
     },
     {
+      "sourceId": "source_uw_madison_undergraduate_rankings_2027",
+      "sourceType": "official_institutional_rankings",
+      "publisher": "University of Wisconsin–Madison",
+      "referenceYear": 2027,
+      "url": "https://news.wisc.edu/uw-rises-to-8th-among-publics-34th-overall-in-u-s-news-rankings/",
+      "status": "verified",
+      "scope": [
+        "UW–Madison 2027 U.S. News undergraduate program rankings for Computer Sciences, Economics, Psychology, Real Estate, and Insurance"
+      ],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for exact national undergraduate program ranks recorded in the UW–Madison spotlight data."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",
