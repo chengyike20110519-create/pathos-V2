@@ -7222,6 +7222,58 @@
       "url": "https://www.upb.pitt.edu/how-apply",
       "checkedOn": "2026-10-17",
       "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.stanford.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-73e7df9fdf9a9e2283ae1e4a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.stanford.edu/apply/international/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — mitadmissions.org",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-600fe783c80073e0936e36c2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://mitadmissions.org/apply/firstyear/tests-scores/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.yale.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-d815b8f5c91e32c4b0d955b9",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.yale.edu/international",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — college.harvard.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-6483f4b3f1a50c05cf8f2a2b",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://college.harvard.edu/admissions/apply/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

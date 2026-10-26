@@ -1,0 +1,30 @@
+{
+  "generatedOn": "2026-10-26",
+  "sourcePolicy": "Only official university undergraduate admissions pages are accepted.",
+  "records": [
+    {
+      "universityId": "candidate-v2:stanford-university",
+      "fact": "Stanford does not require an English proficiency exam for undergraduate admission. Applicants may self-report scores if they wish; English fluency is a prerequisite for admission.",
+      "status": "confirmed",
+      "source": "https://admission.stanford.edu/apply/international/"
+    },
+    {
+      "universityId": "candidate-v2:massachusetts-institute-of-technology",
+      "fact": "MIT strongly recommends an English proficiency exam for non-native English speakers who have used English for fewer than five years or do not speak English at home or school. MIT lists minimum and recommended scores for accepted exams.",
+      "status": "confirmed",
+      "source": "https://mitadmissions.org/apply/firstyear/tests-scores/"
+    },
+    {
+      "universityId": "candidate-v2:yale-university",
+      "fact": "Yale requires non-native English speakers who have not completed at least two years of secondary education in English to submit an accepted English proficiency test. Applicants with at least two years of English-medium secondary education are exempt from that requirement.",
+      "status": "confirmed",
+      "source": "https://admissions.yale.edu/international"
+    },
+    {
+      "universityId": "candidate-v2:harvard-university",
+      "fact": "Harvard does not require first-year or transfer applicants to take an English proficiency exam, but applicants may submit TOEFL, IELTS, or Duolingo scores for review.",
+      "status": "confirmed",
+      "source": "https://college.harvard.edu/admissions/apply/international-applicants"
+    }
+  ]
+}
