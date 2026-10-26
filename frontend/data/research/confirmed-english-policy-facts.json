@@ -3,6 +3,24 @@
   "sourcePolicy": "Only official university undergraduate admissions pages are accepted.",
   "records": [
     {
+      "universityId": "candidate-v2:college-of-william-and-mary",
+      "fact": "William & Mary's official undergraduate international-applicant guidance says students whose native language is not English and whose recent schooling was not in English should strongly consider TOEFL or IELTS Academic; Duolingo is also accepted when TOEFL/IELTS are unavailable. The page describes this as strongly recommended rather than a universal published minimum-score requirement.",
+      "status": "confirmed",
+      "source": "https://www.wm.edu/admission/undergraduateadmission/how-to-apply/international-applicants/standardized-testing/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-merced",
+      "fact": "UC Merced requires international applicants to demonstrate English proficiency. The official page lists TOEFL iBT 80, IELTS Academic 6.5, or Duolingo English Test 115; it also accepts specified SAT/ACT, AP, and IB English evidence for eligible first-year applicants. Language scores must not be more than two years old.",
+      "status": "confirmed",
+      "source": "https://admissions.ucmerced.edu/international/english-language-proficiency"
+    },
+    {
+      "universityId": "candidate-v2:north-carolina-state-university",
+      "fact": "NC State requires international first-year applicants to provide proof of English proficiency, subject to listed country exemptions. For full undergraduate admission, the official page lists TOEFL iBT 80 before January 21, 2026 or 4.5 on/after that date, IELTS Academic 6.5, Duolingo 110, PTE 58, and TOEFL Essentials 9.0, with conditional-admission thresholds also published separately.",
+      "status": "confirmed",
+      "source": "https://admissions.ncsu.edu/apply/international/first-year/"
+    },
+    {
       "universityId": "candidate-v2:university-of-north-carolina-at-chapel-hill",
       "fact": "International undergraduate applicants to UNC-Chapel Hill whose first language is not English must submit English-proficiency test scores. UNC accepts TOEFL, IELTS, Duolingo, and Cambridge exams; the official catalog lists typical strong-applicant scores of TOEFL 100, IELTS Academic 7.5, Duolingo 130, or Cambridge C1 185, and explicitly says these are not minimums.",
       "status": "confirmed",

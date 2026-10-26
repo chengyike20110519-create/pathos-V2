@@ -735,15 +735,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-1ba410dc77120a3fdc623ba5"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC Merced requires international applicants to demonstrate English proficiency. The official page lists TOEFL iBT 80, IELTS Academic 6.5, or Duolingo English Test 115; it also accepts specified SAT/ACT, AP, and IB English evidence for eligible first-year applicants. Language scores must not be more than two years old.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

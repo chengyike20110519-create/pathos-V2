@@ -768,15 +768,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-19da187000308609894fedb2"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "William & Mary's official undergraduate international-applicant guidance says students whose native language is not English and whose recent schooling was not in English should strongly consider TOEFL or IELTS Academic; Duolingo is also accepted when TOEFL/IELTS are unavailable. The page describes this as strongly recommended rather than a universal published minimum-score requirement.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

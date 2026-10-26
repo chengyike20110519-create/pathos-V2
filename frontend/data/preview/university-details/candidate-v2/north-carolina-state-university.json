@@ -3176,15 +3176,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-18b541cc028af6ff984bec57"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "NC State requires international first-year applicants to provide proof of English proficiency, subject to listed country exemptions. For full undergraduate admission, the official page lists TOEFL iBT 80 before January 21, 2026 or 4.5 on/after that date, IELTS Academic 6.5, Duolingo 110, PTE 58, and TOEFL Essentials 9.0, with conditional-admission thresholds also published separately.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

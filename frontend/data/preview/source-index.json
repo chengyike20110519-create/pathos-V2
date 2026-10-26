@@ -8223,6 +8223,45 @@
       "url": "https://admissions.fsu.edu/international/english-proficiency",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.wm.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-19da187000308609894fedb2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.wm.edu/admission/undergraduateadmission/how-to-apply/international-applicants/standardized-testing/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.ucmerced.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-1ba410dc77120a3fdc623ba5",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ucmerced.edu/international/english-language-proficiency",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.ncsu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-18b541cc028af6ff984bec57",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ncsu.edu/apply/international/first-year/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }
