@@ -5694,6 +5694,28 @@
       "notes": "Used for official curriculum-structure description; not an external ranking."
     },
     {
+      "sourceId": "source_princeton_orfe_undergraduate_2026",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Princeton University Operations Research and Financial Engineering",
+      "referenceYear": "2026-27",
+      "url": "https://orfe.princeton.edu/undergraduate",
+      "status": "verified",
+      "scope": ["Princeton ORFE undergraduate curriculum and application areas"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program-structure description; not an external ranking."
+    },
+    {
+      "sourceId": "source_princeton_mathematics_undergraduate_2026",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Princeton University Department of Mathematics",
+      "referenceYear": "2026-27",
+      "url": "https://www.math.princeton.edu/undergraduate/majors/overview",
+      "status": "verified",
+      "scope": ["Princeton Mathematics undergraduate major structure and independent work"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program-structure description; not an external ranking."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",

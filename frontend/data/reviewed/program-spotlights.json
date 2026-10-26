@@ -1630,6 +1630,24 @@
         "reason": "普林斯顿计算机科学系官方说明本科同时提供 AB 与 BSE 两种学位路径，并保留独立研究与教师研究机会；这是项目结构特色，不是外部排名。",
         "sourceUrl": "https://www.cs.princeton.edu/ugrad/undergraduate-degrees-requirements",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Operations Research and Financial Engineering",
+        "nameZh": "运筹学与金融工程",
+        "kind": "distinctive",
+        "reason": "普林斯顿 ORFE 官方本科页面说明项目将统计、概率、随机过程和优化作为共同基础，并可延伸到金融、计量经济学、机器学习、交通和通信网络等应用；这是官方课程结构特色，不代表外部排名。",
+        "sourceUrl": "https://orfe.princeton.edu/undergraduate",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
+      },
+      {
+        "name": "Mathematics",
+        "nameZh": "数学",
+        "kind": "distinctive",
+        "reason": "普林斯顿数学系官方本科项目允许学生通过高阶选修构建纯数学或应用数学方向，并可与物理、生物科学、金融、经济学和计算机科学等领域形成经批准的跨领域课程组合；这是官方项目结构特色，不代表外部排名。",
+        "sourceUrl": "https://www.math.princeton.edu/undergraduate/majors/overview",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ]
   },
