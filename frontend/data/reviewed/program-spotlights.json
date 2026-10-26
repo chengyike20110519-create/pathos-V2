@@ -1544,12 +1544,30 @@
     "universityId": "candidate-v2:harvard-university",
     "spotlights": [
       {
-        "name": "Applied Mathematics",
+        "name": "Applied Math",
         "nameZh": "应用数学",
         "kind": "distinctive",
         "reason": "哈佛 SEAS 官方本科项目允许学生把数学方法与经济、心理学、政府、天体物理等应用领域结合；这是项目结构特色，不是外部排名。",
         "sourceUrl": "https://seas.harvard.edu/applied-mathematics/bachelors-applied-mathematics",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Computer Science",
+        "nameZh": "计算机科学",
+        "kind": "distinctive",
+        "reason": "哈佛 SEAS 官方本科项目页面明确提供 Computer Science undergraduate program；这里记录的是学校官方项目存在与本科培养路径，不代表外部排名。",
+        "sourceUrl": "https://seas.harvard.edu/computer-science/undergraduate-program",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
+      },
+      {
+        "name": "Economics",
+        "nameZh": "经济学",
+        "kind": "distinctive",
+        "reason": "哈佛经济系官方本科页面列出 Economics concentration、课程与研讨课、荣誉项目、毕业论文和 secondary field 等本科培养路径；这里记录的是官方项目结构特色，不代表外部排名。",
+        "sourceUrl": "https://www.economics.harvard.edu/undergraduate",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ]
   },
