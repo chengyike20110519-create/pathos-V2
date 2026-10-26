@@ -41,15 +41,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-4044a1ad1ab2c5e971234b03"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC San Diego requires international first-year applicants whose native language is not English and whose secondary education was not taught in English to demonstrate English proficiency. Minimums are TOEFL iBT 4.5 from January 2026 (83 before), IELTS Academic 7, or Duolingo 115; specified AP/IB English results are also accepted. Transfer applicants may use two transferable English-composition courses with grades of B or better when their instruction was in English.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -3772,7 +3775,6 @@
     "warningCodes": [
       "act_not_reported",
       "county_scope_only",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ]
@@ -3841,11 +3843,10 @@
     "codes": [
       "act_not_reported",
       "county_scope_only",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ],
-    "count": 5,
+    "count": 4,
     "hasWarnings": true
   }
 }

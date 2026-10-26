@@ -8041,6 +8041,32 @@
       "url": "https://www.admissions.uci.edu/apply/international-students.php",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.ucsd.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-4044a1ad1ab2c5e971234b03",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ucsd.edu/international/index.html",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.ext-prod.sa.ucsb.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-bbbef6f911012ecd218ca8c0",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ext-prod.sa.ucsb.edu/english-language-proficiency",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

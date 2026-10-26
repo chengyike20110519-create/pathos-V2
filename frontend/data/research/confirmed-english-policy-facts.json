@@ -379,6 +379,18 @@
       "fact": "UC Irvine requires English proficiency evidence when an applicant has had fewer than three years of English instruction by high-school graduation. Accepted routes include ACT English 24, SAT Writing and Language 31 or SAT EBRW 680, specified AP/IB results, IELTS 6.5+, TOEFL iBT 4.5+ from January 2026 (80+ before), Duolingo 115+, or a qualifying UC-transferable English composition course; UC Irvine does not accept TOEFL MyBest scores.",
       "status": "confirmed",
       "source": "https://www.admissions.uci.edu/apply/international-students.php"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-san-diego",
+      "fact": "UC San Diego requires international first-year applicants whose native language is not English and whose secondary education was not taught in English to demonstrate English proficiency. Minimums are TOEFL iBT 4.5 from January 2026 (83 before), IELTS Academic 7, or Duolingo 115; specified AP/IB English results are also accepted. Transfer applicants may use two transferable English-composition courses with grades of B or better when their instruction was in English.",
+      "status": "confirmed",
+      "source": "https://admissions.ucsd.edu/international/index.html"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-santa-barbara",
+      "fact": "UC Santa Barbara requires applicants whose native language is not English and whose secondary or higher education was not taught in English, or who have fewer than three years of English instruction, to demonstrate proficiency. Accepted routes include IELTS 6.5+, TOEFL iBT 4.5+ from January 2026 (80+ before), Duolingo 115+, specified AP/IB/SAT/ACT results, or a qualifying UC-transferable English-composition course; UCSB does not accept TOEFL MyBest scores.",
+      "status": "confirmed",
+      "source": "https://admissions.ext-prod.sa.ucsb.edu/english-language-proficiency"
     }
   ]
 }

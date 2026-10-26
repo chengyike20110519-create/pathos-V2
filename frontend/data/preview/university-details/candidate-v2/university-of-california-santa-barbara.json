@@ -41,15 +41,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-bbbef6f911012ecd218ca8c0"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "UC Santa Barbara requires applicants whose native language is not English and whose secondary or higher education was not taught in English, or who have fewer than three years of English instruction, to demonstrate proficiency. Accepted routes include IELTS 6.5+, TOEFL iBT 4.5+ from January 2026 (80+ before), Duolingo 115+, specified AP/IB/SAT/ACT results, or a qualifying UC-transferable English-composition course; UCSB does not accept TOEFL MyBest scores.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -1289,7 +1292,6 @@
     "warningCodes": [
       "act_not_reported",
       "county_scope_only",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ]
@@ -1358,11 +1360,10 @@
     "codes": [
       "act_not_reported",
       "county_scope_only",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ],
-    "count": 5,
+    "count": 4,
     "hasWarnings": true
   }
 }
