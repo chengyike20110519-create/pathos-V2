@@ -722,12 +722,21 @@
     "universityId": "candidate-v2:university-of-iowa",
     "spotlights": [
       {
-        "name": "Computer Science, BS",
+        "name": "Computer Science",
         "nameZh": "计算机科学（理学学士）",
         "kind": "distinctive",
         "reason": "University of Iowa 官方总目录将 Computer Science, BS 列为本科项目，要求完成计算机组织、软件开发、算法以及高阶计算机科学课程；学校同时说明本科生可在完成学位前申请提前进入 Graduate College。这里记录的是官方项目结构特色，不是外部排名结论。",
         "sourceUrl": "https://catalog.registrar.uiowa.edu/liberal-arts-sciences/computer-science/computer-science-bs/",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Data Science",
+        "nameZh": "数据科学",
+        "kind": "distinctive",
+        "reason": "Iowa 官方本科项目由统计与精算科学系和计算机科学系共同提供，强调统计/概率方法、算法方法、机器学习、统计建模、数据可视化，并包含两个强调沟通、伦理与团队合作的 capstone 课程；这是官方项目结构事实，不代表外部排名。",
+        "sourceUrl": "https://cs.uiowa.edu/undergraduate/bs-data-science",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [
