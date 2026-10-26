@@ -229,6 +229,24 @@
       "fact": "Brandeis asks international undergraduate applicants whose native language is not English to submit English proficiency results. Its official undergraduate admissions materials list TOEFL, IELTS, Duolingo, and Cambridge Assessment options.",
       "status": "confirmed",
       "source": "https://www.brandeis.edu/admissions/international-applicants/student-life/visit/contact.html"
+    },
+    {
+      "universityId": "candidate-v2:case-western-reserve-university",
+      "fact": "Case Western Reserve requires applicants whose first language is not English to submit an English exam score. It accepts Duolingo, IELTS, PTE Academic, and TOEFL and publishes waiver criteria based on English-medium schooling or SAT/ACT results.",
+      "status": "confirmed",
+      "source": "https://case.edu/admission/apply/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:stony-brook-university",
+      "fact": "Stony Brook requires international students to provide English proficiency evidence unless they qualify for an exemption. It accepts TOEFL, Duolingo, SAT, ACT, IELTS, AP, IB, A-level, and PTE Academic results and provides conditional admission options.",
+      "status": "confirmed",
+      "source": "https://www.stonybrook.edu/undergraduate-admissions/international/"
+    },
+    {
+      "universityId": "candidate-v2:university-at-buffalo",
+      "fact": "The University at Buffalo requires international undergraduates to demonstrate English proficiency unless waived. It accepts TOEFL, IELTS, Duolingo, PTE, SAT, and ACT evidence and lists a transfer-course waiver route.",
+      "status": "confirmed",
+      "source": "https://admissions.buffalo.edu/apply/applyingfaq.php"
     }
   ]
 }

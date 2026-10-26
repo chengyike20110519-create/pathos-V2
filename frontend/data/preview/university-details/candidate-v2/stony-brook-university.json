@@ -954,15 +954,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-6108f1984572bc2d631107f9"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Stony Brook requires international students to provide English proficiency evidence unless they qualify for an exemption. It accepts TOEFL, Duolingo, SAT, ACT, IELTS, AP, IB, A-level, and PTE Academic results and provides conditional admission options.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

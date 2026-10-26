@@ -7716,6 +7716,45 @@
       "url": "https://www.brandeis.edu/admissions/international-applicants/student-life/visit/contact.html",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — case.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-f3a9cd59f85d852da6b50eb2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://case.edu/admission/apply/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.stonybrook.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-6108f1984572bc2d631107f9",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.stonybrook.edu/undergraduate-admissions/international/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.buffalo.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-60d1801458e867fc3e9e2dcf",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.buffalo.edu/apply/applyingfaq.php",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }
