@@ -43,6 +43,24 @@
       "fact": "Penn exempts applicants from an English proficiency test when English is their native language or was the primary language of instruction for at least three years. Otherwise, Penn requires official TOEFL, IELTS Academic, or Duolingo English Test scores for international undergraduate applicants.",
       "status": "confirmed",
       "source": "https://admissions.upenn.edu/how-to-apply/international-applicants/guidelines"
+    },
+    {
+      "universityId": "candidate-v2:duke-university",
+      "fact": "Duke recommends, but does not require, an English proficiency test for non-native English speakers or students not studying in an English-medium curriculum. Duke accepts Cambridge, Duolingo, IELTS Academic, PTE Academic, and TOEFL results.",
+      "status": "confirmed",
+      "source": "https://admissions.duke.edu/apply/"
+    },
+    {
+      "universityId": "candidate-v2:cornell-university",
+      "fact": "Cornell recognizes English as demonstrated by native language, U.S. citizenship or permanent residence, or four years of English-medium instruction. Applicants who do not meet those criteria must submit an English proficiency exam; Cornell lists TOEFL, IELTS, Duolingo, and Cambridge exams with score guidance.",
+      "status": "confirmed",
+      "source": "https://admissions.cornell.edu/policies/standardized-testing-policy"
+    },
+    {
+      "universityId": "candidate-v2:dartmouth-college",
+      "fact": "Dartmouth requires applicants whose first language is not English and whose curriculum has not been delivered in English for at least two years to submit an English proficiency exam score. Accepted exams include TOEFL, IELTS, Duolingo, and Cambridge English.",
+      "status": "confirmed",
+      "source": "https://admissions.dartmouth.edu/glossary-question/if-english-not-my-first-language-am-i-required-submit-language-proficiency-test"
     }
   ]
 }

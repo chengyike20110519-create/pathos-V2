@@ -7313,6 +7313,45 @@
       "url": "https://admissions.upenn.edu/how-to-apply/international-applicants/guidelines",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.duke.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-7b9e454753140c2fe031045f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.duke.edu/apply/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.cornell.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-e2fe9d69f68ee686078dca1f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.cornell.edu/policies/standardized-testing-policy",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.dartmouth.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-d1a04bbd5d8ccba41a4bc50e",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.dartmouth.edu/glossary-question/if-english-not-my-first-language-am-i-required-submit-language-proficiency-test",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

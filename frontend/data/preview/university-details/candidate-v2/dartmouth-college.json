@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-d1a04bbd5d8ccba41a4bc50e"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Dartmouth requires applicants whose first language is not English and whose curriculum has not been delivered in English for at least two years to submit an English proficiency exam score. Accepted exams include TOEFL, IELTS, Duolingo, and Cambridge English.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -898,7 +901,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -955,10 +957,9 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 2,
+    "count": 1,
     "hasWarnings": true
   }
 }
