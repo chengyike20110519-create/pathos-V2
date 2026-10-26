@@ -211,7 +211,8 @@ async function readSourceIndex(): Promise<unknown> {
 }
 
 async function loadUniversityDetail(id: string): Promise<unknown> {
-  const r = await getPool().query(
+  const [r, sourceIndexPayload] = await Promise.all([
+    getPool().query(
     `SELECT d.payload,
             r.official_name,
             CASE WHEN r.university_id IS NULL THEN NULL ELSE jsonb_build_object(
@@ -243,13 +244,6 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
             c.program_spotlights AS shared_program_spotlights,
             c.source_refs AS shared_source_refs,
             g.sections AS guide_sections, g.structured AS guide_structured,
-            (SELECT jsonb_build_object('sources', COALESCE((
-              SELECT jsonb_agg(entry.source_doc) FROM jsonb_array_elements(si.payload->'sources') AS entry(source_doc)
-              WHERE entry.source_doc->>'sourceId' IN (
-                SELECT jsonb_path_query(d.payload, '$.**.sourceIds[*]') #>> '{}'
-              )
-            ), '[]'::jsonb)) FROM source_index si WHERE si.id = 1) AS detail_source_index,
-            EXISTS (SELECT 1 FROM source_index si WHERE si.id = 1) AS source_index_present,
             COALESCE((
               SELECT jsonb_agg(jsonb_build_object(
                 'universityId', f.university_id, 'factType', f.fact_type,
@@ -267,7 +261,9 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
        LEFT JOIN university_content c ON c.university_id = d.university_id
        WHERE d.university_id = $1`,
     [id],
-  );
+    ),
+    readSourceIndex(),
+  ]);
   if (!r.rows[0]) {
     throw new PreviewBundleError(
       "UNIVERSITY_NOT_FOUND",
@@ -276,14 +272,33 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
     );
   }
   const joined = r.rows[0];
-  if (joined.source_index_present === false) {
-    throw new PreviewBundleError(
-      "BUNDLE_ARTIFACT_MISSING",
-      "source_index row not loaded. Run npm run db:import.",
-      503, false,
-    );
-  }
   const payload = joined.payload as Record<string, unknown>;
+  const referencedSourceIds = new Set<string>();
+  const collectSourceIds = (value: unknown): void => {
+    if (Array.isArray(value)) {
+      value.forEach(collectSourceIds);
+      return;
+    }
+    if (!value || typeof value !== "object") return;
+    for (const [key, child] of Object.entries(value)) {
+      if (key === "sourceIds" && Array.isArray(child)) {
+        child.forEach((sourceId) => {
+          if (typeof sourceId === "string") referencedSourceIds.add(sourceId);
+        });
+      } else {
+        collectSourceIds(child);
+      }
+    }
+  };
+  collectSourceIds(payload);
+  const indexedSources = Array.isArray((sourceIndexPayload as { sources?: unknown[] }).sources)
+    ? (sourceIndexPayload as { sources: unknown[] }).sources.filter((source) =>
+        Boolean(source) && typeof source === "object" &&
+        typeof (source as Record<string, unknown>).sourceId === "string" &&
+        referencedSourceIds.has((source as Record<string, unknown>).sourceId as string),
+      )
+    : [];
+  const detailSourceIndex = { sources: indexedSources };
   const facts = joined.confirmed_facts ?? [];
   const guidePreview = joined.guide_sections || joined.guide_structured
     ? extractGuidePreview({ structured: joined.guide_structured ?? {}, sections: joined.guide_sections ?? [] })
@@ -333,7 +348,7 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
     programSpotlights: joined.shared_program_spotlights ?? [],
     sourceRefs: joined.shared_source_refs ?? [],
   };
-  if (!row) return { ...enrichedPayload, confirmedFacts: facts, campusImages: joined.campus_images ?? [], detailSourceIndex: joined.detail_source_index, sharedContent };
+  if (!row) return { ...enrichedPayload, confirmedFacts: facts, campusImages: joined.campus_images ?? [], detailSourceIndex, sharedContent };
   const p = (row.research_payload ?? {}) as Record<string, unknown>;
   const number = (key: string): number | null => {
     if (p[key] === null || p[key] === undefined || p[key] === "") return null;
@@ -345,7 +360,7 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
     ...enrichedPayload,
     confirmedFacts: facts,
     campusImages: joined.campus_images ?? [],
-    detailSourceIndex: joined.detail_source_index,
+    detailSourceIndex,
     sharedContent,
     officialResearch: {
       provider: String(source.provider ?? "US Department of Education College Scorecard"),
