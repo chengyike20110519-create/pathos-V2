@@ -2032,15 +2032,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-0c1d85e67629e072d4ba99ee"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Michigan State publishes English proficiency requirements for undergraduate applicants and accepts TOEFL, IELTS, Duolingo, SAT/ACT, MSUELT, CELP, PTE, AP, IGCSE/GCSE/A-level, and IB English evidence, including regular and provisional admission thresholds.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

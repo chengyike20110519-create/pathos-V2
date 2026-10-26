@@ -199,6 +199,24 @@
       "fact": "The University of Maryland requires international undergraduate applicants to provide official English proficiency scores. It accepts Duolingo, IELTS, and TOEFL, with scores less than two years old and limited waiver discretion.",
       "status": "confirmed",
       "source": "https://admissions.umd.edu/apply/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:rutgers-university-new-brunswick",
+      "fact": "Rutgers requires an English proficiency examination for applicants whose secondary schooling was outside the U.S. where English is not the principal language. It accepts TOEFL, IELTS, MET, SAT, ACT, PTE, Duolingo, and Cambridge evidence, with campus-specific scores.",
+      "status": "confirmed",
+      "source": "https://www.admissions.rutgers.edu/apply/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:pennsylvania-state-university",
+      "fact": "Penn State requires international students whose native language is not English to submit proof of English proficiency. It accepts Duolingo, TOEFL, IELTS, SAT, ACT, GCSE/GCE English, IB English, and qualifying U.S. schooling or coursework routes.",
+      "status": "confirmed",
+      "source": "https://www.psu.edu/resources/international-students/admission-requirements"
+    },
+    {
+      "universityId": "candidate-v2:michigan-state-university",
+      "fact": "Michigan State publishes English proficiency requirements for undergraduate applicants and accepts TOEFL, IELTS, Duolingo, SAT/ACT, MSUELT, CELP, PTE, AP, IGCSE/GCSE/A-level, and IB English evidence, including regular and provisional admission thresholds.",
+      "status": "confirmed",
+      "source": "https://admissions.msu.edu/apply/international/language-requirements"
     }
   ]
 }

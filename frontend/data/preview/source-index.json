@@ -7651,6 +7651,45 @@
       "url": "https://admissions.umd.edu/apply/international-applicants",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.rutgers.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-009f816ec2e713a1acde9759",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.rutgers.edu/apply/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.psu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-1dfac15e655f886ba4c334db",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.psu.edu/resources/international-students/admission-requirements",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.msu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-0c1d85e67629e072d4ba99ee",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.msu.edu/apply/international/language-requirements",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

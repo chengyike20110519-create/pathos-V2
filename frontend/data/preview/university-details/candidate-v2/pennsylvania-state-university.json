@@ -3364,15 +3364,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-1dfac15e655f886ba4c334db"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Penn State requires international students whose native language is not English to submit proof of English proficiency. It accepts Duolingo, TOEFL, IELTS, SAT, ACT, GCSE/GCE English, IB English, and qualifying U.S. schooling or coursework routes.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },
