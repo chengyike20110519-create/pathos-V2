@@ -7937,6 +7937,32 @@
       "url": "https://ois.iu.edu/admissions/apply/freshmen/index.html",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www2.lehigh.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-487b24dbe1d8502d0e03951b",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www2.lehigh.edu/admissions/international-students",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — bulletins.nyu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-4b9e7e6c80b11714e6fba0fa",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/admissions/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

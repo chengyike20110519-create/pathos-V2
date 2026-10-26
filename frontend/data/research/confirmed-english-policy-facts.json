@@ -331,6 +331,18 @@
       "fact": "Indiana University Bloomington requires all international undergraduate applicants to demonstrate English proficiency within the previous two years. Accepted routes include TOEFL 79 iBT, IELTS 6.5, Duolingo 115, Cambridge 176, PTE 53, Michigan MET 53, SAT Evidence-Based Reading and Writing 560, ACT English 21, specified IB/AP/A-level English results, qualifying English-speaking-country schooling, and IU's intensive English program.",
       "status": "confirmed",
       "source": "https://ois.iu.edu/admissions/apply/freshmen/index.html"
+    },
+    {
+      "universityId": "candidate-v2:lehigh-university",
+      "fact": "Lehigh requires applicants to demonstrate English proficiency unless English is the applicant's first language or the last two completed years of formal instruction were in English. TOEFL and IELTS are preferred, while TOEFL Home Edition and Duolingo are considered; Lehigh describes competitive guidance of TOEFL 95+ (5.5+ on the new scale), IELTS 7.5+, or Duolingo 120+, and states SAT/ACT cannot substitute for English proficiency.",
+      "status": "confirmed",
+      "source": "https://www2.lehigh.edu/admissions/international-students"
+    },
+    {
+      "universityId": "candidate-v2:new-york-university",
+      "fact": "NYU undergraduate applicants whose first language is not English generally need English-language testing unless they are exempt, including applicants with three or more consecutive full academic years in an English-medium school or university. NYU states that it has no minimum language-test score, but competitive applicants typically submit TOEFL iBT 100+, IELTS Academic 7.5+, PTE Academic 70+, Cambridge 191+, iTEP 4.5+, or Duolingo 125+; the accepted tests and score guidance are published in the undergraduate bulletin.",
+      "status": "confirmed",
+      "source": "https://bulletins.nyu.edu/undergraduate/arts/admissions/"
     }
   ]
 }
