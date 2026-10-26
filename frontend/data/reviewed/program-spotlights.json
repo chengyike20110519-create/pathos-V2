@@ -1151,12 +1151,21 @@
     "universityId": "candidate-v2:university-of-texas-austin",
     "spotlights": [
       {
-        "name": "Aerospace Engineering",
+        "name": "Aerospace Engineering (BSAsE)",
         "nameZh": "航空航天工程",
         "kind": "distinctive",
         "reason": "UT Austin 官方课程目录将 Aerospace Engineering 列为 BSAsE 本科项目，并明确覆盖空气动力学与推进、结构力学、飞行与轨道力学、控制和设计实验等方向；这里记录的是官方课程结构特色，不是外部排名结论。",
         "sourceUrl": "https://catalog.utexas.edu/undergraduate/programs/aerospace-engineering-bsase/",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Computer Science, Computer Science (BSCompSci)",
+        "nameZh": "计算机科学",
+        "kind": "distinctive",
+        "reason": "UT Austin 计算机科学系官方本科页面列出 BS、BSA、X+CS、Texas Robotics 与 Turing Honors 等多条培养路径，并允许通过方向与选修塑造学位计划；这是官方项目结构事实，不代表外部排名。",
+        "sourceUrl": "https://www.cs.utexas.edu/undergraduate/degrees-and-programs",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [
