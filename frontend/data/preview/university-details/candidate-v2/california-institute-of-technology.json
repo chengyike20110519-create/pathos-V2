@@ -41,15 +41,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-25cc6fb3c6e60c7323876ac0"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Caltech requires English-proficiency exam scores from international applicants unless English is the applicant's native language or the primary language of instruction in secondary school. It accepts IELTS, TOEFL, and Duolingo; current minimums are IELTS 7 in each area, TOEFL 5 in each area for tests on or after January 21, 2026 (100 total and 25 in each area before that date), and Duolingo 130 in each area. InitialView is recommended but does not replace the exam.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -649,7 +652,6 @@
     "status": "warning",
     "warningCodes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ]
@@ -708,11 +710,10 @@
   "warningSummary": {
     "codes": [
       "act_not_reported",
-      "english_policy_pending_external_access",
       "sat_not_reported",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }

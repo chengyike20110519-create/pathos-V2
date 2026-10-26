@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-8ae70d21847b6ee026799f92"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Carnegie Mellon requires official English-proficiency results for nonnative-English-speaking undergraduate applicants. It accepts TOEFL iBT or Home Edition, TOEFL Essentials, IELTS Academic or IELTS Online, Duolingo, and Cambridge English. Current requirements include IELTS 7.5 overall, TOEFL iBT 5 overall for tests on or after January 21, 2026 (102 before that date), TOEFL Essentials 11, Duolingo 135, and Cambridge 191; InitialView or Vericant interviews are recommended but not required.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -1192,7 +1195,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -1249,10 +1251,9 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 2,
+    "count": 1,
     "hasWarnings": true
   }
 }

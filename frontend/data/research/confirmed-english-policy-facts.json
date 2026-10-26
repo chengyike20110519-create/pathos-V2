@@ -295,6 +295,30 @@
       "fact": "Syracuse requires English-proficiency exam results for first-year and transfer applicants outside the United States whose first language is not English, subject to limited waiver review. Accepted exams include TOEFL, IELTS, Cambridge, PTE, and Duolingo. The official page publishes preferred scores by school rather than a single universal minimum; for Arts and Sciences, Maxwell, VPA, Education, Engineering and Computer Science, Falk, and iSchool it lists preferred TOEFL 85+ (4.5 under the new scale), IELTS 6.5+, Cambridge 176+, Duolingo 125+, SAT Evidence-Based Reading 600, and ACT English 27.",
       "status": "confirmed",
       "source": "https://www.syracuse.edu/admissions-aid/application-process/international/undergraduate/requirements/"
+    },
+    {
+      "universityId": "candidate-v2:boston-college",
+      "fact": "Boston College requires international undergraduate applicants to demonstrate English proficiency with TOEFL, IELTS, or Duolingo results. The official policy indicates that the requirement may be waived for native English speakers, applicants with at least three years in a U.S. high school non-ESOL curriculum, or applicants with SAT Evidence-Based Reading 650+ or ACT English 29+; the admissions catalog lists recommended scores of TOEFL 100, IELTS 7.5, or Duolingo 130.",
+      "status": "confirmed",
+      "source": "https://www.bc.edu/content/bc-web/admission/apply/"
+    },
+    {
+      "universityId": "candidate-v2:bucknell-university",
+      "fact": "Bucknell requires proof of English proficiency for international applicants whose native language or secondary-school language of instruction is not English. It accepts TOEFL, IELTS, PTE, or Duolingo results; the official page lists minimums of TOEFL 5 (100 before January 21, 2026), IELTS 7, PTE 68, and Duolingo 130. A waiver may be requested through a school counselor or official.",
+      "status": "confirmed",
+      "source": "https://www.bucknell.edu/admissions-aid/apply-bucknell/undergraduate-admission-requirements/admission-requirements-international-students"
+    },
+    {
+      "universityId": "candidate-v2:california-institute-of-technology",
+      "fact": "Caltech requires English-proficiency exam scores from international applicants unless English is the applicant's native language or the primary language of instruction in secondary school. It accepts IELTS, TOEFL, and Duolingo; current minimums are IELTS 7 in each area, TOEFL 5 in each area for tests on or after January 21, 2026 (100 total and 25 in each area before that date), and Duolingo 130 in each area. InitialView is recommended but does not replace the exam.",
+      "status": "confirmed",
+      "source": "https://www.admissions.caltech.edu/apply/first-year-applicants/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:carnegie-mellon-university",
+      "fact": "Carnegie Mellon requires official English-proficiency results for nonnative-English-speaking undergraduate applicants. It accepts TOEFL iBT or Home Edition, TOEFL Essentials, IELTS Academic or IELTS Online, Duolingo, and Cambridge English. Current requirements include IELTS 7.5 overall, TOEFL iBT 5 overall for tests on or after January 21, 2026 (102 before that date), TOEFL Essentials 11, Duolingo 135, and Cambridge 191; InitialView or Vericant interviews are recommended but not required.",
+      "status": "confirmed",
+      "source": "https://www.cmu.edu/admission/admission/international-applicants"
     }
   ]
 }

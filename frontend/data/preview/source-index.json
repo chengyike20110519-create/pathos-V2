@@ -7859,6 +7859,58 @@
       "url": "https://www.syracuse.edu/admissions-aid/application-process/international/undergraduate/requirements/",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.bc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-4957a1059d40b0fd82ffe608",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.bc.edu/content/bc-web/admission/apply/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.bucknell.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-56b347e5b064eff4ae00cde2",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.bucknell.edu/admissions-aid/apply-bucknell/undergraduate-admission-requirements/admission-requirements-international-students",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.admissions.caltech.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-25cc6fb3c6e60c7323876ac0",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.caltech.edu/apply/first-year-applicants/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.cmu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-8ae70d21847b6ee026799f92",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.cmu.edu/admission/admission/international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

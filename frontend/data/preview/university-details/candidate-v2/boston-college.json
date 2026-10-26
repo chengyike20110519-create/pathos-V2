@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-4957a1059d40b0fd82ffe608"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Boston College requires international undergraduate applicants to demonstrate English proficiency with TOEFL, IELTS, or Duolingo results. The official policy indicates that the requirement may be waived for native English speakers, applicants with at least three years in a U.S. high school non-ESOL curriculum, or applicants with SAT Evidence-Based Reading 650+ or ACT English 29+; the admissions catalog lists recommended scores of TOEFL 100, IELTS 7.5, or Duolingo 130.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -1136,7 +1139,6 @@
     "status": "warning",
     "warningCodes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -1194,10 +1196,9 @@
   "warningSummary": {
     "codes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 3,
+    "count": 2,
     "hasWarnings": true
   }
 }

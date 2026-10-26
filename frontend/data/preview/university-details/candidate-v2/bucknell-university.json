@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-56b347e5b064eff4ae00cde2"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Bucknell requires proof of English proficiency for international applicants whose native language or secondary-school language of instruction is not English. It accepts TOEFL, IELTS, PTE, or Duolingo results; the official page lists minimums of TOEFL 5 (100 before January 21, 2026), IELTS 7, PTE 68, and Duolingo 130. A waiver may be requested through a school counselor or official.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -1536,7 +1539,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
@@ -1593,12 +1595,11 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
     ],
-    "count": 4,
+    "count": 3,
     "hasWarnings": true
   }
 }
