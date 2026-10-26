@@ -7430,6 +7430,58 @@
       "url": "https://admission.usc.edu/prospective-students/how-to-apply/international-students/",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.rice.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-eb2f764e84004520a8f042f6",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.rice.edu/apply/first-year-international-applicants",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.nd.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-aa87ea908f08bf7a0ffecc1f",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.nd.edu/information-for/international-applicants/application-information/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — apply.emory.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-8b39371faf2f45d20e69cac5",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://apply.emory.edu/apply/international",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.vanderbilt.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-92c436801aec5ab31833da19",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.vanderbilt.edu/apply/testing-policies/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

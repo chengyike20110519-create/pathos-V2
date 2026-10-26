@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-eb2f764e84004520a8f042f6"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Rice requires applicants whose first language is not English to demonstrate proficiency either through at least two years of full-time English-language curriculum or an approved exam. Rice lists TOEFL, IELTS Academic, Cambridge, and Duolingo with minimum scores.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -1425,7 +1428,6 @@
     "status": "warning",
     "warningCodes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -1483,10 +1485,9 @@
   "warningSummary": {
     "codes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 3,
+    "count": 2,
     "hasWarnings": true
   }
 }

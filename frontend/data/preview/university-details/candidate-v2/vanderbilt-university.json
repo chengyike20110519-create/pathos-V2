@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-92c436801aec5ab31833da19"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Vanderbilt requires proof of English proficiency for international applicants even while SAT/ACT submission is optional for the current application cycles. Its undergraduate admissions testing policy treats English-proficiency testing separately from general standardized testing.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -1299,7 +1302,6 @@
     "status": "warning",
     "warningCodes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ]
   },
@@ -1357,10 +1359,9 @@
   "warningSummary": {
     "codes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 3,
+    "count": 2,
     "hasWarnings": true
   }
 }

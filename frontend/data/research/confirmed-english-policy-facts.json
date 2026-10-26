@@ -97,6 +97,30 @@
       "fact": "USC requires international applicants whose native language is not English to demonstrate English proficiency. USC lists TOEFL, IELTS, Cambridge, PTE, SAT/ACT English, and Duolingo alternatives with published minimums and conditions.",
       "status": "confirmed",
       "source": "https://admission.usc.edu/prospective-students/how-to-apply/international-students/"
+    },
+    {
+      "universityId": "candidate-v2:rice-university",
+      "fact": "Rice requires applicants whose first language is not English to demonstrate proficiency either through at least two years of full-time English-language curriculum or an approved exam. Rice lists TOEFL, IELTS Academic, Cambridge, and Duolingo with minimum scores.",
+      "status": "confirmed",
+      "source": "https://admission.rice.edu/apply/first-year-international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:university-of-notre-dame",
+      "fact": "Notre Dame requires English proficiency testing when an applicant's primary first language is not English or secondary education was not primarily in English. It accepts TOEFL, IELTS, PTE Academic, and Duolingo, with SAT/ACT waiver conditions.",
+      "status": "confirmed",
+      "source": "https://admissions.nd.edu/information-for/international-applicants/application-information/"
+    },
+    {
+      "universityId": "candidate-v2:emory-university",
+      "fact": "Emory requires international applicants whose primary language is not English to demonstrate English proficiency. The official admissions pages identify TOEFL, IELTS, and Duolingo as English-proficiency routes and distinguish optional interviews from the testing requirement.",
+      "status": "confirmed",
+      "source": "https://apply.emory.edu/apply/international"
+    },
+    {
+      "universityId": "candidate-v2:vanderbilt-university",
+      "fact": "Vanderbilt requires proof of English proficiency for international applicants even while SAT/ACT submission is optional for the current application cycles. Its undergraduate admissions testing policy treats English-proficiency testing separately from general standardized testing.",
+      "status": "confirmed",
+      "source": "https://admissions.vanderbilt.edu/apply/testing-policies/"
     }
   ]
 }
