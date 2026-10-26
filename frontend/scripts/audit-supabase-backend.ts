@@ -10,7 +10,10 @@ import { parseStage5Manifest } from "../src/schemas/stage5-preview.schema";
 const report: Record<string, any> = { checkedAt: new Date().toISOString(), scope: "read-only live database snapshot; not a full re-crawl of historical sources", sections: {}, timings: [] };
 const connectionString = process.env.DATABASE_URL;
 if (!connectionString) throw new Error("DATABASE_URL is required; never pass it on the command line");
-const previewBaseUrl = (process.env.PATHOS_PREVIEW_URL ?? "http://localhost:3000").replace(/\/$/, "");
+// The documented preview command is `pnpm dev:preview` on port 3002.
+// Keep PATHOS_PREVIEW_URL as an override for CI or another local port, but
+// avoid false API failures when the normal preview server is running.
+const previewBaseUrl = (process.env.PATHOS_PREVIEW_URL ?? "http://localhost:3002").replace(/\/$/, "");
 const connectionOptions = { connectionString, ssl: { rejectUnauthorized: false }, connectionTimeoutMillis: 10000, query_timeout: 60000, application_name: "pathos_readonly_audit" };
 const client = new pg.Client(connectionOptions);
 client.on("error", (error) => { report.connectionError = { code: (error as any).code, message: error.message }; });
