@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-c608adc7bb5fb64eb0222f3c"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Loyola Chicago may require official English-proficiency scores for international undergraduate applicants. The official page lists TOEFL, IELTS, PTE, and Duolingo as proof options, with current minimums of TOEFL 4.5 for tests taken after January 1, 2026 (79 for earlier tests), IELTS 6.5, PTE 53, and Duolingo 110. Loyola states that English proficiency is not waived based only on country of origin or medium of instruction, while AP/IB coursework may be reviewed for a waiver; conditional admission is available through ICAP.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -1419,7 +1422,6 @@
     "status": "warning",
     "warningCodes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
@@ -1477,12 +1479,11 @@
   "warningSummary": {
     "codes": [
       "county_scope_only",
-      "english_policy_pending_external_access",
       "not_in_current_national_scope",
       "not_in_verified_national_top50_scope",
       "stale_reference_year"
     ],
-    "count": 5,
+    "count": 4,
     "hasWarnings": true
   }
 }

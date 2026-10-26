@@ -271,6 +271,30 @@
       "fact": "Rensselaer requires non-native English speakers or international students with limited U.S. college study to demonstrate English proficiency through TOEFL, IELTS, Duolingo, or PTE. It publishes exemptions based on academic scores and English-medium education.",
       "status": "confirmed",
       "source": "https://undergrad.admissions.rpi.edu/apply/international-applicants"
+    },
+    {
+      "universityId": "candidate-v2:loyola-university-chicago",
+      "fact": "Loyola Chicago may require official English-proficiency scores for international undergraduate applicants. The official page lists TOEFL, IELTS, PTE, and Duolingo as proof options, with current minimums of TOEFL 4.5 for tests taken after January 1, 2026 (79 for earlier tests), IELTS 6.5, PTE 53, and Duolingo 110. Loyola states that English proficiency is not waived based only on country of origin or medium of instruction, while AP/IB coursework may be reviewed for a waiver; conditional admission is available through ICAP.",
+      "status": "confirmed",
+      "source": "https://www.luc.edu/undergrad/admissions/internationalstudents/"
+    },
+    {
+      "universityId": "candidate-v2:marquette-university",
+      "fact": "Marquette requires international undergraduate applicants whose native language is not English to submit evidence of English ability. The official page lists TOEFL 86 total with at least 20 in each section for tests before January 21, 2026 (4.5 for tests on or after that date), IELTS 6.5 in each section, Duolingo 120, SAT Evidence-Based Reading 560, or ACT English 24 and Reading 20; certain U.S./Canadian study may satisfy the requirement.",
+      "status": "confirmed",
+      "source": "https://www.marquette.edu/oie/prospective-students/application-materials.php"
+    },
+    {
+      "universityId": "candidate-v2:fordham-university",
+      "fact": "Fordham requires English-proficiency results for international applicants whose first language is not English and who have less than four years of recent all-English instruction. The undergraduate page lists TOEFL iBT 4.5+ for scores from January 2026 (90+ before January 2026), IELTS 7.0+, Duolingo 125+, or PTE 65+. Applicants with at least four years of all-English instruction may request a waiver through the applicant portal; Via Fordham is an alternative pathway for some applicants.",
+      "status": "confirmed",
+      "source": "https://www.fordham.edu/undergraduate-admission/international-students/"
+    },
+    {
+      "universityId": "candidate-v2:syracuse-university",
+      "fact": "Syracuse requires English-proficiency exam results for first-year and transfer applicants outside the United States whose first language is not English, subject to limited waiver review. Accepted exams include TOEFL, IELTS, Cambridge, PTE, and Duolingo. The official page publishes preferred scores by school rather than a single universal minimum; for Arts and Sciences, Maxwell, VPA, Education, Engineering and Computer Science, Falk, and iSchool it lists preferred TOEFL 85+ (4.5 under the new scale), IELTS 6.5+, Cambridge 176+, Duolingo 125+, SAT Evidence-Based Reading 600, and ACT English 27.",
+      "status": "confirmed",
+      "source": "https://www.syracuse.edu/admissions-aid/application-process/international/undergraduate/requirements/"
     }
   ]
 }

@@ -943,15 +943,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-84e5533f144eee46dc3fd427"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Marquette requires international undergraduate applicants whose native language is not English to submit evidence of English ability. The official page lists TOEFL 86 total with at least 20 in each section for tests before January 21, 2026 (4.5 for tests on or after that date), IELTS 6.5 in each section, Duolingo 120, SAT Evidence-Based Reading 560, or ACT English 24 and Reading 20; certain U.S./Canadian study may satisfy the requirement.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

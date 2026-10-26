@@ -889,15 +889,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-a9fd04c3cf7fb90f6782b215"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Fordham requires English-proficiency results for international applicants whose first language is not English and who have less than four years of recent all-English instruction. The undergraduate page lists TOEFL iBT 4.5+ for scores from January 2026 (90+ before January 2026), IELTS 7.0+, Duolingo 125+, or PTE 65+. Applicants with at least four years of all-English instruction may request a waiver through the applicant portal; Via Fordham is an alternative pathway for some applicants.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

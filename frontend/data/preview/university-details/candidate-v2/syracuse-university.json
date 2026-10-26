@@ -1957,15 +1957,18 @@
       ]
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-23d9fcda986031c11faabd0a"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Syracuse requires English-proficiency exam results for first-year and transfer applicants outside the United States whose first language is not English, subject to limited waiver review. Accepted exams include TOEFL, IELTS, Cambridge, PTE, and Duolingo. The official page publishes preferred scores by school rather than a single universal minimum; for Arts and Sciences, Maxwell, VPA, Education, Engineering and Computer Science, Falk, and iSchool it lists preferred TOEFL 85+ (4.5 under the new scale), IELTS 6.5+, Cambridge 176+, Duolingo 125+, SAT Evidence-Based Reading 600, and ACT English 27.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     }
   },

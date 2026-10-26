@@ -7807,6 +7807,58 @@
       "url": "https://undergrad.admissions.rpi.edu/apply/international-applicants",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.luc.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-c608adc7bb5fb64eb0222f3c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.luc.edu/undergrad/admissions/internationalstudents/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.marquette.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-84e5533f144eee46dc3fd427",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.marquette.edu/oie/prospective-students/application-materials.php",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.fordham.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-a9fd04c3cf7fb90f6782b215",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.fordham.edu/undergraduate-admission/international-students/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — www.syracuse.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-23d9fcda986031c11faabd0a",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.syracuse.edu/admissions-aid/application-process/international/undergraduate/requirements/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }
