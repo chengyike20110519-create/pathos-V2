@@ -1090,6 +1090,15 @@
         "reason": "USC Viterbi Thomas Lord Department of Computer Science 官方本科页面列出 Computer Science 的 BS 项目，并说明本科生还可选择 Computer Engineering and Computer Science、Computer Science Games 以及 Computer Science and Business Administration 等交叉路径；这里记录的是官方项目结构特色，不是外部排名结论。",
         "sourceUrl": "https://www.cs.usc.edu/academic-programs/undergrad/",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Computer Science Games",
+        "nameZh": "计算机科学（游戏）",
+        "kind": "distinctive",
+        "reason": "USC 计算机科学系官方本科页面将 Computer Science Games 列为本科生可选择的交叉培养路径；这里记录的是官方项目设置事实，不代表外部排名。",
+        "sourceUrl": "https://www.cs.usc.edu/academic-programs/undergrad/",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [
