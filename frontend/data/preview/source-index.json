@@ -5672,6 +5672,28 @@
       "notes": "Used for exact national undergraduate program ranks recorded in the UW–Madison spotlight data."
     },
     {
+      "sourceId": "source_uchicago_computational_applied_mathematics_undergraduate_2026",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "University of Chicago Committee on Computational and Applied Mathematics",
+      "referenceYear": "2026-27",
+      "url": "https://cam.uchicago.edu/academics/undergraduate-programs/",
+      "status": "verified",
+      "scope": ["University of Chicago Computational and Applied Mathematics undergraduate major description"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program-structure description; not an external ranking."
+    },
+    {
+      "sourceId": "source_uchicago_economics_undergraduate_curriculum_2026",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "University of Chicago Kenneth C. Griffin Department of Economics",
+      "referenceYear": "2026-27",
+      "url": "https://economics.uchicago.edu/undergraduate-study/curriculum/curriculum-faq",
+      "status": "verified",
+      "scope": ["University of Chicago Economics undergraduate curriculum tracks"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official curriculum-structure description; not an external ranking."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",

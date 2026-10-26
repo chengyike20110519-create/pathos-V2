@@ -1258,6 +1258,24 @@
         "reason": "芝加哥大学计算机系官方本科项目同时提供 BA、BS、联合 BA/MS 与 BS/MS 路径，并将计算机科学与数学、自然科学、社会科学及艺术等领域连接；这是项目结构特色说明，不是外部排名。",
         "sourceUrl": "https://cs.uchicago.edu/academics/undergraduate/",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Computational and Applied Mathematics",
+        "nameZh": "计算与应用数学",
+        "kind": "distinctive",
+        "reason": "芝加哥大学官方项目页面说明，该本科 BS 由计算机科学、数学和统计学系共同提供，并面向物理、生物科学、工程、运筹学、经济学和金融等应用方向；这是官方项目结构特色，不代表外部排名。",
+        "sourceUrl": "https://cam.uchicago.edu/academics/undergraduate-programs/",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
+      },
+      {
+        "name": "Economics",
+        "nameZh": "经济学",
+        "kind": "distinctive",
+        "reason": "芝加哥大学经济系官方本科课程说明提供 Standard、Business Economics、Data Science 和 Politics and Policy 四种方向；这是官方课程结构事实，不代表外部排名。",
+        "sourceUrl": "https://economics.uchicago.edu/undergraduate-study/curriculum/curriculum-faq",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [
