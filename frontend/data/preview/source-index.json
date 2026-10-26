@@ -5782,6 +5782,28 @@
       "notes": "Used for official program-structure description; the reviewed record uses the existing directory's Bioengineering and Biomedical Engineering label."
     },
     {
+      "sourceId": "source_vanderbilt_ai_design_practice_undergraduate_2027",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Vanderbilt University College of Connected Computing",
+      "referenceYear": "2027",
+      "url": "https://computing.vanderbilt.edu/b-a-in-ai-design-and-practice/",
+      "status": "verified",
+      "scope": ["Vanderbilt AI Design and Practice B.A. program; available for matriculation Fall 2027"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program description and availability note; not an external ranking."
+    },
+    {
+      "sourceId": "source_vanderbilt_data_science_undergraduate_2027",
+      "sourceType": "official_undergraduate_program",
+      "publisher": "Vanderbilt University College of Connected Computing",
+      "referenceYear": "2027",
+      "url": "https://computing.vanderbilt.edu/undergraduate-programs/",
+      "status": "verified",
+      "scope": ["Vanderbilt Data Science B.S. program; available for matriculation Fall 2027"],
+      "retrievedAt": "2026-10-26",
+      "notes": "Used for official program description and availability note; not an external ranking."
+    },
+    {
       "sourceId": "source_yale_humanities_program_2026_27",
       "sourceType": "official_institutional",
       "publisher": "Yale University Humanities Program",
