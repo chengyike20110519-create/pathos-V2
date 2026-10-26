@@ -1133,6 +1133,15 @@
         "reason": "Boston College Carroll School of Management 官方本科页面将 Finance 列为本科管理教育方向，并说明其课程结合管理教育、文理教育和分析能力培养；这里记录的是官方项目设置特色，不是外部排名结论。",
         "sourceUrl": "https://ccc.bc.edu/content/bc-web/schools/carroll-school/undergraduate.html",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Computer Science",
+        "nameZh": "计算机科学",
+        "kind": "distinctive",
+        "reason": "Boston College 官方本科目录说明 Computer Science 同时提供 BA 与 BS 主修，并包含逻辑与计算、随机性与计算、系统、组织和算法等核心课程；这是官方培养结构事实，不代表外部排名。",
+        "sourceUrl": "https://www.bc.edu/bc-web/academics/sites/university-catalog/undergraduate/mcas/computer-science.html",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [
