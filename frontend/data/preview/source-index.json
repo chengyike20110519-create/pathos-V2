@@ -7352,6 +7352,45 @@
       "url": "https://admissions.dartmouth.edu/glossary-question/if-english-not-my-first-language-am-i-required-submit-language-proficiency-test",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.northwestern.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-e68e1cb982eda74fc3ff5434",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.northwestern.edu/faqs/international-applicants/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.uconn.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-c935f0a38f37f3e395917b3c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.uconn.edu/apply/international/first-year/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admissions.umich.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-b2fd30e447bbc9532fe551cb",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.umich.edu/apply/international-applicants/exams-visas",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

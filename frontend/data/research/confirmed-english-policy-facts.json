@@ -61,6 +61,24 @@
       "fact": "Dartmouth requires applicants whose first language is not English and whose curriculum has not been delivered in English for at least two years to submit an English proficiency exam score. Accepted exams include TOEFL, IELTS, Duolingo, and Cambridge English.",
       "status": "confirmed",
       "source": "https://admissions.dartmouth.edu/glossary-question/if-english-not-my-first-language-am-i-required-submit-language-proficiency-test"
+    },
+    {
+      "universityId": "candidate-v2:northwestern-university",
+      "fact": "Northwestern requires official English proficiency scores when an applicant's first or primary language is not English or secondary schooling has not been in English. Northwestern accepts Duolingo, IELTS, and TOEFL and does not set a minimum score.",
+      "status": "confirmed",
+      "source": "https://admissions.northwestern.edu/faqs/international-applicants/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-connecticut",
+      "fact": "UConn requires standardized English proficiency results for international applicants whose primary language is not English. Its undergraduate policy lists TOEFL, IELTS, Duolingo, LanguageCert Academic, and PTE Academic, with waiver categories for qualifying applicants.",
+      "status": "confirmed",
+      "source": "https://admissions.uconn.edu/apply/international/first-year/"
+    },
+    {
+      "universityId": "candidate-v2:university-of-michigan-ann-arbor",
+      "fact": "The University of Michigan requires non-native English speakers to demonstrate English proficiency for undergraduate admission consideration. The official policy lists TOEFL, IELTS, ECPE, CAE/CPE, PTE Academic, and MET, with specified score ranges and exemptions.",
+      "status": "confirmed",
+      "source": "https://admissions.umich.edu/apply/international-applicants/exams-visas"
     }
   ]
 }

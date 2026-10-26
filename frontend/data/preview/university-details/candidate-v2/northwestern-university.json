@@ -56,15 +56,18 @@
       "warnings": []
     },
     "englishPolicy": {
-      "nullReason": "official_undergraduate_english_policy_pages_not_frozen",
-      "referenceYear": null,
+      "nullReason": null,
+      "referenceYear": 2026,
       "scope": "international_first_year_undergraduate",
-      "sourceIds": [],
-      "status": "pending_external_access",
+      "sourceIds": [
+        "confirmed-english-source-e68e1cb982eda74fc3ff5434"
+      ],
+      "status": "verified",
       "unit": "policy",
-      "value": null,
+      "value": "Northwestern requires official English proficiency scores when an applicant's first or primary language is not English or secondary schooling has not been in English. Northwestern accepts Duolingo, IELTS, and TOEFL and does not set a minimum score.",
       "warnings": [
-        "pending_data_not_a_verified_fact"
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
       ]
     },
     "graduationRate": {
@@ -2608,7 +2611,6 @@
     "sourceLimited": true,
     "status": "warning",
     "warningCodes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
     "warnings": []
@@ -2666,10 +2668,9 @@
   },
   "warningSummary": {
     "codes": [
-      "english_policy_pending_external_access",
       "stale_reference_year"
     ],
-    "count": 2,
+    "count": 1,
     "hasWarnings": true
   }
 }
