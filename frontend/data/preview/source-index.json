@@ -2158,6 +2158,19 @@
       "url": "https://www.brandeis.edu/majors"
     },
     {
+      "universityId": "candidate-v2:brandeis-university",
+      "publisher": "Brandeis University Office of Institutional Research / Registrar",
+      "referenceYear": 2019,
+      "scope": [
+        "first-year retention",
+        "six-year graduation rate"
+      ],
+      "sourceId": "official-brandeis-retention-graduation-2018-19",
+      "sourceType": "official_institutional_report",
+      "status": "verified",
+      "url": "https://www.brandeis.edu/registrar/compliance/retention-grad.html"
+    },
+    {
       "universityId": "candidate-v2:case-western-reserve-university",
       "publisher": "Case Western Reserve University Bulletin",
       "referenceYear": 2026,

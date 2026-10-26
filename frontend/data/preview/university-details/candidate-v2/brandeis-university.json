@@ -43,8 +43,8 @@
   "acceptanceRate": 40.47,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 78,
-  "retentionRate": 87,
+  "graduationRate": 88,
+  "retentionRate": 92,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -709,25 +709,29 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-brandeis-retention-graduation-2018-19"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.88,
       "warnings": [
         "stale_reference_year"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-brandeis-retention-graduation-2018-19"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.92,
       "warnings": [
         "stale_reference_year"
       ]
