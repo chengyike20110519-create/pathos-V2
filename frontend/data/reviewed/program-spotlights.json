@@ -1943,6 +1943,24 @@
         "reason": "University of Maryland 官方目录将 Information Science 定义为连接信息、人员与技术的跨学科本科领域，课程覆盖信息系统、数据库、用户需求与以用户为中心的设计；这是官方项目定位说明，不是外部排名结论。",
         "sourceUrl": "https://academiccatalog.umd.edu/undergraduate/colleges-schools/information/information-science-major/",
         "checkedOn": "2026-10-20"
+      },
+      {
+        "name": "Immersive Media Design Major (ARTT)",
+        "nameZh": "沉浸式媒体设计（艺术方向）",
+        "kind": "distinctive",
+        "reason": "UMD 官方 IMD 页面将该项目描述为融合艺术表达与计算机科学技术的跨学科本科项目；ARTT 方向由艺术学院目录列出，强调数字媒体与设计实践。这里记录的是官方项目结构，不代表外部排名。",
+        "sourceUrl": "https://academiccatalog.umd.edu/undergraduate/colleges-schools/arts-humanities/art/immersive-media-design-major/",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
+      },
+      {
+        "name": "Immersive Media Design Major (CMSC)",
+        "nameZh": "沉浸式媒体设计（计算方向）",
+        "kind": "distinctive",
+        "reason": "UMD 官方计算机科学目录将 CMSC 方向的 Immersive Media Design 定义为跨校区合作项目，包含协作式工作室课程和沉浸式数字媒体作品实践；这里记录的是官方项目结构，不代表外部排名。",
+        "sourceUrl": "https://academiccatalog.umd.edu/undergraduate/colleges-schools/computer-mathematical-natural-sciences/computer-science/immersive-media-design-major/",
+        "checkedOn": "2026-10-26",
+        "evidenceType": "official_program_description"
       }
     ],
     "supportingUrls": [
