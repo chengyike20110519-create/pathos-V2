@@ -2792,6 +2792,38 @@
       "url": "https://www.academics.pitt.edu/undergraduate-programs"
     },
     {
+      "universityId": "candidate-v2:university-of-pittsburgh",
+      "publisher": "University of Pittsburgh Institutional Research and Analytics",
+      "referenceYear": 2019,
+      "scope": [
+        "six-year graduation rate",
+        "Pittsburgh campus",
+        "Fall 2019 entering cohort"
+      ],
+      "sourceId": "official-pitt-srtk-2019-graduation",
+      "sourceType": "official_student_right_to_know_report",
+      "status": "verified",
+      "url": "https://www.ir.pitt.edu/university-information/student-right-know-graduation-rates/pittsburgh",
+      "checkedOn": "2026-10-27",
+      "notes": "Official Pitt report states 86% six-year graduation for Pittsburgh Campus baccalaureate degree-seeking students entering Fall 2019."
+    },
+    {
+      "universityId": "candidate-v2:university-of-pittsburgh",
+      "publisher": "University of Pittsburgh Institutional Research and Analytics",
+      "referenceYear": 2020,
+      "scope": [
+        "freshmen one-year retention rate",
+        "Pittsburgh campus",
+        "Fall 2019 entering cohort"
+      ],
+      "sourceId": "official-pitt-cds-2019-retention",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://ir.pitt.edu/sites/default/files/assets/CDS_2020-2021-Pittsburgh-Campus.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official CDS reports 93.4% retention at the Pittsburgh campus; a separate system-wide figure including other Pitt campuses is 93.5%."
+    },
+    {
       "universityId": "candidate-v2:wake-forest-university",
       "publisher": "Wake Forest University Academic Bulletin",
       "referenceYear": 2026,
