@@ -52,7 +52,7 @@
   "acceptanceRate": 55,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 64,
+  "graduationRate": 85.8,
   "retentionRate": 93,
   "schoolType": "private",
   "displayTier": "preview",
@@ -1565,15 +1565,17 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-vt-bov-2019-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.858,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_2019"
       ]
     },
     "retentionRate": {
