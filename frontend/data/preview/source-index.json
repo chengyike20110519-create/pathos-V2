@@ -2,6 +2,15 @@
   "contractVersion": "pathos-preview-v1",
   "sources": [
     {
+      "publisher": "William & Mary Institutional Accreditation & Effectiveness",
+      "referenceYear": 2019,
+      "scope": ["first_time_first_year_six_year_graduation_and_retention"],
+      "sourceId": "official-wm-student-achievement-outcomes",
+      "sourceType": "university_official_report",
+      "status": "verified",
+      "url": "https://www.wm.edu/offices/iae/accreditation/student-achievement/"
+    },
+    {
       "publisher": "Florida State University Office of Institutional Research",
       "referenceYear": 2018,
       "scope": ["full_time_ftic_six_year_graduation_and_retention"],
