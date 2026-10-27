@@ -2028,25 +2028,25 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": ["official-fsu-pocket-fact-book-2024-25-outcomes"],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.856,
       "warnings": [
         "stale_reference_year"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2018,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": ["official-fsu-pocket-fact-book-2024-25-outcomes"],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.865,
       "warnings": [
         "stale_reference_year"
       ]
