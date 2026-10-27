@@ -43,7 +43,7 @@
   "acceptanceRate": 65.6,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 57,
+  "graduationRate": 74,
   "retentionRate": 88,
   "schoolType": "private",
   "displayTier": "preview",
@@ -1516,27 +1516,31 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-ucsc-sam-2019-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.74,
       "warnings": [
-        "stale_reference_year"
+        "sam_within_6_years_includes_transfer_outcomes"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2024,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-ucsc-2024-25-statistics-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.88,
       "warnings": [
-        "stale_reference_year"
+        "reference_academic_year_2024_25"
       ]
     },
     "sat": {

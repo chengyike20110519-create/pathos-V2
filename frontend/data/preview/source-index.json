@@ -8974,6 +8974,34 @@
       "url": "https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/7/79858/files/2017/04/Penn-State-Self-Study-Design-Final-Draft.pdf",
       "checkedOn": "2026-10-27",
       "notes": "Official Penn State self-study table reports 86.9% one-year retention for the 2019 cohort; graduation and retention rows are university-wide."
+    },
+    {
+      "publisher": "University of California, Santa Cruz Student Achievement Measure",
+      "referenceYear": 2019,
+      "scope": [
+        "fall 2019 first-time full-time bachelor's-seeking cohort",
+        "within 6 years"
+      ],
+      "sourceId": "official-ucsc-sam-2019-graduation",
+      "sourceType": "official_outcomes_dashboard",
+      "status": "verified",
+      "url": "https://www.studentachievementmeasure.org/participants/110714",
+      "checkedOn": "2026-10-27",
+      "notes": "Official SAM reports 74% graduated from UC Santa Cruz within six years; the extended SAM chart also shows 10% graduating at another institution."
+    },
+    {
+      "publisher": "University of California, Santa Cruz Undergraduate Admissions",
+      "referenceYear": 2024,
+      "scope": [
+        "first-year student retention",
+        "2024-25 statistics"
+      ],
+      "sourceId": "official-ucsc-2024-25-statistics-retention",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.ucsc.edu/posts/statistics",
+      "checkedOn": "2026-10-27",
+      "notes": "Official UCSC statistics page reports 88% of first-year students returned for sophomore year in the 2024-25 statistics section."
     }
   ]
 }
