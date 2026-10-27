@@ -2,6 +2,24 @@
   "contractVersion": "pathos-preview-v1",
   "sources": [
     {
+      "publisher": "Tulane University Office of Financial Aid",
+      "referenceYear": 2018,
+      "scope": ["institution_undergraduate_six_year_graduation_rate"],
+      "sourceId": "official-tulane-heoa-2018-graduation-outcomes",
+      "sourceType": "university_official_report",
+      "status": "verified",
+      "url": "https://financialaid.tulane.edu/sites/default/files/2024-12/Six-Year%20Graduation%20Rates%202018%20Cohort%20120924.pdf"
+    },
+    {
+      "publisher": "Tulane University Office of Assessment and Institutional Research",
+      "referenceYear": 2019,
+      "scope": ["first_time_full_time_undergraduate_retention_rate"],
+      "sourceId": "official-tulane-oair-2019-retention",
+      "sourceType": "university_official_report",
+      "status": "verified",
+      "url": "https://oair.tulane.edu/june-2-test"
+    },
+    {
       "publisher": "Arizona State University",
       "referenceYear": null,
       "scope": [

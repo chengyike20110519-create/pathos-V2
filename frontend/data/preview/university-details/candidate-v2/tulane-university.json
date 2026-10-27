@@ -1293,25 +1293,25 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": ["official-tulane-heoa-2018-graduation-outcomes"],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.8614,
       "warnings": [
         "stale_reference_year"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": ["official-tulane-oair-2019-retention"],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.92,
       "warnings": [
         "stale_reference_year"
       ]
