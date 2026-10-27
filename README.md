@@ -61,6 +61,8 @@ PathOS/
 
 环境要求：Node.js 20+、npm。
 
+下面是构建后预览（端口 3017）。日常开发可使用固定 3002 端口的 `npm run dev:preview`，完整步骤见 [前端启动说明](frontend/README.md)。
+
 ```bash
 cd frontend
 npm ci
