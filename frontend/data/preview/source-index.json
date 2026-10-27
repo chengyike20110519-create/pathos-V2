@@ -2897,6 +2897,36 @@
       "url": "https://bulletin.wfu.edu/undergraduate/requirements-degrees/majors-minors/"
     },
     {
+      "universityId": "candidate-v2:wake-forest-university",
+      "publisher": "Wake Forest University",
+      "referenceYear": 2026,
+      "scope": [
+        "six-year graduation rate",
+        "Fall 2019 entering cohort"
+      ],
+      "sourceId": "official-wfu-cds-2019-graduation",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://prod.wp.cdn.aws.wfu.edu/sites/202/2026/06/CDS_2025-2026-PDF_Template_WFU.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official WFU CDS reports a 90.30% six-year graduation rate for the Fall 2019 cohort."
+    },
+    {
+      "universityId": "candidate-v2:wake-forest-university",
+      "publisher": "Wake Forest University",
+      "referenceYear": 2021,
+      "scope": [
+        "one-year retention rate",
+        "Fall 2019 entering cohort"
+      ],
+      "sourceId": "official-wfu-cds-2019-retention",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://prod.wp.cdn.aws.wfu.edu/sites/202/2023/01/CDS_2020-2021-3.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official WFU CDS reports a 94.5% one-year retention rate for the Fall 2019 cohort."
+    },
+    {
       "universityId": "candidate-v2:colorado-school-of-mines",
       "publisher": "Colorado School of Mines Catalog",
       "referenceYear": 2026,
