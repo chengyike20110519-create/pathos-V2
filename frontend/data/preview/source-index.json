@@ -3112,6 +3112,21 @@
       "url": "https://admissions.ucr.edu/majors/a-z"
     },
     {
+      "universityId": "candidate-v2:university-of-california-riverside",
+      "publisher": "UC Riverside Institutional Research",
+      "referenceYear": 2025,
+      "scope": [
+        "six-year graduation rate",
+        "Fall 2019 entering first-time full-time frosh cohort"
+      ],
+      "sourceId": "official-ucr-campus-facts-2019-graduation",
+      "sourceType": "official_institutional_research_facts",
+      "status": "verified",
+      "url": "https://ir.ucr.edu/campus-facts-tables",
+      "checkedOn": "2026-10-27",
+      "notes": "Official UCR campus facts table reports a 75.4% six-year graduation rate for the Fall 2019 cohort."
+    },
+    {
       "universityId": "candidate-v2:southern-methodist-university",
       "publisher": "Southern Methodist University Academic Programs",
       "referenceYear": 2026,
