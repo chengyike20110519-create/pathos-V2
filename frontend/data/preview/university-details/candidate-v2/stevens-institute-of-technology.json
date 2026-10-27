@@ -554,15 +554,17 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-stevens-facts-2019-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.89,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_2019"
       ]
     },
     "retentionRate": {

@@ -2640,6 +2640,21 @@
       "url": "https://www.stevens.edu/academics/academic-catalog"
     },
     {
+      "universityId": "candidate-v2:stevens-institute-of-technology",
+      "publisher": "Stevens Institute of Technology Office of Institutional Research and Effectiveness",
+      "referenceYear": 2019,
+      "scope": [
+        "six-year graduation rate",
+        "Fall 2019 entering freshmen cohort"
+      ],
+      "sourceId": "official-stevens-facts-2019-graduation",
+      "sourceType": "official_university_facts_and_figures",
+      "status": "verified",
+      "url": "https://www.stevens.edu/office-of-institutional-research-and-effectiveness/facts-and-figures",
+      "checkedOn": "2026-10-27",
+      "notes": "Official Stevens facts page reports an 89% six-year graduation rate for the Fall 2019 entering freshmen cohort."
+    },
+    {
       "universityId": "candidate-v2:michigan-state-university",
       "publisher": "Michigan State University Academic Programs",
       "referenceYear": 2026,
