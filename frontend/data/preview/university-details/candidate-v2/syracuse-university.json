@@ -43,8 +43,8 @@
   "acceptanceRate": 41.69,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 74,
-  "retentionRate": 91,
+  "graduationRate": 84,
+  "retentionRate": 92,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -1898,27 +1898,31 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-syracuse-catalog-2018-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.84,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_fall_2018"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-syracuse-ir-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.92,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_fall_2018"
       ]
     },
     "sat": {

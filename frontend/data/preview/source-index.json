@@ -8887,6 +8887,34 @@
       "url": "https://system.suny.edu/media/suny/content-assets/documents/institutional-research/2024-2025-SUNY-Executive-Data-Summaries-as-of-August-12%2C-2025.pdf",
       "checkedOn": "2026-10-27",
       "notes": "SUNY executive data summary reports Stony Brook Fall 2019 six-year baccalaureate graduation rate of 76.5%."
+    },
+    {
+      "publisher": "Syracuse University",
+      "referenceYear": 2018,
+      "scope": [
+        "full-time degree-seeking undergraduate cohort",
+        "fall 2018 cohort completed by August 2024"
+      ],
+      "sourceId": "official-syracuse-catalog-2018-graduation",
+      "sourceType": "official_catalog_disclosure",
+      "status": "verified",
+      "url": "https://coursecatalog.syracuse.edu/undergraduate/undergraduate-general-information/undergraduate-general-information.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official Syracuse catalog disclosure reports 84% of the fall 2018 full-time degree-seeking undergraduate cohort earned a bachelor’s degree by August 2024."
+    },
+    {
+      "publisher": "Syracuse University Office of Institutional Research",
+      "referenceYear": 2019,
+      "scope": [
+        "undergraduate one-year retention",
+        "fall 2018 cohort retained in fall 2019"
+      ],
+      "sourceId": "official-syracuse-ir-2019-retention",
+      "sourceType": "official_institutional_report",
+      "status": "verified",
+      "url": "https://institutionalresearch.syr.edu/wp-content/uploads/2019/10/04-Syracuse-University-Undergraduate-Retention-and-Graduation-Rates-Fall-2019-Census.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official report lists Fall 2018 cohort one-year retention at 92%."
     }
   ]
 }
