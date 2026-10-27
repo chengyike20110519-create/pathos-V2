@@ -2718,6 +2718,36 @@
       "url": "https://www.umass.edu/ours/majors"
     },
     {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "publisher": "University of Massachusetts Amherst Office of Institutional Research",
+      "referenceYear": 2020,
+      "scope": [
+        "freshmen six-year graduation rate",
+        "fall 2019 entering cohort"
+      ],
+      "sourceId": "official-umass-pms-2020-six-year-graduation",
+      "sourceType": "official_university_performance_report",
+      "status": "verified",
+      "url": "https://www.umass.edu/uair/media/471/download",
+      "checkedOn": "2026-10-27",
+      "notes": "Official 2020 Performance Measurement System reports 82% six-year graduation in Fall 2019 for UMass Amherst."
+    },
+    {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "publisher": "University of Massachusetts Amherst Office of Institutional Research",
+      "referenceYear": 2020,
+      "scope": [
+        "freshmen one-year retention rate",
+        "fall 2019 term"
+      ],
+      "sourceId": "official-umass-pms-2020-retention",
+      "sourceType": "official_university_performance_report",
+      "status": "verified",
+      "url": "https://www.umass.edu/uair/media/471/download",
+      "checkedOn": "2026-10-27",
+      "notes": "Official 2020 Performance Measurement System reports 91% freshmen one-year retention in Fall 2019 for UMass Amherst."
+    },
+    {
       "universityId": "candidate-v2:university-of-pittsburgh",
       "publisher": "University of Pittsburgh Undergraduate Programs",
       "referenceYear": 2026,
