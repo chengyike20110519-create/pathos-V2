@@ -9002,6 +9002,34 @@
       "url": "https://admissions.ucsc.edu/posts/statistics",
       "checkedOn": "2026-10-27",
       "notes": "Official UCSC statistics page reports 88% of first-year students returned for sophomore year in the 2024-25 statistics section."
+    },
+    {
+      "publisher": "Colorado School of Mines Institutional Research",
+      "referenceYear": 2019,
+      "scope": [
+        "full-time first-time bachelor's cohort",
+        "fall 2018 cohort retained in fall 2019"
+      ],
+      "sourceId": "official-mines-ipeds-2019-retention",
+      "sourceType": "official_ipeds_report",
+      "status": "verified",
+      "url": "https://ir.mines.edu/wp-content/uploads/sites/66/2021/01/FY20_IPEDS_Fall_Enrollment_Data.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official Mines IPEDS Fall Enrollment 2019-20 report lists a 92% retention rate for the Fall 2018 full-time first-time bachelor's cohort."
+    },
+    {
+      "publisher": "Virginia Tech Office of Analytics and Institutional Effectiveness",
+      "referenceYear": 2019,
+      "scope": [
+        "first-time full-time first-year bachelor's-seeking cohort",
+        "first-year retention"
+      ],
+      "sourceId": "official-vt-2019-retention",
+      "sourceType": "official_student_achievement_report",
+      "status": "verified",
+      "url": "https://aie.vt.edu/content/dam/aie_vt_edu/files/updates_Student%20Achievement%20Measures.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official Virginia Tech Student Achievement Measures report lists 93% retained after one year for the 2019 cohort."
     }
   ]
 }

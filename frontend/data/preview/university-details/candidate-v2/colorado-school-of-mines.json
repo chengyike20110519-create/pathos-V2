@@ -44,7 +44,7 @@
   "sat25": null,
   "sat75": null,
   "graduationRate": 65,
-  "retentionRate": 94,
+  "retentionRate": 92,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -434,15 +434,17 @@
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-mines-ipeds-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.92,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_fall_2018"
       ]
     },
     "sat": {

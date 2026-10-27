@@ -53,7 +53,7 @@
   "sat25": null,
   "sat75": null,
   "graduationRate": 64,
-  "retentionRate": 91,
+  "retentionRate": 93,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -1577,15 +1577,17 @@
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-vt-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.93,
       "warnings": [
-        "stale_reference_year"
+        "first_year_retention_cohort_2019"
       ]
     },
     "sat": {
