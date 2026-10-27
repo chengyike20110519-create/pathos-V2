@@ -2,6 +2,15 @@
   "contractVersion": "pathos-preview-v1",
   "sources": [
     {
+      "publisher": "Marquette University Office of Institutional Research and Analysis",
+      "referenceYear": 2025,
+      "scope": ["first_time_full_time_undergraduate_2019_six_year_graduation_and_fall_2024_first_year_retention"],
+      "sourceId": "official-marquette-cds-2025-26-outcomes",
+      "sourceType": "university_official_report",
+      "status": "verified",
+      "url": "https://www.marquette.edu/academic-effectiveness/institutional-research-analysis/documents/cds-2025-2026_final.pdf"
+    },
+    {
       "publisher": "The George Washington University Office of Institutional Research and Planning",
       "referenceYear": 2019,
       "scope": ["first_time_full_time_undergraduate_six_year_graduation_and_first_to_second_year_retention"],
