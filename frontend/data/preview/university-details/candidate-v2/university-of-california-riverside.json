@@ -2250,15 +2250,18 @@
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-ucr-frosh-retention-2019"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.9103,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_2019",
+        "year_1_fall_to_fall_retention"
       ]
     },
     "sat": {
