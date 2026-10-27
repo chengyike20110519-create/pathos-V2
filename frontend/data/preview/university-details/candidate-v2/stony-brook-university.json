@@ -907,15 +907,17 @@
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-stony-brook-ipeds-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.90,
       "warnings": [
-        "stale_reference_year"
+        "official_ipeds_dfr_2021"
       ]
     },
     "sat": {

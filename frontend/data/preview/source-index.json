@@ -2186,6 +2186,21 @@
       "url": "https://www.stonybrook.edu/academics/majors-minors-and-programs/"
     },
     {
+      "universityId": "candidate-v2:stony-brook-university",
+      "publisher": "Stony Brook University Institutional Research, Planning and Effectiveness",
+      "referenceYear": 2020,
+      "scope": [
+        "full-time first-time bachelor's retention rate",
+        "Fall 2019 cohort"
+      ],
+      "sourceId": "official-stony-brook-ipeds-2019-retention",
+      "sourceType": "official_ipeds_data_feedback_report",
+      "status": "verified",
+      "url": "https://www.stonybrook.edu/commcms/irpe/fact_book/information/_files/ipeds/IPEDSDFR2021_196097.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official IPEDS Data Feedback Report shows 90% full-time retention for the Fall 2019 cohort."
+    },
+    {
       "universityId": "candidate-v2:syracuse-university",
       "publisher": "Syracuse University Course Catalog",
       "referenceYear": 2026,
