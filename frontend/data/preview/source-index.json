@@ -2129,6 +2129,36 @@
       "url": "https://catalog.ncsu.edu/undergraduate/"
     },
     {
+      "universityId": "candidate-v2:north-carolina-state-university",
+      "publisher": "NC State University Data and Analytics",
+      "referenceYear": 2026,
+      "scope": [
+        "freshmen six-year graduation rate",
+        "fall 2019 entering cohort"
+      ],
+      "sourceId": "official-nc-state-factbook-2019-graduation",
+      "sourceType": "official_university_factbook",
+      "status": "verified",
+      "url": "https://apps.oirp.ncsu.edu/factbook/index.cfm?action=student.success",
+      "checkedOn": "2026-10-27",
+      "notes": "Official NC State student-success data reports 85.5% six-year graduation for the Fall 2019 cohort."
+    },
+    {
+      "universityId": "candidate-v2:north-carolina-state-university",
+      "publisher": "NC State University Data and Analytics",
+      "referenceYear": 2026,
+      "scope": [
+        "freshmen one-year retention rate",
+        "fall 2019 entering cohort"
+      ],
+      "sourceId": "official-nc-state-factbook-2019-retention",
+      "sourceType": "official_university_factbook",
+      "status": "verified",
+      "url": "https://apps.oirp.ncsu.edu/factbook/index.cfm?action=student.success",
+      "checkedOn": "2026-10-27",
+      "notes": "Official NC State student-success data reports 93.5% first-year retention for the Fall 2019 cohort."
+    },
+    {
       "universityId": "candidate-v2:stevens-institute-of-technology",
       "publisher": "Stevens Institute of Technology",
       "referenceYear": 2026,
