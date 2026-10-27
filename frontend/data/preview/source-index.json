@@ -3141,6 +3141,36 @@
       "url": "https://www.smu.edu/academics/degrees-and-programs"
     },
     {
+      "universityId": "candidate-v2:southern-methodist-university",
+      "publisher": "Southern Methodist University Institutional Research",
+      "referenceYear": 2026,
+      "scope": [
+        "six-year graduation rate",
+        "Fall 2019 entering cohort"
+      ],
+      "sourceId": "official-smu-cds-2019-graduation",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://www.smu.edu/-/media/site/ir/commondatasets/2025/cds-2025-26-part-b-enrollment-final.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official SMU CDS reports an 83% six-year graduation rate for the Fall 2019 cohort."
+    },
+    {
+      "universityId": "candidate-v2:southern-methodist-university",
+      "publisher": "Southern Methodist University Strategic Plan",
+      "referenceYear": 2024,
+      "scope": [
+        "first-to-second-year retention rate",
+        "Fall 2019 entry cohort"
+      ],
+      "sourceId": "official-smu-strategic-plan-2019-retention",
+      "sourceType": "official_university_strategic_plan_report",
+      "status": "verified",
+      "url": "https://www.smu.edu/-/media/site/aboutsmu/strategicplan/progress-report--2023-2024.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official SMU strategic-plan progress report states retention receded to 90.3% for the Fall 2019 cohort."
+    },
+    {
       "universityId": "candidate-v2:columbia-university",
       "publisher": "Columbia University School of General Studies Bulletin 2026-2027",
       "referenceYear": 2026,
