@@ -676,15 +676,18 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-ucmerced-impact-2018-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.69,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_2018",
+        "official_approximate_value"
       ]
     },
     "retentionRate": {
