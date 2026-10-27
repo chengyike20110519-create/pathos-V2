@@ -2,6 +2,15 @@
   "contractVersion": "pathos-preview-v1",
   "sources": [
     {
+      "publisher": "The George Washington University Office of Institutional Research and Planning",
+      "referenceYear": 2019,
+      "scope": ["first_time_full_time_undergraduate_six_year_graduation_and_first_to_second_year_retention"],
+      "sourceId": "official-gwu-self-study-outcomes",
+      "sourceType": "university_official_report",
+      "status": "verified",
+      "url": "https://provost.gwu.edu/sites/g/files/zaxdzs5926/files/2025-10/GW%20Middle%20States%20Self%20Study%20Design%20Final.pdf"
+    },
+    {
       "publisher": "Fordham University Institutional Research and Assessment",
       "referenceYear": 2019,
       "scope": ["first_time_full_time_undergraduate_six_year_graduation_and_first_to_second_year_retention"],
