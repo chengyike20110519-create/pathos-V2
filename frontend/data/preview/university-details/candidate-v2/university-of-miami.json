@@ -44,7 +44,7 @@
   "sat25": null,
   "sat75": null,
   "graduationRate": 72,
-  "retentionRate": 94,
+  "retentionRate": 90.6,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -2018,15 +2018,17 @@
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-miami-fl-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.906,
       "warnings": [
-        "stale_reference_year"
+        "first_time_degree_seeking_fall_2019"
       ]
     },
     "sat": {
