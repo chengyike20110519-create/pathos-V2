@@ -962,25 +962,29 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-case-western-cds-2025-26-outcomes"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.872,
       "warnings": [
         "stale_reference_year"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2024,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-case-western-cds-2025-26-outcomes"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.933,
       "warnings": [
         "stale_reference_year"
       ]

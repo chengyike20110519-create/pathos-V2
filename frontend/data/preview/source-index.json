@@ -6886,6 +6886,19 @@
       "notes": "Imported from the confirmed policy ledger; source was not re-fetched during this wiring pass."
     },
     {
+      "universityId": "candidate-v2:case-western-reserve-university",
+      "publisher": "Case Western Reserve University Institutional Research",
+      "referenceYear": 2025,
+      "scope": [
+        "six-year graduation rate for 2019 cohort",
+        "first-year retention rate for Fall 2024 cohort"
+      ],
+      "sourceId": "official-case-western-cds-2025-26-outcomes",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://case.edu/ir/sites/default/files/2026-02/CDS%202025-26%20Adjusted%20Final.pdf"
+    },
+    {
       "publisher": "Official university admissions — www.hmc.edu",
       "referenceYear": 2026,
       "scope": [
