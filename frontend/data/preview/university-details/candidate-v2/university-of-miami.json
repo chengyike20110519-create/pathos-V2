@@ -2006,15 +2006,18 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2015,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-miami-factbook-2015-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.715,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_2015",
+        "official_preliminary_unofficial_cohort"
       ]
     },
     "retentionRate": {

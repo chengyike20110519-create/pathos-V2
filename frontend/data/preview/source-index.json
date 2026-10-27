@@ -2994,6 +2994,22 @@
       "url": "https://bulletin.miami.edu/program-index/"
     },
     {
+      "universityId": "candidate-v2:university-of-miami",
+      "publisher": "University of Miami Institutional Research and Strategic Analytics",
+      "referenceYear": 2015,
+      "scope": [
+        "six-year graduation rate",
+        "full-time first-time degree-seeking students",
+        "cohort year 2015"
+      ],
+      "sourceId": "official-miami-factbook-2015-graduation",
+      "sourceType": "official_fact_book",
+      "status": "verified",
+      "url": "https://irsa.miami.edu/_assets/pdf/Documents/fbfa2019.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official University of Miami Fact Book 2019-2020 reports a 71.5% six-year graduation rate for the 2015 cohort; the PDF labels the 2015 cohort as preliminary/unofficial."
+    },
+    {
       "universityId": "candidate-v2:pennsylvania-state-university",
       "publisher": "Penn State Undergraduate Bulletin",
       "referenceYear": 2026,
