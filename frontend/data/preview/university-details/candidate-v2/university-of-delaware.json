@@ -43,8 +43,8 @@
   "acceptanceRate": 63.6,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 72,
-  "retentionRate": 90,
+  "graduationRate": 81,
+  "retentionRate": 91.2,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -1819,27 +1819,31 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-udel-sam-2019-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.81,
       "warnings": [
-        "stale_reference_year"
+        "sam_within_6_years_includes_transfer_outcomes"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-udel-cds-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.912,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_entered_fall_2018"
       ]
     },
     "sat": {

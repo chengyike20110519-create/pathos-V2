@@ -8830,6 +8830,34 @@
       "url": "https://catalog.ufl.edu/UGRD/admission/",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "University of Delaware Student Achievement Measure",
+      "referenceYear": 2019,
+      "scope": [
+        "fall 2019 first-time full-time bachelor's-seeking cohort",
+        "within 6 years"
+      ],
+      "sourceId": "official-udel-sam-2019-graduation",
+      "sourceType": "official_outcomes_dashboard",
+      "status": "verified",
+      "url": "https://www.studentachievementmeasure.org/participants/130943",
+      "checkedOn": "2026-10-27",
+      "notes": "Official SAM reports 81% within six years as of 2025; measure includes reporting-institution graduates and transfer-out graduates, so it is not identical to the federal IPEDS graduation-rate definition."
+    },
+    {
+      "publisher": "University of Delaware Institutional Research and Effectiveness",
+      "referenceYear": 2019,
+      "scope": [
+        "full-time first-time bachelor's-seeking cohort",
+        "fall 2018 cohort retained in fall 2019"
+      ],
+      "sourceId": "official-udel-cds-2019-retention",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://ire.udel.edu/files/2014/12/CDS1920_UDelaware-070120.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official CDS 2019-20 reports 91.2% retained in fall 2019; the entering cohort is fall 2018."
     }
   ]
 }
