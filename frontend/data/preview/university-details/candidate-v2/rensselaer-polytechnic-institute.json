@@ -52,8 +52,8 @@
   "acceptanceRate": 63.4,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 71,
-  "retentionRate": 91,
+  "graduationRate": 80.28,
+  "retentionRate": 90.72,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -641,27 +641,33 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": null,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "source_usde_college_scorecard_2026_10_15"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.8028,
       "warnings": [
-        "stale_reference_year"
+        "scorecard_release_cohort_year_is_not_uniform",
+        "four_year_graduation_rate"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": null,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "source_usde_college_scorecard_2026_10_15"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.9072,
       "warnings": [
-        "stale_reference_year"
+        "scorecard_release_cohort_year_is_not_uniform",
+        "first_year_retention_rate"
       ]
     },
     "sat": {
