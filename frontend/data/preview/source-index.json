@@ -2,6 +2,15 @@
   "contractVersion": "pathos-preview-v1",
   "sources": [
     {
+      "publisher": "University of Connecticut Budget, Planning and Institutional Research",
+      "referenceYear": 2024,
+      "scope": ["first_time_full_time_undergraduate_2018_six_year_graduation_and_fall_2023_first_year_retention"],
+      "sourceId": "official-uconn-cds-2024-25-outcomes",
+      "sourceType": "university_official_report",
+      "status": "verified",
+      "url": "https://bpir.media.uconn.edu/wp-content/uploads/sites/3452/2025/07/UConn_CDS_2024_2025.pdf"
+    },
+    {
       "publisher": "Marquette University Office of Institutional Research and Analysis",
       "referenceYear": 2025,
       "scope": ["first_time_full_time_undergraduate_2019_six_year_graduation_and_fall_2024_first_year_retention"],
