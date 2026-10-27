@@ -43,8 +43,8 @@
   "acceptanceRate": 84.8,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 62,
-  "retentionRate": 90,
+  "graduationRate": 81,
+  "retentionRate": 91.2,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -1973,27 +1973,31 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-msu-ro-2019-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.81,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_2019"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-msu-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.912,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_fall_2018"
       ]
     },
     "sat": {

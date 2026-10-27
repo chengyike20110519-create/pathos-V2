@@ -43,8 +43,8 @@
   "acceptanceRate": 60.6,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 52,
-  "retentionRate": 86,
+  "graduationRate": 74.7,
+  "retentionRate": 86.9,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -3305,27 +3305,31 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-penn-state-2018-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.747,
       "warnings": [
-        "stale_reference_year"
+        "university_wide_all_campuses"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-penn-state-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.869,
       "warnings": [
-        "stale_reference_year"
+        "university_wide_all_campuses"
       ]
     },
     "sat": {

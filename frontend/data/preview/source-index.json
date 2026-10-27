@@ -8915,6 +8915,65 @@
       "url": "https://institutionalresearch.syr.edu/wp-content/uploads/2019/10/04-Syracuse-University-Undergraduate-Retention-and-Graduation-Rates-Fall-2019-Census.pdf",
       "checkedOn": "2026-10-27",
       "notes": "Official report lists Fall 2018 cohort one-year retention at 92%."
+    },
+    {
+      "publisher": "Michigan State University Office of the Registrar",
+      "referenceYear": 2019,
+      "scope": [
+        "bachelor degree-seeking students",
+        "2019 entering cohort",
+        "six-year graduation"
+      ],
+      "sourceId": "official-msu-ro-2019-graduation",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://reg.msu.edu/academicprograms/Text.aspx?Section=105",
+      "checkedOn": "2026-10-27",
+      "notes": "Official MSU Registrar page reports 81% graduated within six years for the 2019 entering cohort."
+    },
+    {
+      "publisher": "Michigan State University",
+      "referenceYear": 2019,
+      "scope": [
+        "first-time undergraduate students",
+        "fall 2018 cohort returned in fall 2019"
+      ],
+      "sourceId": "official-msu-2019-retention",
+      "sourceType": "official_institutional_report",
+      "status": "verified",
+      "url": "https://inclusion.msu.edu/_assets/documents/about/annual-reports/2018-19-Diversity-at-MSU-Student-and-Workforce-Report-Final-RevisedJune2020.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official MSU report states the fall 2018 entering cohort retention to the first returning fall (fall 2019) was 91.2%."
+    },
+    {
+      "publisher": "Pennsylvania State University Planning, Assessment, and Institutional Research",
+      "referenceYear": 2018,
+      "scope": [
+        "university-wide",
+        "all Penn State campuses",
+        "six-year graduation"
+      ],
+      "sourceId": "official-penn-state-2018-graduation",
+      "sourceType": "official_accountability_report",
+      "status": "verified",
+      "url": "https://assets.ctfassets.net/ni9rh5nu0d99/3fQFwEOtXXTyCv8u1txssj/41cd4528e47db0b71a98afd0b0e1b297/PSU-accountability-report-2023.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official Penn State accountability report reports 74.7% six-year graduation for the 2018 cohort university-wide."
+    },
+    {
+      "publisher": "Pennsylvania State University Planning, Assessment, and Institutional Research",
+      "referenceYear": 2019,
+      "scope": [
+        "university-wide",
+        "all Penn State campuses",
+        "one-year retention"
+      ],
+      "sourceId": "official-penn-state-2019-retention",
+      "sourceType": "official_accountability_report",
+      "status": "verified",
+      "url": "https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/7/79858/files/2017/04/Penn-State-Self-Study-Design-Final-Draft.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official Penn State self-study table reports 86.9% one-year retention for the 2019 cohort; graduation and retention rows are university-wide."
     }
   ]
 }
