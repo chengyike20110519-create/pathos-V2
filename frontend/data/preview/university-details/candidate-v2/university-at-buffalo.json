@@ -1345,25 +1345,25 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": ["official-ub-cds-2025-26-outcomes"],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.728,
       "warnings": [
         "stale_reference_year"
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": ["official-ub-cds-2025-26-outcomes"],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.85,
       "warnings": [
         "stale_reference_year"
       ]

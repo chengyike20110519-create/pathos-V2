@@ -2,6 +2,15 @@
   "contractVersion": "pathos-preview-v1",
   "sources": [
     {
+      "publisher": "University at Buffalo Office of Institutional Analysis",
+      "referenceYear": 2025,
+      "scope": ["first_time_full_time_undergraduate_2019_six_year_graduation_and_fall_2024_first_year_retention"],
+      "sourceId": "official-ub-cds-2025-26-outcomes",
+      "sourceType": "university_official_report",
+      "status": "verified",
+      "url": "https://www.buffalo.edu/content/dam/www/oia/Common-Data-Sets/CDS_2025-2026.pdf"
+    },
+    {
       "publisher": "University of Connecticut Budget, Planning and Institutional Research",
       "referenceYear": 2024,
       "scope": ["first_time_full_time_undergraduate_2018_six_year_graduation_and_fall_2023_first_year_retention"],
