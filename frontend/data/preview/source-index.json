@@ -8858,6 +8858,35 @@
       "url": "https://ire.udel.edu/files/2014/12/CDS1920_UDelaware-070120.pdf",
       "checkedOn": "2026-10-27",
       "notes": "Official CDS 2019-20 reports 91.2% retained in fall 2019; the entering cohort is fall 2018."
+    },
+    {
+      "publisher": "Stevens Institute of Technology Schaefer School of Engineering & Science",
+      "referenceYear": 2019,
+      "scope": [
+        "first-time full-time undergraduate students",
+        "fall 2019 cohort retained in fall 2020"
+      ],
+      "sourceId": "official-stevens-ses-2019-retention",
+      "sourceType": "official_institutional_report",
+      "status": "verified",
+      "url": "https://assets.stevens.edu/mviowpldu823/52b5WyxE4xWiaxf5ylIf5j/8fb9d9531b7792bdabba2fc6e7f88ffa/STEVENS_SES_Annual_Report_10_9_23.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official report table lists 2019F cohort retained in 2020F at 89.0%."
+    },
+    {
+      "publisher": "State University of New York System Administration",
+      "referenceYear": 2019,
+      "scope": [
+        "Stony Brook University",
+        "full-time first-time baccalaureate cohort",
+        "six-year graduation"
+      ],
+      "sourceId": "official-suny-stony-brook-2019-graduation",
+      "sourceType": "official_system_data_summary",
+      "status": "verified",
+      "url": "https://system.suny.edu/media/suny/content-assets/documents/institutional-research/2024-2025-SUNY-Executive-Data-Summaries-as-of-August-12%2C-2025.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "SUNY executive data summary reports Stony Brook Fall 2019 six-year baccalaureate graduation rate of 76.5%."
     }
   ]
 }

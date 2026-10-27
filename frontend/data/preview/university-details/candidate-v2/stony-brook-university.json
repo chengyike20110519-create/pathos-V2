@@ -43,7 +43,7 @@
   "acceptanceRate": 49,
   "sat25": null,
   "sat75": null,
-  "graduationRate": 66,
+  "graduationRate": 76.5,
   "retentionRate": 89,
   "schoolType": "private",
   "displayTier": "preview",
@@ -895,15 +895,17 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-suny-stony-brook-2019-graduation"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.765,
       "warnings": [
-        "stale_reference_year"
+        "suny_executive_data_summary"
       ]
     },
     "retentionRate": {

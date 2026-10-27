@@ -44,7 +44,7 @@
   "sat25": null,
   "sat75": null,
   "graduationRate": 83,
-  "retentionRate": 93,
+  "retentionRate": 89,
   "schoolType": "private",
   "displayTier": "preview",
   "previewOnly": true,
@@ -568,15 +568,17 @@
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-stevens-ses-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.89,
       "warnings": [
-        "stale_reference_year"
+        "reference_term_is_fall_2019_to_fall_2020"
       ]
     },
     "sat": {
