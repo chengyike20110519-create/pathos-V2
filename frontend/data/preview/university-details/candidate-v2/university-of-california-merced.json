@@ -691,15 +691,18 @@
       ]
     },
     "retentionRate": {
-      "nullReason": "not_reported",
+      "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-ucmerced-kpi-2019-retention"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.84,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_2019",
+        "official_dashboard_current_value"
       ]
     },
     "sat": {

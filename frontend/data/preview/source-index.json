@@ -3160,6 +3160,22 @@
       "notes": "UC Merced official impact report states that the six-year graduation rate reached approximately 69% for the 2018 freshman cohort graduating in 2024."
     },
     {
+      "universityId": "candidate-v2:university-of-california-merced",
+      "publisher": "UC Merced Center of Institutional Effectiveness",
+      "referenceYear": 2019,
+      "scope": [
+        "first-year one-year retention rate",
+        "Fall 2019 first-year cohort",
+        "institution-level dashboard current value"
+      ],
+      "sourceId": "official-ucmerced-kpi-2019-retention",
+      "sourceType": "official_institutional_dashboard",
+      "status": "verified",
+      "url": "https://cie.ucmerced.edu/sites/cie.ucmerced.edu/files/page/documents/ucm_2019-20_enrollment_kpi_dashboard_march_16.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official UC Merced 2019-20 Enrollment KPI Dashboard lists the current First Year 1-Year Retention Rate as 84% for the Fall 2019 planning cohort."
+    },
+    {
       "universityId": "candidate-v2:university-of-california-santa-cruz",
       "publisher": "UC Santa Cruz Admissions, 2026 Nonresident Brochure",
       "referenceYear": 2026,
