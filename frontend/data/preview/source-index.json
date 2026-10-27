@@ -2080,6 +2080,36 @@
       "url": "https://catalog.uic.edu/ucat/degree-programs/degree-minors/"
     },
     {
+      "universityId": "candidate-v2:university-of-illinois-at-chicago",
+      "publisher": "University of Illinois Chicago Office of Institutional Research",
+      "referenceYear": 2025,
+      "scope": [
+        "six-year graduation rate",
+        "Fall 2019 entering cohort"
+      ],
+      "sourceId": "official-uic-fall-2025-outcomes-2019-graduation",
+      "sourceType": "official_university_outcomes_memo",
+      "status": "verified",
+      "url": "https://oir.uic.edu/wp-content/uploads/sites/213/2025/09/Fall-2025-Graduation-and-Retention-Memo-FINAL-1.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official UIC memo reports a 61.5% six-year graduation rate for the Fall 2019 entering cohort."
+    },
+    {
+      "universityId": "candidate-v2:university-of-illinois-at-chicago",
+      "publisher": "University of Illinois Chicago Office of Institutional Research",
+      "referenceYear": 2020,
+      "scope": [
+        "one-year retention rate",
+        "Fall 2019 entering cohort"
+      ],
+      "sourceId": "official-uic-fall-2020-outcomes-2019-retention",
+      "sourceType": "official_university_outcomes_memo",
+      "status": "verified",
+      "url": "https://oir.uic.edu/wp-content/uploads/sites/213/2020/11/Fall-2020-Graduation-and-Retention-Memo.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official UIC memo reports an 82.2% one-year retention rate for the Fall 2019 entering cohort."
+    },
+    {
       "publisher": "University at Buffalo Undergraduate Admissions",
       "referenceYear": 2026,
       "scope": [
