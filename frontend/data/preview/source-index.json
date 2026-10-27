@@ -2940,6 +2940,21 @@
       "url": "https://catalog.mines.edu/undergraduate/degreerequirementsgraduationinfo/"
     },
     {
+      "universityId": "candidate-v2:colorado-school-of-mines",
+      "publisher": "Colorado School of Mines Institutional Research",
+      "referenceYear": 2016,
+      "scope": [
+        "six-year graduation rate",
+        "first-time freshman cohort"
+      ],
+      "sourceId": "official-mines-2022-graduation-persistence-2016",
+      "sourceType": "official_institutional_research_report",
+      "status": "verified",
+      "url": "https://ir.mines.edu/wp-content/uploads/sites/66/2022/11/2022GraduationRetentionRpt.pdf",
+      "checkedOn": "2026-10-27",
+      "notes": "Official Mines 2022 Graduation and Persistence Report lists a 79.6% six-year graduation rate for the Fall 2016 freshman cohort."
+    },
+    {
       "universityId": "candidate-v2:university-at-buffalo",
       "publisher": "University at Buffalo Office of International Admissions",
       "referenceYear": 2026,

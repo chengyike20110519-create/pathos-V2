@@ -422,15 +422,18 @@
       ]
     },
     "graduationRate": {
-      "nullReason": "not_reported",
-      "referenceYear": 2019,
+      "nullReason": null,
+      "referenceYear": 2016,
       "scope": "institution",
-      "sourceIds": [],
-      "status": "not_reported",
+      "sourceIds": [
+        "official-mines-2022-graduation-persistence-2016"
+      ],
+      "status": "verified",
       "unit": "ratio",
-      "value": null,
+      "value": 0.796,
       "warnings": [
-        "stale_reference_year"
+        "reference_cohort_is_2016",
+        "six_year_graduation_rate"
       ]
     },
     "retentionRate": {
