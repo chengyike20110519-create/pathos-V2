@@ -23,6 +23,7 @@ export const EXPECTED_MIGRATIONS = [
   "016-source-reference-gaps",
   "017-university-media",
   "018-university-content",
+  "019-detail-query-indexes",
 ] as const;
 
 export interface SchemaReadiness {
