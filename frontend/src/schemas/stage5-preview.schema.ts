@@ -352,7 +352,12 @@ export function parseStage5Detail(raw: unknown): Stage5Detail {
   const enrollment = object(value.enrollment, `${summary.id}.enrollment`);
   for (const scope of ["undergraduate", "graduate", "total"]) {
     const field = parseField(enrollment[scope], `${summary.id}.enrollment.${scope}`);
-    if (field.referenceYear !== 2019 || !field.warnings.includes("stale_reference_year")) {
+    const hasCurrentEvidence = field.status === "verified"
+      && Array.isArray(field.sourceIds)
+      && field.sourceIds.length > 0
+      && typeof field.referenceYear === "number"
+      && field.referenceYear > 2019;
+    if (!hasCurrentEvidence && (field.referenceYear !== 2019 || !field.warnings.includes("stale_reference_year"))) {
       throw new Error(`${summary.id}.enrollment.${scope} stale-year contract missing`);
     }
   }
