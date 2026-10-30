@@ -140,13 +140,12 @@ describe("map preview query regressions", () => {
     expect(() => parseStage5Detail({ ...raw, programs: [{ ...program, verificationStatus: "invented_status" }] })).toThrow(/unknown status/);
   });
 
-  it("loads one school, its projected research fields and its own source index in one round trip", async () => {
+  it("loads one school and its own source index through parallel cached queries", async () => {
     const raw = JSON.parse(readFileSync("data/preview/university-details/candidate-v2/harvard-university.json", "utf8"));
     const sourceIndex = JSON.parse(readFileSync("data/preview/source-index.json", "utf8"));
-    query.mockResolvedValue({ rows: [{
+    query.mockResolvedValueOnce({ rows: [{
       payload: raw,
       confirmed_facts: [],
-      detail_source_index: sourceIndex,
       overview_zh: "官方概览",
       overview_status: "confirmed",
       motto: "Veritas",
@@ -154,12 +153,14 @@ describe("map preview query regressions", () => {
       motto_status: "confirmed",
       shared_program_spotlights: [{ name: "Computer Science", nameZh: "计算机科学", reason: "verified", sourceUrl: "https://example.edu/program" }],
       source_refs: [{ label: "Official source", url: "https://example.edu" }],
-    }] });
+    }] }).mockResolvedValueOnce({ rows: [{ payload: sourceIndex }] });
     const { handleBackendPreviewRoute } = await import("@/server/backend-preview");
     const response = await handleBackendPreviewRoute(new Request(`http://localhost/api/pathos/preview?endpoint=university&id=${encodeURIComponent(raw.id)}`), process.env);
     expect(response.status).toBe(200);
     const responseBody = await response.json();
-    expect(parseUniversityDetail(responseBody).id).toBe(raw.id);
+    const parsed = parseUniversityDetail(responseBody);
+    expect(parsed.id).toBe(raw.id);
+    expect(parsed.sharedContent).toMatchObject({ overviewZh: "官方概览", motto: "Veritas" });
     expect(responseBody).toMatchObject({
       sharedContent: {
         overviewZh: "官方概览",
@@ -167,11 +168,12 @@ describe("map preview query regressions", () => {
         programSpotlights: [{ name: "Computer Science" }],
       },
     });
-    expect(query).toHaveBeenCalledTimes(1);
+    expect(query).toHaveBeenCalledTimes(2);
     const sql = query.mock.calls[0][0];
     expect(sql).not.toContain("r.payload AS research_payload");
-    expect(sql).toContain("jsonb_agg(entry.source_doc)");
-    expect(sql).toContain("jsonb_path_query(d.payload");
+    expect(sql).not.toContain("jsonb_path_query_array(d.payload");
+    expect(sql).not.toContain("jsonb_agg(entry.source_doc)");
+    expect(sql).not.toContain("LEFT JOIN source_index si ON si.id = 1");
   });
 
   it("filters directory membership in PostgreSQL while keeping the map payload compact", async () => {

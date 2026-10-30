@@ -132,6 +132,6 @@ describe("PathOS parallel-development coupling contract", () => {
     expect(dependencies).not.toHaveProperty("@mui/material");
     expect(dependencies).not.toHaveProperty("framer-motion");
     expect(dependencies).not.toHaveProperty("antd");
-    expect(dependencies.next).toMatch(/^\^14\.2\./);
+    expect(dependencies.next).toMatch(/^\^16\.4\./);
   });
 });

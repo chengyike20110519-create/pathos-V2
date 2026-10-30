@@ -8,8 +8,8 @@
 //
 // These tests pin the fix so the regression cannot reappear:
 //   1. No property on the style object is `undefined`.
-//   2. Light and Dark use distinct CARTO tile URLs.
-//   3. Light = Voyager, Dark = Dark Matter.
+//   2. Light and Dark use the public Esri street-map tile URL.
+//   3. Light and dark use the same reliable Esri street-map tiles.
 //   4. Both styles carry a valid version + non-empty sources/layers.
 //   5. Every layer's `source` resolves to a defined source entry.
 //   6. `glyphs` is absent (we do NOT need a glyph server for raster-only
@@ -29,6 +29,7 @@ import {
   DARK_BASEMAP_STYLE,
   DEFAULT_LIGHT_STYLE,
   DEFAULT_DARK_STYLE,
+  FALLBACK_MAP_STYLE,
 } from "@/components/map/MapCanvas";
 
 function hasUndefinedDeep(value: unknown, path: string[] = []): string | null {
@@ -132,28 +133,36 @@ describe("Stage 7R inline basemap styles: structural validity", () => {
     expect(darkShape.sources.length).toBeGreaterThan(0);
     expect(darkShape.layers.length).toBeGreaterThan(0);
   });
+
+  it("fallback style is a valid raster-only style with a different provider", () => {
+    expect(FALLBACK_MAP_STYLE.version).toBe(8);
+    expect(Object.keys(FALLBACK_MAP_STYLE.sources)).toEqual(["esri-topographic-fallback"]);
+    const source = FALLBACK_MAP_STYLE.sources["esri-topographic-fallback"] as { tiles: string[]; tileSize?: number };
+    expect(source.tiles).toHaveLength(1);
+    expect(source.tiles[0]).toMatch(/server\.arcgisonline\.com\/ArcGIS\/rest\/services\/World_Topo_Map\/MapServer\/tile/);
+    expect(source.tileSize).toBe(256);
+    expect(hasUndefinedDeep(FALLBACK_MAP_STYLE)).toBeNull();
+  });
 });
 
 // ─── 3. Tile URLs use the public Esri basemap ────────────────────────
 
 describe("Stage 7R inline basemap styles: tile URL identity", () => {
   it("Light tiles point at Esri World Street Map", () => {
-    const tiles = (LIGHT_BASEMAP_STYLE.sources["carto-light"] as { tiles: string[] }).tiles;
-    for (const url of tiles) {
-      expect(url).toMatch(/server\.arcgisonline\.com\/ArcGIS\/rest\/services\/World_Street_Map\/MapServer\/tile/);
-    }
+    const tiles = (LIGHT_BASEMAP_STYLE.sources["esri-light"] as { tiles: string[] }).tiles;
+    expect(tiles).toHaveLength(1);
+    expect(tiles[0]).toMatch(/server\.arcgisonline\.com\/ArcGIS\/rest\/services\/World_Street_Map\/MapServer\/tile/);
   });
 
-  it("Dark tiles point at the same reliable Esri basemap", () => {
-    const tiles = (DARK_BASEMAP_STYLE.sources["carto-dark"] as { tiles: string[] }).tiles;
-    for (const url of tiles) {
-      expect(url).toMatch(/server\.arcgisonline\.com\/ArcGIS\/rest\/services\/World_Street_Map\/MapServer\/tile/);
-    }
+  it("Dark tiles point at Esri World Street Map", () => {
+    const tiles = (DARK_BASEMAP_STYLE.sources["esri-dark"] as { tiles: string[] }).tiles;
+    expect(tiles).toHaveLength(1);
+    expect(tiles[0]).toMatch(/server\.arcgisonline\.com\/ArcGIS\/rest\/services\/World_Street_Map\/MapServer\/tile/);
   });
 
   it("Both styles use tileSize=256", () => {
-    const lt = LIGHT_BASEMAP_STYLE.sources["carto-light"] as { tileSize?: number };
-    const dt = DARK_BASEMAP_STYLE.sources["carto-dark"] as { tileSize?: number };
+    const lt = LIGHT_BASEMAP_STYLE.sources["esri-light"] as { tileSize?: number };
+    const dt = DARK_BASEMAP_STYLE.sources["esri-dark"] as { tileSize?: number };
     expect(lt.tileSize).toBe(256);
     expect(dt.tileSize).toBe(256);
   });

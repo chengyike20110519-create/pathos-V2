@@ -407,7 +407,7 @@ describe("J. Stage 7B-A frozen data invariants", () => {
 
   it("J5. MapCanvas still imports from maplibre-gl, not baidu", () => {
     const src = readSrc("src/components/map/MapCanvas.tsx");
-    expect(src).toContain("import maplibregl from \"maplibre-gl\";");
+    expect(src).toMatch(/import \* as maplibregl from \"maplibre-gl\";/);
     expect(src).not.toContain("BMapGL");
     expect(src).not.toContain("@baidu");
   });

@@ -58,4 +58,19 @@ describe("public map state regressions", () => {
     expect(shell).toContain('defaultSnap="half"');
     expect(shell).toContain("map.jumpTo({ center");
   });
+
+  it("keeps state selection, Back/Forward, and close actions synchronized with the URL", () => {
+    const shell = readSource("src/components/map/MapShell.tsx");
+
+    expect(shell).toContain('params.get("state")');
+    expect(shell).toContain('setSelectedStateFips(params.get("state") || null)');
+    expect(shell).toContain('updateSearchParam("state", fips)');
+    expect(shell).toContain('updateSearchParam("state", null)');
+    expect(shell).toMatch(/onClearState=\{\(\) => \{[\s\S]*?updateSearchParam\("state", null\)/);
+  });
+
+  it("does not replace an already-rendered map with a full-page refresh error", () => {
+    const shell = readSource("src/components/map/MapShell.tsx");
+    expect(shell).toMatch(/summariesState\.state\.status === "error" && !summariesState\.hasLoaded/);
+  });
 });

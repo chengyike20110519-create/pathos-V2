@@ -148,9 +148,9 @@ describe("Stage 7B-A — single authoritative regional legend", () => {
     expect(src).not.toMatch(/<MapLegend\b/);
   });
 
-  it("RegionalLegend is still imported and rendered in MapShell", () => {
+  it("RegionalLegend is still lazy-loaded and rendered in MapShell", () => {
     const src = fs.readFileSync(shellPath, "utf8");
-    expect(src).toMatch(/from\s+["']\.\/regional\/RegionalLegend["']/);
+    expect(src).toMatch(/dynamic\(\s*\(\)\s*=>\s*import\(["']\.\/regional\/RegionalLegend["']/);
     expect(src).toMatch(/<RegionalLegend\b/);
   });
 });

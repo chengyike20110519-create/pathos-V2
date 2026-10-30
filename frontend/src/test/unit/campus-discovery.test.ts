@@ -112,7 +112,7 @@ describe("campus discovery", () => {
     expect(source).toContain("!interactive || disabled || e.button");
     expect(source).toContain("e.target !== e.currentTarget");
     expect(source).toContain("useReducedMotion");
-    expect(source).toContain("inert={shown ? '' : undefined}");
+    expect(source).toContain("inert={shown || undefined}");
     const view = readFileSync("src/components/discover/CampusDiscovery.tsx", "utf8");
     expect(view).toContain("draggable={false} flipOnClick={false} tilt");
     expect(view).toContain("className={styles.front} onClick={() => turn(!flipped)}");

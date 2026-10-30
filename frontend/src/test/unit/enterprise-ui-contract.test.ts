@@ -62,7 +62,8 @@ describe("enterprise information-platform UI contract", () => {
 
     expect(search).toContain("pathos:saved-searches");
     expect(search).toContain("保存搜索");
-    expect(universityRoute).toContain("<UniversityDetailView id={params.id} />");
+    expect(universityRoute).toContain("const { id } = await params");
+    expect(universityRoute).toContain("<UniversityDetailView id={id} />");
     expect(news).toContain("function isUnitedStatesArticle");
     expect(news).not.toContain("来自 QS 与启德教育的整理");
   });

@@ -520,6 +520,15 @@ describe("U. MapCanvas z-index policy", () => {
     expect(stripComments(src)).not.toMatch(/\bz-20\b/);
   });
 
+  it("U3. map recovery banner stays below the shared toolbar", () => {
+    const src = readSrc("src/components/map/MapCanvas.tsx");
+    const marker = src.indexOf('role="alert"');
+    expect(marker).toBeGreaterThanOrEqual(0);
+    const className = src.slice(marker, marker + 700);
+    expect(className).toContain("z-map-toolbar");
+    expect(className).not.toContain("z-map-modal");
+  });
+
   it("U2. MapCanvas uses z-map-basemap for granularity badge (not raw z-10)", () => {
     const src = readSrc("src/components/map/MapCanvas.tsx");
     expect(src).toContain("z-map-basemap");

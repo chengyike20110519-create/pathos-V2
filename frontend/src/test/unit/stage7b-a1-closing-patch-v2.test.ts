@@ -146,7 +146,7 @@ describe("C. pickInsertionId deterministic order with no city layer", () => {
   it("C1. prefers pathos-city-* when present", () => {
     const map = fakeMap([
       { id: "background" },
-      { id: "carto-light" },
+      { id: "esri-light" },
       { id: "pathos-city-choro-fill" },
       { id: "pathos-universities-points" },
     ]);
@@ -156,7 +156,7 @@ describe("C. pickInsertionId deterministic order with no city layer", () => {
   it("C2. with no city layer, falls back to POI points layer", () => {
     const map = fakeMap([
       { id: "background" },
-      { id: "carto-light" },
+      { id: "esri-light" },
       { id: "pathos-universities-halo" },
       { id: "pathos-universities-points" },
     ]);
@@ -166,7 +166,7 @@ describe("C. pickInsertionId deterministic order with no city layer", () => {
   it("C3. with no city / points layer, falls back to POI halo", () => {
     const map = fakeMap([
       { id: "background" },
-      { id: "carto-light" },
+      { id: "esri-light" },
       { id: "pathos-universities-halo" },
     ]);
     expect(pickInsertionId(map as never)).toBe("pathos-universities-halo");
@@ -175,7 +175,7 @@ describe("C. pickInsertionId deterministic order with no city layer", () => {
   it("C4. with only raster basemap, falls back to first symbol layer", () => {
     const map = fakeMap([
       { id: "background" },
-      { id: "carto-light" },
+      { id: "esri-light" },
       { id: "city-labels", type: "symbol" },
     ]);
     expect(pickInsertionId(map as never)).toBe("city-labels");
@@ -320,7 +320,7 @@ describe("G. SSR-stable placeholder mirrors MapShell (F1/v3)", () => {
     expect(runtimeSrc).toContain('aria-label="留学地图交互面板"');
   });
 
-  it("G4. MapRuntimeClient uses a mounted gate (no Suspense, no dynamic)", () => {
+  it("G4. MapRuntimeClient uses a mounted gate plus a client-only lazy MapShell", () => {
     // The mounted gate keeps the placeholder rendered on SSR + first
     // client render. Only after useEffect flips `mounted = true` does
     // the real `<MapShell />` mount — by which time hydration has
@@ -328,10 +328,10 @@ describe("G. SSR-stable placeholder mirrors MapShell (F1/v3)", () => {
     // commit-phase update with no warning.
     expect(runtimeSrc).toMatch(/useState\(false\)/);
     expect(runtimeSrc).toMatch(/useEffect\(\s*\(\)\s*=>\s*\{\s*setMounted\(true\)/);
-    // MapRuntimeClient itself does NOT use next/dynamic — it relies on
-    // the mounted gate alone. The "next/dynamic" token may appear in
-    // comments; only the `from "next/dynamic"` import is forbidden.
-    expect(runtimeSrc).not.toMatch(/from\s+["']next\/dynamic["']/);
+    // MapShell is intentionally lazy so the initial map route does not
+    // download the full interaction bundle before the client is mounted.
+    expect(runtimeSrc).toMatch(/from\s+["']next\/dynamic["']/);
+    expect(runtimeSrc).toMatch(/dynamic\(\s*\(\)\s*=>\s*import\(["']@\/components\/map\/MapShell["']/);
     expect(runtimeSrc).not.toContain("<Suspense");
   });
 });

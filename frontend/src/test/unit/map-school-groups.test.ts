@@ -1,5 +1,16 @@
 import { describe, expect, it } from "vitest";
-import { groupProjectedSchools } from "@/lib/map-school-groups";
+import { clusterRadiusForZoom, groupProjectedSchools } from "@/lib/map-school-groups";
+
+describe("clusterRadiusForZoom", () => {
+  it("uses a larger radius at national zoom and a smaller radius close up", () => {
+    expect(clusterRadiusForZoom(3)).toBeGreaterThan(clusterRadiusForZoom(10));
+    expect(clusterRadiusForZoom(10)).toBe(24);
+  });
+
+  it("keeps a stable fallback for invalid zoom values", () => {
+    expect(clusterRadiusForZoom(Number.NaN)).toBe(30);
+  });
+});
 import { parseProgramOptions } from "@/schemas/dataset.schema";
 
 describe("selectable school groups", () => {
