@@ -66,10 +66,13 @@ export interface Stage5Summary {
   qualitySummary: { warningCodes: string[] };
   /** Flat summary-level fields populated by db:enrich from university_details. */
   acceptanceRate?: number | null;
+  acceptanceReferenceYear?: number | null;
   sat25?: number | null;
   sat75?: number | null;
   graduationRate?: number | null;
+  graduationReferenceYear?: number | null;
   retentionRate?: number | null;
+  retentionReferenceYear?: number | null;
   /**
    * Compact enrollment snapshot used by the summary list view (map,
    * calculator, search). Mirrors Stage5Detail.previewMetadata.enrollment
@@ -255,11 +258,30 @@ export function parseStage5Summary(raw: unknown): Stage5Summary {
     return null;
   };
   const acceptanceRate = flatNumber(value.acceptanceRate);
+  const acceptanceReferenceYear = value.acceptanceRate && typeof value.acceptanceRate === "object"
+    && typeof (value.acceptanceRate as { referenceYear?: unknown }).referenceYear === "number"
+    ? (value.acceptanceRate as { referenceYear: number }).referenceYear
+    : null;
   const sat25 = flatNumber(value.sat25);
   const sat75 = flatNumber(value.sat75);
   const graduationRate = flatNumber(value.graduationRate);
   const retentionRate = flatNumber(value.retentionRate);
-  return { ...(value as Record<string, unknown>), enrollment, acceptanceRate, sat25, sat75, graduationRate, retentionRate } as unknown as Stage5Summary;
+  const referenceYear = (raw: unknown): number | null => raw && typeof raw === "object"
+    && typeof (raw as { referenceYear?: unknown }).referenceYear === "number"
+    ? (raw as { referenceYear: number }).referenceYear
+    : null;
+  return {
+    ...(value as Record<string, unknown>),
+    enrollment,
+    acceptanceRate,
+    acceptanceReferenceYear,
+    graduationRate,
+    graduationReferenceYear: referenceYear(value.graduationRate),
+    retentionRate,
+    retentionReferenceYear: referenceYear(value.retentionRate),
+    sat25,
+    sat75,
+  } as unknown as Stage5Summary;
 }
 
 export function parseStage5Summaries(raw: unknown): Stage5Summary[] {
@@ -459,7 +481,9 @@ export function normalizeStage5Summary(raw: Stage5Summary): UniversitySummary {
     sat25: raw.sat25 ?? null,
     sat75: raw.sat75 ?? null,
     graduationRate: raw.graduationRate ?? null,
+    graduationReferenceYear: raw.graduationReferenceYear ?? null,
     retentionRate: raw.retentionRate ?? null,
+    retentionReferenceYear: raw.retentionReferenceYear ?? null,
     rankingTier: tier,
     rankingBand: raw.rankingSummary.rankingLabel,
     nationalRanking: rank ?? undefined,

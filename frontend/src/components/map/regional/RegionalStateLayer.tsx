@@ -24,7 +24,7 @@
 //   • Switching basemap styles (parent handles via MapCanvas).
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import maplibregl from "maplibre-gl";
+import * as maplibregl from "maplibre-gl";
 import { feature } from "topojson-client";
 import type { FeatureCollection, MultiPolygon, Polygon } from "geojson";
 

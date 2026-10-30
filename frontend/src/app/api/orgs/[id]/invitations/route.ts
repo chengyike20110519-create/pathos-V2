@@ -15,7 +15,7 @@ import { getMailer } from "@/lib/mailer";
 export const dynamic = "force-dynamic";
 
 interface RouteContext {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
 interface InviteBody {
@@ -42,7 +42,7 @@ export async function POST(req: Request, ctx: RouteContext): Promise<NextRespons
     throw e;
   }
 
-  const orgId = ctx.params.id;
+  const orgId = (await ctx.params).id;
   if (!orgId || orgId.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }

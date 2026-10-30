@@ -10,11 +10,17 @@ import {
   useContext,
   type ReactNode,
 } from "react";
-import maplibregl from "maplibre-gl";
+import * as maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { Loader2, TriangleAlert } from "lucide-react";
 import type { MapViewState, Granularity, MetricId } from "@/lib/types";
 import { mapViewport } from "@/lib/map-viewport";
+
+// Next/Turbopack can otherwise resolve MapLibre's worker relative to a
+// transient development chunk. Pin it to the package asset so a HMR refresh
+// cannot leave the map with a dead worker URL.
+const MAPLIBRE_WORKER_URL = new URL("maplibre-gl/dist/maplibre-gl-worker.mjs", import.meta.url).toString();
+maplibregl.setWorkerUrl(MAPLIBRE_WORKER_URL);
 
 // PathOS Stage 7B-A.1 Closing Patch v2: MapCanvas no longer owns the
 // state-level choropleth. The previous version imported METRIC_DEFINITIONS
@@ -60,13 +66,13 @@ import { mapViewport } from "@/lib/map-viewport";
 
 /**
  * Light basemap. Esri's public World Street Map raster endpoint is used for
- * the local preview because it does not require a CARTO API key. Keeping the
+ * the local preview because it does not require a provider API key. Keeping the
  * URL inline also avoids a second remote style.json request during startup.
  */
 const LIGHT_BASEMAP_STYLE: maplibregl.StyleSpecification = {
   version: 8,
   sources: {
-    "carto-light": {
+    "esri-light": {
       type: "raster",
       tiles: [
         "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
@@ -78,7 +84,7 @@ const LIGHT_BASEMAP_STYLE: maplibregl.StyleSpecification = {
   },
   layers: [
     { id: "background", type: "background", paint: { "background-color": "#f6f3ed" } },
-    { id: "carto-light", type: "raster", source: "carto-light" },
+    { id: "esri-light", type: "raster", source: "esri-light" },
   ],
   // NOTE: No `glyphs` field — both inline basemaps are raster-only
   // (background + raster source). MapLibre v3 rejects styles that declare
@@ -93,7 +99,7 @@ const LIGHT_BASEMAP_STYLE: maplibregl.StyleSpecification = {
 const DARK_BASEMAP_STYLE: maplibregl.StyleSpecification = {
   version: 8,
   sources: {
-    "carto-dark": {
+    "esri-dark": {
       type: "raster",
       tiles: [
         "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
@@ -105,10 +111,43 @@ const DARK_BASEMAP_STYLE: maplibregl.StyleSpecification = {
   },
   layers: [
     { id: "background", type: "background", paint: { "background-color": "#181e24" } },
-    { id: "carto-dark", type: "raster", source: "carto-dark" },
+    { id: "esri-dark", type: "raster", source: "esri-dark" },
   ],
   // NOTE: No `glyphs` field — raster-only style. See LIGHT_BASEMAP_STYLE
   // for the rationale on omitting the key entirely.
+};
+
+// A second public Esri raster source keeps a transient street-map outage from
+// turning the whole map into an empty panel. CARTO is intentionally not used:
+// in some environments third-party public endpoints return placeholder tiles
+// instead of a real map. The school data layer never depends on this fallback.
+const FALLBACK_BASEMAP_STYLE: maplibregl.StyleSpecification = {
+  version: 8,
+  sources: {
+    "esri-topographic-fallback": {
+      type: "raster",
+      tiles: [
+        "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+      ],
+      tileSize: 256,
+      attribution: 'Tiles &copy; Esri — © OpenStreetMap contributors',
+    },
+  },
+  layers: [
+    { id: "background", type: "background", paint: { "background-color": "#f6f3ed" } },
+    { id: "esri-topographic-fallback", type: "raster", source: "esri-topographic-fallback" },
+  ],
+};
+
+// Final local fallback. It deliberately contains no remote tile URL: the
+// university points and all map interactions remain usable even when every
+// external basemap provider is blocked or offline.
+const OFFLINE_BASEMAP_STYLE: maplibregl.StyleSpecification = {
+  version: 8,
+  sources: {},
+  layers: [
+    { id: "background", type: "background", paint: { "background-color": "#e9edf2" } },
+  ],
 };
 
 /**
@@ -118,6 +157,8 @@ const DARK_BASEMAP_STYLE: maplibregl.StyleSpecification = {
  */
 export const DEFAULT_LIGHT_STYLE = LIGHT_BASEMAP_STYLE;
 export const DEFAULT_DARK_STYLE = DARK_BASEMAP_STYLE;
+export const FALLBACK_MAP_STYLE = FALLBACK_BASEMAP_STYLE;
+export const OFFLINE_MAP_STYLE = OFFLINE_BASEMAP_STYLE;
 export { LIGHT_BASEMAP_STYLE, DARK_BASEMAP_STYLE };
 
 /** Map centre: continental US. */
@@ -131,6 +172,14 @@ const STATE_MAX_ZOOM = 6;
 
 /** County-level band. */
 const COUNTY_MAX_ZOOM = 9;
+
+// A public raster provider can hang without emitting a useful MapLibre error
+// (for example when a captive portal or a proxy drops the tile request). Keep
+// the map from waiting forever, but do not silently switch between visibly
+// different basemaps: that made the yellow street map and the pale offline
+// canvas appear random to users during zoom/reload. The current style remains
+// authoritative; we surface a retry action instead.
+export const BASEMAP_READY_TIMEOUT_MS = 8_000;
 
 // PathOS Stage 7B-A.1 Closing Patch v2: the state-level choropleth is
 // now owned EXCLUSIVELY by `RegionalStateLayer` (it listens to the
@@ -177,10 +226,10 @@ export interface MapCanvasProps {
   /** Extra CSS classes appended to the outermost wrapper. */
   className?: string;
 
-  /** Override the light-theme tile style. Defaults to Carto Voyager raster. */
+  /** Override the light-theme tile style. Defaults to Esri street-map raster. */
   lightStyle?: maplibregl.StyleSpecification;
 
-  /** Override the dark-theme tile style. Defaults to Carto Dark Matter raster. */
+  /** Override the dark-theme tile style. Defaults to Esri street-map raster. */
   darkStyle?: maplibregl.StyleSpecification;
 
   /** Override the initial centre coordinate. */
@@ -265,9 +314,18 @@ export function MapCanvas({
   const emptyClickRef = useRef<MapCanvasProps["onMapEmptyClick"]>(onMapEmptyClick);
 
   // ── State ──
- const [mapReady, setMapReady] = useState(false);
+  const [mapReady, setMapReady] = useState(false);
+  const mapReadyRef = useRef(false);
   const [granularity, setGranularity] = useState<Granularity>("state");
   const [mapError, setMapError] = useState<string | null>(null);
+  const [retryNonce, setRetryNonce] = useState(0);
+  const tileFailureCountRef = useRef(0);
+  const fallbackBasemapUsedRef = useRef(false);
+  const fallbackStageRef = useRef(0);
+  // MapLibre can finish parsing an inline style before its raster tiles have
+  // arrived. Keep style readiness separate from basemap readiness so a stuck
+  // tile request can still trigger the bounded fallback path.
+  const basemapSettledRef = useRef(false);
   const [viewState, setViewState] = useState<MapViewState>({
     longitude: initialCenter[0],
     latitude: initialCenter[1],
@@ -317,7 +375,14 @@ export function MapCanvas({
     initializedRef.current = true;
     let disposed = false;
     const markReady = () => {
-      if (!disposed) setMapReady(true);
+      if (!disposed) {
+        mapReadyRef.current = true;
+        // A raster tile can fail while MapLibre is still assembling the
+        // style, then recover before the map becomes interactive. Do not
+        // leave the stale recovery banner over a usable map.
+        setMapError(null);
+        setMapReady(true);
+      }
     };
 
     const map = new maplibregl.Map({
@@ -342,6 +407,16 @@ export function MapCanvas({
       dragRotate: false,
     });
 
+    let basemapTimer: ReturnType<typeof setTimeout> | null = setTimeout(() => {
+      // MapLibre can emit a few failed raster requests for edge tiles even
+      // while the visible basemap is already usable. Do not cover the map
+      // with an error banner once the style itself is interactive.
+      if (disposed || basemapSettledRef.current || mapReadyRef.current) return;
+      // Keep the active basemap stable. A timeout is a warning, not a reason
+      // to replace the map style underneath the user's current view.
+      setMapError("外部地图底图加载较慢；学校点位、筛选和信息卡仍可使用。恢复网络后可重试。");
+    }, BASEMAP_READY_TIMEOUT_MS);
+
     // Theme switch — when the user toggles Light↔Dark (or the OS
     // listener flips us in System mode) we swap `setStyle` here.
     // We use a `data-theme` observer on <html>; MapLibre takes
@@ -355,8 +430,9 @@ export function MapCanvas({
     // `class` attribute would also fire for unrelated class changes
     // (e.g. iOS Safari toggling "dark" on the document element for
     // status-bar styling), causing spurious basemap swaps.
+    let themeObserver: MutationObserver | null = null;
     if (typeof MutationObserver !== "undefined") {
-      const themeObserver = new MutationObserver(() => {
+      themeObserver = new MutationObserver(() => {
         const dataTheme = document.documentElement.getAttribute("data-theme");
         const isDark = dataTheme === "dark";
         const target = isDark ? darkStyle : lightStyle;
@@ -444,7 +520,10 @@ export function MapCanvas({
     // `load` event is observed in some browser timing windows. Style/load and
     // first-render are equally valid readiness signals for child layers.
     map.on("style.load", markReady);
-    map.once("render", markReady);
+    // `idle` means the current style has no outstanding source work. It is
+    // the appropriate signal for raster-tile readiness; `render` is not,
+    // because a background layer can render even when tiles are hanging.
+    map.on("idle", () => { basemapSettledRef.current = true; });
     requestAnimationFrame(() => {
       if (map.isStyleLoaded()) markReady();
     });
@@ -465,9 +544,27 @@ export function MapCanvas({
       const isBasemapTileError =
         msg.includes("tile.openstreetmap.org") ||
         msg.includes("server.arcgisonline.com") ||
-        msg.includes("basemaps.cartocdn.com") ||
         (msg.includes("AJAXError") && msg.includes("Failed to fetch"));
-      if (!isTransientStyleSwapNoise && !isBasemapTileError) {
+      if (isBasemapTileError) {
+        tileFailureCountRef.current += 1;
+        // A public raster provider may reject individual edge/zoom tiles.
+        // If the map style is already ready, those failures must remain
+        // non-blocking; the user still has a working yellow basemap and
+        // school interactions. Only pre-ready failures can trigger recovery.
+        if (mapReadyRef.current) return;
+        if (tileFailureCountRef.current >= 3) {
+          if (!fallbackBasemapUsedRef.current) {
+            fallbackBasemapUsedRef.current = true;
+            try {
+              setMapError("外部地图底图暂时不可用；已保持当前地图层，学校点位、筛选和信息卡仍可使用。恢复网络后可重试。");
+            } catch {
+              setMapError("底图服务暂时不可用，请重试；学校数据与地图交互仍受保护。");
+            }
+          } else {
+            setMapError("外部地图底图暂时不可用；已保持当前地图层，学校点位、筛选和信息卡仍可使用。恢复网络后可重试。");
+          }
+        }
+      } else if (!isTransientStyleSwapNoise) {
         // eslint-disable-next-line no-console
         console.error("[MapCanvas] MapLibre error:", e.error);
         setMapError(msg || "MapLibre 报告了一个未分类的错误");
@@ -531,9 +628,12 @@ export function MapCanvas({
     // `error` handler filter (above) and child-effect try/catch wrappers.
     return () => {
       disposed = true;
+      if (basemapTimer) clearTimeout(basemapTimer);
+      themeObserver?.disconnect();
       map.remove();
       mapRef.current = null;
       initializedRef.current = false;
+      mapReadyRef.current = false;
       setMapReady(false);
     };
     // MapLibre init runs exactly once (mount + unmount); re-running
@@ -545,7 +645,7 @@ export function MapCanvas({
     // The disable covers `onMapInit` / `onViewStateChange` / etc.
     // that ESLint can't statically see as "intentionally excluded".
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [retryNonce]);
 
   // ── Re-measure when the container resizes ─────────────────────────
   // MapLibre caches the container size at init; if the layout changes
@@ -622,7 +722,10 @@ export function MapCanvas({
           <div
             role="alert"
             aria-live="assertive"
-            className="pointer-events-auto absolute left-1/2 top-3 z-map-modal flex w-[min(420px,calc(100%-24px))] -translate-x-1/2 items-start gap-2.5 rounded-xl border border-persimmon/40 bg-panel/95 px-3.5 py-3 text-sm text-ink shadow-panel backdrop-blur"
+            // Keep the recovery banner below the shared map toolbar. A
+            // failed basemap must not make the state selector or school list
+            // look clickable while silently intercepting their pointer events.
+            className="pointer-events-auto absolute bottom-4 right-4 z-map-toolbar flex w-[min(360px,calc(100%-24px))] items-start gap-2.5 rounded-xl border border-persimmon/40 bg-panel/95 px-3.5 py-3 text-sm text-ink shadow-panel backdrop-blur"
           >
             <TriangleAlert
               size={15}
@@ -630,8 +733,8 @@ export function MapCanvas({
               aria-hidden="true"
             />
             <div className="flex min-w-0 flex-1 flex-col gap-0.5">
-              <p className="font-medium text-ink">地图暂时无法显示</p>
-              <p className="text-[11px] leading-4 text-ink/64">可能是地图服务或网络连接暂时中断，学校数据不会被伪造。</p>
+              <p className="font-medium text-ink">底图服务连接异常</p>
+              <p className="text-[11px] leading-4 text-ink/64">学校点位、筛选和信息卡仍可使用；恢复网络后可重试底图。</p>
               <details className="mt-1 text-[10px] text-ink/45">
                 <summary className="cursor-pointer hover:text-ink/70">查看错误详情</summary>
                 <p className="mt-1 break-words leading-4">{mapError}</p>
@@ -642,7 +745,10 @@ export function MapCanvas({
                 type="button"
                 onClick={() => {
                   setMapError(null);
-                  try { mapRef.current?.resize(); } catch { /* map destroyed */ }
+                  tileFailureCountRef.current = 0;
+                  fallbackBasemapUsedRef.current = false;
+                  fallbackStageRef.current = 0;
+                  setRetryNonce((value) => value + 1);
                 }}
                 className="rounded-control border border-line bg-paper px-2.5 py-1 text-[11px] font-medium text-ink/72 transition hover:border-cobalt/40 hover:text-cobalt"
               >

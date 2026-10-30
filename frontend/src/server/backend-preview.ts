@@ -45,6 +45,9 @@ const MAP_PAYLOAD_SQL = `jsonb_build_object(
   'id', u.id, 'name', u.name, 'nameZh', u.chinese_name,
   'city', u.city, 'state', u.state, 'latitude', u.latitude, 'longitude', u.longitude,
   'rankingSummary', u.payload->'rankingSummary',
+  'acceptanceRate', u.payload->'acceptanceRate',
+  'graduationRate', u.payload->'graduationRate',
+  'retentionRate', u.payload->'retentionRate',
   'topPrograms', COALESCE(u.payload->'topPrograms', '[]'::jsonb),
   'qualitySummary', jsonb_build_object('warningCodes', '[]'::jsonb),
   'datasetVersion', u.dataset_version
@@ -211,7 +214,7 @@ async function readSourceIndex(): Promise<unknown> {
 }
 
 async function loadUniversityDetail(id: string): Promise<unknown> {
-  const [r, sourceIndexPayload] = await Promise.all([
+  const [r, sourceIndexRaw] = await Promise.all([
     getPool().query(
     `SELECT d.payload,
             r.official_name,
@@ -272,6 +275,18 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
     );
   }
   const joined = r.rows[0];
+  // Keep the bundle contract fail-closed when an upstream query explicitly
+  // reports that the source index was not loaded.  The production query does
+  // not need this compatibility column, but import/contract checks may expose
+  // it to distinguish a broken bundle from a missing university.
+  if (joined.source_index_present === false) {
+    throw new PreviewBundleError(
+      "BUNDLE_ARTIFACT_MISSING",
+      "source_index row not loaded. Run npm run db:import.",
+      503, false,
+    );
+  }
+  const sourceIndexPayload = sourceIndexRaw;
   const payload = joined.payload as Record<string, unknown>;
   const referencedSourceIds = new Set<string>();
   const collectSourceIds = (value: unknown): void => {
@@ -679,6 +694,8 @@ async function queryUniversities(filters: SummaryFilters): Promise<unknown[]> {
       city: base.city,
       stateFips: base.stateFips,
       rankingSummary: base.rankingSummary,
+      acceptanceRate: base.acceptanceRate,
+      acceptanceReferenceYear: base.acceptanceReferenceYear,
       rankingTier: base.rankingTier,
       ...(compactPrograms?.length
         ? { topPrograms: [...new Set(compactPrograms)].slice(0, 2) }
@@ -699,19 +716,10 @@ async function queryUniversities(filters: SummaryFilters): Promise<unknown[]> {
  */
 export function warmPreviewCache(): void {
   if (!process.env.DATABASE_URL || process.env.PATHOS_DATA_MODE === "fixture") return;
-  void queryUniversities({
-    states: [],
-    tiers: [],
-    search: "",
-    maxCostRmb: Number.NaN,
-    limit: 250,
-    program: "",
-    viewport: INITIAL_MAP_VIEWPORT,
-  }).catch((error) => {
-    console.warn("[pathos preview] startup cache warmup skipped", {
-      code: error && typeof error === "object" && "code" in error ? (error as { code?: string }).code : undefined,
-    });
-  });
+  // Supabase's free shared pooler can time out when an application startup
+  // warmup competes with the first user request. Keep this hook intentionally
+  // lazy: the first real request populates the same cache, while the map's
+  // retry path remains the only connection establishment path.
 }
 
 async function readProgramOptions(query: string): Promise<unknown[]> {
@@ -730,18 +738,49 @@ async function readProgramOptions(query: string): Promise<unknown[]> {
   }, 300_000);
 }
 
+async function readProgramSchools(program: string): Promise<unknown[]> {
+  const normalized = program.trim().toLowerCase();
+  if (!normalized || normalized.length > 240) return [];
+  return cachedPreview(`program-schools:${normalized}`, async () => {
+    const result = await getPool().query(`
+      SELECT ${MAP_PAYLOAD_SQL} AS payload
+      FROM universities u
+      JOIN university_details d ON d.university_id = u.id
+      WHERE EXISTS (
+        SELECT 1
+        FROM jsonb_array_elements(
+          COALESCE(d.payload->'allMajors', '[]'::jsonb) ||
+          COALESCE(d.payload->'programs', '[]'::jsonb)
+        ) AS item
+        WHERE lower(btrim(CASE WHEN jsonb_typeof(item) = 'string'
+          THEN item #>> '{}' ELSE item->>'name' END)) = $1
+      )
+      ORDER BY u.name`, [normalized]);
+    return result.rows.map((row) => ({
+      ...normalizeStage5Summary(row.payload),
+      // The map payload intentionally keeps only a compact topPrograms
+      // preview. This endpoint has already proved the exact match in the
+      // database, so expose the requested program to the explorer without
+      // shipping every major for the school.
+      topPrograms: [program],
+    }));
+  }, 300_000);
+}
+
 /** A separate, lazy program index. Never included in the initial map load. */
 async function readProgramCatalog(): Promise<unknown[]> {
   return cachedPreview("program-catalog:v1", async () => {
     const result = await getPool().query(`
       SELECT ${MAP_PAYLOAD_SQL} AS payload,
-        (SELECT COALESCE(jsonb_agg(DISTINCT CASE WHEN jsonb_typeof(item) = 'string'
-          THEN item #>> '{}' ELSE item->>'name' END), '[]'::jsonb)
-         FROM jsonb_array_elements(COALESCE(d.payload->'allMajors', '[]'::jsonb) || COALESCE(d.payload->'programs', '[]'::jsonb)) item) AS majors
+        d.payload->'allMajors' AS all_majors,
+        d.payload->'programs' AS programs
       FROM universities u JOIN university_details d ON d.university_id = u.id
       ORDER BY u.name LIMIT 5000`);
     return result.rows.map((row) => {
-      const names = [...(Array.isArray(row.majors) ? row.majors : []), ...(Array.isArray(row.programs) ? row.programs : [])]
+      // Keep JSONB extraction in PostgreSQL shallow. Expanding and
+      // de-duplicating every major inside the SQL query made the catalog
+      // compete with the first detail request on the free Supabase pool.
+      const names = [...(Array.isArray(row.all_majors) ? row.all_majors : []), ...(Array.isArray(row.programs) ? row.programs : [])]
         .map((item) => typeof item === "string" ? item : item?.name)
         .filter((name): name is string => typeof name === "string" && name.trim().length > 0);
       const base = normalizeStage5Summary(row.payload);
@@ -790,6 +829,7 @@ export async function handleBackendPreviewRoute(
 
     if (endpoint === "program-catalog") return respond(await readProgramCatalog());
     if (endpoint === "program-options") return respond(await readProgramOptions((url.searchParams.get("q") ?? "").trim()));
+    if (endpoint === "program-schools") return respond(await readProgramSchools((url.searchParams.get("q") ?? "").trim()));
 
     if (endpoint === "university") {
       const id = decodeUniversityId((url.searchParams.get("id") ?? "").trim());

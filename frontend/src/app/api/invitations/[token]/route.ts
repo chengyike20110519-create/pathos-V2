@@ -23,7 +23,7 @@ import { addMembership } from "@/lib/orgs";
 export const dynamic = "force-dynamic";
 
 interface RouteContext {
-  params: { token: string };
+  params: Promise<{ token: string }>;
 }
 
 const TOKEN_RE = /^[A-Za-z0-9_-]+$/;
@@ -35,7 +35,7 @@ function isValidToken(token: string): boolean {
 }
 
 export async function GET(_req: Request, ctx: RouteContext): Promise<NextResponse> {
-  const token = ctx.params.token ?? "";
+  const token = (await ctx.params).token ?? "";
   if (!isValidToken(token)) {
     return NextResponse.json({ ok: false, code: "INVALID_TOKEN" }, { status: 400 });
   }
@@ -81,7 +81,7 @@ export async function POST(req: Request, ctx: RouteContext): Promise<NextRespons
     }
     throw e;
   }
-  const token = ctx.params.token ?? "";
+  const token = (await ctx.params).token ?? "";
   if (!isValidToken(token)) {
     return NextResponse.json({ ok: false, code: "INVALID_TOKEN" }, { status: 400 });
   }

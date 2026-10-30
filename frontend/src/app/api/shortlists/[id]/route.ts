@@ -14,7 +14,7 @@ import {
 export const dynamic = "force-dynamic";
 
 interface RouteContext {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
 export async function GET(_req: Request, ctx: RouteContext): Promise<NextResponse> {
@@ -27,7 +27,7 @@ export async function GET(_req: Request, ctx: RouteContext): Promise<NextRespons
     }
     throw e;
   }
-  const shortlistId = ctx.params.id;
+  const shortlistId = (await ctx.params).id;
   if (!shortlistId || shortlistId.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }

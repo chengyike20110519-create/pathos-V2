@@ -12,7 +12,7 @@ import { isLeadStatus, updateLead } from "@/lib/leads";
 export const dynamic = "force-dynamic";
 
 interface RouteContext {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
 interface PatchBody {
@@ -40,7 +40,7 @@ export async function PATCH(req: Request, ctx: RouteContext): Promise<NextRespon
     throw e;
   }
 
-  const id = (ctx.params.id ?? "").trim();
+  const id = ((await ctx.params).id ?? "").trim();
   if (!id || id.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }

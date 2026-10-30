@@ -1,5 +1,13 @@
 export interface ProjectedSchool { id: string; x: number; y: number }
 
+/** Screen-space radius adapts to the map zoom so clusters stay legible. */
+export function clusterRadiusForZoom(zoom: number) {
+  if (!Number.isFinite(zoom)) return 30;
+  if (zoom <= 4.5) return 44;
+  if (zoom >= 9) return 24;
+  return Math.round(44 - ((zoom - 4.5) / 4.5) * 20);
+}
+
 /** Screen-space groups keep coincident campuses selectable even at max zoom.
  * A fixed anchor bounds group size; connected chains cannot swallow a city.
  * The active school is always kept as its own visible marker.

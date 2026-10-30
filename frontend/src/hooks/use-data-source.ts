@@ -74,7 +74,13 @@ function useResource<T>(
       .catch((err: Error) => {
         if (controller.signal.aborted) return;
         const code = (err as Error & { code?: string }).code;
-        console.error("[PathOS data source] request failed", { message: err.message, code });
+        // Request failures are already represented in ResourceState and in
+        // the page's retry UI. Logging them as console.error makes Next's
+        // development overlay cover the whole map even when the request is
+        // an expected transient Supabase/pooler failure. Keep the console
+        // signal useful without turning recoverable network state into a
+        // fatal-looking application error.
+        console.warn("[PathOS data source] request failed", { message: err.message || "Unknown request error", code });
         setRefreshing(false);
         if (retained) setRefreshError({ message: err.message, code });
         else setState({ status: "error", message: err.message ?? "Unknown error", code });
@@ -141,6 +147,13 @@ export function useProgramCatalog(source: PathOSDataSource | null): ResourceHook
     if (!source) return [];
     if (!source.getProgramCatalog) throw Object.assign(new Error("专业索引暂不可用"), { code: "BACKEND_UNAVAILABLE" });
     return source.getProgramCatalog(s);
+  });
+}
+
+export function useProgramSchools(source: PathOSDataSource | null, program: string): ResourceHook<UniversitySummary[]> {
+  return useResource([source, program], async (s) => {
+    if (!source?.getProgramSchools) throw Object.assign(new Error("专业关联暂不可用"), { code: "BACKEND_UNAVAILABLE" });
+    return source.getProgramSchools(program, s);
   });
 }
 

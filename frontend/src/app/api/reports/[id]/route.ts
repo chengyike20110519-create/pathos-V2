@@ -56,9 +56,9 @@ function toDate(value: Date | string | null): Date | null {
 
 export async function GET(
   req: Request,
-  { params }: { params: { id: string } },
+  { params }: { params: Promise<{ id: string }> },
 ): Promise<NextResponse> {
-  const id = (params.id ?? "").trim();
+  const id = ((await params).id ?? "").trim();
   if (!id) return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   if (id.length > 64) return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
 
@@ -132,9 +132,9 @@ export async function GET(
 // the link can burn it.
 export async function DELETE(
   req: Request,
-  { params }: { params: { id: string } },
+  { params }: { params: Promise<{ id: string }> },
 ): Promise<NextResponse> {
-  const id = (params.id ?? "").trim();
+  const id = ((await params).id ?? "").trim();
   if (!id || id.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }

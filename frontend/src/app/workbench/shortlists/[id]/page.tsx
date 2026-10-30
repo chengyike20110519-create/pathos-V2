@@ -18,7 +18,7 @@ import ShortlistBoard from "./ShortlistBoard";
 export const dynamic = "force-dynamic";
 
 interface PageProps {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
 interface DeadlineSummary {
@@ -41,13 +41,14 @@ interface DeadlineSummary {
 export default async function ShortlistDetailPage({
   params,
 }: PageProps): Promise<JSX.Element> {
+  const { id } = await params;
   const user = await getCurrentUser();
   if (!user) {
     redirect(
-      `/login?next=/workbench/shortlists/${encodeURIComponent(params.id)}`,
+      `/login?next=/workbench/shortlists/${encodeURIComponent(id)}`,
     );
   }
-  if (!params.id || params.id.length > 64) notFound();
+  if (!id || id.length > 64) notFound();
 
   let list;
   let groups: ShortlistGrouped = { reach: [], match: [], safety: [] };
@@ -56,9 +57,9 @@ export default async function ShortlistDetailPage({
   let deadlineError: string | null = null;
   let listNotFound = false;
   try {
-    list = await getShortlist(params.id);
+    list = await getShortlist(id);
     if (!list || list.ownerUserId !== user.id) listNotFound = true;
-    if (!listNotFound) groups = await getShortlistGrouped(params.id);
+    if (!listNotFound) groups = await getShortlistGrouped(id);
   } catch (e) {
     if (e instanceof DatabaseNotConfiguredError) {
       dbError = "数据库未配置,无法加载选校清单。";
@@ -73,7 +74,7 @@ export default async function ShortlistDetailPage({
   if (list) {
     try {
       const calendar = await aggregateShortlistDeadlines({
-        shortlistId: params.id,
+        shortlistId: id,
         userId: user.id,
       });
       if (calendar) {

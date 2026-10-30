@@ -3,9 +3,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { HelpCircle } from "lucide-react";
-import { updateSearchParam } from "@/lib/url-params";
+import { updateSearchParam, updateSearchParams } from "@/lib/url-params";
 import type { MetricId, MapViewState, MapFilters, UniversityPOI, MapRegion, NewsArticle, RegionMetric } from "@/lib/types";
-import type maplibregl from "maplibre-gl";
+import type * as maplibregl from "maplibre-gl";
 import { METRIC_DEFINITIONS, METRIC_ORDER } from "@/config/metrics.config";
 import { useDataSource } from "@/services/data-source-provider";
 import {
@@ -89,15 +89,16 @@ import { ViewModeToggle } from "@/components/shared/ViewModeToggle";
 import {
   DataEmptyState,
   PreviewErrorState,
+  getPreviewErrorPresentation,
 } from "@/components/shared/data-states";
 import { useCompareStore } from "@/state/compare-store";
-import { RegionalStateLayer } from "./regional/RegionalStateLayer";
+const RegionalStateLayer = dynamic(() => import("./regional/RegionalStateLayer").then((module) => module.RegionalStateLayer), { ssr: false });
 // Stage 7B-A.1: RegionalLayerControl is now mounted exclusively
 // inside the new unified MapToolbar (see ./MapToolbar.tsx). Direct
 // usage here was removed to eliminate the second heatmap entry and
 // the cross-row collision with the StateSelector.
-import { RegionalLegend } from "./regional/RegionalLegend";
-import { RegionalHoverTooltip } from "./regional/RegionalHoverTooltip";
+const RegionalLegend = dynamic(() => import("./regional/RegionalLegend").then((module) => module.RegionalLegend), { ssr: false });
+const RegionalHoverTooltip = dynamic(() => import("./regional/RegionalHoverTooltip").then((module) => module.RegionalHoverTooltip), { ssr: false });
 import { REGIONAL_METRIC_IDS, type RegionalMetricId, type RegionalMetricRecord } from "@/regional/types";
 import { getRegionalCounters, getRegionalDatasetMetadata } from "@/regional/load";
 import { useRegionalMetric } from "@/regional/useRegionalMetric";
@@ -116,8 +117,10 @@ import { useTheme } from "@/lib/theme";
 
 import { UniversityPoiLayer } from "./UniversityPoiLayer";
 import type { UniversityProfileProps } from "./UniversityProfile";
+const loadUniversityProfile = () =>
+  import("./UniversityProfile").then((module) => module.UniversityProfile);
 const UniversityProfile = dynamic<UniversityProfileProps>(
-  () => import("./UniversityProfile").then((module) => module.UniversityProfile),
+  loadUniversityProfile,
   { ssr: false, loading: () => <div role="status" className="rounded-xl border border-line bg-panel p-5 text-sm text-ink">正在打开学校卡…</div> },
 );
 const MapSchoolList = dynamic(() => import("./MapSchoolList"), { ssr: false });
@@ -129,7 +132,7 @@ const RegionDetailPanel = dynamic(() => import("./RegionDetailPanel").then((modu
 const CityLayer = dynamic(() => import("./CityLayer").then((module) => module.CityLayer), { ssr: false });
 const CityDetailPanel = dynamic(() => import("./CityDetailPanel").then((module) => module.CityDetailPanel), { ssr: false });
 const CaliforniaRoadLayer = dynamic(() => import("./CaliforniaRoadLayer").then((module) => module.CaliforniaRoadLayer), { ssr: false });
-import { CityChoroplethLayer } from "./CityChoroplethLayer";
+const CityChoroplethLayer = dynamic(() => import("./CityChoroplethLayer").then((module) => module.CityChoroplethLayer), { ssr: false });
 import { buildCityAggregates, getCitiesByState, getStateCenter, getCityMetricDisplay, getCityMetricValue } from "@/lib/city-utils";
 const ComparePanel = dynamic(() => import("./ComparePanel"), { ssr: false });
 import { ResizablePanel } from "@/components/shared/ResizablePanel";
@@ -232,6 +235,7 @@ export function MapShell({
 
   const [filters, setFilters] = useState<MapFilters>(DEFAULT_FILTERS);
   const mapRef = useRef<maplibregl.Map | null>(null);
+  const mapAutoRetryRef = useRef(false);
 
   // ── Hover state for the floating POI tooltip ─────────────────────
   const [hoveredUniversityId, setHoveredUniversityId] = useState<string | null>(null);
@@ -310,7 +314,11 @@ export function MapShell({
   const [selectedProgram, setSelectedProgram] = useState<string | null>(() =>
     typeof window === "undefined" ? null : new URLSearchParams(window.location.search).get("program")?.slice(0, 240) || null);
   useEffect(() => {
-    const sync = () => setSelectedProgram(new URLSearchParams(window.location.search).get("program")?.slice(0, 240) || null);
+    const sync = () => {
+      const params = new URLSearchParams(window.location.search);
+      setSelectedStateFips(params.get("state") || null);
+      setSelectedProgram(params.get("program")?.slice(0, 240) || null);
+    };
     window.addEventListener("popstate", sync);
     return () => window.removeEventListener("popstate", sync);
   }, []);
@@ -352,6 +360,8 @@ export function MapShell({
     manifestState.state.status === "ready"
       ? manifestState.state.data
       : null;
+  const reloadManifest = manifestState.reload;
+  const reloadSummaries = summariesState.reload;
   const parentReadinessKnown = activeManifest !== null;
   const parentModeAvailable =
     parentReadinessKnown &&
@@ -491,6 +501,22 @@ export function MapShell({
     return summariesState.state.data.find((s) => s.id === hoveredUniversityId) ?? null;
   }, [hoveredUniversityId, summariesState.state]);
 
+  // Warm the card for a deliberate hover without fetching every school on
+  // map start. Marker hover is the user's natural preview signal; the data
+  // source keeps the result in its shared cache, so a click immediately after
+  // the hover can render the full card instead of waiting on the pooler.
+  useEffect(() => {
+    const warmId = hoveredUniversityId ?? listHoveredId;
+    if (!warmId || !dataSource?.getUniversityDetail) return;
+    const timer = window.setTimeout(() => {
+      void dataSource.getUniversityDetail(warmId).catch(() => {
+        // Hover prefetch is opportunistic. The click path remains authoritative
+        // and will show its normal retryable error state if needed.
+      });
+    }, 180);
+    return () => window.clearTimeout(timer);
+  }, [dataSource, hoveredUniversityId, listHoveredId]);
+
   const cityAggregates = useMemo(
     () => buildCityAggregates(allUniversities),
     [allUniversities],
@@ -523,6 +549,10 @@ export function MapShell({
   }, []);
 
   const selectSchoolOnMap = useCallback((school: UniversitySummary) => {
+    // List, keyboard, and touch selection may not emit a hover first. Warm
+    // the card bundle here as well so every entry path shares the same fast
+    // first-open behavior.
+    void loadUniversityProfile();
     setSelectedUniversityId(school.id);
     setListHoveredId(null);
     const map = mapRef.current;
@@ -542,7 +572,7 @@ export function MapShell({
 
   const clearMapFilters = useCallback(() => {
     setSelectedProgram(null);
-    updateSearchParam("program", null);
+    updateSearchParams({ program: null, state: null });
     setSelectedRegionFips(null);
     setSelectedStateFips(null);
     setSelectedCityId(null);
@@ -554,6 +584,10 @@ export function MapShell({
 
   const handleUniversityHover = useCallback((id: string | null) => {
     setHoveredUniversityId(id);
+    // Warm the card bundle while the user is still deciding which school
+    // to open. The click path can then focus on the data request instead of
+    // downloading the panel component and its icons at the same time.
+    if (id) void loadUniversityProfile();
     if (detailPrefetchTimerRef.current) clearTimeout(detailPrefetchTimerRef.current);
     detailPrefetchAbortRef.current?.abort();
     detailPrefetchTimerRef.current = null;
@@ -679,6 +713,7 @@ export function MapShell({
     // a second, unverified city metric layer over those school markers.
     setCityDrilldownEnabled(false);
     setSelectedStateFips(fips);
+    updateSearchParam("state", fips);
     setSelectedCityId(null);
     setSelectedRegionFips(fips);
   }, [setSelectedRegionFips]);
@@ -688,10 +723,12 @@ export function MapShell({
       const next = !enabled;
       if (!next) {
         setSelectedStateFips(null);
+        updateSearchParam("state", null);
         setSelectedCityId(null);
         flyToDefault();
       } else if (selectedRegionFips) {
         setSelectedStateFips(selectedRegionFips);
+        updateSearchParam("state", selectedRegionFips);
         const center = getStateCenter(selectedRegionFips);
         if (center) flyTo(center[0], center[1], 4.35);
       }
@@ -702,6 +739,7 @@ export function MapShell({
  const handleSidebarClose = useCallback(() => {
    setSelectedRegionFips(null);
    setSelectedStateFips(null);
+   updateSearchParam("state", null);
    setSelectedCityId(null);
    setRegionDetail(null);
     setSelectedUniversityId(null);
@@ -710,9 +748,30 @@ export function MapShell({
   // ── Render ──────────────────────────────────────────────────────
 
   const primaryError =
-    summariesState.state.status === "error"
+    summariesState.state.status === "error" && !summariesState.hasLoaded
       ? summariesState
       : null;
+
+  // A short backend restart or pooler wake-up should recover without making
+  // the user manually refresh the whole page. This is intentionally bounded
+  // to one automatic attempt; a persistent outage still fails closed with
+  // the normal retry action and never falls back to fabricated map rows.
+  useEffect(() => {
+    const status = summariesState.state.status;
+    if (status === "ready") {
+      mapAutoRetryRef.current = false;
+      return;
+    }
+    if (status !== "error" || mapAutoRetryRef.current) return;
+    const presentation = getPreviewErrorPresentation(summariesState.state.code);
+    if (!presentation.retryable) return;
+    mapAutoRetryRef.current = true;
+    const timer = window.setTimeout(() => {
+      reloadManifest();
+      reloadSummaries();
+    }, 900);
+    return () => window.clearTimeout(timer);
+  }, [reloadManifest, reloadSummaries, summariesState.state]);
 
   if (primaryError?.state.status === "error") {
     return (
@@ -1011,7 +1070,13 @@ export function MapShell({
             listOpen={schoolListOpen}
             schoolCount={summariesState.state.status === "ready" ? summariesState.state.data.length : allUniversities.length}
             onToggleList={() => { setSchoolListOpen((open) => !open); setSchoolListScope(null); setListHoveredId(null); }}
-            onClearState={() => { setSelectedRegionFips(null); setSelectedStateFips(null); setSchoolListScope(null); flyToDefault(); }}
+            onClearState={() => {
+              setSelectedRegionFips(null);
+              setSelectedStateFips(null);
+              updateSearchParam("state", null);
+              setSchoolListScope(null);
+              flyToDefault();
+            }}
             stateOptions={STATE_OPTIONS}
             viewModeLabel={
               selectedCity

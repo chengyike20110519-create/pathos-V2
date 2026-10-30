@@ -92,7 +92,7 @@ export async function findSessionUser(id: string): Promise<SessionUser | null> {
 }
 
 export async function getCurrentUser(): Promise<SessionUser | null> {
-  const jar = cookies();
+  const jar = await cookies();
   if (isPreviewAuthEnabled() && jar.get(PREVIEW_AUTH_COOKIE)?.value === "1") {
     return { ...PREVIEW_AUTH_USER };
   }

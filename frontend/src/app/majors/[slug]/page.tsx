@@ -4,10 +4,11 @@ import PageMotion from "@/components/shared/PageMotion";
 import MajorDetailView from "@/components/major/MajorDetailView";
 import { findMajorDefinition } from "@/domain/information/major";
 
-type PageProps = { params: { slug: string } };
+type PageProps = { params: Promise<{ slug: string }> };
 
-export function generateMetadata({ params }: PageProps): Metadata {
-  const definition = findMajorDefinition(params.slug);
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const definition = findMajorDefinition(slug);
   if (!definition) return { title: "专业详情" };
   return {
     title: definition.nameZh + "专业档案",
@@ -15,11 +16,12 @@ export function generateMetadata({ params }: PageProps): Metadata {
   };
 }
 
-export default function Page({ params }: PageProps) {
-  if (!findMajorDefinition(params.slug)) notFound();
+export default async function Page({ params }: PageProps) {
+  const { slug } = await params;
+  if (!findMajorDefinition(slug)) notFound();
   return (
     <PageMotion>
-      <MajorDetailView slug={params.slug} />
+      <MajorDetailView slug={slug} />
     </PageMotion>
   );
 }

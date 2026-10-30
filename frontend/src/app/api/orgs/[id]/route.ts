@@ -16,7 +16,7 @@ import { listInvitationsForOrg } from "@/lib/invitations";
 export const dynamic = "force-dynamic";
 
 interface RouteContext {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
 export async function GET(_req: Request, ctx: RouteContext): Promise<NextResponse> {
@@ -30,7 +30,7 @@ export async function GET(_req: Request, ctx: RouteContext): Promise<NextRespons
     throw e;
   }
 
-  const orgId = ctx.params.id;
+  const orgId = (await ctx.params).id;
   if (!orgId || orgId.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }

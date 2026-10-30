@@ -11,7 +11,7 @@ import { PREVIEW_AUTH_COOKIE } from "@/lib/preview-auth";
 export const dynamic = "force-dynamic";
 
 export async function POST(req: Request): Promise<NextResponse> {
-  const jar = cookies();
+  const jar = await cookies();
   const sid = jar.get(SESSION_COOKIE)?.value;
   if (sid) {
     try {

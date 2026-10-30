@@ -17,7 +17,7 @@ import {
 export const dynamic = "force-dynamic";
 
 interface RouteContext {
-  params: { id: string; itemId: string };
+  params: Promise<{ id: string; itemId: string }>;
 }
 
 interface PatchBody {
@@ -34,8 +34,7 @@ export async function PATCH(req: Request, ctx: RouteContext): Promise<NextRespon
     }
     throw e;
   }
-  const shortlistId = ctx.params.id;
-  const itemId = ctx.params.itemId;
+  const { id: shortlistId, itemId } = await ctx.params;
   if (!shortlistId || !itemId || shortlistId.length > 64 || itemId.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }
@@ -79,8 +78,7 @@ export async function DELETE(_req: Request, ctx: RouteContext): Promise<NextResp
     }
     throw e;
   }
-  const shortlistId = ctx.params.id;
-  const itemId = ctx.params.itemId;
+  const { id: shortlistId, itemId } = await ctx.params;
   if (!shortlistId || !itemId || shortlistId.length > 64 || itemId.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }

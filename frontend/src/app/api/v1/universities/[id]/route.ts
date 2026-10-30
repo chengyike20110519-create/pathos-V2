@@ -32,7 +32,7 @@ interface UniversityRow {
 
 export async function GET(
   req: Request,
-  { params }: { params: { id: string } },
+  { params }: { params: Promise<{ id: string }> },
 ): Promise<NextResponse> {
   const auth = await authenticate(req);
   if (!auth.ok) return auth.response;
@@ -52,7 +52,7 @@ export async function GET(
     );
   }
 
-  const rawId = (params.id ?? "").trim();
+  const rawId = ((await params).id ?? "").trim();
   if (!rawId) return fail("INVALID_ID", "University id is required", 400, undefined, req);
   let id: string;
   try { id = decodeURIComponent(rawId); }

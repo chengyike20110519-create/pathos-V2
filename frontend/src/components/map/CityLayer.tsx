@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef } from "react";
-import maplibregl from "maplibre-gl";
+import * as maplibregl from "maplibre-gl";
 import type { CityAggregate, MetricId } from "@/lib/types";
 import { cityMetricColor, getCityMetricDisplay, getCityMetricValue } from "@/lib/city-utils";
 import { useMapContext } from "./MapCanvas";
@@ -30,6 +30,8 @@ interface CityLayerProps {
 }
 
 const CITY_BUBBLE_SOURCE_ONLY = "pathos-city-bubbles-boundaries";
+const CITY_BOUNDARY_FILL_LAYER_ID = "pathos-city-bubbles-boundary-fill";
+const CITY_BOUNDARY_LINE_LAYER_ID = "pathos-city-bubbles-boundary-line";
 const MIN_ZOOM = 4.0;
 const MAX_ZOOM = 10.0;
 const BASE_RADIUS = 18;
@@ -89,7 +91,16 @@ export function CityLayer({ visibleCities, activeMetricId, onCityClick, selected
   const removeLayers = useCallback(() => {
     if (!map) return;
     try {
-      [CITY_BUBBLE_LABEL_LAYER_ID, CITY_BUBBLE_LAYER_ID].forEach(id => {
+      // The boundary layers are recreated whenever the visible city set or
+      // metric changes. Leaving them behind made the next addLayers() call
+      // throw "layer already exists" after a zoom round-trip, which could
+      // leave MapLibre rendering a blank/stalled map.
+      [
+        CITY_BOUNDARY_LINE_LAYER_ID,
+        CITY_BOUNDARY_FILL_LAYER_ID,
+        CITY_BUBBLE_LABEL_LAYER_ID,
+        CITY_BUBBLE_LAYER_ID,
+      ].forEach(id => {
         if (map.getLayer(id)) map.removeLayer(id);
       });
       [CITY_BUBBLE_SOURCE_ID, CITY_BUBBLE_SOURCE_ONLY].forEach(id => {
@@ -113,7 +124,7 @@ export function CityLayer({ visibleCities, activeMetricId, onCityClick, selected
     if (boundaryData.features.length > 0) {
       map.addSource(CITY_BUBBLE_SOURCE_ONLY, { type: "geojson", data: boundaryData });
       map.addLayer({
-        id: "pathos-city-bubbles-boundary-fill",
+        id: CITY_BOUNDARY_FILL_LAYER_ID,
         type: "fill",
         source: CITY_BUBBLE_SOURCE_ONLY,
         minzoom: 5.5,
@@ -121,7 +132,7 @@ export function CityLayer({ visibleCities, activeMetricId, onCityClick, selected
         paint: { "fill-color": "#23766b", "fill-opacity": 0.06, "fill-outline-color": "#23766b" },
       });
       map.addLayer({
-        id: "pathos-city-bubbles-boundary-line",
+        id: CITY_BOUNDARY_LINE_LAYER_ID,
         type: "line",
         source: CITY_BUBBLE_SOURCE_ONLY,
         minzoom: 5.5,

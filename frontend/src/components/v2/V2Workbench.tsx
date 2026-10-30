@@ -2864,7 +2864,7 @@ function SchoolMode({ slug, family }: { slug: string; family: Family }) {
                   <DefRow label="学术氛围">
                     {preview?.academicCulture || <MissingValue />}
                   </DefRow>
-                  <DefRow label="学生反馈">
+                  <DefRow label="学生体验概览">
                     {preview?.studentFeedbackSnippet || <MissingValue />}
                   </DefRow>
                 </div>

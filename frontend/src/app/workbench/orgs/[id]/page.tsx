@@ -19,16 +19,17 @@ import OrgDetail from "./OrgDetail";
 export const dynamic = "force-dynamic";
 
 interface PageProps {
-  params: { id: string };
+  params: Promise<{ id: string }>;
   searchParams?: { error?: string; ok?: string };
 }
 
 export default async function OrgDetailPage({ params, searchParams }: PageProps): Promise<JSX.Element> {
+  const { id } = await params;
   const user = await getCurrentUser();
   if (!user) {
-    redirect(`/login?next=/workbench/orgs/${encodeURIComponent(params.id)}`);
+    redirect(`/login?next=/workbench/orgs/${encodeURIComponent(id)}`);
   }
-  if (!params.id || params.id.length > 64) notFound();
+  if (!id || id.length > 64) notFound();
 
   let org;
   let role;
@@ -36,17 +37,17 @@ export default async function OrgDetailPage({ params, searchParams }: PageProps)
   let invitations: Awaited<ReturnType<typeof listInvitationsForOrg>> = [];
   let dbError: string | null = null;
   try {
-    org = await getOrganization(params.id);
+    org = await getOrganization(id);
     if (!org) notFound();
-    role = await membershipRole(params.id, user.id);
+    role = await membershipRole(id, user.id);
     if (!role) {
       // Caller is signed in but not a member. Show a 404 rather than
       // a 403 so the existence of org ids is not leaked.
       notFound();
     }
     const [m, inv] = await Promise.all([
-      listOrgMembers(params.id),
-      listInvitationsForOrg(params.id),
+      listOrgMembers(id),
+      listInvitationsForOrg(id),
     ]);
     members = m;
     invitations = inv;

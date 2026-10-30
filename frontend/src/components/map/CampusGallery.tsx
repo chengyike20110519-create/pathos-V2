@@ -6,7 +6,7 @@ import Image from "next/image";
 import type { CampusImageRecord } from "@/domain/dataset";
 import styles from "./UniversityProfile.module.css";
 
-export function CampusGallery({ images, children }: { images?: CampusImageRecord[]; children?: ReactNode }) {
+export function CampusGallery({ images, loading = false, children }: { images?: CampusImageRecord[]; loading?: boolean; children?: ReactNode }) {
   const [active, setActive] = useState(0);
   const [failed, setFailed] = useState<Record<string, boolean>>({});
   const approved = (images ?? []).filter((image) => image.reviewStatus === "approved" && image.licenseStatus === "verified").sort((a, b) => a.displayOrder - b.displayOrder).slice(0, 5);
@@ -19,7 +19,11 @@ export function CampusGallery({ images, children }: { images?: CampusImageRecord
       <a href={image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label={`${image.label} 图片来源`} title={`${image.label} · ${image.publisher}`}>校园影像<ExternalLink size={11} aria-hidden="true" /></a>
       {approved.length > 1 && <><button type="button" aria-label="上一张校园照片" onClick={() => setActive((current) => (current - 1 + approved.length) % approved.length)}><ChevronLeft size={13} aria-hidden="true" /></button><span aria-live="polite">{active % approved.length + 1} / {approved.length}</span><button type="button" aria-label="下一张校园照片" onClick={() => setActive((current) => (current + 1) % approved.length)}><ChevronRight size={13} aria-hidden="true" /></button></>}
     </div>}
-    {image && failed[image.id] && <p className={styles.coverFallback}>校园图片暂不可用</p>}
+    {image && failed[image.id] && <div className={styles.coverFallback} role="status">
+      <span>校园图片暂不可用</span>
+      <button type="button" onClick={() => setFailed((current) => { const next = { ...current }; delete next[image.id]; return next; })}>重新加载</button>
+    </div>}
+    {loading && approved.length === 0 && <p role="status" className={styles.coverLoading}>正在补充校园资料…</p>}
     {children}
   </div>;
 }

@@ -1,2 +1,2 @@
 import V2Workbench from "@/components/v2/V2Workbench";
-export default function Page({ params }: { params: { id: string } }) { return <V2Workbench mode="case" id={params.id} family="f" />; }
+export default async function Page({ params }: { params: Promise<{ id: string }> }) { const { id } = await params; return <V2Workbench mode="case" id={id} family="f" />; }

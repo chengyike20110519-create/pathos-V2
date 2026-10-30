@@ -36,16 +36,12 @@ async function readSchemaReadiness(
 export async function GET(): Promise<NextResponse> {
   try {
     const pool = getPool();
-    const uniCount = await pool.query<{ n: number }>(
-      "SELECT count(*)::int AS n FROM universities",
-    );
-    const detailCount = await pool.query<{ n: number }>(
-      "SELECT count(*)::int AS n FROM university_details",
-    );
-    const manifestRow = await pool.query<{ updated_at: string }>(
-      "SELECT updated_at FROM manifest WHERE id = 1",
-    );
-    const schema = await readSchemaReadiness(pool);
+    const [uniCount, detailCount, manifestRow, schema] = await Promise.all([
+      pool.query<{ n: number }>("SELECT count(*)::int AS n FROM universities"),
+      pool.query<{ n: number }>("SELECT count(*)::int AS n FROM university_details"),
+      pool.query<{ updated_at: string }>("SELECT updated_at FROM manifest WHERE id = 1"),
+      readSchemaReadiness(pool),
+    ]);
     // This route is Render's healthCheckPath, so it reports liveness
     // only: the service is up whenever the database answers. Pending
     // migrations are reported in the payload but must NOT fail the

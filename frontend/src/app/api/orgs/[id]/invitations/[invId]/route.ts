@@ -14,7 +14,7 @@ import { revokeInvitation } from "@/lib/invitations";
 export const dynamic = "force-dynamic";
 
 interface RouteContext {
-  params: { id: string; invId: string };
+  params: Promise<{ id: string; invId: string }>;
 }
 
 export async function DELETE(_req: Request, ctx: RouteContext): Promise<NextResponse> {
@@ -27,8 +27,7 @@ export async function DELETE(_req: Request, ctx: RouteContext): Promise<NextResp
     }
     throw e;
   }
-  const orgId = ctx.params.id;
-  const invId = ctx.params.invId;
+  const { id: orgId, invId } = await ctx.params;
   if (!orgId || !invId || orgId.length > 64 || invId.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }

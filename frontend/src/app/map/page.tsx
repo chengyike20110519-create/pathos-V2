@@ -26,9 +26,10 @@ import { INITIAL_MAP_VIEWPORT } from "@/lib/map-viewport";
 // Server pre-render and Client first render both emit the
 // placeholder → hydration matches → no warning.  The "real"
 // MapShell swaps in on the second render, after hydration completes.
-export default function MapPage({ searchParams }: { searchParams: { state?: string; program?: string } }): JSX.Element {
-  const state = searchParams.state;
-  const program = searchParams.program?.slice(0, 240);
+export default async function MapPage({ searchParams }: { searchParams: Promise<{ state?: string; program?: string }> }): Promise<JSX.Element> {
+  const resolvedSearchParams = await searchParams;
+  const state = resolvedSearchParams.state;
+  const program = resolvedSearchParams.program?.slice(0, 240);
   const query = new URLSearchParams({ endpoint: "universities" });
   if (program) query.set("program", program);
   if (state) query.set("state", abbrFromFips(state) ?? state);

@@ -19,7 +19,7 @@ import { revokeReportVersion } from "@/lib/reports";
 export const dynamic = "force-dynamic";
 
 interface RouteContext {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
 interface RevokeBody {
@@ -47,7 +47,7 @@ export async function POST(
   req: Request,
   { params }: RouteContext,
 ): Promise<NextResponse> {
-  const id = (params.id ?? "").trim();
+  const id = ((await params).id ?? "").trim();
   if (!id || id.length > 64) {
     return NextResponse.json({ ok: false, code: "INVALID_ID" }, { status: 400 });
   }

@@ -141,9 +141,9 @@
   }
 }
 
-// Compact hero: a quiet editorial frame for subpages whose own header
-// would otherwise look bare. Renders a thin cobalt-jade rule, an eyebrow
-// band, and an animated mesh gradient backdrop.
+/* Compact hero: a quiet editorial frame for subpages whose own header
+   would otherwise look bare. Renders a thin cobalt-jade rule, an eyebrow
+   band, and an animated mesh gradient backdrop. */
 .page-motion-compact-hero {
   position: relative;
   isolation: isolate;

@@ -95,6 +95,7 @@ export interface UniversitySummary {
     maximumUsd?: number | null;
     displayLabel?: string;
     comparisonSafe?: boolean;
+    academicYear?: string | null;
   };
   /** Compact enrollment snapshot for list view (map, calculator, search). */
   enrollmentSummary?: {
@@ -119,10 +120,13 @@ export interface UniversitySummary {
    *  university_details. acceptanceRate is stored as a percent (0-100),
    *  not a ratio. sat25/sat75 are the sum of math and reading middle-50. */
   acceptanceRate?: number | null;
+  acceptanceReferenceYear?: number | null;
   sat25?: number | null;
   sat75?: number | null;
   graduationRate?: number | null;
+  graduationReferenceYear?: number | null;
   retentionRate?: number | null;
+  retentionReferenceYear?: number | null;
   /** Institution ownership type from the verified preview record. */
   schoolType?: string;
 

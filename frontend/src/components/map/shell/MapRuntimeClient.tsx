@@ -1,7 +1,23 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { MapShell } from "@/components/map/MapShell";
+import dynamic from "next/dynamic";
+
+// Keep the large map orchestrator out of the route's initial JavaScript.
+// The mounted gate already makes this subtree client-only, so loading it
+// after hydration preserves the stable placeholder while allowing the map
+// shell and MapLibre code to be fetched in parallel with the first summary.
+const MapShell = dynamic(
+  () => import("@/components/map/MapShell").then((module) => module.MapShell),
+  {
+    ssr: false,
+    loading: () => (
+      <div className="flex h-full w-full items-center justify-center bg-paper text-sm text-ink/40" role="status">
+        加载地图组件…
+      </div>
+    ),
+  },
+);
 
 /**
  * Stage 7B-A.1 Closing Patch v3 (V3-A + V3-F + V3-G final) — Mounted gate.

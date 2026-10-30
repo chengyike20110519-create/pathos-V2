@@ -18,13 +18,13 @@ import InviteAccept from "./InviteAccept";
 export const dynamic = "force-dynamic";
 
 interface PageProps {
-  params: { token: string };
+  params: Promise<{ token: string }>;
 }
 
 const TOKEN_RE = /^[A-Za-z0-9_-]+$/;
 
 export default async function InvitePage({ params }: PageProps): Promise<JSX.Element> {
-  const token = params.token ?? "";
+  const { token = "" } = await params;
   if (!token || token.length < 32 || token.length > 64 || !TOKEN_RE.test(token)) {
     notFound();
   }

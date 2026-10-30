@@ -62,13 +62,21 @@ export function UniversityHoverTooltip({ summary, x, y }: UniversityHoverTooltip
   const tuition = tuitionRmbFromSummary(summary);
   const names = getSchoolNamePair(summary);
     const ugCount = summary.enrollmentSummary?.undergraduate ?? null;
+    const ugYear = summary.enrollmentSummary?.referenceYear ?? null;
     const acceptanceRate = summary.acceptanceRate ?? null;
+    const acceptanceYear = summary.acceptanceReferenceYear ?? null;
     const sat25 = typeof summary.sat25 === "number" && summary.sat25 > 0 ? summary.sat25 : null;
     const sat75 = typeof summary.sat75 === "number" && summary.sat75 > 0 ? summary.sat75 : null;
     const retentionRate = summary.retentionRate ?? null;
     const graduationRate = summary.graduationRate ?? null;
+    const retentionYear = summary.retentionReferenceYear ?? null;
+    const graduationYear = summary.graduationReferenceYear ?? null;
 const costLabel = tuition !== null ? `¥${Math.round(tuition / 10000)}万/年` : "点击查看学校与专业 →";
   const tier = summary.rankingSummary?.rankingTier ?? summary.rankingTier ?? null;
+  const storedRank = summary.rankingSummary?.nationalRank ?? summary.nationalRanking;
+  const guideRankText = summary.guidePreview?.usNewsRanks?.overall?.replace(/^#\s*/, "").trim();
+  const guideRank = guideRankText && /^\d+$/.test(guideRankText) ? Number(guideRankText) : undefined;
+  const visibleRank = storedRank ?? guideRank;
   return (
     <div
       ref={tooltipRef}
@@ -83,23 +91,23 @@ const costLabel = tuition !== null ? `¥${Math.round(tuition / 10000)}万/年` :
       <div className="font-semibold text-ink truncate">{names.zh}</div>
       <div className="truncate text-ink/55" lang="en">{names.en}</div>
       <div className="mt-1 flex items-center gap-2 text-ink/60">
-        {tier && (
-          <span className="rounded-full border border-line/60 bg-paper px-1.5 py-0.5 text-[9px] font-medium text-ink/72">{summary.rankingSummary?.nationalRank ? `学校排名 #${summary.rankingSummary.nationalRank}` : "排名未收录"}</span>
+        {(tier || visibleRank) && (
+          <span className="rounded-full border border-line/60 bg-paper px-1.5 py-0.5 text-[9px] font-medium text-ink/72">{visibleRank ? `学校排名 #${visibleRank}` : "排名未收录"}</span>
         )}
         <span>{costLabel}</span>
        {ugCount !== null && ugCount > 0 && (
-          <span className="text-ink/72">{ugCount >= 1000 ? (ugCount/1000).toFixed(1) + 'k' : ugCount}</span>
+          <span className="text-ink/72" title={ugYear ? `本科生人数数据年度 ${ugYear}` : "本科生人数年份见数据来源"}>{ugCount >= 1000 ? (ugCount/1000).toFixed(1) + 'k' : ugCount}{ugYear ? ` · ${ugYear}` : ""}</span>
         )}
         {(acceptanceRate !== null || (sat25 !== null && sat75 !== null)) && (
           <span className="text-ink/72">
-            {acceptanceRate !== null ? "接受率 " + (acceptanceRate < 1 ? (acceptanceRate * 100).toFixed(1) : acceptanceRate.toFixed(1)) + "%" : ""}
+            {acceptanceRate !== null ? "接受率 " + (acceptanceRate < 1 ? (acceptanceRate * 100).toFixed(1) : acceptanceRate.toFixed(1)) + "%" + (acceptanceYear ? ` · ${acceptanceYear}` : "") : ""}
             {sat25 !== null && sat75 !== null ? (acceptanceRate !== null ? " · " : "") + "SAT " + sat25 + "–" + sat75 : ""}
           </span>
         )}
         {(graduationRate !== null || retentionRate !== null) && (
           <span className="text-ink/60">
-            {graduationRate !== null ? "毕业率 " + (graduationRate < 1 ? graduationRate * 100 : graduationRate).toFixed(0) + "%" : ""}
-            {retentionRate !== null ? (graduationRate !== null ? " · " : "") + "保留率 " + (retentionRate < 1 ? retentionRate * 100 : retentionRate).toFixed(0) + "%" : ""}
+            {graduationRate !== null ? "毕业率 " + (graduationRate < 1 ? graduationRate * 100 : graduationRate).toFixed(0) + "%" + (graduationYear ? ` · ${graduationYear}` : "") : ""}
+            {retentionRate !== null ? (graduationRate !== null ? " · " : "") + "保留率 " + (retentionRate < 1 ? retentionRate * 100 : retentionRate).toFixed(0) + "%" + (retentionYear ? ` · ${retentionYear}` : "") : ""}
           </span>
         )}
         </div>

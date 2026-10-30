@@ -132,7 +132,7 @@ function normalizePreviewSummaries(
 export async function loadTraceablePreviewBundle(
   env: { PATHOS_PREVIEW_BUNDLE_DIR?: string } = process.env as { PATHOS_PREVIEW_BUNDLE_DIR?: string },
 ): Promise<TraceablePreviewBundle> {
-  const bundleDir = path.resolve(
+  const bundleDir = path.resolve(/* turbopackIgnore: true */
     env.PATHOS_PREVIEW_BUNDLE_DIR?.trim() || path.join(process.cwd(), "data", "preview"),
   );
   const [manifestRaw, universitiesRaw] = await Promise.all([

@@ -33,6 +33,7 @@ export interface PathOSDataSource {
 
   /** Lazy program-membership index for major pages; not a strength ranking. */
   getProgramCatalog?(signal?: AbortSignal): Promise<UniversitySummary[]>;
+  getProgramSchools?(program: string, signal?: AbortSignal): Promise<UniversitySummary[]>;
   getProgramOptions?(query?: string, signal?: AbortSignal): Promise<ProgramOption[]>;
 
   /** Full detail (programs / people / sources). Lazy-loaded per click. */

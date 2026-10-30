@@ -288,6 +288,9 @@ export class PreviewApiDataSource implements PathOSDataSource {
   getProgramCatalog(signal?: AbortSignal) {
     return fetchCachedPreviewJson(buildUrl(this.baseUrl, "program-catalog"), parseUniversitySummaryList, signal, this.timeoutMs);
   }
+  getProgramSchools(program: string, signal?: AbortSignal) {
+    return fetchCachedPreviewJson(buildUrl(this.baseUrl, "program-schools", { q: program }), parseUniversitySummaryList, signal, this.timeoutMs);
+  }
   getProgramOptions(query = "", signal?: AbortSignal) {
     return fetchCachedPreviewJson(buildUrl(this.baseUrl, "program-options", { q: query }), parseProgramOptions, signal, this.timeoutMs);
   }

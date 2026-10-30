@@ -103,7 +103,9 @@ export interface GuidePreview {
     careers?: string;
   };
 
-  // Truncated prose (first ~140 chars) for surfaces that want a sentence teaser
+  // Truncated prose (first ~140 chars) for surfaces that want a sentence teaser.
+  // This may come from a reviewed student-feedback section or an explicitly
+  // labelled official student-experience summary; it must never be inferred.
   studentFeedbackSnippet?: string;
 }
 
@@ -320,6 +322,18 @@ export function parsePrograms(text: string | undefined, maxCount = 8): ProgramEn
     if (out.length > 0) return out;
   }
 
+  // Chinese-first catalog format: "生物学（Biological Science, BS）".
+  const zhFirst = /([\u4e00-\u9fff][^\n；;]{1,30})\s*[（(]([A-Z][^）)]{2,70})[）)]/g;
+  let zhMatch: RegExpExecArray | null;
+  while ((zhMatch = zhFirst.exec(text)) !== null) {
+    const nameZh = zhMatch[1].trim();
+    const name = stripDegreeAnnotations(zhMatch[2].split(/,\s*(?=[A-Z]?B\.?)/)[0].trim());
+    if (name && nameZh && !isCollegeHeader(nameZh) && name.length >= 2) {
+      out.push({ name, nameZh });
+      if (out.length >= maxCount) return out;
+    }
+  }
+
   // Fallback: scan for English→Chinese transitions in the raw text.
   const re = /([A-Z][A-Za-z][\w\s&/().,'+:-]{2,60}?)([\u4e00-\u9fff][\u4e00-\u9fff\s()\uFF08\uFF09\u3001\u300A\u300B\u201C\u201D\u2018\u2019\u00B7\u30FB]{2,30})/g;
   let m: RegExpExecArray | null;
@@ -368,7 +382,7 @@ function detectAcademicSystem(text: string): string | undefined {
 }
 
 export interface ExtractInput {
-  structured?: Record<string, string | number | string[]>;
+  structured?: Record<string, string | number | string[] | Record<string, unknown>>;
   sections?: SectionLike[];
 }
 
@@ -388,6 +402,15 @@ export function extractGuidePreview(input: ExtractInput): GuidePreview {
   if (typeof structured.founded === "string") {
     out.founded = structured.founded;
   }
+  if (typeof structured.schoolType === "string") {
+    out.schoolType = structured.schoolType;
+  }
+  if (typeof structured.campusSize === "string") {
+    out.campusSize = structured.campusSize;
+  }
+  if (typeof structured.climate === "string") {
+    out.climate = summarize(structured.climate, 80);
+  }
   if (typeof structured.location === "string") {
     out.location = summarize(structured.location, 100);
   }
@@ -396,11 +419,34 @@ export function extractGuidePreview(input: ExtractInput): GuidePreview {
   } else if (typeof structured.undergraduateStudents === "string") {
     out.undergraduateStudents = parseIntLoose(structured.undergraduateStudents);
   }
+  if (typeof structured.graduateStudents === "number") {
+    out.graduateStudents = structured.graduateStudents;
+  } else if (typeof structured.graduateStudents === "string") {
+    out.graduateStudents = parseIntLoose(structured.graduateStudents);
+  }
+  if (typeof structured.studentFacultyRatio === "string") {
+    out.studentFacultyRatio = structured.studentFacultyRatio;
+  }
   if (typeof structured.freshmanRetentionRate === "string") {
     out.freshmanRetentionRate = structured.freshmanRetentionRate;
   }
+  if (typeof structured.graduationRate4Yr === "string") {
+    out.graduationRate4Yr = structured.graduationRate4Yr;
+  }
+  if (typeof structured.graduationRate6Yr === "string") {
+    out.graduationRate6Yr = structured.graduationRate6Yr;
+  }
   if (typeof structured.acceptanceRatePercent === "number") {
     out.acceptanceRatePercent = structured.acceptanceRatePercent;
+  }
+  if (structured.classSize && typeof structured.classSize === "object" && !Array.isArray(structured.classSize)) {
+    const classSize = structured.classSize as Record<string, unknown>;
+    const under20 = typeof classSize.under20 === "string" ? classSize.under20 : undefined;
+    const under50 = typeof classSize.under50 === "string" ? classSize.under50 : undefined;
+    const over50 = typeof classSize.over50 === "string" ? classSize.over50 : undefined;
+    if (under20 && under50 && over50) {
+      out.classSize = { under20, under50, over50 };
+    }
   }
   if (typeof structured.deadlines === "string") {
     out.applicationDeadlines = structured.deadlines;
@@ -514,21 +560,34 @@ export function extractGuidePreview(input: ExtractInput): GuidePreview {
     const fallback = pickCurriculumSummary(intro.text);
     if (fallback) out.curriculumSummary = fallback;
   }
-    const strong = findRowValue(intro.text, ["优势专业"]);
+    const strong = typeof structured.strongPrograms === "string"
+      ? structured.strongPrograms
+      : findRowValue(intro.text, ["优势专业", "专业优势"]);
     if (strong) out.strongPrograms = strong;
-    const culture = findRowValue(intro.text, ["学术氛围"]);
+    const culture = typeof structured.academicCulture === "string"
+      ? structured.academicCulture
+      : findRowValue(intro.text, ["学术氛围"]);
     if (culture) out.academicCulture = summarize(culture, 100);
+    const structuredFactors = typeof structured.selectionFactors === "string"
+      ? structured.selectionFactors
+      : undefined;
+    if (structuredFactors) out.selectionFactors = summarize(structuredFactors, 120);
     // Resource URLs — findRowValue returns the value text; firstUrl pulls out the first URL.
     const research = findRowValue(intro.text, ["本科科研"]);
     if (research && firstUrl(research)) out.resourceUrls = { ...(out.resourceUrls ?? {}), research: firstUrl(research)! };
+    if (typeof structured.researchUrl === "string") out.resourceUrls = { ...(out.resourceUrls ?? {}), research: structured.researchUrl };
     const activities = findRowValue(intro.text, ["课外活动"]);
     if (activities && firstUrl(activities)) out.resourceUrls = { ...(out.resourceUrls ?? {}), activities: firstUrl(activities)! };
+    if (typeof structured.activitiesUrl === "string") out.resourceUrls = { ...(out.resourceUrls ?? {}), activities: structured.activitiesUrl };
     const athletics = findRowValue(intro.text, ["运动"]);
     if (athletics && firstUrl(athletics)) out.resourceUrls = { ...(out.resourceUrls ?? {}), athletics: firstUrl(athletics)! };
+    if (typeof structured.athleticsUrl === "string") out.resourceUrls = { ...(out.resourceUrls ?? {}), athletics: structured.athleticsUrl };
     const exchange = findRowValue(intro.text, ["交换项目"]);
     if (exchange && firstUrl(exchange)) out.resourceUrls = { ...(out.resourceUrls ?? {}), exchange: firstUrl(exchange)! };
+    if (typeof structured.exchangeUrl === "string") out.resourceUrls = { ...(out.resourceUrls ?? {}), exchange: structured.exchangeUrl };
     const careers = findRowValue(intro.text, ["实习/就业", "就业"]);
     if (careers && firstUrl(careers)) out.resourceUrls = { ...(out.resourceUrls ?? {}), careers: firstUrl(careers)! };
+    if (typeof structured.careersUrl === "string") out.resourceUrls = { ...(out.resourceUrls ?? {}), careers: structured.careersUrl };
   }
 
   // 费用 → tuition breakdown
@@ -624,9 +683,12 @@ export function extractGuidePreview(input: ExtractInput): GuidePreview {
   }
 
   // 录取考量因素 → selectionFactors
-  const factors = sections.find((s) => s.title === "录取考量因素");
+  const factors = sections.find((s) => s.title === "录取考量因素" || /录取.*(考量|考虑).*因素/.test(s.title))
+    ?? sections.find((s) => /录取.*(考量|考虑).*因素/.test(s.text))
+    ?? sections.find((s) => /录取标准/.test(s.text));
   if (factors) {
-    out.selectionFactors = summarize(factors.text.replace(/：$/, ""), 120);
+    const factorText = factors.text.match(/(?:录取标准|录取.*?(?:考量|考虑).*?因素)\s*[：:]?\s*([\s\S]+)/)?.[1] ?? factors.text;
+    out.selectionFactors = summarize(factorText.replace(/：$/, ""), 120);
   }
 
   // P0-1: 本科专业设置 — now we DO extract programs from the docx section.
@@ -634,8 +696,15 @@ export function extractGuidePreview(input: ExtractInput): GuidePreview {
   // UCLA format) or with " - " (Princeton / Stanford format); parsePrograms
   // handles both. We surface the first 8 here so map cards and profile
   // panels show real program names instead of "专业数据补充中".
-  const programsSection = sections.find((s) => s.title === "本科专业设置");
-  if (programsSection) {
+  const structuredPrograms = typeof structured.programs === "string"
+    ? parsePrograms(structured.programs, 8)
+    : [];
+  const programsSection = sections.find((s) => s.title === "本科专业设置")
+    ?? sections.find((s) => /专业设置/.test(s.title))
+    ?? sections.find((s) => /本科学院\s*[&＆]\s*专业设置|本科专业设置/.test(s.text));
+  if (structuredPrograms.length > 0) {
+    out.programs = structuredPrograms;
+  } else if (programsSection) {
     const programs = parsePrograms(programsSection.text, 8);
     if (programs.length > 0) out.programs = programs;
   }
@@ -644,6 +713,8 @@ export function extractGuidePreview(input: ExtractInput): GuidePreview {
   const feedback = sections.find((s) => s.title === "学生反馈");
   if (feedback) {
     out.studentFeedbackSnippet = summarize(feedback.text, 140);
+  } else if (typeof structured.studentExperienceSummary === "string") {
+    out.studentFeedbackSnippet = summarize(structured.studentExperienceSummary, 140);
   }
 
   out.hasData =

@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { ArrowLeft, ArrowUpRight, BookOpen } from "lucide-react";
-import { useProgramCatalog, useUniversityDetail } from "@/hooks/use-data-source";
+import { useProgramSchools, useUniversityDetail } from "@/hooks/use-data-source";
 import { useDataSource } from "@/services/data-source-provider";
 import { normalizeProgramName, programDefinition } from "@/lib/university-programs";
 import { fipsFromAbbr } from "@/config/states.config";
@@ -13,7 +13,7 @@ export default function ProgramExplorer() {
   const name = params.get("name")?.slice(0, 240) ?? "";
   const universityId = params.get("universityId");
   const source = useDataSource();
-  const catalog = useProgramCatalog(source);
+  const catalog = useProgramSchools(source, name);
   const school = useUniversityDetail(source, universityId);
   const detail = school.state.status === "ready" ? school.state.data : null;
   const definition = programDefinition(name);

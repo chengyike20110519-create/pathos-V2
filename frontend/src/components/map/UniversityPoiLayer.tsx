@@ -34,12 +34,12 @@
 
 import { useCallback, useEffect, useMemo, useRef } from "react";
 import type { Feature, FeatureCollection, Point } from "geojson";
-import maplibregl from "maplibre-gl";
+import * as maplibregl from "maplibre-gl";
 import { useMapContext } from "./MapCanvas";
 import type { UniversityPOI, RankingTier, ChineseCommunityLevel } from "@/lib/types";
 import type { UniversitySummary } from "@/domain/dataset";
 import { pickAbbreviation } from "@/lib/abbreviation";
-import { groupProjectedSchools } from "@/lib/map-school-groups";
+import { clusterRadiusForZoom, groupProjectedSchools } from "@/lib/map-school-groups";
 import { getSchoolNamePair } from "@/lib/school-name";
 
 const SOURCE_ID = "pathos-universities";
@@ -567,6 +567,7 @@ export function UniversityPoiLayer({
     const map = mapContext?.map;
     if (!map) return;
     let groupedIds: string[] = [];
+    let renderFrame: number | null = null;
     const applyGroupingFilter = () => {
       const filter = ["!", ["in", ["get", "id"], ["literal", groupedIds]]] as maplibregl.FilterSpecification;
       for (const layer of [HALO_LAYER_ID, POINT_LAYER_ID, HOVER_LAYER_ID, LABEL_LAYER_ID]) {
@@ -582,7 +583,7 @@ export function UniversityPoiLayer({
       return point.x < -40 || point.x > width + 40 || point.y < -40 || point.y > height + 40 ? [] :
         [{ id: feature.properties.id, x: point.x, y: point.y, feature }];
     });
-    const groups = groupProjectedSchools(projected, 30, selectedIdRef.current);
+    const groups = groupProjectedSchools(projected, clusterRadiusForZoom(map.getZoom()), selectedIdRef.current);
     groupedIds = groups.filter((group) => group.members.length > 1).flatMap((group) => group.members.map((member) => member.id));
     for (const group of groups) {
       if (group.members.length > 1) {
@@ -591,14 +592,30 @@ export function UniversityPoiLayer({
         el.dataset.clusterCount = String(group.members.length);
         el.dataset.clusterMembers = JSON.stringify(group.members.map((member) => member.id));
         el.setAttribute("aria-label", `附近 ${group.members.length} 所大学，查看学校列表`);
-        el.title = `附近 ${group.members.length} 所大学 · 点击查看学校列表`;
-        el.textContent = String(group.members.length);
+        el.title = `附近 ${group.members.length} 所大学 · 放大并点击查看学校列表`;
+        el.textContent = group.members.length > 99 ? "99+" : String(group.members.length);
         el.style.cssText = "width:40px;height:40px;border:3px solid #fffaf1;border-radius:50%;background:#315d9f;color:white;font-size:13px;font-weight:700;box-shadow:0 0 0 4px #315d9f33,0 2px 8px #0005;cursor:pointer;z-index:3";
         el.addEventListener("click", (event) => {
           event.stopPropagation();
           onHoverRef.current?.(null);
-          if (onClusterSelectRef.current) onClusterSelectRef.current(group.members.map((member) => member.id));
-          else map.flyTo({ center: map.unproject([group.x, group.y]), zoom: Math.min(map.getZoom() + 2, 18) });
+          // Zoom to the actual schools in this group instead of applying a
+          // fixed zoom step. A fixed step can leave nearby schools stacked;
+          // fitBounds makes the next state legible while the list remains the
+          // deterministic selection path for keyboard and touch users.
+          const bounds = new maplibregl.LngLatBounds();
+          for (const member of group.members) {
+            bounds.extend(member.feature.geometry.coordinates as [number, number]);
+          }
+          if (!bounds.isEmpty()) {
+            map.fitBounds(bounds, {
+              padding: { top: 96, right: 96, bottom: 128, left: 96 },
+              maxZoom: 10,
+              duration: 350,
+            });
+          } else {
+            map.flyTo({ center: map.unproject([group.x, group.y]), duration: 350 });
+          }
+          onClusterSelectRef.current?.(group.members.map((member) => member.id));
         });
         fallbackMarkersRef.current.push(new maplibregl.Marker({ element: el, anchor: "center" }).setLngLat(map.unproject([group.x, group.y])).addTo(map));
         continue;
@@ -641,14 +658,27 @@ export function UniversityPoiLayer({
     }
     applyGroupingFilter();
     };
+    const scheduleRender = () => {
+      if (renderFrame !== null) return;
+      renderFrame = requestAnimationFrame(() => {
+        renderFrame = null;
+        render();
+      });
+    };
     render();
-    map.on("moveend", render);
-    map.on("resize", render);
+    map.on("moveend", scheduleRender);
+    map.on("resize", scheduleRender);
+    // Style changes can emit several `styledata` events. DOM markers are
+    // independent of the MapLibre style and do not need to be recreated here;
+    // only the GPU layer filter needs to be re-applied. Rebuilding markers on
+    // every style event creates a detach/recreate loop and makes clusters
+    // impossible to click reliably while the basemap is settling.
     map.on("styledata", applyGroupingFilter);
     return () => {
-      map.off("moveend", render);
-      map.off("resize", render);
+      map.off("moveend", scheduleRender);
+      map.off("resize", scheduleRender);
       map.off("styledata", applyGroupingFilter);
+      if (renderFrame !== null) cancelAnimationFrame(renderFrame);
       for (const marker of fallbackMarkersRef.current) marker.remove();
       fallbackMarkersRef.current = [];
     };

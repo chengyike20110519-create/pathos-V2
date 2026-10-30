@@ -70,14 +70,28 @@ export function readAllSearchParams(): Record<string, string> {
  * Pass `null` or `""` to delete the key.
  */
 export function updateSearchParam(key: string, value: string | null): void {
+  updateSearchParams({ [key]: value });
+}
+
+/**
+ * Update several query params in one history transaction.
+ *
+ * This matters for map filter reset: writing `program` and `state` in two
+ * separate replaceState/popstate cycles lets a concurrent view-state sync
+ * observe the half-cleared URL and restore one stale filter.
+ */
+export function updateSearchParams(updates: Record<string, string | null>): void {
   if (typeof window === "undefined") return;
-  if (!key) return;
+  const entries = Object.entries(updates).filter(([key]) => !!key);
+  if (entries.length === 0) return;
 
   const url = new URL(window.location.href);
-  if (value === null || value === "") {
-    url.searchParams.delete(key);
-  } else {
-    url.searchParams.set(key, value);
+  for (const [key, value] of entries) {
+    if (value === null || value === "") {
+      url.searchParams.delete(key);
+    } else {
+      url.searchParams.set(key, value);
+    }
   }
 
   const next = url.pathname + (url.search ? url.search : "") + url.hash;

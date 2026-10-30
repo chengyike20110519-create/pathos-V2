@@ -28,8 +28,10 @@ export function UniversityPrograms({ detail, variant = "full", onViewAll }: { de
     }
   }
 
-  if (variant === "preview") return <section className={styles.programPreview} aria-label="专业亮点">
-    <div className={styles.sectionHeading}><h3 className={styles.sectionTitle}>值得关注的专业</h3><button type="button" onClick={onViewAll} className={styles.textButton}>全部 {names.length} 项<ChevronRight size={14} aria-hidden="true" /></button></div>
+  const previewHeading = strengths.length > 0 ? "值得关注的专业" : distinctive.length > 0 ? "学校特色专业" : "专业目录";
+  const previewNote = strengths.length > 0 ? "含已核验的专业排名或学校特色项目" : distinctive.length > 0 ? "基于学校官方项目介绍，未标注为排名优势" : "查看学校已收录的专业目录";
+  if (variant === "preview") return <section className={styles.programPreview} aria-label={previewHeading}>
+    <div className={styles.sectionHeading}><div><h3 className={styles.sectionTitle}>{previewHeading}</h3><p className={styles.catalogNote}>{previewNote}</p></div><button type="button" onClick={onViewAll} className={styles.textButton}>全部 {names.length} 项<ChevronRight size={14} aria-hidden="true" /></button></div>
     {preview.length > 0 ? <div className={styles.previewList}>{preview.map((program) => <Spotlight key={program.name} program={program} universityId={detail.id} compact />)}</div> : <p className={styles.bodyCopy}>专业亮点尚待补充，可先浏览学校已收录的专业目录。</p>}
     <button type="button" onClick={onViewAll} className={styles.exploreButton}><span><strong>找到适合你的专业</strong><small>浏览完整目录，了解专业与相关院校</small></span><ArrowRight size={18} aria-hidden="true" /></button>
   </section>;
@@ -57,7 +59,10 @@ export function UniversityPrograms({ detail, variant = "full", onViewAll }: { de
 function Spotlight({ program, universityId, compact = false }: { program: ProgramSpotlight; universityId: string; compact?: boolean }) {
   const strength = program.kind === "strength";
   return <article className={`${styles.spotlight} ${compact ? styles.compactSpotlight : ""}`}>
-    <Link prefetch={false} href={programExploreHref(program.name, universityId)} className={styles.spotlightLink}>
+    {/* Spotlight links are the high-intent path from the school card, so let
+        Next warm the explorer route before the user clicks. The full catalog
+        below remains opt-in to avoid prefetching dozens of destinations. */}
+    <Link href={programExploreHref(program.name, universityId)} className={styles.spotlightLink}>
       <div className={styles.spotlightMeta}><span className={strength ? styles.strengthLabel : styles.distinctiveLabel}>{strength ? "优势专业" : "特色项目"}</span>{strength && <span>{program.rankingYear} · {program.tied ? "并列 " : ""}#{program.rank}</span>}</div>
       <div className={styles.spotlightTitle}><h4>{program.nameZh || program.name}</h4><ArrowUpRight size={16} aria-hidden="true" /></div>
       {!compact && program.nameZh && <p lang="en" className={styles.spotlightEnglish}>{program.name}</p>}

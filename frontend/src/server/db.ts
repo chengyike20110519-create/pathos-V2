@@ -15,7 +15,11 @@ export function getPool(): Pool {
     // application pool avoids exhausting the free-tier connection budget;
     // the explicit env override remains available for a larger deployment.
     max: Number(process.env.PATHOS_DB_POOL_MAX ?? (/pgbouncer=true|pooler\.supabase\.com:6543/.test(connStr) ? 5 : 10)),
-    idleTimeoutMillis: Number(process.env.PATHOS_DB_IDLE_TIMEOUT_MS ?? 60_000),
+    // Keep one reusable application-side connection for the map/detail
+    // workload. This avoids reopening a cold Supabase pooler connection
+    // between nearby school-card requests while remaining tiny on free tier.
+    min: Number(process.env.PATHOS_DB_POOL_MIN ?? 1),
+    idleTimeoutMillis: Number(process.env.PATHOS_DB_IDLE_TIMEOUT_MS ?? 300_000),
     connectionTimeoutMillis: Number(process.env.PATHOS_DB_CONNECT_TIMEOUT_MS ?? 10_000),
     maxUses: Number(process.env.PATHOS_DB_MAX_USES ?? 5000),
     keepAlive: true,

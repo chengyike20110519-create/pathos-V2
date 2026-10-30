@@ -1,5 +1,10 @@
 ﻿import { NextResponse } from "next/server";
 
+// This endpoint proxies a live external page and keeps a short in-process
+// cache. It must never be prerendered during `next build`, otherwise the
+// build waits on the remote site and can hit Next's 60-second page timeout.
+export const dynamic = "force-dynamic";
+
 const XUANXIAO_URL = "https://xuanxiao.org/universities";
 
 interface XuanxiaoUni {

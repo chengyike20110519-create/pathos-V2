@@ -6,15 +6,16 @@ import PageMotion from "@/components/shared/PageMotion";
 import { findAnswerCardDefinition } from "@/domain/information/answer-card";
 import { getAnswerCard } from "@/server/information/answer-card-service";
 
-type PageProps = { params: { slug: string } };
+type PageProps = { params: Promise<{ slug: string }> };
 
 const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL ?? "https://personal-os-zu9q.onrender.com").trim();
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 
-export function generateMetadata({ params }: PageProps): Metadata {
-  const definition = findAnswerCardDefinition(params.slug);
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const definition = findAnswerCardDefinition(slug);
   if (!definition) return { title: "主题未找到", robots: { index: false, follow: false } };
   const url = SITE_URL + "/topics/" + definition.slug;
   return {
@@ -36,7 +37,8 @@ export function generateMetadata({ params }: PageProps): Metadata {
 }
 
 export default async function TopicAnswerCardPage({ params }: PageProps) {
-  const card = await getAnswerCard(params.slug);
+  const { slug } = await params;
+  const card = await getAnswerCard(slug);
   if (!card) notFound();
   return (
     <PageMotion>

@@ -1,6 +1,6 @@
 "use client";
 import { useCallback, useEffect, useRef } from "react";
-import maplibregl from "maplibre-gl";
+import * as maplibregl from "maplibre-gl";
 import type { MetricId } from "@/lib/types";
 import { METRIC_DEFINITIONS } from "@/config/metrics.config";
 import { useMapContext } from "./MapCanvas";

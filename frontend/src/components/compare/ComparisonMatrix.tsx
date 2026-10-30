@@ -115,7 +115,6 @@ function CellValue({ cell }: { cell: ComparisonCell }) {
 export default function ComparisonMatrix() {
   const searchParams = useSearchParams();
   const dataSource = useDataSource();
-  const summaries = useUniversitySummaries(dataSource);
   const compareStore = useCompareStore();
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [pickerOpen, setPickerOpen] = useState(false);
@@ -124,22 +123,25 @@ export default function ComparisonMatrix() {
   const [factsState, setFactsState] = useState<FactsState>({ kind: "idle" });
   const initialized = useRef(false);
   const userChangedSelection = useRef(false);
+  const initialUrlIds = useMemo(
+    () => parseIds(searchParams.get("ids") ?? searchParams.getAll("compare").join(",") ?? ""),
+    [searchParams],
+  );
+  const loadSummaries = pickerOpen || initialUrlIds.length > 0 || compareStore.hydrated;
+  const summaries = useUniversitySummaries(dataSource, undefined, { skip: !loadSummaries });
 
   useEffect(() => {
     if (userChangedSelection.current) return;
     if (initialized.current) return;
     if (typeof window === "undefined") return;
-    const urlIds = parseIds(
-      searchParams.get("ids") ?? searchParams.getAll("compare").join(",") ?? "",
-    );
-    if (urlIds.length > 0) {
-      setSelectedIds(urlIds);
+    if (initialUrlIds.length > 0) {
+      setSelectedIds(initialUrlIds);
       initialized.current = true;
     } else if (compareStore.hydrated && compareStore.ids.length > 0) {
       setSelectedIds(compareStore.ids.slice(0, MAX_COMPARE));
       initialized.current = true;
     }
-  }, [compareStore.hydrated, compareStore.ids, searchParams]);
+  }, [compareStore.hydrated, compareStore.ids, initialUrlIds]);
 
   useEffect(() => {
     const params = new URLSearchParams();
@@ -268,6 +270,7 @@ export default function ComparisonMatrix() {
             <>
               <button
                 type="button"
+                data-testid="compare-add-school"
                 onClick={() => setPickerOpen(true)}
                 disabled={selected.length >= MAX_COMPARE}
                 className="inline-flex h-control items-center gap-1.5 rounded-none bg-[#bd5a3e] px-3 text-xs font-semibold text-white transition hover:bg-[#dd8568] disabled:cursor-not-allowed disabled:opacity-50"
@@ -353,6 +356,7 @@ export default function ComparisonMatrix() {
             </p>
             <button
               type="button"
+              data-testid="compare-empty-add-school"
               onClick={() => setPickerOpen(true)}
               className="mt-4 inline-flex h-control items-center gap-1.5 rounded-control bg-cobalt px-3 text-xs font-semibold text-paper"
             >
@@ -457,12 +461,14 @@ export default function ComparisonMatrix() {
 
         {pickerOpen && (
           <SchoolPicker
+            dataTestId="compare-school-picker"
             open={pickerOpen}
             onClose={() => setPickerOpen(false)}
             candidates={schools}
             selectedIds={selectedIds}
             max={MAX_COMPARE}
             onPick={addSchool}
+            loading={summaries.state.status === "loading"}
             storageKey="pathos-compare-2"
           />
         )}

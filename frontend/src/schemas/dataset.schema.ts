@@ -29,6 +29,8 @@ import type {
   SourceReference,
   StatusDictionaryMap,
   UniversityDetail,
+  UniversitySharedContent,
+  ConfirmedFact,
   UniversityQuery,
   UniversitySearchResult,
   UniversitySummary,
@@ -520,6 +522,25 @@ export function parseUniversityDetail(raw: unknown): UniversityDetail {
         }];
       })
     : [];
+  const sharedContent = parseSharedContent(o.sharedContent);
+  const confirmedFacts: ConfirmedFact[] = Array.isArray(o.confirmedFacts)
+    ? (o.confirmedFacts as unknown[]).flatMap((item): ConfirmedFact[] => {
+        if (!item || typeof item !== "object") return [];
+        const fact = item as Record<string, unknown>;
+        if (typeof fact.universityId !== "string" || typeof fact.factType !== "string" ||
+          !fact.fact || typeof fact.fact !== "object" || Array.isArray(fact.fact) ||
+          typeof fact.status !== "string" || typeof fact.sourceUrl !== "string" ||
+          typeof fact.confirmedOn !== "string") return [];
+        return [{
+          universityId: fact.universityId,
+          factType: fact.factType,
+          fact: fact.fact as Record<string, unknown>,
+          status: fact.status,
+          sourceUrl: fact.sourceUrl,
+          confirmedOn: fact.confirmedOn,
+        }];
+      })
+    : [];
   return {
     ...base,
     programs,
@@ -539,7 +560,32 @@ export function parseUniversityDetail(raw: unknown): UniversityDetail {
     officialResearch: parseOfficialResearch(o.officialResearch),
     programSpotlights: parseProgramSpotlights(o.programSpotlights),
     campusImages,
+    ...(sharedContent ? { sharedContent } : {}),
+    ...(confirmedFacts.length > 0 ? { confirmedFacts } : {}),
     previewMetadata: parsePreviewMetadata(o.previewMetadata),
+  };
+}
+
+function parseSharedContent(raw: unknown): UniversitySharedContent | undefined {
+  if (!raw || typeof raw !== "object") return undefined;
+  const value = raw as Record<string, unknown>;
+  const overviewStatus = ["reviewed", "pending", "rejected"].includes(String(value.overviewStatus))
+    ? value.overviewStatus as UniversitySharedContent["overviewStatus"]
+    : "pending";
+  const mottoStatus = ["confirmed", "candidate", "pending", "rejected"].includes(String(value.mottoStatus))
+    ? value.mottoStatus as UniversitySharedContent["mottoStatus"]
+    : "pending";
+  return {
+    overviewZh: typeof value.overviewZh === "string" ? value.overviewZh : null,
+    overviewStatus,
+    motto: typeof value.motto === "string" ? value.motto : null,
+    mottoZh: typeof value.mottoZh === "string" ? value.mottoZh : null,
+    mottoStatus,
+    mottoSourceUrl: typeof value.mottoSourceUrl === "string" ? value.mottoSourceUrl : null,
+    mottoSourceType: typeof value.mottoSourceType === "string" ? value.mottoSourceType : null,
+    mottoCheckedOn: typeof value.mottoCheckedOn === "string" ? value.mottoCheckedOn : null,
+    programSpotlights: Array.isArray(value.programSpotlights) ? value.programSpotlights : [],
+    sourceRefs: Array.isArray(value.sourceRefs) ? value.sourceRefs : [],
   };
 }
 

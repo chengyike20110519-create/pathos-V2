@@ -8,10 +8,11 @@ import { UniversityDetailView } from "@/components/university/UniversityDetailVi
 
 export const dynamic = "force-dynamic";
 
-export default function UniversityDetailPage({
+export default async function UniversityDetailPage({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }) {
-  return <UniversityDetailView id={params.id} />;
+  const { id } = await params;
+  return <UniversityDetailView id={id} />;
 }

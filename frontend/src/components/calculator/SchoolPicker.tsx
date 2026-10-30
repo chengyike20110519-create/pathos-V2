@@ -24,6 +24,10 @@ export interface SchoolPickerProps {
   storageKey?: string;
   /** Context-specific dialog heading. */
   title?: string;
+  /** Show a loading state while candidates are being fetched on demand. */
+  loading?: boolean;
+  /** Stable hook for context-specific browser and accessibility checks. */
+  dataTestId?: string;
 }
 
 interface RowProps {
@@ -103,6 +107,8 @@ export function SchoolPicker({
   onPick,
   storageKey,
   title = "选择大学加入对比",
+  loading = false,
+  dataTestId,
 }: SchoolPickerProps) {
   const headingId = useId();
   const inputRef = useRef<HTMLInputElement | null>(null);
@@ -218,6 +224,7 @@ export function SchoolPicker({
   return (
     <div
       role="dialog"
+      data-testid={dataTestId}
       aria-modal="true"
       aria-labelledby={headingId}
       className="fixed inset-0 z-[80] flex items-end md:items-center justify-center bg-ink/40 backdrop-blur-sm"
@@ -280,7 +287,12 @@ export function SchoolPicker({
               已达到 {max} 所上限。请先移除已选项再添加。
             </div>
           )}
-          {filtered.length === 0 ? (
+          {loading ? (
+            <div className="flex h-32 flex-col items-center justify-center text-center text-[12px] text-ink/45">
+              <span className="mb-2 h-5 w-5 animate-spin rounded-full border-2 border-ink/15 border-t-cobalt" aria-hidden="true" />
+              <p>正在读取大学列表…</p>
+            </div>
+          ) : filtered.length === 0 ? (
             <div className="flex h-32 flex-col items-center justify-center text-center text-[12px] text-ink/45">
               <Search size={20} className="mb-1.5 text-ink/30" aria-hidden="true" />
               <p>未找到匹配的大学</p>
