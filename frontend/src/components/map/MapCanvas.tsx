@@ -547,11 +547,11 @@ export function MapCanvas({
         (msg.includes("AJAXError") && msg.includes("Failed to fetch"));
       if (isBasemapTileError) {
         tileFailureCountRef.current += 1;
-        // A public raster provider may reject individual edge/zoom tiles.
-        // If the map style is already ready, those failures must remain
-        // non-blocking; the user still has a working yellow basemap and
-        // school interactions. Only pre-ready failures can trigger recovery.
-        if (mapReadyRef.current) return;
+        // A public raster provider may reject an individual edge/zoom tile.
+        // Keep those isolated failures non-blocking, but do not discard the
+        // signal after the style becomes interactive: when several tiles
+        // fail, the visible basemap can still be incomplete and the user
+        // needs an explicit recovery action.
         if (tileFailureCountRef.current >= 3) {
           if (!fallbackBasemapUsedRef.current) {
             fallbackBasemapUsedRef.current = true;
