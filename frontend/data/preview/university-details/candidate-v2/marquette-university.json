@@ -887,7 +887,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": ["official-marquette-cds-2025-26-outcomes"],
+      "sourceIds": [
+        "official-marquette-cds-2025-26-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.79,
@@ -899,7 +901,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": ["official-marquette-cds-2025-26-outcomes"],
+      "sourceIds": [
+        "official-marquette-cds-2025-26-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.93,

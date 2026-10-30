@@ -1348,7 +1348,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": ["official-ub-cds-2025-26-outcomes"],
+      "sourceIds": [
+        "official-ub-cds-2025-26-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.728,
@@ -1360,7 +1362,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": ["official-ub-cds-2025-26-outcomes"],
+      "sourceIds": [
+        "official-ub-cds-2025-26-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.85,

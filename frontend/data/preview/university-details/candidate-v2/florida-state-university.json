@@ -2031,7 +2031,9 @@
       "nullReason": null,
       "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": ["official-fsu-pocket-fact-book-2024-25-outcomes"],
+      "sourceIds": [
+        "official-fsu-pocket-fact-book-2024-25-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.856,
@@ -2043,7 +2045,9 @@
       "nullReason": null,
       "referenceYear": 2018,
       "scope": "four_year_institution",
-      "sourceIds": ["official-fsu-pocket-fact-book-2024-25-outcomes"],
+      "sourceIds": [
+        "official-fsu-pocket-fact-book-2024-25-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.865,

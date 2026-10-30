@@ -712,7 +712,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "institution",
-      "sourceIds": ["official-wm-student-achievement-outcomes"],
+      "sourceIds": [
+        "official-wm-student-achievement-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.88,
@@ -724,7 +726,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": ["official-wm-student-achievement-outcomes"],
+      "sourceIds": [
+        "official-wm-student-achievement-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.93,

@@ -1327,7 +1327,9 @@
       "nullReason": null,
       "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": ["official-uconn-cds-2024-25-outcomes"],
+      "sourceIds": [
+        "official-uconn-cds-2024-25-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.83,
@@ -1339,7 +1341,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": ["official-uconn-cds-2024-25-outcomes"],
+      "sourceIds": [
+        "official-uconn-cds-2024-25-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.92,

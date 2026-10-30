@@ -1296,7 +1296,9 @@
       "nullReason": null,
       "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": ["official-tulane-heoa-2018-graduation-outcomes"],
+      "sourceIds": [
+        "official-tulane-heoa-2018-graduation-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.8614,
@@ -1308,7 +1310,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": ["official-tulane-oair-2019-retention"],
+      "sourceIds": [
+        "official-tulane-oair-2019-retention"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.92,

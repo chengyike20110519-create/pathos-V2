@@ -9278,6 +9278,32 @@
       "retrievedOn": "2026-10-30",
       "status": "verified",
       "scope": []
+    },
+    {
+      "publisher": "Official university admissions — www.scu.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-0fe66f6321407062ae10aeda",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.scu.edu/admission/undergraduate/international-students/undergraduate-english-proficiency/",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "publisher": "Official university admissions — admission.pepperdine.edu",
+      "referenceYear": 2026,
+      "scope": [
+        "english_language_policy"
+      ],
+      "sourceId": "confirmed-english-source-edd471445d64686c80adab8c",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admission.pepperdine.edu/apply/undergraduate/requirements/english-proficiency.htm",
+      "checkedOn": "2026-10-26",
+      "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     }
   ]
 }

@@ -997,7 +997,9 @@
       "nullReason": null,
       "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": ["official-gwu-self-study-outcomes"],
+      "sourceIds": [
+        "official-gwu-self-study-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.84,
@@ -1009,7 +1011,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": ["official-gwu-self-study-outcomes"],
+      "sourceIds": [
+        "official-gwu-self-study-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.88,

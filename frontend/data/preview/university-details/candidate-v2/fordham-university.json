@@ -833,7 +833,9 @@
       "nullReason": null,
       "referenceYear": 2018,
       "scope": "institution",
-      "sourceIds": ["official-fordham-2025-self-study-outcomes"],
+      "sourceIds": [
+        "official-fordham-2025-self-study-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.819,
@@ -845,7 +847,9 @@
       "nullReason": null,
       "referenceYear": 2019,
       "scope": "four_year_institution",
-      "sourceIds": ["official-fordham-2025-self-study-outcomes"],
+      "sourceIds": [
+        "official-fordham-2025-self-study-outcomes"
+      ],
       "status": "verified",
       "unit": "ratio",
       "value": 0.873,

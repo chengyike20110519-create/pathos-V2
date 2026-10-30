@@ -559,6 +559,18 @@
       "fact": "For international undergraduate applicants, the University of Florida catalog states that applicants whose native language is not English must submit official TOEFL or IELTS scores. The current catalog page does not publish a universal minimum score on the freshman admission section, so no numeric threshold is inferred here.",
       "status": "confirmed",
       "source": "https://catalog.ufl.edu/UGRD/admission/"
+    },
+    {
+      "universityId": "candidate-v2:santa-clara-university",
+      "fact": "Santa Clara requires international undergraduate applicants whose first language is not English to demonstrate proficiency. The official page lists IELTS 6.5, TOEFL iBT 90 before January 21, 2026 or 4.5 on the post-January 21, 2026 scale, and Duolingo English Test 120; qualifying SAT or ACT English scores and four years of English-medium secondary schooling are also accepted routes.",
+      "status": "confirmed",
+      "source": "https://www.scu.edu/admission/undergraduate/international-students/undergraduate-english-proficiency/"
+    },
+    {
+      "universityId": "candidate-v2:pepperdine-university",
+      "fact": "Pepperdine accepts several routes for international undergraduate English proficiency: SAT Evidence-Based Reading and Writing 600+, ACT Reading 24+, TOEFL iBT 85+, Cambridge C1/C2 186+, Duolingo English Test 120+, or IELTS 6.5+. It also lists qualifying English-medium schooling and coursework alternatives and does not accept TOEFL MyBest Scores.",
+      "status": "confirmed",
+      "source": "https://admission.pepperdine.edu/apply/undergraduate/requirements/english-proficiency.htm"
     }
   ]
 }
