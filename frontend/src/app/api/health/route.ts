@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { DatabaseNotConfiguredError, getPool } from "@/server/db";
+import { DatabaseNotConfiguredError, getPool, queryWithRetry } from "@/server/db";
 import { evaluateSchemaReadiness, type SchemaReadiness } from "@/lib/schema-version";
 
 export const dynamic = "force-dynamic";
@@ -37,9 +37,9 @@ export async function GET(): Promise<NextResponse> {
   try {
     const pool = getPool();
     const [uniCount, detailCount, manifestRow, schema] = await Promise.all([
-      pool.query<{ n: number }>("SELECT count(*)::int AS n FROM universities"),
-      pool.query<{ n: number }>("SELECT count(*)::int AS n FROM university_details"),
-      pool.query<{ updated_at: string }>("SELECT updated_at FROM manifest WHERE id = 1"),
+      queryWithRetry<{ n: number }>("SELECT count(*)::int AS n FROM universities"),
+      queryWithRetry<{ n: number }>("SELECT count(*)::int AS n FROM university_details"),
+      queryWithRetry<{ updated_at: string }>("SELECT updated_at FROM manifest WHERE id = 1"),
       readSchemaReadiness(pool),
     ]);
     // This route is Render's healthCheckPath, so it reports liveness

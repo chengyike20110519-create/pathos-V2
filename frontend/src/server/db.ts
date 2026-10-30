@@ -1,4 +1,5 @@
 import { Pool, type PoolClient } from "pg";
+import type { QueryConfig, QueryResult, QueryResultRow } from "pg";
 
 let _pool: Pool | null = null;
 
@@ -39,6 +40,33 @@ export function getPool(): Pool {
 export async function withClient<T>(fn: (c: PoolClient) => Promise<T>): Promise<T> {
   const client = await getPool().connect();
   try { return await fn(client); } finally { client.release(); }
+}
+
+/**
+ * Retries only transport-level failures. Supabase's shared pooler can briefly
+ * reset an idle connection or fail DNS resolution; retrying those failures
+ * keeps a transient network blip from becoming a user-visible 503 while
+ * never hiding SQL/schema errors.
+ */
+export async function queryWithRetry<T extends QueryResultRow = QueryResultRow>(
+  query: string | QueryConfig,
+  values?: readonly unknown[],
+  attempts = 3,
+): Promise<QueryResult<T>> {
+  let lastError: unknown;
+  for (let attempt = 0; attempt < attempts; attempt += 1) {
+    try {
+      return await getPool().query<T>(query, values as unknown[] | undefined);
+    } catch (error) {
+      lastError = error;
+      const code = typeof error === "object" && error !== null ? (error as { code?: string }).code : undefined;
+      const message = error instanceof Error ? error.message : String(error);
+      const transient = ["08", "53", "57", "ECONNRESET", "ECONNREFUSED", "ETIMEDOUT", "ENOTFOUND", "EAI_AGAIN"].some((prefix) => code?.startsWith(prefix) || code === prefix) || /connection (?:terminated|timeout)|timeout exceeded when trying to connect|connect ETIMEDOUT/i.test(message);
+      if (!transient || attempt === attempts - 1) throw error;
+      await new Promise((resolve) => setTimeout(resolve, 150 * (attempt + 1)));
+    }
+  }
+  throw lastError;
 }
 
 export class DatabaseNotConfiguredError extends Error {
