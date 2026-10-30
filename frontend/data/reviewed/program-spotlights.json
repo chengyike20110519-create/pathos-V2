@@ -157,8 +157,8 @@
     "universityId": "candidate-v2:texas-a-and-m-university",
     "spotlights": [
       {
-        "name": "Computer Science, BS",
-        "nameZh": "计算机科学（理学学士）",
+        "name": "Computer Science",
+        "nameZh": "计算机科学",
         "kind": "distinctive",
         "reason": "Texas A&M 官方本科目录说明该项目前期建立计算机科学核心基础，后期可从算法与理论、计算机系统、软件、信息与智能系统等方向选修，以形成兼具广度和深度的学习计划。这里展示的是官方培养方案事实，不代表外部排名结论。",
         "sourceUrl": "https://catalog.tamu.edu/undergraduate/engineering/computer-science/bs/",
@@ -658,12 +658,64 @@
     "universityId": "candidate-v2:arizona-state-university",
     "spotlights": [
       {
-        "name": "Computer Science, BS",
-        "nameZh": "计算机科学（理学学士）",
-        "kind": "distinctive",
-        "reason": "Arizona State University 官方项目页面将 Computer Science, BS 定义为兼顾理论与实践基础的本科项目，课程方向可延伸到软件工程和网络安全等路径；这里记录的是官方项目结构特色，不是外部排名结论。",
-        "sourceUrl": "https://degrees.asu.edu/bachelors/major/ASU00/ESCSEBS/computer-science",
-        "checkedOn": "2026-10-20"
+        "name": "Computer Science",
+        "nameZh": "计算机科学",
+        "kind": "strength",
+        "reason": "Arizona State University 官方工程学院排名页列出 2026 U.S. News 本科计算机科学第 52 名，同时官方项目页说明该项目覆盖理论、实践以及软件工程和网络安全等方向。",
+        "sourceUrl": "https://engineering.asu.edu/rankings/",
+        "checkedOn": "2026-10-30",
+        "rankingYear": 2026,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 52,
+        "tied": false,
+        "publishedOn": "2025-09-22"
+      },
+      {
+        "name": "Engineering",
+        "nameZh": "工程学",
+        "kind": "strength",
+        "reason": "ASU 官方工程学院排名页列出 2026 U.S. News 本科工程学项目第 32 名（公立第 18 名）。",
+        "sourceUrl": "https://engineering.asu.edu/rankings/",
+        "checkedOn": "2026-10-30",
+        "rankingYear": 2026,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 32,
+        "tied": false,
+        "publishedOn": "2025-09-22"
+      },
+      {
+        "name": "Electrical Engineering",
+        "nameZh": "电气工程",
+        "kind": "strength",
+        "reason": "ASU 官方工程学院排名页列出 2026 U.S. News 本科电气工程项目第 23 名（公立第 12 名）。",
+        "sourceUrl": "https://engineering.asu.edu/rankings/",
+        "checkedOn": "2026-10-30",
+        "rankingYear": 2026,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 23,
+        "tied": false,
+        "publishedOn": "2025-09-22"
+      },
+      {
+        "name": "Industrial Engineering",
+        "nameZh": "工业工程",
+        "kind": "strength",
+        "reason": "ASU 官方工程学院排名页列出 2026 U.S. News 本科工业/制造工程项目第 18 名（公立第 12 名）。",
+        "sourceUrl": "https://engineering.asu.edu/rankings/",
+        "checkedOn": "2026-10-30",
+        "rankingYear": 2026,
+        "educationLevel": "undergraduate",
+        "rankingPublisher": "U.S. News & World Report",
+        "rankingScope": "national_undergraduate_program",
+        "rank": 18,
+        "tied": false,
+        "publishedOn": "2025-09-22"
       }
     ],
     "supportingUrls": [
@@ -2307,5 +2359,33 @@
       "https://ga.rice.edu/undergraduate-students/academic-opportunities/majors-minors-certificates/",
       "https://ga.rice.edu/programs-study/departments-programs/engineering/computational-applied-mathematics-operations-research/computational-applied-mathematics-ba/"
     ]
+  },
+  {
+    "universityId": "candidate-v2:pepperdine-university",
+    "spotlights": [
+      {
+        "name": "Business Administration",
+        "nameZh": "工商管理",
+        "kind": "distinctive",
+        "reason": "Pepperdine Seaver College 官方本科项目页将 Business Administration 列为理学学士本科项目。",
+        "sourceUrl": "https://seaver.pepperdine.edu/academics/programs/undergraduate/",
+        "checkedOn": "2026-10-30"
+      }
+    ],
+    "supportingUrls": ["https://seaver.pepperdine.edu/academics/majors-minors/"]
+  },
+  {
+    "universityId": "candidate-v2:santa-clara-university",
+    "spotlights": [
+      {
+        "name": "Ancient Studies",
+        "nameZh": "古典研究",
+        "kind": "distinctive",
+        "reason": "Santa Clara University 官方本科项目页列出 Ancient Studies 本科专业，属于学校跨学科人文方向。",
+        "sourceUrl": "https://www.scu.edu/academics/undergraduate-programs/",
+        "checkedOn": "2026-10-30"
+      }
+    ],
+    "supportingUrls": ["https://www.scu.edu/academics/undergraduate-programs/"]
   }
 ]

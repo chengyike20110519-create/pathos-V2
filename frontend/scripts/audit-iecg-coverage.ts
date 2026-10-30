@@ -7,6 +7,25 @@ const project = path.resolve(__dirname, "..");
 const iecg = JSON.parse(
   readFileSync(path.join(project, "data/college-guides/iecg-2025.json"), "utf8"),
 );
+const mapUniversities = JSON.parse(
+  readFileSync(path.join(project, "data/preview/universities.json"), "utf8"),
+) as Array<{ name?: string; nameZh?: string; chineseName?: string }>;
+
+// This audit measures IECG guide coverage, not the existence of the lighter
+// university-detail JSON. Keep the two scopes explicit so a 94-school map
+// cannot be mistaken for an 88-profile guide bundle.
+const normalizeSchoolName = (value: string) => value
+  .toLowerCase()
+  .replace(/university|college|the|of|at|in|and|\([^)]*\)/g, "")
+  .replace(/[\u4e00-\u9fff]/g, "")
+  .replace(/[^a-z0-9]/g, "");
+const guideNames = iecg.profiles
+  .map((p: { schoolNameRaw?: string }) => normalizeSchoolName(p.schoolNameRaw || ""))
+  .filter(Boolean);
+const mapOnlySchools = mapUniversities.filter((school) => {
+  const candidate = normalizeSchoolName(`${school.name || ""} ${school.nameZh || school.chineseName || ""}`);
+  return candidate.length > 0 && !guideNames.some((guide: string) => guide.includes(candidate) || candidate.includes(guide));
+});
 
 const fields = [
   "officialWebsite","founded","schoolType","campusSize","climate","location",
@@ -48,6 +67,9 @@ for (const p of iecg.profiles) {
 }
 
 console.log("\n=== Per-field missing school list (print all) ===\n");
+console.log(`IECG guide profiles: ${total} | map roster: ${mapUniversities.length} | map schools without IECG profile: ${mapOnlySchools.length}`);
+mapOnlySchools.forEach((school) => console.log(`   - ${school.name || "(no English name)"} ${school.nameZh || school.chineseName || ""}`));
+console.log("");
 for (const f of fields) {
   const list = missingCount[f];
   if (list.length === 0) {

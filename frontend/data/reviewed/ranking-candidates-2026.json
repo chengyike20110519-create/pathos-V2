@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-30",
+  "rankingSystem": "U.S. News & World Report Best Colleges 2026",
+  "scope": "National Universities",
+  "records": [
+    {
+      "universityId": "candidate-v2:texas-a-and-m-university",
+      "rank": 59,
+      "publicRank": 24,
+      "status": "confirmed",
+      "sourceUrl": "https://stories.tamu.edu/news/2026/09/22/texas-am-earns-top-national-marks-for-engineering-first-year-student-experience-service-learning-and-study-abroad/",
+      "sourceType": "official_university_newsroom",
+      "publisher": "Texas A&M University",
+      "referenceColumn": "2026-27",
+      "checkedOn": "2026-10-30"
+    },
+    {
+      "universityId": "candidate-v2:university-of-illinois-at-chicago",
+      "rank": 84,
+      "publicRank": 42,
+      "status": "confirmed",
+      "sourceUrl": "https://today.uic.edu/u-s-news-rates-uic-among-national-leaders-in-social-mobility/",
+      "sourceType": "official_university_newsroom",
+      "publisher": "University of Illinois Chicago",
+      "referenceColumn": "2026",
+      "checkedOn": "2026-10-30"
+    },
+    {
+      "universityId": "candidate-v2:stony-brook-university",
+      "rank": 59,
+      "publicRank": 26,
+      "status": "confirmed",
+      "sourceUrl": "https://llrc.stonybrook.edu/commcms/irpe/fact_book/rankings/",
+      "sourceType": "official_university_institutional_research_page",
+      "publisher": "Stony Brook University Institutional Research, Planning & Effectiveness",
+      "referenceColumn": "2026",
+      "checkedOn": "2026-10-30"
+    },
+    {
+      "universityId": "candidate-v2:villanova-university",
+      "rank": 57,
+      "status": "confirmed",
+      "sourceUrl": "https://www.villanova.edu/university/media/press-releases/2025/usnwr.html",
+      "sourceType": "official_university_newsroom",
+      "publisher": "Villanova University",
+      "referenceColumn": "2026",
+      "checkedOn": "2026-10-30"
+    },
+    {
+      "universityId": "candidate-v2:university-of-minnesota-twin-cities",
+      "rank": 59,
+      "publicRank": 24,
+      "status": "confirmed",
+      "sourceUrl": "https://brief.umn.edu/awards-recognition/university-minnesota-named-among-best-colleges-2027-us-news-world-report",
+      "sourceType": "official_university_newsroom",
+      "publisher": "University of Minnesota",
+      "referenceColumn": "2026",
+      "checkedOn": "2026-10-30"
+    },
+    {
+      "universityId": "candidate-v2:north-carolina-state-university",
+      "rank": 64,
+      "publicRank": 29,
+      "status": "confirmed",
+      "sourceUrl": "https://uda.ncsu.edu/institutional-analytics/rankings/",
+      "sourceType": "official_university_data_and_analytics_page",
+      "publisher": "North Carolina State University University Data and Analytics",
+      "referenceColumn": "2026",
+      "checkedOn": "2026-10-30"
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-merced",
+      "rank": 57,
+      "publicRank": 25,
+      "status": "confirmed",
+      "sourceUrl": "https://www.universityofcalifornia.edu/news/university-california-best-public-university-2026-us-news-best-colleges-rankings",
+      "sourceType": "official_university_system_newsroom",
+      "publisher": "University of California",
+      "checkedOn": "2026-10-30"
+    },
+    {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "rank": 64,
+      "publicRank": 29,
+      "status": "confirmed",
+      "sourceUrl": "https://www.umass.edu/news/article/umass-amherst-places-top-30-among-public-universities-us-news-world-report-2026",
+      "sourceType": "official_university_newsroom",
+      "publisher": "University of Massachusetts Amherst",
+      "checkedOn": "2026-10-30"
+    },
+    {
+      "universityId": "candidate-v2:michigan-state-university",
+      "rank": 64,
+      "status": "confirmed",
+      "sourceUrl": "https://ir.msu.edu/rankings/domestic-rankings",
+      "sourceType": "official_institutional_research_page",
+      "publisher": "Michigan State University Institutional Research",
+      "referenceColumn": "2025-2026",
+      "checkedOn": "2026-10-30"
+    }
+  ]
+}

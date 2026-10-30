@@ -4545,6 +4545,13 @@
       "universityId": "candidate-v2:arizona-state-university",
       "universityName": "Arizona State University",
       "sourceUrl": "https://catalog.asu.edu/undergraduate",
+      "studentExperienceSummary": "官方学生生活页面显示，ASU 的学生体验包括学生组织、志愿服务、文化参与、体育与健康项目，以及按专业所在校区安排的住宿社区。学校官方招生页面介绍，学生可通过 Sun Devil Central 参与 800 多个学生社团与组织；一年级学生通常住在所属学位项目校区的 residential college，并获得辅导、咨询、活动和学术支持。该段是学校官方学生生活概览，不等同于学生个人评价。",
+      "additionalSourceUrls": [
+        "https://studentlife.asu.edu/get-involved",
+        "https://admission.asu.edu/campus-life",
+        "https://admission.asu.edu/campus-life/get-involved",
+        "https://admission.asu.edu/campus-life/housing-dining"
+      ],
       "sourceType": "official_undergraduate_catalog",
       "publisher": "Arizona State University Academic Catalog",
       "scope": [
@@ -4746,6 +4753,12 @@
       "universityId": "candidate-v2:bucknell-university",
       "universityName": "Bucknell University",
       "sourceUrl": "https://coursecatalog.bucknell.edu/",
+      "studentExperienceSummary": "Bucknell 官方学生生活页面显示，学校提供学生社团、社团运动、周末活动、创意活动和学生政府等参与路径；官方页面列出 200 多个由学生运营的社团与组织。学校将自己描述为 residential university，并提供面向各年级学生的校内住宿。该段是学校官方校园生活概览，不等同于学生个人评价。",
+      "additionalSourceUrls": [
+        "https://www.bucknell.edu/azdirectory/student-affairs/student-involvement",
+        "https://www.bucknell.edu/life-bucknell/get-involved",
+        "https://www.bucknell.edu/life-bucknell/housing-dining/housing-services"
+      ],
       "sourceType": "official_undergraduate_catalog",
       "publisher": "Bucknell University Catalog",
       "scope": [
@@ -4768,6 +4781,12 @@
       "universityId": "candidate-v2:harvey-mudd-college",
       "universityName": "Harvey Mudd College",
       "sourceUrl": "https://www.hmc.edu/academics/majors/",
+      "studentExperienceSummary": "Harvey Mudd 官方学生生活页面显示，校园活动包括学生政府、社团与组织、休闲活动、体育和社区服务；学校还与 Claremont McKenna College、Scripps College 等共同参与 Claremont-Mudd-Scripps 体育与休闲项目。官方招生页面称，98% 的 Harvey Mudd 学生四年都住在校内，因此住宿生活是校园体验的重要组成部分。该段是学校官方校园生活概览，不等同于学生个人评价。",
+      "additionalSourceUrls": [
+        "https://www.hmc.edu/admission/discover/student-life/",
+        "https://www.harveymudd.org/campus-life/",
+        "https://www.hmc.edu/residential/halls/"
+      ],
       "sourceType": "official_undergraduate_programs",
       "publisher": "Harvey Mudd College",
       "scope": [
@@ -4798,6 +4817,12 @@
       "universityId": "candidate-v2:olin-college-of-engineering",
       "universityName": "Olin College of Engineering",
       "sourceUrl": "https://olin.edu/academics/majors-concentrations",
+      "studentExperienceSummary": "Olin 官方学生生活页面显示，学生可以通过学生政府、志愿服务、社团和组织参与校园生活；学校的 Learning Continuum 还包括本科研究、项目团队、课外项目和社区服务。官方资料将校内住宿描述为沉浸式学生学习体验的基础，并介绍了宿舍健身空间、校际体育设施和社团运动等资源。该段是学校官方校园生活概览，不等同于学生个人评价。",
+      "additionalSourceUrls": [
+        "https://www.olin.edu/student-life/student-engagement",
+        "https://olin.smartcatalogiq.com/en/2026-27/student-handbook/overview/the-learning-continuum-and-student-engagement",
+        "https://www.olin.edu/student-life/student-housing"
+      ],
       "sourceType": "official_undergraduate_programs",
       "publisher": "Olin College of Engineering",
       "scope": [
@@ -4816,6 +4841,13 @@
       "universityId": "candidate-v2:rose-hulman-institute-of-technology",
       "universityName": "Rose-Hulman Institute of Technology",
       "sourceUrl": "https://www.rose-hulman.edu/academics/degrees-and-programs/majors.html",
+      "studentExperienceSummary": "Rose-Hulman 官方校园生活页面显示，学生可以通过学术社团、竞赛团队、表演艺术、兴趣组织、学生政府和 Residence Hall Association 参与校园生活；学校 2025–26 学生手册称，校园目前有 100 多个学生组织。官方学生事务页面还覆盖体育、宿舍、餐饮、咨询和无障碍支持等资源。该段是学校官方校园生活概览，不等同于学生个人评价。",
+      "additionalSourceUrls": [
+        "https://www.rose-hulman.edu/campus-life/student-life/student-activities-and-groups/clubs-and-organizations.html",
+        "https://www.rose-hulman.edu/campus-life/student-life/student-activities-and-groups/index.html",
+        "https://www.rose-hulman.edu/campus-life/student-affairs/index.html",
+        "https://www.rose-hulman.edu/campus-life/student-life/_assets/Student-Handbook.pdf"
+      ],
       "sourceType": "official_undergraduate_programs",
       "publisher": "Rose-Hulman Institute of Technology",
       "scope": [
@@ -4876,6 +4908,12 @@
       "universityId": "candidate-v2:university-of-colorado-boulder",
       "universityName": "University of Colorado Boulder",
       "sourceUrl": "https://catalog.colorado.edu/",
+      "studentExperienceSummary": "CU Boulder 官方学生生活页面显示，学生可以通过近 500 个获认可的学生组织探索兴趣、学习技能和建立社群，也可以参加校内体育、运动俱乐部、兄弟会与姐妹会以及宿舍活动。学校每学期还提供大量活动、工作坊和参与机会；Residence Life 负责支持住校学生的成长与发展。该段是学校官方校园生活概览，不等同于学生个人评价。",
+      "additionalSourceUrls": [
+        "https://www.colorado.edu/studentlife/campus-life",
+        "https://www.colorado.edu/involvement/organizations",
+        "https://www.colorado.edu/living/housing/undergraduate-housing/residence-life"
+      ],
       "sourceType": "official_undergraduate_catalog",
       "publisher": "University of Colorado Boulder Catalog",
       "scope": [
@@ -4917,6 +4955,13 @@
       "universityId": "candidate-v2:university-of-iowa",
       "universityName": "University of Iowa",
       "sourceUrl": "https://catalog.registrar.uiowa.edu/",
+      "studentExperienceSummary": "University of Iowa 官方页面显示，学生可以通过 500 多个学生组织、学生参与活动、文化活动、学术与荣誉组织以及兄弟会与姐妹会建立校园社群；学校招生页面还介绍了 40 多个 Greek life 分支。学校有 11 栋校内宿舍，Iowa Memorial Union 是学生生活的重要中心。该段是学校官方校园生活概览，不等同于学生个人评价。",
+      "additionalSourceUrls": [
+        "https://uiowa.edu/student-life",
+        "https://engage.uiowa.edu/opportunities/campus-involvement-and-leadership",
+        "https://admissions.uiowa.edu/student-life",
+        "https://uiowa.edu/student-life/living-campus"
+      ],
       "sourceType": "official_general_catalog",
       "publisher": "University of Iowa General Catalog",
       "scope": [
@@ -4938,6 +4983,13 @@
       "universityId": "candidate-v2:university-of-south-carolina-columbia",
       "universityName": "University of South Carolina",
       "sourceUrl": "https://academicbulletins.sc.edu/undergraduate/programs-az/",
+      "studentExperienceSummary": "University of South Carolina 官方页面显示，校园有 650 多个学生组织，学生可以参与社团、校园媒体、活动策划、学生领导和志愿服务，也可以加入兄弟会与姐妹会。学校官方住宿页面强调，住校可以获得靠近课程、餐饮和校园活动的便利；学校还提供学习型社区和 Greek Village 等住宿与参与路径。该段是学校官方校园生活概览，不等同于学生个人评价。",
+      "additionalSourceUrls": [
+        "https://sc.edu/experience/clubs-organizations/",
+        "https://www.sc.edu/about/offices_and_divisions/student_affairs/student-services/involvement_and_leadership/",
+        "https://sc.edu/about/offices_and_divisions/housing/",
+        "https://itunesu.sc.edu/about/offices_and_divisions/housing/living-learning-communities/"
+      ],
       "sourceType": "official_undergraduate_bulletin",
       "publisher": "University of South Carolina Academic Bulletin",
       "scope": [

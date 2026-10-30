@@ -13,6 +13,8 @@ type Candidate = {
   sourceType: string;
   scope: string[];
   checkedOn: string;
+  studentExperienceSummary?: string;
+  additionalSourceUrls?: string[];
   observedProgramNames?: string[];
   observedProgramCategories?: string[];
 };
@@ -35,7 +37,8 @@ async function main() {
         officialWebsite: candidate.sourceUrl,
         programs: programs.map((name) => ({ name, sourceUrl: candidate.sourceUrl, status: "official_catalog_observed" })),
         programCategories: categories,
-        resourceUrls: [candidate.sourceUrl],
+        resourceUrls: [candidate.sourceUrl, ...(candidate.additionalSourceUrls ?? [])],
+        ...(candidate.studentExperienceSummary ? { studentExperienceSummary: candidate.studentExperienceSummary } : {}),
         coverageStatus: "partial_official_catalog",
         missingFields: ["tuition", "acceptanceRatePercent", "applicationDeadlines", "midRangeScores", "graduationRate4Yr"],
         sourcePublisher: candidate.publisher,

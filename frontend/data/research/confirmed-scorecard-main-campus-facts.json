@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "retrievedOn": "2026-10-28",
+  "provider": "US Department of Education College Scorecard API",
+  "records": [
+    {
+      "universityId": "candidate-v2:ohio-state-university",
+      "officialName": "Ohio State University-Main Campus",
+      "city": "Columbus",
+      "state": "OH",
+      "unitId": "204796",
+      "sourceUrl": "https://api.data.gov/ed/collegescorecard/v1/schools.json?school.name=Ohio%20State%20University&school.state=OH",
+      "facts": {
+        "undergraduateEnrollment": 45638,
+        "graduationRateFourYear": 0.8659,
+        "retentionRateFullTimeFourYear": 0.9423,
+        "acceptanceRate": 0.6057,
+        "tuitionInState": 13641,
+        "tuitionOutOfState": 42423
+      },
+      "status": "confirmed_main_campus",
+      "notes": "Official API result is explicitly Ohio State University-Main Campus in Columbus; the previously linked UNITID 204662 was Agricultural Technical Institute in Wooster and has been disabled."
+    },
+    {
+      "universityId": "candidate-v2:university-of-south-carolina-columbia",
+      "officialName": "University of South Carolina-Columbia",
+      "city": "Columbia",
+      "state": "SC",
+      "unitId": "218663",
+      "sourceUrl": "https://api.data.gov/ed/collegescorecard/v1/schools.json?school.name=University%20of%20South%20Carolina",
+      "facts": {
+        "undergraduateEnrollment": 29820,
+        "graduationRateFourYear": 0.7866,
+        "retentionRateFullTimeFourYear": 0.922,
+        "acceptanceRate": 0.6015,
+        "tuitionInState": 12688,
+        "tuitionOutOfState": 37376
+      },
+      "status": "confirmed_main_campus",
+      "notes": "Official API result is explicitly University of South Carolina-Columbia; the previously linked UNITID 218335 was Medical University of South Carolina in Charleston and has been disabled."
+    }
+  ]
+}

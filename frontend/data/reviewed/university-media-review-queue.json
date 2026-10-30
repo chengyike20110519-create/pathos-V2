@@ -1,11 +1,11 @@
 {
-  "generatedOn": "2026-10-20",
-  "totalSchools": 94,
+  "generatedOn": "2026-10-29",
+  "totalSchools": 96,
   "rows": [
     {
       "universityId": "candidate-v2:arizona-state-university",
       "schoolName": "Arizona State University",
-      "officialWebsite": "https://degrees.apps.asu.edu/bachelors/major-list/keyword/undergraduate",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -18,7 +18,7 @@
     {
       "universityId": "candidate-v2:boston-college",
       "schoolName": "Boston College",
-      "officialWebsite": "https://www.bc.edu/content/bc-web/academics/undergraduate-programs.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -31,7 +31,7 @@
     {
       "universityId": "candidate-v2:boston-university",
       "schoolName": "Boston University",
-      "officialWebsite": "https://www.bu.edu/admissions/why-bu/academics/majors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -44,7 +44,7 @@
     {
       "universityId": "candidate-v2:brandeis-university",
       "schoolName": "Brandeis University",
-      "officialWebsite": "https://www.brandeis.edu/registrar/bulletin/provisional/courses/major-minor.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -57,7 +57,7 @@
     {
       "universityId": "candidate-v2:brown-university",
       "schoolName": "Brown University",
-      "officialWebsite": "https://www.brown.edu/undergraduate-programs",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -70,7 +70,7 @@
     {
       "universityId": "candidate-v2:bucknell-university",
       "schoolName": "Bucknell University",
-      "officialWebsite": "https://www.bucknell.edu/academics/majors-minors",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -83,7 +83,7 @@
     {
       "universityId": "candidate-v2:california-institute-of-technology",
       "schoolName": "California Institute of Technology",
-      "officialWebsite": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/engineering-and-applied-science-option-eas/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -96,7 +96,7 @@
     {
       "universityId": "candidate-v2:carnegie-mellon-university",
       "schoolName": "Carnegie Mellon University",
-      "officialWebsite": "https://coursecatalog.web.cmu.edu/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -109,7 +109,7 @@
     {
       "universityId": "candidate-v2:case-western-reserve-university",
       "schoolName": "Case Western Reserve University",
-      "officialWebsite": "https://bulletin.case.edu/academic-programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -122,7 +122,7 @@
     {
       "universityId": "candidate-v2:clemson-university",
       "schoolName": "Clemson University",
-      "officialWebsite": "https://www.clemson.edu/cafls/academics/undergraduate-majors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -135,7 +135,7 @@
     {
       "universityId": "candidate-v2:college-of-william-and-mary",
       "schoolName": "College of William and Mary",
-      "officialWebsite": "https://catalog.wm.edu/programs/undergraduate/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -148,7 +148,7 @@
     {
       "universityId": "candidate-v2:colorado-school-of-mines",
       "schoolName": "Colorado School of Mines",
-      "officialWebsite": "https://facultyhandbook.mines.edu/undergraduate/academics/degrees/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -161,7 +161,7 @@
     {
       "universityId": "candidate-v2:columbia-university",
       "schoolName": "Columbia University",
-      "officialWebsite": "https://bulletin.columbia.edu/columbia-college/departments-instruction/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -174,7 +174,7 @@
     {
       "universityId": "candidate-v2:cornell-university",
       "schoolName": "Cornell University",
-      "officialWebsite": "https://catalog.cornell.edu/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -187,7 +187,7 @@
     {
       "universityId": "candidate-v2:dartmouth-college",
       "schoolName": "Dartmouth College",
-      "officialWebsite": "https://home.dartmouth.edu/academics/undergraduate-arts-sciences/majors-and-minors",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -200,7 +200,7 @@
     {
       "universityId": "candidate-v2:duke-university",
       "schoolName": "Duke University",
-      "officialWebsite": "https://admissions.duke.edu/academic-possibilities/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -213,7 +213,7 @@
     {
       "universityId": "candidate-v2:emory-university",
       "schoolName": "Emory University",
-      "officialWebsite": "https://www.emory.edu/academics/degrees-programs",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -226,7 +226,7 @@
     {
       "universityId": "candidate-v2:florida-state-university",
       "schoolName": "Florida State University",
-      "officialWebsite": "https://bulletin.fsu.edu/academics/degrees-certs",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -239,7 +239,7 @@
     {
       "universityId": "candidate-v2:fordham-university",
       "schoolName": "Fordham University",
-      "officialWebsite": "https://bulletin.fordham.edu/undergraduate/information-technology-operations/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -252,7 +252,7 @@
     {
       "universityId": "candidate-v2:george-washington-university",
       "schoolName": "George Washington University",
-      "officialWebsite": "https://bulletin.gwu.edu/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -265,7 +265,7 @@
     {
       "universityId": "candidate-v2:georgetown-university",
       "schoolName": "Georgetown University",
-      "officialWebsite": "https://uadmissions.georgetown.edu/academic-offerings/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -278,7 +278,7 @@
     {
       "universityId": "candidate-v2:georgia-institute-of-technology",
       "schoolName": "Georgia Institute of Technology",
-      "officialWebsite": "https://www.gatech.edu/academics/bachelors-degree-programs",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -291,7 +291,7 @@
     {
       "universityId": "candidate-v2:harvard-university",
       "schoolName": "Harvard University",
-      "officialWebsite": "https://college.harvard.edu/academics/liberal-arts-sciences/concentrations",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -304,7 +304,7 @@
     {
       "universityId": "candidate-v2:harvey-mudd-college",
       "schoolName": "Harvey Mudd College",
-      "officialWebsite": "https://www.hmc.edu/academics/majors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -317,7 +317,7 @@
     {
       "universityId": "candidate-v2:indiana-university-bloomington",
       "schoolName": "Indiana University Bloomington",
-      "officialWebsite": "https://bloomington.iu.edu/academics/degrees-majors/interests/undergraduate/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -330,7 +330,7 @@
     {
       "universityId": "candidate-v2:johns-hopkins-university",
       "schoolName": "Johns Hopkins University",
-      "officialWebsite": "https://krieger.jhu.edu/academics/majors-minors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -343,7 +343,7 @@
     {
       "universityId": "candidate-v2:lehigh-university",
       "schoolName": "Lehigh University",
-      "officialWebsite": "https://catalog.lehigh.edu/programsandmajors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -356,7 +356,7 @@
     {
       "universityId": "candidate-v2:loyola-university-chicago",
       "schoolName": "Loyola University Chicago",
-      "officialWebsite": "https://www.luc.edu/undergrad/academics/majorsandminors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -369,7 +369,7 @@
     {
       "universityId": "candidate-v2:marquette-university",
       "schoolName": "Marquette University",
-      "officialWebsite": "https://bulletin.marquette.edu/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -382,7 +382,7 @@
     {
       "universityId": "candidate-v2:massachusetts-institute-of-technology",
       "schoolName": "Massachusetts Institute of Technology",
-      "officialWebsite": "https://catalog.mit.edu/mit/undergraduate-education/academic-programs/majors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -395,7 +395,7 @@
     {
       "universityId": "candidate-v2:michigan-state-university",
       "schoolName": "Michigan State University",
-      "officialWebsite": "https://reg.msu.edu/AcademicPrograms/Programs.aspx",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -408,7 +408,7 @@
     {
       "universityId": "candidate-v2:new-york-university",
       "schoolName": "New York University",
-      "officialWebsite": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -421,7 +421,7 @@
     {
       "universityId": "candidate-v2:north-carolina-state-university",
       "schoolName": "North Carolina State University",
-      "officialWebsite": "https://catalog.ncsu.edu/undergraduate/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -434,7 +434,7 @@
     {
       "universityId": "candidate-v2:northeastern-university",
       "schoolName": "Northeastern University",
-      "officialWebsite": "https://catalog.northeastern.edu/undergraduate/university-academics/degrees/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -447,7 +447,7 @@
     {
       "universityId": "candidate-v2:northwestern-university",
       "schoolName": "Northwestern University",
-      "officialWebsite": "https://admissions.northwestern.edu/academics/majors-minors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -460,7 +460,7 @@
     {
       "universityId": "candidate-v2:olin-college-of-engineering",
       "schoolName": "Olin College of Engineering",
-      "officialWebsite": "https://olin.edu/academics/majors-concentrations",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -471,9 +471,29 @@
       "candidateImages": []
     },
     {
+      "universityId": "candidate-v2:pepperdine-university",
+      "schoolName": "Pepperdine University",
+      "officialWebsite": null,
+      "status": "approved",
+      "requiredChecks": [
+        "image source URL must be reachable",
+        "publisher/owner must be recorded",
+        "license or explicit reuse permission must be verified",
+        "reviewStatus must be approved and licenseStatus must be verified before import"
+      ],
+      "candidateImages": [
+        {
+          "url": "https://www.pepperdine.edu/about/images/at-a-glance/impact-image.jpg",
+          "sourceUrl": "https://www.pepperdine.edu/about/at-a-glance/",
+          "publisher": "Pepperdine University",
+          "status": "approved_cc_by_sa"
+        }
+      ]
+    },
+    {
       "universityId": "candidate-v2:princeton-university",
       "schoolName": "Princeton University",
-      "officialWebsite": "https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -486,7 +506,7 @@
     {
       "universityId": "candidate-v2:purdue-university-main-campus",
       "schoolName": "Purdue University—Main Campus",
-      "officialWebsite": "https://admissions.purdue.edu/academics/majors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -499,7 +519,7 @@
     {
       "universityId": "candidate-v2:rensselaer-polytechnic-institute",
       "schoolName": "Rensselaer Polytechnic Institute",
-      "officialWebsite": "https://ise.rpi.edu/programs/business-analytics-and-industrial-management-engineering-bs",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -512,7 +532,7 @@
     {
       "universityId": "candidate-v2:rice-university",
       "schoolName": "Rice University",
-      "officialWebsite": "https://www.rice.edu/majors-minors-and-programs",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -525,7 +545,7 @@
     {
       "universityId": "candidate-v2:rose-hulman-institute-of-technology",
       "schoolName": "Rose-Hulman Institute of Technology",
-      "officialWebsite": "https://www.rose-hulman.edu/academics/degrees-and-programs/majors.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -538,7 +558,7 @@
     {
       "universityId": "candidate-v2:rutgers-university-new-brunswick",
       "schoolName": "Rutgers University—New Brunswick",
-      "officialWebsite": "https://newbrunswick-26-27-undergrad.catalogs.rutgers.edu/home/undergradednb/majorprgs",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -549,9 +569,29 @@
       "candidateImages": []
     },
     {
+      "universityId": "candidate-v2:santa-clara-university",
+      "schoolName": "Santa Clara University",
+      "officialWebsite": null,
+      "status": "approved",
+      "requiredChecks": [
+        "image source URL must be reachable",
+        "publisher/owner must be recorded",
+        "license or explicit reuse permission must be verified",
+        "reviewStatus must be approved and licenseStatus must be verified before import"
+      ],
+      "candidateImages": [
+        {
+          "url": "https://www.scu.edu/media/ethics-center/internet-ethics/SCU-by-Florent-Lamureux.jpg",
+          "sourceUrl": "https://www.scu.edu/ethics/internet-ethics-blog/an-outstanding-lineup-of-janfeb-events-at-santa-clara-university/",
+          "publisher": "Santa Clara University",
+          "status": "approved_cc_by_sa"
+        }
+      ]
+    },
+    {
       "universityId": "candidate-v2:southern-methodist-university",
       "schoolName": "Southern Methodist University",
-      "officialWebsite": "https://www.smu.edu/admission/majors-minors",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -564,7 +604,7 @@
     {
       "universityId": "candidate-v2:stanford-university",
       "schoolName": "Stanford University",
-      "officialWebsite": "https://bulletin.stanford.edu/programs?KhCQH=Undergraduate&degreeDesignation=BA+-+Bachelor+of+Arts&page=1",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -577,7 +617,7 @@
     {
       "universityId": "candidate-v2:stevens-institute-of-technology",
       "schoolName": "Stevens Institute of Technology",
-      "officialWebsite": "https://www.stevens.edu/school-computing/undergraduate-studies",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -590,7 +630,7 @@
     {
       "universityId": "candidate-v2:stony-brook-university",
       "schoolName": "Stony Brook University",
-      "officialWebsite": "https://www.stonybrook.edu/academics/majors-minors-and-programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -603,7 +643,7 @@
     {
       "universityId": "candidate-v2:syracuse-university",
       "schoolName": "Syracuse University",
-      "officialWebsite": "https://coursecatalog.syracuse.edu/undergraduate/engineering-computer-science/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -616,7 +656,7 @@
     {
       "universityId": "candidate-v2:texas-a-and-m-university",
       "schoolName": "Texas A&M University",
-      "officialWebsite": "https://catalog.tamu.edu/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -629,7 +669,7 @@
     {
       "universityId": "candidate-v2:ohio-state-university",
       "schoolName": "The Ohio State University",
-      "officialWebsite": "https://undergrad.osu.edu/majors-and-academics/majors-by-college",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -642,7 +682,7 @@
     {
       "universityId": "candidate-v2:pennsylvania-state-university",
       "schoolName": "The Pennsylvania State University",
-      "officialWebsite": "https://www.psu.edu/academics/undergraduate/majors",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -655,7 +695,7 @@
     {
       "universityId": "candidate-v2:university-of-north-carolina-at-chapel-hill",
       "schoolName": "The University of North Carolina at Chapel Hill",
-      "officialWebsite": "https://catalog.unc.edu/undergraduate/programs-study/programs-study.pdf",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -668,7 +708,7 @@
     {
       "universityId": "candidate-v2:university-of-texas-austin",
       "schoolName": "The University of Texas at Austin",
-      "officialWebsite": "https://catalog.utexas.edu/undergraduate/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -681,7 +721,7 @@
     {
       "universityId": "candidate-v2:tufts-university",
       "schoolName": "Tufts University",
-      "officialWebsite": "https://admissions.tufts.edu/discover-tufts/academics/majors-and-minors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -694,7 +734,7 @@
     {
       "universityId": "candidate-v2:tulane-university",
       "schoolName": "Tulane University",
-      "officialWebsite": "https://catalog.tulane.edu/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -707,7 +747,7 @@
     {
       "universityId": "candidate-v2:university-at-buffalo",
       "schoolName": "University at Buffalo",
-      "officialWebsite": "https://www.buffalo.edu/admissions/academics/programs.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -720,7 +760,7 @@
     {
       "universityId": "candidate-v2:university-of-california-merced",
       "schoolName": "University of California Merced",
-      "officialWebsite": "https://www.ucmerced.edu/academics-undergraduate-majors-minors",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -733,7 +773,7 @@
     {
       "universityId": "candidate-v2:university-of-california-riverside",
       "schoolName": "University of California Riverside",
-      "officialWebsite": "https://admissions.ucr.edu/majors",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -746,7 +786,7 @@
     {
       "universityId": "candidate-v2:university-of-california-santa-cruz",
       "schoolName": "University of California Santa Cruz",
-      "officialWebsite": "https://catalog.ucsc.edu/en/current/general-catalog/academic-programs/bachelors-degrees",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -759,7 +799,7 @@
     {
       "universityId": "candidate-v2:university-of-california-berkeley",
       "schoolName": "University of California, Berkeley",
-      "officialWebsite": "https://admissions.berkeley.edu/academics/academic-programs-majors-uc-berkeley-minors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -772,7 +812,7 @@
     {
       "universityId": "candidate-v2:university-of-california-davis",
       "schoolName": "University of California, Davis",
-      "officialWebsite": "https://catalog.ucdavis.edu/degree-explorer/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -785,7 +825,7 @@
     {
       "universityId": "candidate-v2:university-of-california-irvine",
       "schoolName": "University of California, Irvine",
-      "officialWebsite": "https://catalogue.uci.edu/undergraduatedegrees/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -798,7 +838,7 @@
     {
       "universityId": "candidate-v2:university-of-california-los-angeles",
       "schoolName": "University of California, Los Angeles",
-      "officialWebsite": "https://admission.ucla.edu/apply/majors",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -811,7 +851,7 @@
     {
       "universityId": "candidate-v2:university-of-california-san-diego",
       "schoolName": "University of California, San Diego",
-      "officialWebsite": "https://catalog.ucsd.edu/undergraduate/degrees-offered/index.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -824,7 +864,7 @@
     {
       "universityId": "candidate-v2:university-of-california-santa-barbara",
       "schoolName": "University of California, Santa Barbara",
-      "officialWebsite": "https://admissions.sa.ucsb.edu/majors",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -837,7 +877,7 @@
     {
       "universityId": "candidate-v2:university-of-chicago",
       "schoolName": "University of Chicago",
-      "officialWebsite": "https://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -850,7 +890,7 @@
     {
       "universityId": "candidate-v2:university-of-colorado-boulder",
       "schoolName": "University of Colorado Boulder",
-      "officialWebsite": "https://catalog.colorado.edu/programs-a-z/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -863,7 +903,7 @@
     {
       "universityId": "candidate-v2:university-of-connecticut",
       "schoolName": "University of Connecticut",
-      "officialWebsite": "https://catalog.uconn.edu/undergraduate/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -876,7 +916,7 @@
     {
       "universityId": "candidate-v2:university-of-delaware",
       "schoolName": "University of Delaware",
-      "officialWebsite": "https://www.udel.edu/majorfinder/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -889,7 +929,7 @@
     {
       "universityId": "candidate-v2:university-of-florida",
       "schoolName": "University of Florida",
-      "officialWebsite": "https://catalog.ufl.edu/UGRD/majors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -902,7 +942,7 @@
     {
       "universityId": "candidate-v2:university-of-georgia",
       "schoolName": "University of Georgia",
-      "officialWebsite": "https://bulletin.uga.edu/Program/Index",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -915,7 +955,7 @@
     {
       "universityId": "candidate-v2:university-of-illinois-at-chicago",
       "schoolName": "University of Illinois at Chicago",
-      "officialWebsite": "https://catalog.uic.edu/ucat/degree-programs/degree-minors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -928,7 +968,7 @@
     {
       "universityId": "candidate-v2:university-of-illinois-at-urbana-champaign",
       "schoolName": "University of Illinois at Urbana Champaign",
-      "officialWebsite": "https://catalog.illinois.edu/undergraduate/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -941,7 +981,7 @@
     {
       "universityId": "candidate-v2:university-of-iowa",
       "schoolName": "University of Iowa",
-      "officialWebsite": "https://catalog.registrar.uiowa.edu/academics-iowa/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -954,7 +994,7 @@
     {
       "universityId": "candidate-v2:university-of-maryland-college-park",
       "schoolName": "University of Maryland, College Park",
-      "officialWebsite": "https://www.academiccatalog.umd.edu/undergraduate/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -967,7 +1007,7 @@
     {
       "universityId": "candidate-v2:university-of-massachusetts-amherst",
       "schoolName": "University of Massachusetts Amherst",
-      "officialWebsite": "https://catalog.umass.edu/undergradguide/2026-2027/default.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -980,7 +1020,7 @@
     {
       "universityId": "candidate-v2:university-of-miami",
       "schoolName": "University of Miami",
-      "officialWebsite": "https://bulletin.miami.edu/program-index/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -993,7 +1033,7 @@
     {
       "universityId": "candidate-v2:university-of-michigan-ann-arbor",
       "schoolName": "University of Michigan—Ann Arbor",
-      "officialWebsite": "https://admissions.umich.edu/academics-majors/majors-degrees",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1006,7 +1046,7 @@
     {
       "universityId": "candidate-v2:university-of-minnesota-twin-cities",
       "schoolName": "University of Minnesota Twin Cities",
-      "officialWebsite": "https://majors.umn.edu/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1019,7 +1059,7 @@
     {
       "universityId": "candidate-v2:university-of-notre-dame",
       "schoolName": "University of Notre Dame",
-      "officialWebsite": "https://catalog.nd.edu/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1032,7 +1072,7 @@
     {
       "universityId": "candidate-v2:university-of-pennsylvania",
       "schoolName": "University of Pennsylvania",
-      "officialWebsite": "https://catalog.upenn.edu/undergraduate/programs/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1045,7 +1085,7 @@
     {
       "universityId": "candidate-v2:university-of-pittsburgh",
       "schoolName": "University of Pittsburgh",
-      "officialWebsite": "https://www.academics.pitt.edu/undergraduate-programs",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1058,7 +1098,7 @@
     {
       "universityId": "candidate-v2:university-of-rochester",
       "schoolName": "University of Rochester",
-      "officialWebsite": "https://www.rochester.edu/academics/programs.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1071,7 +1111,7 @@
     {
       "universityId": "candidate-v2:university-of-south-carolina-columbia",
       "schoolName": "University of South Carolina",
-      "officialWebsite": "https://academicbulletins.sc.edu/undergraduate/programs-az/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1084,7 +1124,7 @@
     {
       "universityId": "candidate-v2:university-of-southern-california",
       "schoolName": "University of Southern California",
-      "officialWebsite": "https://www.usc.edu/majors-minors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1097,7 +1137,7 @@
     {
       "universityId": "candidate-v2:university-of-virginia",
       "schoolName": "University of Virginia",
-      "officialWebsite": "https://www.virginia.edu/majors-minors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1110,7 +1150,7 @@
     {
       "universityId": "candidate-v2:university-of-washington",
       "schoolName": "University of Washington",
-      "officialWebsite": "https://advising.uw.edu/degree-overview/majors/list-of-undergraduate-majors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1123,7 +1163,7 @@
     {
       "universityId": "candidate-v2:university-of-wisconsin-madison",
       "schoolName": "University of Wisconsin—Madison",
-      "officialWebsite": "https://www.wisc.edu/academics/majors/?filters=48",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1136,7 +1176,7 @@
     {
       "universityId": "candidate-v2:vanderbilt-university",
       "schoolName": "Vanderbilt University",
-      "officialWebsite": "https://admissions.vanderbilt.edu/major/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1149,7 +1189,7 @@
     {
       "universityId": "candidate-v2:villanova-university",
       "schoolName": "Villanova University",
-      "officialWebsite": "https://www.villanova.edu/university/undergraduate-admission/faqs.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1162,7 +1202,7 @@
     {
       "universityId": "candidate-v2:virginia-polytechnic-institute-and-state-university",
       "schoolName": "Virginia Polytechnic Institute and State University",
-      "officialWebsite": "https://student.advising.vt.edu/major-exploration/majors-exploreatvt/majors-listed-college.html",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1175,7 +1215,7 @@
     {
       "universityId": "candidate-v2:wake-forest-university",
       "schoolName": "Wake Forest University",
-      "officialWebsite": "https://bulletin.wfu.edu/undergraduate/requirements-degrees/majors-minors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1188,7 +1228,7 @@
     {
       "universityId": "candidate-v2:washington-university-in-st-louis",
       "schoolName": "Washington University in St. Louis",
-      "officialWebsite": "https://bulletin.wustl.edu/undergrad/majors/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1201,7 +1241,7 @@
     {
       "universityId": "candidate-v2:worcester-polytechnic-institute",
       "schoolName": "Worcester Polytechnic Institute",
-      "officialWebsite": "https://www.wpi.edu/academics/study",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",
@@ -1214,7 +1254,7 @@
     {
       "universityId": "candidate-v2:yale-university",
       "schoolName": "Yale University",
-      "officialWebsite": "https://catalog.yale.edu/ycps/majors-in-yale-college/",
+      "officialWebsite": null,
       "status": "pending_source_and_license_review",
       "requiredChecks": [
         "image source URL must be reachable",

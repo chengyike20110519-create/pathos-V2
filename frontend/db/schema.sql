@@ -117,6 +117,8 @@ CREATE TABLE IF NOT EXISTS college_guides (
 );
 CREATE INDEX IF NOT EXISTS idx_college_guides_university ON college_guides(university_id);
 CREATE INDEX IF NOT EXISTS idx_college_guides_snapshot ON college_guides(source_snapshot_year DESC);
+CREATE INDEX IF NOT EXISTS idx_college_guides_university_snapshot
+  ON college_guides(university_id, source_snapshot_year DESC);
 CREATE INDEX IF NOT EXISTS idx_college_guides_search ON college_guides USING GIN(to_tsvector('simple', COALESCE(school_name_raw, '') || ' ' || COALESCE(raw_text, '')));
 -- ---------------------------------------------------------------------------
 -- Commercial v2 tables. Idempotent. See docs in V2-PRODUCT-STRATEGY.md.

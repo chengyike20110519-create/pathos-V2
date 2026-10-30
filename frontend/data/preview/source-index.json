@@ -4,7 +4,9 @@
     {
       "publisher": "University at Buffalo Office of Institutional Analysis",
       "referenceYear": 2025,
-      "scope": ["first_time_full_time_undergraduate_2019_six_year_graduation_and_fall_2024_first_year_retention"],
+      "scope": [
+        "first_time_full_time_undergraduate_2019_six_year_graduation_and_fall_2024_first_year_retention"
+      ],
       "sourceId": "official-ub-cds-2025-26-outcomes",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -13,7 +15,9 @@
     {
       "publisher": "University of Connecticut Budget, Planning and Institutional Research",
       "referenceYear": 2024,
-      "scope": ["first_time_full_time_undergraduate_2018_six_year_graduation_and_fall_2023_first_year_retention"],
+      "scope": [
+        "first_time_full_time_undergraduate_2018_six_year_graduation_and_fall_2023_first_year_retention"
+      ],
       "sourceId": "official-uconn-cds-2024-25-outcomes",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -22,7 +26,9 @@
     {
       "publisher": "Marquette University Office of Institutional Research and Analysis",
       "referenceYear": 2025,
-      "scope": ["first_time_full_time_undergraduate_2019_six_year_graduation_and_fall_2024_first_year_retention"],
+      "scope": [
+        "first_time_full_time_undergraduate_2019_six_year_graduation_and_fall_2024_first_year_retention"
+      ],
       "sourceId": "official-marquette-cds-2025-26-outcomes",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -31,7 +37,9 @@
     {
       "publisher": "The George Washington University Office of Institutional Research and Planning",
       "referenceYear": 2019,
-      "scope": ["first_time_full_time_undergraduate_six_year_graduation_and_first_to_second_year_retention"],
+      "scope": [
+        "first_time_full_time_undergraduate_six_year_graduation_and_first_to_second_year_retention"
+      ],
       "sourceId": "official-gwu-self-study-outcomes",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -40,7 +48,9 @@
     {
       "publisher": "Fordham University Institutional Research and Assessment",
       "referenceYear": 2019,
-      "scope": ["first_time_full_time_undergraduate_six_year_graduation_and_first_to_second_year_retention"],
+      "scope": [
+        "first_time_full_time_undergraduate_six_year_graduation_and_first_to_second_year_retention"
+      ],
       "sourceId": "official-fordham-2025-self-study-outcomes",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -49,7 +59,9 @@
     {
       "publisher": "William & Mary Institutional Accreditation & Effectiveness",
       "referenceYear": 2019,
-      "scope": ["first_time_first_year_six_year_graduation_and_retention"],
+      "scope": [
+        "first_time_first_year_six_year_graduation_and_retention"
+      ],
       "sourceId": "official-wm-student-achievement-outcomes",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -58,7 +70,9 @@
     {
       "publisher": "Florida State University Office of Institutional Research",
       "referenceYear": 2018,
-      "scope": ["full_time_ftic_six_year_graduation_and_retention"],
+      "scope": [
+        "full_time_ftic_six_year_graduation_and_retention"
+      ],
       "sourceId": "official-fsu-pocket-fact-book-2024-25-outcomes",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -67,7 +81,9 @@
     {
       "publisher": "Tulane University Office of Financial Aid",
       "referenceYear": 2018,
-      "scope": ["institution_undergraduate_six_year_graduation_rate"],
+      "scope": [
+        "institution_undergraduate_six_year_graduation_rate"
+      ],
       "sourceId": "official-tulane-heoa-2018-graduation-outcomes",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -76,7 +92,9 @@
     {
       "publisher": "Tulane University Office of Assessment and Institutional Research",
       "referenceYear": 2019,
-      "scope": ["first_time_full_time_undergraduate_retention_rate"],
+      "scope": [
+        "first_time_full_time_undergraduate_retention_rate"
+      ],
       "sourceId": "official-tulane-oair-2019-retention",
       "sourceType": "university_official_report",
       "status": "verified",
@@ -9136,6 +9154,130 @@
       "url": "https://www.bov.vt.edu/assets/Attachment%20B.pdf",
       "checkedOn": "2026-10-27",
       "notes": "Virginia Tech Board of Visitors material lists 85.8% for the 2019 six-year graduation trend."
+    },
+    {
+      "sourceId": "confirmed-scorecard-main-campus-204796",
+      "sourceType": "official_federal_api",
+      "publisher": "United States Department of Education College Scorecard",
+      "url": "https://api.data.gov/ed/collegescorecard/v1/schools.json?school.name=Ohio%20State%20University&school.state=OH",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-28",
+      "status": "verified",
+      "scope": [
+        "main_campus",
+        "undergraduate_enrollment",
+        "acceptance_rate",
+        "graduation_rate",
+        "retention_rate",
+        "tuition"
+      ]
+    },
+    {
+      "sourceId": "confirmed-scorecard-main-campus-218663",
+      "sourceType": "official_federal_api",
+      "publisher": "United States Department of Education College Scorecard",
+      "url": "https://api.data.gov/ed/collegescorecard/v1/schools.json?school.name=University%20of%20South%20Carolina",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-28",
+      "status": "verified",
+      "scope": [
+        "main_campus",
+        "undergraduate_enrollment",
+        "acceptance_rate",
+        "graduation_rate",
+        "retention_rate",
+        "tuition"
+      ]
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:stony-brook-university",
+      "sourceType": "official_university_institutional_research_page",
+      "publisher": "Stony Brook University Institutional Research, Planning & Effectiveness",
+      "url": "https://llrc.stonybrook.edu/commcms/irpe/fact_book/rankings/",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:villanova-university",
+      "sourceType": "official_university_newsroom",
+      "publisher": "Villanova University",
+      "url": "https://www.villanova.edu/university/media/press-releases/2025/usnwr.html",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:university-of-minnesota-twin-cities",
+      "sourceType": "official_university_newsroom",
+      "publisher": "University of Minnesota",
+      "url": "https://brief.umn.edu/awards-recognition/university-minnesota-named-among-best-colleges-2027-us-news-world-report",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:north-carolina-state-university",
+      "sourceType": "official_university_data_and_analytics_page",
+      "publisher": "North Carolina State University University Data and Analytics",
+      "url": "https://uda.ncsu.edu/institutional-analytics/rankings/",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:university-of-california-merced",
+      "sourceType": "official_university_system_newsroom",
+      "publisher": "University of California",
+      "url": "https://www.universityofcalifornia.edu/news/university-california-best-public-university-2026-us-news-best-colleges-rankings",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:university-of-massachusetts-amherst",
+      "sourceType": "official_university_newsroom",
+      "publisher": "University of Massachusetts Amherst",
+      "url": "https://www.umass.edu/news/article/umass-amherst-places-top-30-among-public-universities-us-news-world-report-2026",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:michigan-state-university",
+      "sourceType": "official_institutional_research_page",
+      "publisher": "Michigan State University Institutional Research",
+      "url": "https://ir.msu.edu/rankings/domestic-rankings",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:texas-a-and-m-university",
+      "sourceType": "official_university_newsroom",
+      "publisher": "Texas A&M University",
+      "url": "https://stories.tamu.edu/news/2026/09/22/texas-am-earns-top-national-marks-for-engineering-first-year-student-experience-service-learning-and-study-abroad/",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
+    },
+    {
+      "sourceId": "ranking-2026-candidate-v2:university-of-illinois-at-chicago",
+      "sourceType": "official_university_newsroom",
+      "publisher": "University of Illinois Chicago",
+      "url": "https://today.uic.edu/u-s-news-rates-uic-among-national-leaders-in-social-mobility/",
+      "referenceYear": 2026,
+      "retrievedOn": "2026-10-30",
+      "status": "verified",
+      "scope": []
     }
   ]
 }

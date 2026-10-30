@@ -4,6 +4,15 @@
 
 当前 94 所学校均已匹配到官方 College Scorecard 机构记录。以下不是“没有数据”，而是需要人工确认口径、年份或官网页面后，才能在产品中标记为最终确认。
 
+### 0. 已发现并已停用的错误校区映射
+
+本轮回测发现，以下两条研究记录的机构名称与地图学校不一致，已在本地数据和 Supabase 中标记为 `operating=false`，因此不再参与指标展示：
+
+- The Ohio State University：错误记录为 Ohio State University Agricultural Technical Institute（UNITID 204662，Wooster）
+- University of South Carolina：错误记录为 Medical University of South Carolina（UNITID 218335，Charleston）
+
+当前数据包中没有找到 Ohio State Columbus 或 South Carolina Columbia 的对应原始记录。补齐前继续显示学校详情中已有的独立官方事实，不使用上述错误校区数据替代。
+
 ## 一、必须确认的字段
 
 ### 1. 招生考试要求与分数

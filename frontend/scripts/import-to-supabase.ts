@@ -40,6 +40,7 @@ interface UniversitySummary {
   rankingBand?: string;
   rankingTier?: string;
   nationalRanking?: number | null;
+  rankingSummary?: Record<string, unknown>;
   latitude?: number;
   longitude?: number;
   displayTier?: string;
@@ -161,13 +162,33 @@ async function main() {
 
   const researchBundle = await readJson<{ records?: ResearchRecord[] }>("../research/school-records.json");
   const researchById = new Map((researchBundle.records ?? []).map((record) => [record.universityId, record]));
+  const rankingCandidates = JSON.parse(await readFile(path.join(BUNDLE_DIR, "../reviewed/ranking-candidates-2026.json"), "utf8")) as { records?: Array<{ universityId: string; rank: number; sourceUrl: string; checkedOn?: string }> };
+  const rankingById = new Map((rankingCandidates.records ?? []).map((record) => [record.universityId, record]));
+  const reviewedMottos = JSON.parse(await readFile(path.join(BUNDLE_DIR, "../reviewed/university-mottos.json"), "utf8")) as { records?: Array<{ universityId: string; motto?: string; mottoZh?: string; sourceUrl?: string; status?: string }> };
+  const mottoById = new Map((reviewedMottos.records ?? []).map((record) => [record.universityId, record]));
 
   // 2. universities + university_details
   const universities = await readJson<UniversitySummary[]>("universities.json");
   let uniCount = 0;
   let detailCount = 0;
   for (const u of universities) {
-    const enrichedSummary = enrichSummaryFromResearch(u, researchById.get(u.id));
+    let enrichedSummary = enrichSummaryFromResearch(u, researchById.get(u.id));
+    const rankingCandidate = rankingById.get(u.id);
+    if (rankingCandidate) {
+      enrichedSummary = {
+        ...enrichedSummary,
+        nationalRanking: rankingCandidate.rank,
+        rankingSummary: {
+          ...enrichedSummary.rankingSummary,
+          nationalRank: rankingCandidate.rank,
+          rankingLabel: `#${rankingCandidate.rank}`,
+          rankingTier: rankingCandidate.rank <= 20 ? "top20" : rankingCandidate.rank <= 50 ? "top50" : rankingCandidate.rank <= 100 ? "top100" : "other",
+          sourceIds: [`ranking-2026-${u.id}`],
+          status: "ranked_in_selected_national_family",
+          filterBehavior: "include_as_ranked",
+        },
+      };
+    }
     let detail: UniversityDetail | null = null;
     try {
       // The bundle may store candidate-v2 IDs either as a legacy filename
@@ -183,6 +204,20 @@ async function main() {
       }
     } catch (e) {
       console.warn(`  skip detail for ${u.id}: ${(e as Error).message}`);
+    }
+    const reviewedMotto = mottoById.get(u.id);
+    if (detail && reviewedMotto) {
+      detail = {
+        ...detail,
+        sharedContent: {
+          ...((detail.sharedContent as Record<string, unknown> | undefined) ?? {}),
+          motto: reviewedMotto.motto ?? null,
+          mottoZh: reviewedMotto.mottoZh ?? null,
+          mottoStatus: reviewedMotto.status ?? "pending",
+          mottoSourceUrl: reviewedMotto.sourceUrl ?? null,
+          mottoCheckedOn: "2026-10-30",
+        },
+      };
     }
     const searchText = buildSearchText(enrichedSummary, detail);
     await client.query(
@@ -323,6 +358,22 @@ async function main() {
 
   // 5. source_index (single row)
   const siRaw = await readJson<{ sources?: unknown[] } & Record<string, unknown>>("source-index.json");
+  const mottoSources = (reviewedMottos.records ?? []).filter((record) => record.sourceUrl).map((record) => ({
+    sourceId: `motto-${record.universityId}`,
+    universityId: record.universityId,
+    url: record.sourceUrl,
+    publisher: "Official university source",
+    sourceType: "official_university_motto_source",
+    status: "verified",
+    checkedOn: "2026-10-30",
+  }));
+  const sourceList = Array.isArray(siRaw.sources) ? [...siRaw.sources] as Array<Record<string, unknown>> : [];
+  for (const source of mottoSources) {
+    const index = sourceList.findIndex((item) => item.sourceId === source.sourceId);
+    if (index >= 0) sourceList[index] = source;
+    else sourceList.push(source);
+  }
+  siRaw.sources = sourceList;
   await client.query(
     `INSERT INTO source_index (id, payload) VALUES (1, $1)
      ON CONFLICT (id) DO UPDATE SET payload = EXCLUDED.payload, updated_at = NOW()`,

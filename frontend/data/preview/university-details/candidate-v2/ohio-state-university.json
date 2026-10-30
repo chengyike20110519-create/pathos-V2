@@ -16,16 +16,16 @@
   "admissions": {
     "acceptanceRate": {
       "nullReason": null,
-      "referenceYear": 2024,
-      "scope": "institution_undergraduate_admissions",
+      "referenceYear": 2026,
+      "scope": "main_campus_undergraduate_admissions",
       "sourceIds": [
-        "official-osu-columbus-cds-2024-25"
+        "confirmed-scorecard-main-campus-204796"
       ],
       "status": "verified",
       "unit": "ratio",
-      "value": 0.6057477103900919,
+      "value": 0.6057,
       "warnings": [
-        "Computed from official Common Data Set Fall 2024 applicants and admitted counts; this is not a current-cycle prediction."
+        "official_scorecard_main_campus"
       ]
     },
     "act": {
@@ -72,30 +72,30 @@
     },
     "graduationRate": {
       "nullReason": null,
-      "referenceYear": 2025,
-      "scope": "institution",
+      "referenceYear": 2026,
+      "scope": "main_campus_four_year_completion",
       "sourceIds": [
-        "source_stage4b_college_scorecard_2025_05_19"
+        "confirmed-scorecard-main-campus-204796"
       ],
       "status": "verified",
       "unit": "ratio",
-      "value": 0.8773,
+      "value": 0.8659,
       "warnings": [
-        "uniform source-variable cohort year is not available in the frozen 2025 release metadata"
+        "official_scorecard_main_campus"
       ]
     },
     "retentionRate": {
       "nullReason": null,
-      "referenceYear": 2025,
-      "scope": "four_year_institution",
+      "referenceYear": 2026,
+      "scope": "main_campus_full_time_four_year_retention",
       "sourceIds": [
-        "source_stage4b_college_scorecard_2025_05_19"
+        "confirmed-scorecard-main-campus-204796"
       ],
       "status": "verified",
       "unit": "ratio",
-      "value": 0.9412,
+      "value": 0.9423,
       "warnings": [
-        "uniform source-variable cohort year is not available in the frozen 2025 release metadata"
+        "official_scorecard_main_campus"
       ]
     },
     "sat": {
@@ -2096,7 +2096,7 @@
     }
   ],
   "qualitySummary": {
-    "sourceLimited": true,
+    "sourceLimited": false,
     "status": "warning",
     "warningCodes": [
       "stale_reference_year"
