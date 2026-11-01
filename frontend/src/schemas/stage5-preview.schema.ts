@@ -530,7 +530,8 @@ function provenanceStatus(raw: string): ProvenanceStatus {
     raw === "source_limited" ||
     raw === "secondary_user_provided" ||
     raw === "live_verified_normalized" ||
-    raw === "ai_assisted"
+    raw === "ai_assisted" ||
+    raw === "pending_external_access"
   ) {
     return "live_verified_normalized";
   }

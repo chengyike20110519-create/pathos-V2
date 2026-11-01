@@ -4,9 +4,9 @@
     "feature-readiness.json": "f2fa2b66e78940d1cdb09432fec20bee841091995388aefc792c118487d87204",
     "integration-diagnostics.json": "039d6102a19b55701b1471ac34459064d1b1e11ef40154dd5943a03a31d124b0",
     "region-metrics.json": "23c01d54e6fe7111abdd5a97893b972c260976933df9408c629a5cb231bc19fd",
-    "source-index.json": "2f3779c4c90c0afa78bd7911332f1d572fbe1901c9a94d6b8061ef7b8664e7cb",
+    "source-index.json": "703b8f7d16d0212767eb78af42400b4167673269cd00a78a0f837a5c67e683a9",
     "status-dictionary.json": "90d119c8dc38c97f43dfe58253ae4c02b90c1e37e6ac605b0af006486f81393a",
-    "universities.json": "b67e0da07525e5204a90c27fd2d8b31d301c66cd11b9df89e2da1be4efaa803f",
+    "universities.json": "91282fe30ff823669824bda08e570102bd221b1b03b96fb57fa12d3fbb45e8f4",
     "university-details/candidate-v2/arizona-state-university.json": "f9286f8196e748700685330f04b5292c6dbbab99cfd85ac8ed05b2c805629a03",
     "university-details/candidate-v2/boston-college.json": "6b3c3803df31699a05dff822da9523402f5913b08d93af432377c72ea2571dcb",
     "university-details/candidate-v2/boston-university.json": "9df641bf23a6ac91f1b58225a3e2da2154e1cc94eb418670163c45ad544a4e38",
@@ -69,16 +69,18 @@
     "university-details/candidate-v2/vanderbilt-university.json": "834552fa1e9151057f20b55609ad0633f614b4d7bea2cc3458bb24da335dc64f",
     "university-details/candidate-v2/washington-university-in-st-louis.json": "a1af5843dc6f19bd38d2a7238b20b38b92a0834082ab80ed43e9122f96816543",
     "university-details/candidate-v2/yale-university.json": "5bcd87f5c9764f9beb551d37068efba7f108caba3f17b587e4afdf59ef0bef33",
-    "validation-result.json": "a8c4e146973e7dc20ca77e14b013b508d2399c69d32d839c40bae11381d4fbbb"
+    "validation-result.json": "a8c4e146973e7dc20ca77e14b013b508d2399c69d32d839c40bae11381d4fbbb",
+    "university-details/candidate-v2/pepperdine-university.json": "ec2668d4d5fd0ce09cd611c64bc5f6de090e00f93d7763409a4e818a3c1fc4d5",
+    "university-details/candidate-v2/santa-clara-university.json": "e7db45318886db3c3838753350e2b6254c6d415a3f04219675e595d154df2263"
   },
   "contractVersion": "pathos-preview-v1",
   "counts": {
     "news": 0,
     "regionMetrics": 0,
-    "universities": 94
+    "universities": 96
   },
   "datasetVersion": "stage5-preview-ec8c66e",
-  "detailCount": 94,
+  "detailCount": 96,
   "disabledFeatures": [
     "international_applicant_section",
     "parent_mode",
@@ -189,11 +191,11 @@
   "notFinal": true,
   "previewOnly": true,
   "schemaVersion": "pathos-preview-v1",
-  "schoolCount": 94,
+  "schoolCount": 96,
   "sourceCheckpoint": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
   "sourceLimited": true,
-  "summaryCount": 94,
+  "summaryCount": 96,
   "verifiedRecordCount": 904,
   "view": "preview",
   "warningCodes": [

@@ -38,7 +38,7 @@ describe("campus discovery", () => {
     const response = await request();
     expect(response.status).toBe(200);
     const page = parseCampusDiscoveryPage(await response.json());
-    expect(page.cards).toHaveLength(12); expect(page.total).toBe(94); expect(page.nextOffset).toBe(12);
+    expect(page.cards).toHaveLength(12); expect(page.total).toBe(96); expect(page.nextOffset).toBe(12);
     expect(query).toHaveBeenCalledTimes(1);
     const sql = query.mock.calls[0][0];
     expect(sql).toContain("review_status = 'approved'"); expect(sql).toContain("license_status = 'verified'");
@@ -56,15 +56,15 @@ describe("campus discovery", () => {
     const response = await request(extra); expect(response.status).toBe(400); expect(query).not.toHaveBeenCalled();
   });
 
-  it("covers all 94 schools without duplicates across eight pages", async () => {
+  it("covers all 96 schools without duplicates across eight pages", async () => {
     const { pageDiscoveryCards } = await import("@/server/campus-discovery");
     const seen: string[] = [];
-    for (let offset = 0; offset < 94; offset += 12) {
+    for (let offset = 0; offset < 96; offset += 12) {
       const page = pageDiscoveryCards(cards, { offset, limit: 12, seed: "test-seed" });
       seen.push(...page.cards.map((card) => card.summary.id));
       if (offset === 84) expect(page.nextOffset).toBeNull();
     }
-    expect(seen).toHaveLength(94); expect(new Set(seen).size).toBe(94);
+    expect(seen).toHaveLength(96); expect(new Set(seen).size).toBe(96);
     const other = pageDiscoveryCards(cards, { offset: 0, limit: 12, seed: "other-seed" });
     expect(other.cards.map((card) => card.summary.id)).not.toEqual(seen.slice(0, 12));
     expect(cards[0].summary.id).toBe(raw[0].id); // Sort never mutates the source.
@@ -83,7 +83,7 @@ describe("campus discovery", () => {
     for (let day = 1; day <= 16; day += 1) {
       pageDiscoveryCards(cards, { offset: 0, limit: 6, seed: `campus-2026-10-${String(day).padStart(2, "0")}` }).cards.forEach((card) => seen.add(card.summary.id));
     }
-    expect(seen.size).toBe(94);
+    expect(seen.size).toBe(96);
   });
 
   it("keeps full-text limitations and corrected Chinese display names visible", async () => {
@@ -101,7 +101,7 @@ describe("campus discovery", () => {
   });
 
   it("rejects unsafe optional media URLs and malformed pagination", () => {
-    const valid = { cards: [cards[0]], total: 94, offset: 0, nextOffset: 1, seed: "test" };
+    const valid = { cards: [cards[0]], total: 96, offset: 0, nextOffset: 1, seed: "test" };
     expect(() => parseCampusDiscoveryPage(valid)).not.toThrow();
     expect(() => parseCampusDiscoveryPage({ ...valid, nextOffset: 0 })).toThrow();
     expect(() => parseCampusDiscoveryPage({ ...valid, cards: [{ ...cards[0], photo: { id: "image", url: "javascript:alert(1)", sourceUrl: "https://example.edu/photo", label: "photo", publisher: "official" } }] })).toThrow();

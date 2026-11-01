@@ -2,6 +2,24 @@
   "contractVersion": "pathos-preview-v1",
   "sources": [
     {
+      "publisher": "IECG 美本院校资料 Top90-2025（用户提供参考文档）",
+      "referenceYear": 2025,
+      "scope": ["Pepperdine University undergraduate program reference"],
+      "sourceId": "iecg-2025-a3260f6b30eedea9",
+      "sourceType": "user_provided_document",
+      "status": "source_limited",
+      "url": null
+    },
+    {
+      "publisher": "IECG 美本院校资料 Top90-2025（用户提供参考文档）",
+      "referenceYear": 2025,
+      "scope": ["Santa Clara University undergraduate program reference"],
+      "sourceId": "iecg-2025-b508508a455972e8",
+      "sourceType": "user_provided_document",
+      "status": "source_limited",
+      "url": null
+    },
+    {
       "publisher": "University at Buffalo Office of Institutional Analysis",
       "referenceYear": 2025,
       "scope": [
@@ -2164,6 +2182,179 @@
       "url": "https://irp.osu.edu/sites/default/files/documents/2025/11/CDS-2024-2025-The-Ohio-State-University-Columbus.pdf"
     },
     {
+      "universityId": "candidate-v2:rensselaer-polytechnic-institute",
+      "publisher": "Rensselaer Polytechnic Institute Office of Financial Aid",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate tuition",
+        "undergraduate fees",
+        "undergraduate cost of attendance"
+      ],
+      "sourceId": "official-rpi-cost-of-attendance-2026-27",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://financialaid.rpi.edu/cost-attendance",
+      "checkedOn": "2026-11-01",
+      "notes": "Official page separates tuition, fees, food and housing, personal expenses and total cost."
+    },
+    {
+      "universityId": "candidate-v2:rensselaer-polytechnic-institute",
+      "publisher": "Rensselaer Polytechnic Institute Office of Institutional Research and Assessment",
+      "referenceYear": "2025-26",
+      "scope": [
+        "Common Data Set",
+        "institutional enrollment data",
+        "student achievement data"
+      ],
+      "sourceId": "official-rpi-institutional-research-2025-26",
+      "sourceType": "official_institutional_research",
+      "status": "verified",
+      "url": "https://provost.rpi.edu/institutional-research-and-assessment",
+      "checkedOn": "2026-11-01",
+      "notes": "The Common Data Set is linked from the official research office; specific values must be extracted from the report before publishing."
+    },
+    {
+      "universityId": "candidate-v2:university-of-miami",
+      "publisher": "University of Miami Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "undergraduate tuition and fees"
+      ],
+      "sourceId": "official-miami-tuition-fees-2026-27",
+      "sourceType": "official_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.miami.edu/general-university-information/university-policies/financial-payment-policies/tuition-fees/",
+      "checkedOn": "2026-11-01",
+      "notes": "Official bulletin lists charges for academic year 2026-27; tuition and fees remain separate from total cost of attendance."
+    },
+    {
+      "universityId": "candidate-v2:george-washington-university",
+      "publisher": "George Washington University Faculty Senate / Office of Institutional Research",
+      "referenceYear": 2025,
+      "scope": [
+        "undergraduate enrollment"
+      ],
+      "sourceId": "official-gwu-undergraduate-enrollment-fall-2025",
+      "sourceType": "official_enrollment_update",
+      "status": "verified",
+      "url": "https://facultysenate.gwu.edu/sites/g/files/zaxdzs6626/files/2025-12/faculty_senate_fall_2025_enrollment_update_12-12-2025.pdf",
+      "checkedOn": "2026-11-01",
+      "notes": "The official Fall 2025 enrollment update reports 11,148 undergraduate students."
+    },
+    {
+      "universityId": "candidate-v2:george-washington-university",
+      "publisher": "George Washington University Bulletin",
+      "referenceYear": "2026-27",
+      "scope": [
+        "full-time undergraduate tuition",
+        "required fees"
+      ],
+      "sourceId": "official-gwu-bulletin-fees-2026-27",
+      "sourceType": "official_bulletin",
+      "status": "verified",
+      "url": "https://bulletin.gwu.edu/fees-financial-regulations/",
+      "checkedOn": "2026-11-01",
+      "notes": "Tuition is listed for entering undergraduates in 2026-27; room, dining and other cost-of-attendance components are separate."
+    },
+    {
+      "universityId": "candidate-v2:tulane-university",
+      "publisher": "Tulane University Student Accounts",
+      "referenceYear": "2025-26",
+      "scope": [
+        "Newcomb-Tulane College undergraduate tuition and fees"
+      ],
+      "sourceId": "official-tulane-ntc-costs-2025-26",
+      "sourceType": "official_pdf",
+      "status": "verified",
+      "url": "https://studentaccounts.tulane.edu/sites/default/files/2025-03/2025-2026_NTC_COSTS_20250325.pdf",
+      "checkedOn": "2026-11-01",
+      "notes": "Official NTC cost sheet; it covers undergraduate tuition and fees, not a whole-university cost figure."
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-merced",
+      "publisher": "UC Merced Financial Aid",
+      "referenceYear": "2025-26",
+      "scope": [
+        "undergraduate cost of attendance",
+        "non-resident tuition"
+      ],
+      "sourceId": "official-uc-merced-cost-of-attendance-2025-26",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://financialaid.ucmerced.edu/node/61",
+      "checkedOn": "2026-11-01",
+      "notes": "The page separates fees, housing, food, insurance and non-resident tuition; the total is not tuition alone."
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-merced",
+      "publisher": "University of California, Merced",
+      "referenceYear": "2025-26",
+      "scope": [
+        "combined undergraduate and graduate enrollment",
+        "institutional overview"
+      ],
+      "sourceId": "official-uc-merced-about-2025-26-enrollment",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.ucmerced.edu/about",
+      "checkedOn": "2026-11-01",
+      "notes": "The official page reports approximately 9,000 undergraduate and graduate students combined; it is not an undergraduate-only headcount."
+    },
+    {
+      "universityId": "candidate-v2:clemson-university",
+      "publisher": "Clemson University Undergraduate Admissions",
+      "referenceYear": 2025,
+      "scope": [
+        "undergraduate enrollment",
+        "graduate enrollment",
+        "total enrollment",
+        "first-year applications",
+        "first-year acceptance rate",
+        "first-year enrollment",
+        "SAT and ACT middle 50 percent"
+      ],
+      "sourceId": "official-clemson-admissions-statistics-2025",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://mouse.clemson.edu/admissions/undergraduate-admissions/discover/statistics.html",
+      "checkedOn": "2026-11-01",
+      "notes": "Official page reports 2025 enrollment of 24,060 undergraduates, 5,485 graduate students, and 29,545 total students; first-year admissions figures remain a separate cohort scope."
+    },
+    {
+      "universityId": "candidate-v2:university-at-buffalo",
+      "publisher": "University at Buffalo Undergraduate Admissions",
+      "referenceYear": 2024,
+      "scope": [
+        "undergraduate enrollment",
+        "undergraduate programs",
+        "student-faculty ratio"
+      ],
+      "sourceId": "official-ub-admissions-information-sheet-2024",
+      "sourceType": "official_pdf",
+      "status": "verified",
+      "url": "https://www.buffalo.edu/content/dam/www/admissions/apply/AdmissionsInfoSheet.pdf",
+      "checkedOn": "2026-11-01",
+      "notes": "The sheet explicitly labels undergraduate enrollment as 2024; it is suitable for that reference year only."
+    },
+    {
+      "universityId": "candidate-v2:university-of-illinois-at-chicago",
+      "publisher": "University of Illinois Chicago",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate enrollment",
+        "graduate and professional enrollment",
+        "total enrollment",
+        "tuition and fees",
+        "institutional ranking claim"
+      ],
+      "sourceId": "official-uic-about-facts-2026",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.uic.edu/about/",
+      "checkedOn": "2026-11-01",
+      "notes": "Official About page reports Fall 2026: 25,620 undergraduates, 7,294 graduate students, 4,285 professional students, and 37,199 total students. The profile graduate field stores graduate plus professional students (11,579) so the enrollment totals reconcile. Tuition is separately labeled 2026-27."
+    },
+    {
       "universityId": "candidate-v2:north-carolina-state-university",
       "publisher": "North Carolina State University Catalog",
       "referenceYear": 2026,
@@ -2206,6 +2397,136 @@
       "url": "https://apps.oirp.ncsu.edu/factbook/index.cfm?action=student.success",
       "checkedOn": "2026-10-27",
       "notes": "Official NC State student-success data reports 93.5% first-year retention for the Fall 2019 cohort."
+    },
+    {
+      "universityId": "candidate-v2:university-of-connecticut",
+      "publisher": "University of Connecticut",
+      "referenceYear": "2025-26",
+      "scope": [
+        "total student enrollment",
+        "undergraduate cost of attendance",
+        "academic programs overview"
+      ],
+      "sourceId": "official-uconn-annual-fact-sheet-2026",
+      "sourceType": "official_fact_sheet",
+      "status": "verified",
+      "url": "https://uconn.edu/annual-fact-sheet",
+      "checkedOn": "2026-11-01",
+      "notes": "The page reports total Fall 2025 enrollment and total undergraduate student cost; it must not be used as a standalone undergraduate-headcount source."
+    },
+    {
+      "universityId": "candidate-v2:university-of-california-riverside",
+      "publisher": "UC Riverside Institutional Research",
+      "referenceYear": 2026,
+      "scope": [
+        "campus enrollment by term",
+        "undergraduate admission definitions",
+        "admission rate definitions"
+      ],
+      "sourceId": "official-ucr-campus-facts-and-admission-2026",
+      "sourceType": "official_institutional_research",
+      "status": "verified",
+      "url": "https://ir.ucr.edu/campus-facts-tables",
+      "checkedOn": "2026-11-01",
+      "notes": "UCR separates campus enrollment tables from undergraduate admission snapshots; values must retain their term or academic-year scope."
+    },
+    {
+      "universityId": "candidate-v2:north-carolina-state-university",
+      "publisher": "NC State University Analytics",
+      "referenceYear": "2025-26",
+      "scope": [
+        "institutional fast facts",
+        "graduation rate",
+        "Common Data Set access"
+      ],
+      "sourceId": "official-nc-state-fast-facts-2025-26",
+      "sourceType": "official_institutional_research",
+      "status": "verified",
+      "url": "https://uda.ncsu.edu/institutional-analytics/fast-facts/",
+      "checkedOn": "2026-11-01",
+      "notes": "Fast Facts reports 2025-26 academic-year institutional data; detailed undergraduate admission figures remain in the admissions source."
+    },
+    {
+      "universityId": "candidate-v2:stony-brook-university",
+      "publisher": "Stony Brook University",
+      "referenceYear": "2025-26",
+      "scope": [
+        "first-year applications",
+        "first-year admitted and enrolled students",
+        "tuition and fees"
+      ],
+      "sourceId": "official-stony-brook-facts-rankings-2025",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.stonybrook.edu/about/facts-and-rankings/",
+      "checkedOn": "2026-11-01",
+      "notes": "Admissions figures are first-year cohort data; tuition is separated by resident/non-resident scope."
+    },
+    {
+      "universityId": "candidate-v2:villanova-university",
+      "publisher": "Villanova University Undergraduate Admission",
+      "referenceYear": 2030,
+      "scope": [
+        "first-year applicants",
+        "first-year admit rate",
+        "target class size",
+        "SAT and ACT middle 50 percent"
+      ],
+      "sourceId": "official-villanova-admission-profile-class-2030",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.villanova.edu/university/undergraduate-admission/applying-to-villanova/admission-profile.html",
+      "checkedOn": "2026-11-01",
+      "notes": "Class of 2030 cohort profile; not interchangeable with total undergraduate enrollment."
+    },
+    {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "publisher": "UMass Amherst Admissions",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate enrollment",
+        "first-year applications",
+        "admitted students",
+        "retention and graduation"
+      ],
+      "sourceId": "official-umass-admissions-statistics-fall-2026",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.umass.edu/admissions/apply/admissions-statistics",
+      "checkedOn": "2026-11-01",
+      "notes": "Official page labels the figures Fall 2026; admissions cohort and undergraduate headcount must retain separate scopes."
+    },
+    {
+      "universityId": "candidate-v2:tulane-university",
+      "publisher": "Tulane University Office of Assessment and Institutional Research",
+      "referenceYear": 2025,
+      "scope": [
+        "total student enrollment",
+        "Common Data Set access",
+        "institutional enrollment reporting"
+      ],
+      "sourceId": "official-tulane-oair-fast-facts-fall-2025",
+      "sourceType": "official_institutional_research",
+      "status": "verified",
+      "url": "https://oair.tulane.edu/",
+      "checkedOn": "2026-11-01",
+      "notes": "The fast facts value is total Fall 2025 enrollment; it must not be copied into the undergraduate-only field without the detailed report."
+    },
+    {
+      "universityId": "candidate-v2:michigan-state-university",
+      "publisher": "Michigan State University",
+      "referenceYear": "2024-25",
+      "scope": [
+        "total enrollment",
+        "new undergraduate enrollment",
+        "tuition policy context"
+      ],
+      "sourceId": "official-msu-enrollment-update-2024-25",
+      "sourceType": "official_news_and_budget_document",
+      "status": "verified",
+      "url": "https://msutoday.msu.edu/news/2024/10/msu-celebrates-its-largest-enrollment-yet-with-52089-students",
+      "checkedOn": "2026-11-01",
+      "notes": "The source reports total university enrollment and new undergraduate enrollment, not the undergraduate headcount used by the map card."
     },
     {
       "universityId": "candidate-v2:stevens-institute-of-technology",
@@ -2317,6 +2638,56 @@
       "sourceType": "official_undergraduate_programs",
       "status": "verified",
       "url": "https://reg.msu.edu/academicprograms/Programs.aspx?PType=GC&Sort=College"
+    },
+    {
+      "universityId": "candidate-v2:stevens-institute-of-technology",
+      "publisher": "Stevens Institute of Technology",
+      "referenceYear": 2025,
+      "scope": [
+        "undergraduate enrollment",
+        "undergraduate acceptance rate",
+        "undergraduate applicants",
+        "SAT middle 50 percent"
+      ],
+      "sourceId": "official-stevens-facts-statistics-2025",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.stevens.edu/page-branding-landing/facts-statistics",
+      "checkedOn": "2026-11-01",
+      "notes": "Official page labels enrollment as Fall 2025 and admissions statistics as incoming Fall 2025."
+    },
+    {
+      "universityId": "candidate-v2:case-western-reserve-university",
+      "publisher": "Case Western Reserve University",
+      "referenceYear": 2025,
+      "scope": [
+        "undergraduate enrollment",
+        "degrees awarded by school",
+        "campus statistics"
+      ],
+      "sourceId": "official-cwru-annual-report-2024-25",
+      "sourceType": "official_annual_report",
+      "status": "verified",
+      "url": "https://case.edu/annualreport/",
+      "checkedOn": "2026-11-01",
+      "notes": "Official annual report labels the enrollment figures as Fall 2025."
+    },
+    {
+      "universityId": "candidate-v2:college-of-william-and-mary",
+      "publisher": "William & Mary Undergraduate Admission",
+      "referenceYear": 2030,
+      "scope": [
+        "first-year applications",
+        "first-year acceptance rate",
+        "enrolling students",
+        "SAT and ACT middle 50 percent"
+      ],
+      "sourceId": "official-wm-admission-facts-class-2030",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.wm.edu/admission/undergraduateadmission/facts-figures/",
+      "checkedOn": "2026-11-01",
+      "notes": "Cohort statistics for the admitted/enrolled Class of 2030; not interchangeable with total university enrollment."
     },
     {
       "universityId": "candidate-v2:brandeis-university",
@@ -9294,6 +9665,54 @@
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
     },
     {
+      "universityId": "candidate-v2:brandeis-university",
+      "publisher": "Brandeis University Undergraduate Admissions",
+      "referenceYear": 2025,
+      "scope": [
+        "first-year applications",
+        "undergraduate acceptance rate",
+        "first-year enrollment",
+        "SAT middle 50 percent"
+      ],
+      "sourceId": "official-brandeis-admissions-numbers-2025",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.brandeis.edu/admissions/why-brandeis/numbers.html",
+      "checkedOn": "2026-11-01",
+      "notes": "Official admissions page labels the figures as Fall 2025; the cohort year must remain attached to every imported field."
+    },
+    {
+      "universityId": "candidate-v2:brandeis-university",
+      "publisher": "Brandeis University",
+      "referenceYear": "2025-26",
+      "scope": [
+        "undergraduate tuition",
+        "room and board"
+      ],
+      "sourceId": "official-brandeis-facts-cost-2025-26",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.brandeis.edu/about/facts/",
+      "checkedOn": "2026-11-01",
+      "notes": "Tuition and room-and-board figures are separate from total cost of attendance; do not merge them into one tuition field."
+    },
+    {
+      "universityId": "candidate-v2:university-of-illinois-at-urbana-champaign",
+      "publisher": "University of Illinois Urbana-Champaign Undergraduate Admissions",
+      "referenceYear": 2026,
+      "scope": [
+        "undergraduate enrollment overview",
+        "undergraduate majors overview",
+        "official institutional ranking claims"
+      ],
+      "sourceId": "official-uiuc-admissions-facts-rankings-2026",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.admissions.illinois.edu/facts-rankings",
+      "checkedOn": "2026-11-01",
+      "notes": "Official admissions facts page reviewed during the source audit; claims remain scoped to the published overview and do not verify every university profile field."
+    },
+    {
       "publisher": "Official university admissions — admission.pepperdine.edu",
       "referenceYear": 2026,
       "scope": [
@@ -9305,6 +9724,102 @@
       "url": "https://admission.pepperdine.edu/apply/undergraduate/requirements/english-proficiency.htm",
       "checkedOn": "2026-10-26",
       "notes": "Imported from the confirmed English-policy ledger; source was not re-fetched during this wiring pass."
+    },
+    {
+      "universityId": "candidate-v2:florida-state-university",
+      "publisher": "Florida State University",
+      "referenceYear": 2026,
+      "scope": ["student-faculty ratio"],
+      "sourceId": "official-fsu-about-student-faculty-ratio",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://www.fsu.edu/about/",
+      "checkedOn": "2026-11-01",
+      "notes": "Official About page states a 17:1 student/faculty ratio; it is kept separate from enrollment-year fields."
+    },
+    {
+      "universityId": "candidate-v2:george-washington-university",
+      "publisher": "George Washington University Office of Institutional Research and Planning",
+      "referenceYear": 2024,
+      "scope": ["student-faculty ratio"],
+      "sourceId": "official-gwu-self-study-student-faculty-ratio",
+      "sourceType": "official_university_report",
+      "status": "verified",
+      "url": "https://publichealth.gwu.edu/sites/g/files/zaxdzs4586/files/2024-12/casce_self_study_gwu_10.15.2024.pdf",
+      "checkedOn": "2026-11-01",
+      "notes": "Official self-study states a 12:1 student-to-faculty ratio; the ratio reference year is explicit."
+    },
+    {
+      "universityId": "candidate-v2:university-of-pittsburgh",
+      "publisher": "University of Pittsburgh Office of Institutional Research",
+      "referenceYear": "2023-24",
+      "scope": ["student-faculty ratio"],
+      "sourceId": "official-pitt-cds-2023-24-student-faculty-ratio",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://www.ir.pitt.edu/sites/default/files/assets/2023-2024_CDS_%20Pgh.pdf",
+      "checkedOn": "2026-11-01",
+      "notes": "Pittsburgh-campus Common Data Set reports a 13:1 student-to-faculty ratio for Fall 2023."
+    },
+    {
+      "universityId": "candidate-v2:wake-forest-university",
+      "publisher": "Wake Forest University Undergraduate Admissions",
+      "referenceYear": "2025-26",
+      "scope": ["undergraduate enrollment", "graduate and professional enrollment", "total enrollment"],
+      "sourceId": "official-wfu-facts-enrollment-2025-26",
+      "sourceType": "official_html",
+      "status": "verified",
+      "url": "https://admissions.wfu.edu/facts/",
+      "checkedOn": "2026-11-01",
+      "notes": "Official Facts & Figures page reports 5,595 undergraduates, 4,038 graduate and professional students, and 9,633 total university enrollment for 2025-26."
+    },
+    {
+      "universityId": "candidate-v2:brandeis-university",
+      "publisher": "Brandeis University Office of Institutional Research",
+      "referenceYear": "2025-26",
+      "scope": ["undergraduate enrollment", "graduate enrollment", "total enrollment"],
+      "sourceId": "official-brandeis-cds-enrollment-2025-26",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://www.brandeis.edu/institutional-research/docs/cds-2025-26.pdf",
+      "checkedOn": "2026-11-01",
+      "notes": "The official CDS reports 3,358 total undergraduates, 1,384 total graduate students, and 4,742 grand total students as of the 2025 fall reporting date."
+    },
+    {
+      "universityId": "candidate-v2:villanova-university",
+      "publisher": "Villanova University Office of Decision Support",
+      "referenceYear": "2025-26",
+      "scope": ["undergraduate enrollment", "graduate enrollment", "total enrollment"],
+      "sourceId": "official-villanova-cds-enrollment-2025-26",
+      "sourceType": "official_common_data_set",
+      "status": "verified",
+      "url": "https://www.villanova.edu/content/dam/villanova/provost/decision_support/CDS-2025-2026-v3.pdf",
+      "checkedOn": "2026-11-01",
+      "notes": "The official CDS reports 6,935 total undergraduates, 3,172 total graduate students, and 10,107 grand total students as of the 2025 fall reporting date."
+    },
+    {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "publisher": "UMass Amherst University Analytics and Institutional Research",
+      "referenceYear": 2026,
+      "scope": ["undergraduate enrollment", "graduate enrollment", "total enrollment"],
+      "sourceId": "official-umass-uair-fall-2026-enrollment",
+      "sourceType": "official_institutional_analytics",
+      "status": "verified",
+      "url": "https://www.umass.edu/uair/",
+      "checkedOn": "2026-11-01",
+      "notes": "The institutional Analytics page reports Fall 2026 totals of 23,630 undergraduates, 6,780 graduate students, and 30,410 students. The admissions page separately displays approximately 22.7K undergraduate students; definitions must be reconciled before profile overwrite."
+    },
+    {
+      "universityId": "candidate-v2:university-of-massachusetts-amherst",
+      "publisher": "UMass Amherst University Analytics and Institutional Research",
+      "referenceYear": 2025,
+      "scope": ["enrollment definition by population", "undergraduate enrollment", "graduate enrollment", "total enrollment"],
+      "sourceId": "official-umass-fall-2025-enrollment-factsheet",
+      "sourceType": "official_enrollment_factsheet",
+      "status": "verified",
+      "url": "https://www.umass.edu/uair/media/961/download",
+      "checkedOn": "2026-11-01",
+      "notes": "Fall 2025 fact sheet explicitly separates regular undergraduate/graduate counts from University Without Walls (UWW); total headcount including UWW is 31,318, while regular undergraduate headcount is 23,067 and graduate headcount is 4,470. This definition split explains why the public summary pages are not directly interchangeable."
     }
   ]
 }

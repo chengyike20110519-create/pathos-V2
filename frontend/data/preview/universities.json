@@ -601,6 +601,8 @@
     "rankingTier": "national_top_50",
     "rankingYear": null,
     "region": "Far West",
+    "topPrograms": [],
+    "qualitySummary": {"warningCodes": ["secondary_reference_profile", "coordinate_public_geospatial_reference"]},
     "schoolType": "private_nonprofit",
     "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
     "sourceStatus": "verified_frozen_with_warnings",
@@ -1646,6 +1648,8 @@
     "rankingTier": "outside_numeric_scope",
     "rankingYear": null,
     "region": "Far West",
+    "topPrograms": [],
+    "qualitySummary": {"warningCodes": ["secondary_reference_profile", "coordinate_public_geospatial_reference"]},
     "schoolType": "private_nonprofit",
     "sourceCommit": "ec8c66e200b566dba4de35987aa5213960749a57",
     "sourceStatus": "verified_frozen_with_warnings",
@@ -6536,10 +6540,10 @@
       "filterBehavior": "exclude_from_numeric_range"
     },
     "enrollmentSummary": {
-      "undergraduate": 5471,
-      "graduate": 3650,
-      "total": 9121,
-      "referenceYear": 2024
+      "undergraduate": 5595,
+      "graduate": 4038,
+      "total": 9633,
+      "referenceYear": 2025
     },
     "costSummary": {
       "minimumUsd": 94600,
@@ -6571,9 +6575,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -6584,7 +6589,8 @@
     "region": "Southeast",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -6610,10 +6616,10 @@
       "filterBehavior": "exclude_from_numeric_range"
     },
     "enrollmentSummary": {
-      "undergraduate": 6186,
-      "graduate": 6080,
-      "total": 12266,
-      "referenceYear": 2024
+      "undergraduate": 6534,
+      "graduate": 5864,
+      "total": 12398,
+      "referenceYear": 2025
     },
     "costSummary": {
       "minimumUsd": 88125,
@@ -6645,9 +6651,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -6658,7 +6665,8 @@
     "region": "Great Lakes",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -6792,7 +6800,7 @@
       "Psychology",
       "Political Science"
     ],
-    "studentFacultyRatio": 1,
+    "studentFacultyRatio": 17,
     "acceptanceRate": 24.22,
     "sat25": null,
     "sat75": null,
@@ -6880,9 +6888,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -6893,7 +6902,8 @@
     "region": "Southeast",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -7139,10 +7149,10 @@
       "filterBehavior": "exclude_from_numeric_range"
     },
     "enrollmentSummary": {
-      "undergraduate": 7065,
-      "graduate": 3054,
-      "total": 10119,
-      "referenceYear": 2024
+      "undergraduate": 6935,
+      "graduate": 3172,
+      "total": 10107,
+      "referenceYear": 2025
     },
     "costSummary": {
       "minimumUsd": 71510,
@@ -7174,9 +7184,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -7187,7 +7198,8 @@
     "region": "Mid East",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -7248,9 +7260,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -7261,7 +7274,8 @@
     "region": "New England",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -7287,10 +7301,10 @@
       "filterBehavior": "exclude_from_numeric_range"
     },
     "enrollmentSummary": {
-      "undergraduate": 11,
-      "graduate": 13697,
-      "total": 13708,
-      "referenceYear": 2024
+    "undergraduate": 11148,
+    "graduate": 12936,
+    "total": 24500,
+    "referenceYear": 2025
     },
     "costSummary": {
       "minimumUsd": 80140,
@@ -7308,7 +7322,7 @@
     "topPrograms": [
       "Computer Science, B.A./B.S."
     ],
-    "studentFacultyRatio": 1,
+    "studentFacultyRatio": 12,
     "acceptanceRate": 47.1,
     "sat25": null,
     "sat75": null,
@@ -7322,9 +7336,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -7334,7 +7349,8 @@
     "region": "Mid East",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -7507,10 +7523,10 @@
       "filterBehavior": "exclude_from_numeric_range"
     },
     "enrollmentSummary": {
-      "undergraduate": 3632,
-      "graduate": 1673,
-      "total": 5305,
-      "referenceYear": 2024
+      "undergraduate": 3358,
+      "graduate": 1384,
+      "total": 4742,
+      "referenceYear": 2025
     },
     "costSummary": {
       "minimumUsd": 87624,
@@ -7542,9 +7558,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -7555,7 +7572,8 @@
     "region": "New England",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -7838,7 +7856,7 @@
     "topPrograms": [
       "Computer Science"
     ],
-    "studentFacultyRatio": 1,
+    "studentFacultyRatio": 13,
     "acceptanceRate": 58.1,
     "sat25": null,
     "sat75": null,
@@ -8144,9 +8162,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -8156,7 +8175,8 @@
     "region": "Mid East",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -8335,10 +8355,10 @@
       "filterBehavior": "exclude_from_numeric_range"
     },
     "enrollmentSummary": {
-      "undergraduate": 22495,
-      "graduate": 11411,
-      "total": 33906,
-      "referenceYear": 2024
+      "undergraduate": 25620,
+      "graduate": 11579,
+      "total": 37199,
+      "referenceYear": 2026
     },
     "costSummary": {
       "minimumUsd": 58328,
@@ -8377,9 +8397,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -8390,7 +8411,8 @@
     "region": "Great Lakes",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -8416,15 +8438,15 @@
       "filterBehavior": "exclude_from_numeric_range"
     },
     "enrollmentSummary": {
-      "undergraduate": 23401,
-      "graduate": 5676,
-      "total": 29077,
-      "referenceYear": 2024
+      "undergraduate": 24060,
+      "graduate": 5485,
+      "total": 29545,
+      "referenceYear": 2025
     },
     "costSummary": {
       "minimumUsd": 55890,
       "maximumUsd": 55890,
-      "displayLabel": "$ $55,890",
+      "displayLabel": "$55,890",
       "comparisonSafe": true,
       "scopes": [
         "institution_undergraduate_tuition_published"
@@ -8451,9 +8473,10 @@
     "datasetVersion": "stage5-preview-ec8c66e",
     "warningSummary": {
       "codes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ],
-      "count": 1,
+      "count": 2,
       "hasWarnings": true
     },
     "nullableFields": [
@@ -8464,7 +8487,8 @@
     "region": "Southeast",
     "qualitySummary": {
       "warningCodes": [
-        "candidate-v2_added_from_iecg_seed"
+        "candidate-v2_added_from_iecg_seed",
+        "official_profile_conflict_pending_reconciliation"
       ]
     }
   },
@@ -8906,5 +8930,63 @@
         "candidate-v2_added_from_iecg_seed"
       ]
     }
+  },
+  {
+    "id": "candidate-v2:pepperdine-university",
+    "name": "Pepperdine University",
+    "nameZh": "佩珀代因大学",
+    "chineseName": "佩珀代因大学",
+    "aliases": ["Pepperdine University", "佩珀代因大学"],
+    "latitude": 34.0410624,
+    "longitude": -118.7082778,
+    "state": "CA",
+    "city": "Malibu",
+    "region": "Far West",
+    "country": "US",
+    "topPrograms": [],
+    "qualitySummary": {"warningCodes": ["secondary_reference_profile", "coordinate_public_geospatial_reference"]},
+    "rankingSummary": {
+      "nationalRank": null,
+      "rankingTier": "other",
+      "rankingLabel": "暂未核验",
+      "sourceIds": [],
+      "status": "not_in_current_national_scope",
+      "filterBehavior": "exclude_from_numeric_range"
+    },
+    "acceptanceRate": 67.37,
+    "rankingTier": "other",
+    "displayTier": "preview",
+    "previewOnly": true,
+    "datasetVersion": "iecg-2025-enrichment",
+    "nullableFields": ["rankingSummary.nationalRank"]
+  },
+  {
+    "id": "candidate-v2:santa-clara-university",
+    "name": "Santa Clara University",
+    "nameZh": "圣塔克拉拉大学",
+    "chineseName": "圣塔克拉拉大学",
+    "aliases": ["Santa Clara University", "圣塔克拉拉大学"],
+    "latitude": 37.35,
+    "longitude": -121.93333,
+    "state": "CA",
+    "city": "Santa Clara",
+    "region": "Far West",
+    "country": "US",
+    "topPrograms": [],
+    "qualitySummary": {"warningCodes": ["secondary_reference_profile", "coordinate_public_geospatial_reference"]},
+    "rankingSummary": {
+      "nationalRank": null,
+      "rankingTier": "other",
+      "rankingLabel": "暂未核验",
+      "sourceIds": [],
+      "status": "not_in_current_national_scope",
+      "filterBehavior": "exclude_from_numeric_range"
+    },
+    "acceptanceRate": 47.6,
+    "rankingTier": "other",
+    "displayTier": "preview",
+    "previewOnly": true,
+    "datasetVersion": "iecg-2025-enrichment",
+    "nullableFields": ["rankingSummary.nationalRank"]
   }
 ]

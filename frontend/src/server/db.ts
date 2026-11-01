@@ -3,12 +3,19 @@ import type { QueryConfig, QueryResult, QueryResultRow } from "pg";
 
 let _pool: Pool | null = null;
 
+async function resetPool(): Promise<void> {
+  const pool = _pool;
+  _pool = null;
+  if (pool) await pool.end().catch(() => undefined);
+}
+
 export function getPool(): Pool {
   if (_pool) return _pool;
   const connStr = process.env.DATABASE_URL;
   if (!connStr) throw new DatabaseNotConfiguredError();
   _pool = new Pool({
     connectionString: connStr,
+    ...(connStr.includes("pooler.supabase.com") ? { family: 4 } : {}),
     ssl: connStr.includes("supabase") || connStr.includes("sslmode=require")
       ? { rejectUnauthorized: false }
       : undefined,
@@ -21,7 +28,9 @@ export function getPool(): Pool {
     // between nearby school-card requests while remaining tiny on free tier.
     min: Number(process.env.PATHOS_DB_POOL_MIN ?? 1),
     idleTimeoutMillis: Number(process.env.PATHOS_DB_IDLE_TIMEOUT_MS ?? 300_000),
-    connectionTimeoutMillis: Number(process.env.PATHOS_DB_CONNECT_TIMEOUT_MS ?? 10_000),
+    // Fail fast enough for the UI to show its retry action instead of leaving
+    // a school card spinning through several pooler connection timeouts.
+    connectionTimeoutMillis: Number(process.env.PATHOS_DB_CONNECT_TIMEOUT_MS ?? 5_000),
     maxUses: Number(process.env.PATHOS_DB_MAX_USES ?? 5000),
     keepAlive: true,
     keepAliveInitialDelayMillis: 5_000,
@@ -51,7 +60,7 @@ export async function withClient<T>(fn: (c: PoolClient) => Promise<T>): Promise<
 export async function queryWithRetry<T extends QueryResultRow = QueryResultRow>(
   query: string | QueryConfig,
   values?: readonly unknown[],
-  attempts = 3,
+  attempts = 2,
 ): Promise<QueryResult<T>> {
   let lastError: unknown;
   for (let attempt = 0; attempt < attempts; attempt += 1) {
@@ -63,6 +72,7 @@ export async function queryWithRetry<T extends QueryResultRow = QueryResultRow>(
       const message = error instanceof Error ? error.message : String(error);
       const transient = ["08", "53", "57", "ECONNRESET", "ECONNREFUSED", "ETIMEDOUT", "ENOTFOUND", "EAI_AGAIN"].some((prefix) => code?.startsWith(prefix) || code === prefix) || /connection (?:terminated|timeout)|timeout exceeded when trying to connect|connect ETIMEDOUT/i.test(message);
       if (!transient || attempt === attempts - 1) throw error;
+      await resetPool();
       await new Promise((resolve) => setTimeout(resolve, 150 * (attempt + 1)));
     }
   }

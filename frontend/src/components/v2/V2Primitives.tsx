@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { ArrowUpRight, Check, ExternalLink, LineChart, Radar, ShieldCheck } from "lucide-react";
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import type { ReactNode } from "react";
 import { EnterprisePageHeader } from "@/components/shared/EnterprisePageHeader";
 import type { TimeSeriesMetric, TimeSeriesPoint } from "@/types/timeseries";
@@ -17,7 +17,8 @@ export function V2Panel({ children, className = "", revealDelay }: { children: R
 
 export function V2Provenance({ source = "来源待挂接", asOf, verifiedBy, confidence }: { source?: string; asOf?: string; verifiedBy?: string; confidence?: number }) {
   const timestamp = asOf ? new Date(asOf).getTime() : NaN;
-  const age = Number.isFinite(timestamp) ? Math.max(0, Math.floor((Date.now() - timestamp) / 86400000)) : null;
+  const [now] = useState(() => Date.now());
+  const age = Number.isFinite(timestamp) ? Math.max(0, Math.floor((now - timestamp) / 86400000)) : null;
   const tone = age === null ? "text-text-muted" : age < 30 ? "text-jade" : age < 90 ? "text-persimmon" : "text-danger";
   return <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-[10px] text-text-muted" title={`来源：${source}${verifiedBy ? `；核验人：${verifiedBy}` : ""}`}><span className="inline-flex items-center gap-1 font-medium text-text-secondary"><ShieldCheck size={12} className="text-jade" />{source}</span><span className={tone}>{age === null ? "更新日期待核验" : `更新 ${age} 天前`}</span><span>{confidence === undefined ? "置信度待核验" : `置信度 ${confidence}%`}</span>{verifiedBy ? <span className="inline-flex items-center gap-1"><Check size={11} className="text-jade" />{verifiedBy}</span> : null}</div>;
 }

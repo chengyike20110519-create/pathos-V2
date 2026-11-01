@@ -1,0 +1,766 @@
+{
+  "id": "candidate-v2:pepperdine-university",
+  "name": "Pepperdine University",
+  "nameZh": "佩珀代因大学",
+  "chineseName": "佩珀代因大学",
+  "aliases": [
+    "佩珀代因大学"
+  ],
+  "schoolType": "private",
+  "latitude": 34.0410624,
+  "longitude": -118.7082778,
+  "rankingSummary": {
+    "nationalRank": null,
+    "rankingTier": "other",
+      "rankingLabel": "暂未核验",
+      "sourceIds": [],
+      "status": "not_in_current_national_scope",
+      "filterBehavior": "exclude_from_numeric_range"
+  },
+  "costSummary": {
+    "status": "source_limited",
+    "warnings": [
+      "IECG 2025 reference; official refresh pending"
+    ],
+    "sourceIds": [
+      "iecg-2025-a3260f6b30eedea9"
+    ],
+    "maximumUsd": null,
+    "minimumUsd": null,
+    "referenceYear": 2025
+  },
+  "enrollmentSummary": {
+    "undergraduate": 3459,
+    "graduate": null,
+    "total": null,
+    "referenceYear": 2025
+  },
+  "qualitySummary": {
+    "warningCodes": [
+      "secondary_reference_profile",
+      "coordinate_public_geospatial_reference"
+    ]
+  },
+  "acceptanceRate": 62.86,
+  "sat25": null,
+  "sat75": null,
+  "graduationRate": null,
+  "graduationReferenceYear": null,
+  "retentionRate": null,
+  "retentionReferenceYear": null,
+  "rankingTier": "other",
+  "rankingBand": "暂未核验",
+  "city": "Malibu",
+  "state": "CA",
+  "country": "United States",
+  "region": "Far West",
+  "topPrograms": [],
+  "displayTier": "preview",
+  "previewOnly": true,
+  "datasetVersion": "iecg-2025-enrichment",
+  "sourceCommit": null,
+  "nullableFields": [
+    "rankingSummary.nationalRank",
+    "studentFacultyRatio"
+  ],
+  "programs": [
+    {
+      "id": "candidate-v2:pepperdine-university:program:1",
+      "name": "BSN",
+      "sourceUrls": [
+        "https://www.pepperdine.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:pepperdine-university:program:2",
+      "name": "Spanish",
+      "sourceUrls": [
+        "https://www.pepperdine.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:pepperdine-university:program:3",
+      "name": "Spanish",
+      "sourceUrls": [
+        "https://www.pepperdine.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:pepperdine-university:program:4",
+      "name": "Art History",
+      "sourceUrls": [
+        "https://www.pepperdine.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:pepperdine-university:program:5",
+      "name": "Bachelor of Science in Management (BSM)",
+      "sourceUrls": [
+        "https://www.pepperdine.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:pepperdine-university:program:6",
+      "name": "Bachelor of Science in Nursing (BSN)",
+      "sourceUrls": [
+        "https://www.pepperdine.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:pepperdine-university:program:7",
+      "name": "Business Administration",
+      "sourceUrls": [
+        "https://www.pepperdine.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:pepperdine-university:program:8",
+      "name": "Communication Studies",
+      "sourceUrls": [
+        "https://www.pepperdine.edu/"
+      ],
+      "displayTier": "preview"
+    }
+  ],
+  "topProgramIds": [
+    "candidate-v2:pepperdine-university:program:1",
+    "candidate-v2:pepperdine-university:program:2",
+    "candidate-v2:pepperdine-university:program:3",
+    "candidate-v2:pepperdine-university:program:4",
+    "candidate-v2:pepperdine-university:program:5",
+    "candidate-v2:pepperdine-university:program:6",
+    "candidate-v2:pepperdine-university:program:7",
+    "candidate-v2:pepperdine-university:program:8"
+  ],
+  "ranking": [],
+  "cost": [
+    {
+      "amount": 685094,
+      "currency": "RMB",
+      "scope": "unknown",
+      "year": 2025,
+      "components": {
+        "tuition": true
+      },
+      "status": "live_verified_exact"
+    }
+  ],
+  "anecdotes": [],
+  "notableAttendance": [],
+  "people": [],
+  "enrollment": {
+    "total": {
+      "unit": "students",
+      "scope": "institution_total",
+      "value": null,
+      "status": "not_reported",
+      "warnings": [
+        "stale_reference_year"
+      ],
+      "sourceIds": [],
+      "referenceYear": 2019
+    },
+    "graduate": {
+      "unit": "students",
+      "scope": "institution_graduate",
+      "value": null,
+      "status": "not_reported",
+      "warnings": [
+        "stale_reference_year"
+      ],
+      "sourceIds": [],
+      "referenceYear": 2019
+    },
+    "undergraduate": {
+      "unit": "students",
+      "scope": "fall_undergraduate_enrollment",
+      "value": 3459,
+      "status": "verified",
+      "warnings": [
+        "official_university_report"
+      ],
+      "sourceIds": [
+        "official-pepperdine-oie-quick-facts-2025"
+      ],
+      "nullReason": null,
+      "referenceYear": 2025
+    }
+  },
+  "admissions": {
+    "act": {
+      "unit": null,
+      "scope": "first_year_undergraduate",
+      "value": null,
+      "status": "not_reported",
+      "warnings": [],
+      "sourceIds": [
+        "official-pepperdine-undergraduate-test-policy-2026"
+      ],
+      "nullReason": "official_act_range_not_available",
+      "referenceYear": 2026
+    },
+    "sat": {
+      "unit": null,
+      "scope": "first_year_undergraduate",
+      "value": null,
+      "status": "not_reported",
+      "warnings": [],
+      "sourceIds": [
+        "official-pepperdine-undergraduate-test-policy-2026"
+      ],
+      "nullReason": "official_sat_range_not_available",
+      "referenceYear": 2026
+    },
+    "testPolicy": {
+      "unit": "policy",
+      "scope": "first_year_undergraduate",
+      "value": "SAT, ACT, and CLT scores are optional for undergraduate admission; scores are required for Regents Scholars consideration.",
+      "status": "verified",
+      "warnings": [
+        "official_undergraduate_admission_page"
+      ],
+      "sourceIds": [
+        "official-pepperdine-undergraduate-test-policy-2026"
+      ],
+      "nullReason": null,
+      "referenceYear": 2026
+    },
+    "englishPolicy": {
+      "unit": "policy",
+      "scope": "international_first_year_undergraduate",
+      "value": "Pepperdine accepts several routes for international undergraduate English proficiency: SAT Evidence-Based Reading and Writing 600+, ACT Reading 24+, TOEFL iBT 85+, Cambridge C1/C2 186+, Duolingo English Test 120+, or IELTS 6.5+. It also lists qualifying English-medium schooling and coursework alternatives and does not accept TOEFL MyBest Scores.",
+      "status": "verified",
+      "warnings": [
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
+      ],
+      "sourceIds": [
+        "confirmed-english-source-edd471445d64686c80adab8c"
+      ],
+      "nullReason": null,
+      "referenceYear": 2026
+    },
+    "retentionRate": {
+      "unit": "ratio",
+      "scope": "first_time_full_time_undergraduate_retention_rate",
+      "value": 83,
+      "status": "verified",
+      "warnings": [
+        "official_university_report",
+        "cohort_specific"
+      ],
+      "sourceIds": [
+        "official-pepperdine-oie-quick-facts-2025"
+      ],
+      "nullReason": null,
+      "referenceYear": 2024
+    },
+    "acceptanceRate": {
+      "unit": "ratio",
+      "scope": "institution_undergraduate_admissions",
+      "value": 67.37,
+      "status": "verified",
+      "warnings": [
+        "official_university_admissions_source",
+        "derived_from_official_applicant_and_admit_counts"
+      ],
+      "sourceIds": [
+        "official-cost-admission-pepperdine-university"
+      ],
+      "nullReason": null,
+      "referenceYear": 2025
+    },
+    "graduationRate": {
+      "unit": "ratio",
+      "scope": "first_time_full_time_undergraduate_six_year_graduation_rate",
+      "value": 78,
+      "status": "verified",
+      "warnings": [
+        "official_university_report",
+        "cohort_specific"
+      ],
+      "sourceIds": [
+        "official-pepperdine-oie-quick-facts-2025"
+      ],
+      "nullReason": null,
+      "referenceYear": 2019
+    }
+  },
+  "geography": {
+    "geographyScope": "place",
+    "place": {
+      "value": "Malibu",
+      "status": "verified",
+      "referenceYear": null,
+      "scope": "institution",
+      "unit": null,
+      "sourceIds": [],
+      "warnings": []
+    },
+    "county": {
+      "value": null,
+      "status": "not_reported",
+      "referenceYear": null,
+      "scope": "county",
+      "unit": null,
+      "sourceIds": [],
+      "warnings": []
+    }
+  },
+  "nearbyTowns": [],
+  "rawCostRecords": [],
+  "warningSummary": {
+    "codes": ["secondary_reference_profile", "coordinate_public_geospatial_reference"],
+    "count": 2,
+    "hasWarnings": true
+  },
+  "sources": [
+    {
+      "url": "https://www.pepperdine.edu/",
+      "status": "live_verified_normalized",
+      "anchor": "iecg-2025-a3260f6b30eedea9"
+    },
+    {
+      "url": "https://admission.pepperdine.edu/apply/undergraduate/requirements/english-proficiency.htm",
+      "status": "live_verified_exact",
+      "anchor": "confirmed-english-source-edd471445d64686c80adab8c"
+    },
+    {
+      "url": "https://admission.pepperdine.edu/apply/undergraduate/faq/",
+      "status": "live_verified_exact",
+      "anchor": "official-cost-admission-pepperdine-university"
+    },
+    {
+      "url": "https://www.pepperdine.edu/oie/content/pdf/oie-quick-facts.pdf",
+      "status": "live_verified_exact",
+      "anchor": "official-pepperdine-oie-quick-facts-2025"
+    },
+    {
+      "url": "https://admission.pepperdine.edu/apply/undergraduate/faq/",
+      "status": "live_verified_exact",
+      "anchor": "official-pepperdine-undergraduate-test-policy-2026"
+    },
+    {
+      "url": "https://seaver.pepperdine.edu/academics/programs/undergraduate/",
+      "status": "live_verified_normalized",
+      "retrievedAt": "2026-10-30"
+    }
+  ],
+  "warnings": [
+    "secondary_reference_profile"
+  ],
+  "qualityBadges": [
+    {
+      "kind": "warning",
+      "label": "secondary_reference_profile"
+    }
+  ],
+  "previewMetadata": {
+    "allMajors": [
+      {
+        "name": "BSN",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-a3260f6b30eedea9"
+        ],
+        "displayName": "学Bachelor of Science in Nursing",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Spanish",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-a3260f6b30eedea9"
+        ],
+        "displayName": "法语German 德语Hispanic Studies",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Art History",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-a3260f6b30eedea9"
+        ],
+        "displayName": "艺术史",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Bachelor of Science in Management (BSM)",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-a3260f6b30eedea9"
+        ],
+        "displayName": "管理学",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Bachelor of Science in Nursing (BSN)",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-a3260f6b30eedea9"
+        ],
+        "displayName": "护理学",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Business Administration",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-a3260f6b30eedea9"
+        ],
+        "displayName": "工商管理",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Communication Studies",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-a3260f6b30eedea9"
+        ],
+        "displayName": "传播学",
+        "verificationStatus": "source_review_not_completed"
+      }
+    ],
+    "allMajorsStatus": {
+      "status": "source_limited",
+      "warnings": [
+        "IECG 2025 reference; official catalog refresh pending"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ]
+    },
+    "enrollment": {
+      "total": {
+        "unit": "students",
+        "scope": "institution_total",
+        "value": null,
+        "status": "not_reported",
+        "warnings": [
+          "stale_reference_year"
+        ],
+        "sourceIds": [],
+        "referenceYear": 2019
+      },
+      "graduate": {
+        "unit": "students",
+        "scope": "institution_graduate",
+        "value": null,
+        "status": "not_reported",
+        "warnings": [
+          "stale_reference_year"
+        ],
+        "sourceIds": [],
+        "referenceYear": 2019
+      },
+      "undergraduate": {
+        "unit": "students",
+        "scope": "fall_undergraduate_enrollment",
+        "value": 3459,
+        "status": "verified",
+        "warnings": [
+          "official_university_report"
+        ],
+        "sourceIds": [
+          "official-pepperdine-oie-quick-facts-2025"
+        ],
+        "nullReason": null,
+        "referenceYear": 2025
+      }
+    },
+    "admissions": {
+      "act": {
+        "unit": null,
+        "scope": "first_year_undergraduate",
+        "value": null,
+        "status": "not_reported",
+        "warnings": [],
+        "sourceIds": [
+          "official-pepperdine-undergraduate-test-policy-2026"
+        ],
+        "nullReason": "official_act_range_not_available",
+        "referenceYear": 2026
+      },
+      "sat": {
+        "unit": null,
+        "scope": "first_year_undergraduate",
+        "value": null,
+        "status": "not_reported",
+        "warnings": [],
+        "sourceIds": [
+          "official-pepperdine-undergraduate-test-policy-2026"
+        ],
+        "nullReason": "official_sat_range_not_available",
+        "referenceYear": 2026
+      },
+      "testPolicy": {
+        "unit": "policy",
+        "scope": "first_year_undergraduate",
+        "value": "SAT, ACT, and CLT scores are optional for undergraduate admission; scores are required for Regents Scholars consideration.",
+        "status": "verified",
+        "warnings": [
+          "official_undergraduate_admission_page"
+        ],
+        "sourceIds": [
+          "official-pepperdine-undergraduate-test-policy-2026"
+        ],
+        "nullReason": null,
+        "referenceYear": 2026
+      },
+      "englishPolicy": {
+        "unit": "policy",
+        "scope": "international_first_year_undergraduate",
+        "value": "Pepperdine accepts several routes for international undergraduate English proficiency: SAT Evidence-Based Reading and Writing 600+, ACT Reading 24+, TOEFL iBT 85+, Cambridge C1/C2 186+, Duolingo English Test 120+, or IELTS 6.5+. It also lists qualifying English-medium schooling and coursework alternatives and does not accept TOEFL MyBest Scores.",
+        "status": "verified",
+        "warnings": [
+          "confirmed_fact_ledger",
+          "source_fetch_not_repeated"
+        ],
+        "sourceIds": [
+          "confirmed-english-source-edd471445d64686c80adab8c"
+        ],
+        "nullReason": null,
+        "referenceYear": 2026
+      },
+      "retentionRate": {
+        "unit": "ratio",
+        "scope": "first_time_full_time_undergraduate_retention_rate",
+        "value": 83,
+        "status": "verified",
+        "warnings": [
+          "official_university_report",
+          "cohort_specific"
+        ],
+        "sourceIds": [
+          "official-pepperdine-oie-quick-facts-2025"
+        ],
+        "nullReason": null,
+        "referenceYear": 2024
+      },
+      "acceptanceRate": {
+        "unit": "ratio",
+        "scope": "institution_undergraduate_admissions",
+        "value": 67.37,
+        "status": "verified",
+        "warnings": [
+          "official_university_admissions_source",
+          "derived_from_official_applicant_and_admit_counts"
+        ],
+        "sourceIds": [
+          "official-cost-admission-pepperdine-university"
+        ],
+        "nullReason": null,
+        "referenceYear": 2025
+      },
+      "graduationRate": {
+        "unit": "ratio",
+        "scope": "first_time_full_time_undergraduate_six_year_graduation_rate",
+        "value": 78,
+        "status": "verified",
+        "warnings": [
+          "official_university_report",
+          "cohort_specific"
+        ],
+        "sourceIds": [
+          "official-pepperdine-oie-quick-facts-2025"
+        ],
+        "nullReason": null,
+        "referenceYear": 2019
+      }
+    },
+    "geography": {
+      "status": "source_limited",
+      "warnings": [
+        "IECG 2025 reference"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ]
+    },
+    "programPeopleGaps": []
+  },
+  "confirmedFacts": [
+    {
+      "fact": "SAT, ACT, and CLT scores are optional for undergraduate admission; scores are required for Regents Scholars consideration.",
+      "status": "confirmed",
+      "factType": "admissions_testing_policy",
+      "sourceUrl": "https://admission.pepperdine.edu/apply/undergraduate/faq/",
+      "confirmedOn": "2026-10-30",
+      "universityId": "candidate-v2:pepperdine-university"
+    },
+    {
+      "fact": "[{\"name\":\"Business Administration\",\"nameZh\":\"工商管理\",\"kind\":\"distinctive\",\"reason\":\"Pepperdine Seaver College 官方本科项目页将 Business Administration 列为理学学士本科项目。\",\"sourceUrl\":\"https://seaver.pepperdine.edu/academics/programs/undergraduate/\",\"checkedOn\":\"2026-10-30\"}]",
+      "status": "confirmed",
+      "factType": "program_spotlights_v1",
+      "sourceUrl": "https://seaver.pepperdine.edu/academics/programs/undergraduate/",
+      "confirmedOn": "2026-10-30",
+      "universityId": "candidate-v2:pepperdine-university"
+    }
+  ],
+  "campusImages": [
+    {
+      "id": "media-pepperdine-malibu-campus-cc-by-sa-hillarypepp-2025",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pepperdine%20Malibu%20Campus.jpg",
+      "label": "Pepperdine University Malibu Campus",
+      "checkedOn": "2026-10-30",
+      "publisher": "Wikimedia Commons · HillaryPepp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pepperdine_Malibu_Campus.jpg",
+      "displayOrder": 0,
+      "reviewStatus": "approved",
+      "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pepperdine%20Malibu%20Campus.jpg?width=1280",
+      "licenseStatus": "verified"
+    }
+  ],
+  "sharedContent": {
+    "overviewZh": null,
+    "overviewStatus": "pending",
+    "motto": null,
+    "mottoZh": null,
+    "mottoStatus": "pending",
+    "mottoSourceUrl": null,
+    "mottoSourceType": null,
+    "mottoCheckedOn": null,
+    "programSpotlights": [],
+    "sourceRefs": []
+  },
+  "programSpotlights": [
+    {
+      "name": "Business Administration",
+      "nameZh": "工商管理",
+      "kind": "distinctive",
+      "reason": "Pepperdine Seaver College 官方本科项目页将 Business Administration 列为理学学士本科项目。",
+      "sourceUrl": "https://seaver.pepperdine.edu/academics/programs/undergraduate/",
+      "checkedOn": "2026-10-30"
+    }
+  ],
+  "allMajors": [
+    {
+      "name": "BSN",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ],
+      "displayName": "学Bachelor of Science in Nursing",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Spanish",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ],
+      "displayName": "法语German 德语Hispanic Studies",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Art History",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ],
+      "displayName": "艺术史",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Bachelor of Science in Management (BSM)",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ],
+      "displayName": "管理学",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Bachelor of Science in Nursing (BSN)",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ],
+      "displayName": "护理学",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Business Administration",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ],
+      "displayName": "工商管理",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Communication Studies",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-a3260f6b30eedea9"
+      ],
+      "displayName": "传播学",
+      "verificationStatus": "source_review_not_completed"
+    }
+  ],
+  "allMajorsStatus": {
+    "status": "source_limited",
+    "warnings": [
+      "IECG 2025 reference; official catalog refresh pending"
+    ],
+    "sourceIds": [
+      "iecg-2025-a3260f6b30eedea9"
+    ]
+  },
+  "history": {
+    "status": "not_reported",
+    "warnings": [
+      "official catalog refresh pending"
+    ]
+  }
+}
+

@@ -7,6 +7,7 @@
 // preview API.
 
 import { NextResponse } from "next/server";
+import type { QueryResult, QueryResultRow } from "pg";
 import { parseProgramSpotlights } from "@/schemas/dataset.schema";
 
 import {
@@ -33,6 +34,38 @@ import { INITIAL_MAP_VIEWPORT } from "@/lib/map-viewport";
 const previewCache = new Map<string, { expiresAt: number; value: unknown }>();
 const previewInflight = new Map<string, Promise<unknown>>();
 const PREVIEW_CACHE_MS = 30_000;
+
+async function previewQuery<T extends QueryResultRow = QueryResultRow>(
+  query: string,
+  values?: readonly unknown[],
+  attempts = 2,
+): Promise<QueryResult<T>> {
+  let lastError: unknown;
+  for (let attempt = 0; attempt < attempts; attempt += 1) {
+    try {
+      return await getPool().query<T>(query, values as unknown[] | undefined);
+    } catch (error) {
+      lastError = error;
+      const code = typeof error === "object" && error !== null ? (error as { code?: string }).code : undefined;
+      const message = error instanceof Error ? error.message : String(error);
+      const transient = ["08", "53", "57", "ECONNRESET", "ECONNREFUSED", "ENOTFOUND", "EAI_AGAIN"]
+        .some((prefix) => code?.startsWith(prefix) || code === prefix)
+        || /connection (?:terminated|timeout)|timeout exceeded when trying to connect|connect ETIMEDOUT|Client network socket disconnected before secure TLS connection was established/i.test(message);
+      if (!transient || attempt === attempts - 1) throw error;
+      await new Promise((resolve) => setTimeout(resolve, 150 * (attempt + 1)));
+    }
+  }
+  throw lastError;
+}
+
+function isTransientPreviewError(error: unknown): boolean {
+  const value = error as { code?: string; message?: string } | null;
+  const code = value?.code ?? "";
+  const message = value?.message ?? "";
+  return /^(?:08|53|57)/.test(code) ||
+    ["ECONNRESET", "ECONNREFUSED", "ETIMEDOUT", "ENOTFOUND", "EAI_AGAIN"].includes(code) ||
+    /connection (?:terminated|timeout)|timeout exceeded when trying to connect|connect ETIMEDOUT|read ETIMEDOUT/i.test(message);
+}
 
 /** Clear the in-process snapshot cache between isolated contract tests. */
 export function resetPreviewCacheForTests(): void {
@@ -71,6 +104,7 @@ function trustedGuideProgramNames(
 async function cachedPreview<T>(key: string, loader: () => Promise<T>, ttlMs = PREVIEW_CACHE_MS): Promise<T> {
   const hit = previewCache.get(key);
   if (hit && hit.expiresAt > Date.now()) return hit.value as T;
+  const staleValue = hit?.value as T | undefined;
   const pending = previewInflight.get(key);
   if (pending) return pending as Promise<T>;
   const request = loader().then((value) => {
@@ -80,6 +114,14 @@ async function cachedPreview<T>(key: string, loader: () => Promise<T>, ttlMs = P
     return value;
   }).catch((error) => {
     previewInflight.delete(key);
+    // Preserve the last verified snapshot through a transient pooler outage.
+    // This is stale-while-revalidate behavior, not a fabricated fallback: the
+    // value was previously loaded from Supabase and is refreshed on the next
+    // request. Never apply it to a first load or a schema/data error.
+    if (staleValue !== undefined && isTransientPreviewError(error)) {
+      previewCache.set(key, { expiresAt: Date.now() + Math.min(ttlMs, 15_000), value: staleValue });
+      return staleValue;
+    }
     throw error;
   });
   previewInflight.set(key, request);
@@ -166,7 +208,7 @@ export function previewErrorResponse(
 
 async function readManifest(): Promise<unknown> {
   return cachedPreview("manifest", async () => {
-  const r = await getPool().query("SELECT payload FROM manifest WHERE id = 1");
+  const r = await previewQuery("SELECT payload FROM manifest WHERE id = 1");
   if (!r.rows[0]) {
     throw new PreviewBundleError(
       "BUNDLE_ARTIFACT_MISSING",
@@ -180,7 +222,7 @@ async function readManifest(): Promise<unknown> {
 
 async function readRegionEnvelope(): Promise<unknown> {
   return cachedPreview("region-envelope", async () => {
-  const r = await getPool().query("SELECT payload FROM region_envelope WHERE id = 1");
+  const r = await previewQuery("SELECT payload FROM region_envelope WHERE id = 1");
   if (!r.rows[0]) {
     throw new PreviewBundleError(
       "BUNDLE_ARTIFACT_MISSING",
@@ -194,14 +236,14 @@ async function readRegionEnvelope(): Promise<unknown> {
 
 async function readStatusDictionary(): Promise<unknown> {
   return cachedPreview("status-dictionary", async () => {
-    const r = await getPool().query("SELECT code, payload FROM status_dictionary");
+    const r = await previewQuery("SELECT code, payload FROM status_dictionary");
     return { statuses: Object.fromEntries(r.rows.map((row) => [row.code, row.payload])) };
   });
 }
 
 async function readSourceIndex(): Promise<unknown> {
   return cachedPreview("source-index", async () => {
-  const r = await getPool().query("SELECT payload FROM source_index WHERE id = 1");
+  const r = await previewQuery("SELECT payload FROM source_index WHERE id = 1");
   if (!r.rows[0]) {
     throw new PreviewBundleError(
       "BUNDLE_ARTIFACT_MISSING",
@@ -214,8 +256,9 @@ async function readSourceIndex(): Promise<unknown> {
 }
 
 async function loadUniversityDetail(id: string): Promise<unknown> {
+  let sourceIndexPending = false;
   const [r, sourceIndexRaw] = await Promise.all([
-    getPool().query(
+    previewQuery(
     `SELECT d.payload,
             r.official_name,
             CASE WHEN r.university_id IS NULL THEN NULL ELSE jsonb_build_object(
@@ -246,7 +289,6 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
             c.motto_source_url, c.motto_source_type, c.motto_checked_on,
             c.program_spotlights AS shared_program_spotlights,
             c.source_refs AS shared_source_refs,
-            g.sections AS guide_sections, g.structured AS guide_structured,
             COALESCE((
               SELECT jsonb_agg(jsonb_build_object(
                 'universityId', f.university_id, 'factType', f.fact_type,
@@ -257,15 +299,20 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
             ), '[]'::jsonb) AS confirmed_facts
        FROM university_details d
        LEFT JOIN school_research_records r ON r.university_id = d.university_id
-       LEFT JOIN LATERAL (
-         SELECT sections, structured FROM college_guides
-         WHERE university_id = d.university_id ORDER BY source_snapshot_year DESC LIMIT 1
-       ) g ON TRUE
        LEFT JOIN university_content c ON c.university_id = d.university_id
        WHERE d.university_id = $1`,
     [id],
     ),
-    readSourceIndex(),
+    readSourceIndex().catch((error) => {
+      // A source-index pooler timeout must not hide already verified school
+      // facts. The card can render without its evidence list and retry the
+      // source endpoint later; missing rows and schema errors still fail closed.
+      if (isTransientPreviewError(error)) {
+        sourceIndexPending = true;
+        return { sources: [] };
+      }
+      throw error;
+    }),
   ]);
   if (!r.rows[0]) {
     throw new PreviewBundleError(
@@ -315,16 +362,7 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
     : [];
   const detailSourceIndex = { sources: indexedSources };
   const facts = joined.confirmed_facts ?? [];
-  const guidePreview = joined.guide_sections || joined.guide_structured
-    ? extractGuidePreview({ structured: joined.guide_structured ?? {}, sections: joined.guide_sections ?? [] })
-    : undefined;
   const row = joined.research_payload ? joined : null;
-  const guideProgramNames = trustedGuideProgramNames(guidePreview?.programs);
-  const guidePrograms = guideProgramNames.map((name) => ({
-    id: `${id}:guide-program:${name}`,
-    name,
-    sourceIds: [],
-  })) ?? [];
   const storedPrograms = Array.isArray(payload.programs)
     ? payload.programs
     : Array.isArray(payload.topPrograms)
@@ -344,6 +382,33 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
     : [];
   const hasExistingPrograms =
     storedPrograms.length > 0 || storedProgramNames.length > 0;
+  // Guide JSON can be large. Most schools already carry a reviewed program
+  // directory in university_details, so only fetch the newest guide when it
+  // is actually needed as a fallback for a school with no stored programs.
+  let guidePrograms: Array<{ id: string; name: string; sourceIds: string[] }> = [];
+  if (!hasExistingPrograms) {
+    const guideResult = await previewQuery(
+      `SELECT sections, structured FROM college_guides
+        WHERE university_id = $1
+        ORDER BY source_snapshot_year DESC
+        LIMIT 1`,
+      [id],
+    );
+    const guideRow = guideResult.rows[0] as { sections?: unknown; structured?: unknown } | undefined;
+    if (guideRow) {
+      const guidePreview = extractGuidePreview({
+        structured: (guideRow.structured && typeof guideRow.structured === "object"
+          ? guideRow.structured
+          : {}) as Record<string, string | number | string[] | Record<string, unknown>>,
+        sections: (Array.isArray(guideRow.sections) ? guideRow.sections : []) as Array<{ title?: string; text: string }>,
+      });
+      guidePrograms = trustedGuideProgramNames(guidePreview?.programs).map((name) => ({
+        id: `${id}:guide-program:${name}`,
+        name,
+        sourceIds: [],
+      }));
+    }
+  }
   const enrichedPayload = hasExistingPrograms
     ? { ...payload, programs: storedPrograms.length > 0 ? storedPrograms : payload.programs, topPrograms: storedProgramNames }
     : guidePrograms.length
@@ -363,7 +428,7 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
     programSpotlights: joined.shared_program_spotlights ?? [],
     sourceRefs: joined.shared_source_refs ?? [],
   };
-  if (!row) return { ...enrichedPayload, confirmedFacts: facts, campusImages: joined.campus_images ?? [], detailSourceIndex, sharedContent };
+  if (!row) return { ...enrichedPayload, confirmedFacts: facts, campusImages: joined.campus_images ?? [], detailSourceIndex, sourceIndexPending, sharedContent };
   const p = (row.research_payload ?? {}) as Record<string, unknown>;
   const number = (key: string): number | null => {
     if (p[key] === null || p[key] === undefined || p[key] === "") return null;
@@ -376,6 +441,7 @@ async function loadUniversityDetail(id: string): Promise<unknown> {
     confirmedFacts: facts,
     campusImages: joined.campus_images ?? [],
     detailSourceIndex,
+    sourceIndexPending,
     sharedContent,
     officialResearch: {
       provider: String(source.provider ?? "US Department of Education College Scorecard"),
@@ -406,12 +472,12 @@ async function readUniversityDetail(id: string): Promise<unknown> {
 
 async function readConfirmedFacts(universityId?: string): Promise<unknown[]> {
   const result = universityId
-    ? await getPool().query(
+    ? await previewQuery(
         `SELECT university_id, fact_type, fact, status, source_url, confirmed_on
          FROM school_confirmed_facts WHERE university_id = $1 ORDER BY fact_type`,
         [universityId],
       )
-    : await getPool().query(
+    : await previewQuery(
         `SELECT university_id, fact_type, fact, status, source_url, confirmed_on
          FROM school_confirmed_facts ORDER BY university_id, fact_type`,
       );
@@ -432,7 +498,7 @@ async function readNews(category?: string): Promise<unknown[]> {
     const params: unknown[] = [];
     const where = category ? "WHERE a.category = $1 OR a.event_type = $1" : "";
     if (category) params.push(category);
-    const result = await getPool().query(
+    const result = await previewQuery(
       `SELECT a.id, a.university_id, u.name AS university_name,
               u.chinese_name AS university_name_zh, a.title, a.title_en,
               a.summary, a.what_changed, a.why_it_matters, a.action_steps,
@@ -498,7 +564,7 @@ async function readCollegeGuides(query?: string): Promise<unknown[]> {
       ? "WHERE g.school_name_raw ILIKE $1 OR u.name ILIKE $1 OR u.chinese_name ILIKE $1 OR g.raw_text ILIKE $1"
       : "";
     if (query) params.push(`%${query}%`);
-    const result = await getPool().query(
+    const result = await previewQuery(
       `SELECT g.id, g.university_id, u.name AS university_name,
               u.chinese_name AS university_name_zh, g.source_file,
               g.source_snapshot_year, g.school_name_raw, g.source_url,
@@ -519,7 +585,7 @@ async function readCollegeGuides(query?: string): Promise<unknown[]> {
 
 async function readCollegeGuide(universityId: string): Promise<unknown | null> {
   try {
-    const result = await getPool().query(
+    const result = await previewQuery(
       `SELECT g.id, g.university_id, u.name AS university_name,
               u.chinese_name AS university_name_zh, g.source_file,
               g.source_snapshot_year, g.school_name_raw, g.source_url,
@@ -661,7 +727,7 @@ async function queryUniversities(filters: SummaryFilters): Promise<unknown[]> {
   // records here: official admissions, tuition, and enrollment data belong
   // to the click-time detail request.
   const limit = parseBoundedLimit(filters.limit);
-  const r = await getPool().query(
+  const r = await previewQuery(
     `SELECT ${MAP_PAYLOAD_SQL} AS payload
        FROM universities u
        ${sql}
@@ -726,7 +792,7 @@ async function readProgramOptions(query: string): Promise<unknown[]> {
   if (query.length > 240) throw new PreviewBundleError("INVALID_MAP_QUERY", "Program search is too long", 400, false);
   return cachedPreview(`program-options:${query.toLowerCase()}`, async () => {
     const literal = query.replace(/[\\%_]/g, "\\$&");
-    const result = await getPool().query(`WITH memberships AS (
+    const result = await previewQuery(`WITH memberships AS (
       SELECT u.id, btrim(CASE WHEN jsonb_typeof(directory.entry) = 'string'
         THEN directory.entry #>> '{}' ELSE directory.entry->>'name' END) AS name
       FROM universities u JOIN university_details pd ON pd.university_id = u.id
@@ -742,7 +808,7 @@ async function readProgramSchools(program: string): Promise<unknown[]> {
   const normalized = program.trim().toLowerCase();
   if (!normalized || normalized.length > 240) return [];
   return cachedPreview(`program-schools:${normalized}`, async () => {
-    const result = await getPool().query(`
+    const result = await previewQuery(`
       SELECT ${MAP_PAYLOAD_SQL} AS payload
       FROM universities u
       JOIN university_details d ON d.university_id = u.id
@@ -770,7 +836,7 @@ async function readProgramSchools(program: string): Promise<unknown[]> {
 /** A separate, lazy program index. Never included in the initial map load. */
 async function readProgramCatalog(): Promise<unknown[]> {
   return cachedPreview("program-catalog:v1", async () => {
-    const result = await getPool().query(`
+    const result = await previewQuery(`
       SELECT ${MAP_PAYLOAD_SQL} AS payload,
         d.payload->'allMajors' AS all_majors,
         d.payload->'programs' AS programs
@@ -816,8 +882,14 @@ export async function handleBackendPreviewRoute(
     }
 
     if (endpoint === "manifest") {
-      const manifest = parseStage5Manifest(await readManifest());
-      const dictionary = normalizeStage5StatusDictionary(await readStatusDictionary());
+      // These artifacts are independent. Fetch them together so a cold
+      // Supabase connection does not serialize two pooler round-trips.
+      const [manifestRaw, dictionaryRaw] = await Promise.all([
+        readManifest(),
+        readStatusDictionary(),
+      ]);
+      const manifest = parseStage5Manifest(manifestRaw);
+      const dictionary = normalizeStage5StatusDictionary(dictionaryRaw);
       return respond({ ...manifest, statusDictionary: dictionary });
     }
 
@@ -841,7 +913,7 @@ export async function handleBackendPreviewRoute(
         );
       }
       const stored = await cachedPreview(`university-detail:${id}`, () => readUniversityDetail(id), 120_000) as Record<string, unknown>;
-      const { officialResearch, confirmedFacts, campusImages, sharedContent, detailSourceIndex: indexPayload, ...detailPayload } = stored;
+      const { officialResearch, confirmedFacts, campusImages, sharedContent, detailSourceIndex: indexPayload, sourceIndexPending, ...detailPayload } = stored;
       const raw = parseStage5Detail(detailPayload);
       if (raw.id !== id) {
         throw new PreviewBundleError(
@@ -860,6 +932,9 @@ export async function handleBackendPreviewRoute(
       }
       const programSpotlights = parseProgramSpotlights(spotlights);
       const normalized = normalizeStage5Detail(raw, sourceIndex);
+      const sourceWarnings = sourceIndexPending
+        ? [...normalized.warnings, "source_index_pending_external_access"]
+        : normalized.warnings;
       const sourceUrls = new Set(normalized.sources.map((source) => source.url));
       const reviewedSources = programSpotlights.flatMap((program) => {
         if (sourceUrls.has(program.sourceUrl)) return [];
@@ -868,6 +943,13 @@ export async function handleBackendPreviewRoute(
       });
       return respond({
         ...normalized,
+        warnings: sourceWarnings,
+        qualitySummary: sourceIndexPending
+          ? {
+              ...normalized.qualitySummary,
+              warningCodes: [...(normalized.qualitySummary?.warningCodes ?? []), "source_index_pending_external_access"],
+            }
+          : normalized.qualitySummary,
         sources: [...normalized.sources, ...reviewedSources],
         ...(officialResearch ? { officialResearch } : {}),
         ...(confirmedFacts ? { confirmedFacts } : {}),
@@ -899,7 +981,7 @@ export async function handleBackendPreviewRoute(
       const query = (url.searchParams.get("q") ?? "").trim();
       const limit = Math.max(0, Math.min(50, Number(url.searchParams.get("limit") ?? 20)));
       if (query.length < 2) return respond([]);
-      const r = await getPool().query(
+      const r = await previewQuery(
         `SELECT payload,
                 ts_rank(search_text, plainto_tsquery('simple', $1)) AS rank
          FROM universities

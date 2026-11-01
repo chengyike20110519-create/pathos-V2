@@ -11,7 +11,7 @@
 //   - Clearing selection REMOVES the `state` param (region kept).
 //   - Region / metric / mode params are foreign keys — preserved.
 
-import { useCallback, useEffect, useRef } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { normalizeStateFips } from "./normalizeStateFips";
 import { readSearchParam, updateSearchParam } from "@/lib/url-params";
 
@@ -39,9 +39,7 @@ export function useSelectedRegionUrl(
   onExternalChange: (fips: string | null) => void,
 ): UseSelectedRegionUrlResult {
   const lastWrittenRef = useRef<string | null>(null);
-  // We mirror the current selected into this ref so the writeUrl
-  // closure can read the latest without rebuilding.
-  const currentRef = useRef<string | null>(null);
+  const [selectedRegionFips, setSelectedRegionFipsState] = useState<string | null>(() => normalizeStateFips(readSearchParam(STATE_PARAM)));
 
   const readFromUrl = useCallback((): string | null => {
     return normalizeStateFips(readSearchParam(STATE_PARAM));
@@ -49,17 +47,17 @@ export function useSelectedRegionUrl(
 
   const syncFromUrl = useCallback(() => {
     const next = readFromUrl();
-    if (next !== currentRef.current) {
-      currentRef.current = next;
+    if (next !== selectedRegionFips) {
+      setSelectedRegionFipsState(next);
       lastWrittenRef.current = next;
       onExternalChange(next);
     }
-  }, [readFromUrl, onExternalChange]);
+  }, [readFromUrl, onExternalChange, selectedRegionFips]);
 
   const setSelectedRegionFips = useCallback(
     (next: string | null) => {
       const normalized = next === null ? null : normalizeStateFips(next);
-      currentRef.current = normalized;
+      setSelectedRegionFipsState(normalized);
       // Keep the rendered selection in lock-step with the URL write. Next's
       // searchParams update is asynchronous, so relying on a later render left
       // the map outline/sidebar stale after toolbar-driven selection.
@@ -76,18 +74,18 @@ export function useSelectedRegionUrl(
     if (typeof window === "undefined") return;
     const onPop = () => {
       const next = readFromUrl();
-      if (next !== currentRef.current) {
-        currentRef.current = next;
+      if (next !== selectedRegionFips) {
+        setSelectedRegionFipsState(next);
         lastWrittenRef.current = next;
         onExternalChange(next);
       }
     };
     window.addEventListener("popstate", onPop);
     return () => window.removeEventListener("popstate", onPop);
-  }, [readFromUrl, onExternalChange]);
+  }, [readFromUrl, onExternalChange, selectedRegionFips]);
 
   return {
-    selectedRegionFips: currentRef.current,
+    selectedRegionFips,
     setSelectedRegionFips,
     syncFromUrl,
   };

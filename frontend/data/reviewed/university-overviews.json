@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "checkedOn": "2026-10-21",
-  "scope": "94 mapped universities; Chinese editorial overviews based on official university sources",
+  "scope": "96 mapped universities; Chinese editorial overviews based on official university sources",
   "reviewPolicy": "逐校核对官方来源。排除未经核验的排名、录取难度、治安与主观适配判断；检索索引读取与直接页面读取分别记录。",
   "schools": [
     {
@@ -1314,6 +1314,44 @@
           "url": "https://www.yale.edu/about-yale",
           "title": "About Yale",
           "evidenceZh": "1701年、知识保存与分享、住宿学院社区、图书馆美术馆表演空间及校园农场。",
+          "accessMethod": "live_official_page"
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:pepperdine-university",
+      "overviewZh": "佩珀代因大学是一所位于马里布的私立大学，学校官方介绍将本科教育、研究与服务社会并列呈现。Seaver College 的本科项目覆盖文理、商科、传播与护理等方向，校园学习与海岸环境和洛杉矶地区联系紧密。以下概述仅依据学校官方介绍，专业优势和排名不在此处推断。",
+      "reviewStatus": "reviewed",
+      "sources": [
+        {
+          "url": "https://www.pepperdine.edu/about/",
+          "title": "About Pepperdine University",
+          "evidenceZh": "学校官方介绍、马里布校园和本科教育与服务社会定位。",
+          "accessMethod": "live_official_page"
+        },
+        {
+          "url": "https://seaver.pepperdine.edu/academics/programs/undergraduate/",
+          "title": "Seaver College Undergraduate Programs",
+          "evidenceZh": "本科项目目录及商科、传播、文理等项目入口。",
+          "accessMethod": "live_official_page"
+        }
+      ]
+    },
+    {
+      "universityId": "candidate-v2:santa-clara-university",
+      "overviewZh": "圣塔克拉拉大学是一所位于加州圣塔克拉拉的私立大学，官方介绍将耶稣会传统、博雅教育、工程与商科等学习方向，以及服务社会的使命放在同一办学框架中。学校本科项目目录覆盖文理、工程、商科和人文等领域；本概述保留学校官方定位，不把尚未完成核验的排名或专业强弱写成结论。",
+      "reviewStatus": "reviewed",
+      "sources": [
+        {
+          "url": "https://www.scu.edu/aboutscu/",
+          "title": "About Santa Clara University",
+          "evidenceZh": "学校使命、耶稣会传统、圣塔克拉拉位置与本科教育定位。",
+          "accessMethod": "live_official_page"
+        },
+        {
+          "url": "https://www.scu.edu/academics/undergraduate-programs/",
+          "title": "Undergraduate Programs",
+          "evidenceZh": "本科项目目录及文理、工程、商科等项目入口。",
           "accessMethod": "live_official_page"
         }
       ]

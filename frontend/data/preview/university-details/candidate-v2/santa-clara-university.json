@@ -1,0 +1,795 @@
+{
+  "id": "candidate-v2:santa-clara-university",
+  "name": "Santa Clara University",
+  "nameZh": "圣塔克拉拉大学",
+  "chineseName": "圣塔克拉拉大学",
+  "aliases": [
+    "圣塔克拉拉大学"
+  ],
+  "schoolType": "private",
+  "latitude": 37.35,
+  "longitude": -121.93333,
+  "rankingSummary": {
+    "nationalRank": null,
+    "rankingTier": "other",
+      "rankingLabel": "暂未核验",
+      "sourceIds": [],
+      "status": "not_in_current_national_scope",
+      "filterBehavior": "exclude_from_numeric_range"
+  },
+  "costSummary": {
+    "status": "source_limited",
+    "warnings": [
+      "IECG 2025 reference; official refresh pending"
+    ],
+    "sourceIds": [
+      "iecg-2025-b508508a455972e8"
+    ],
+    "maximumUsd": null,
+    "minimumUsd": null,
+    "referenceYear": 2025
+  },
+  "enrollmentSummary": {
+    "undergraduate": 6115,
+    "graduate": null,
+    "total": null,
+    "referenceYear": 2026
+  },
+  "qualitySummary": {
+    "warningCodes": [
+      "secondary_reference_profile",
+      "coordinate_public_geospatial_reference"
+    ]
+  },
+  "acceptanceRate": 48,
+  "sat25": null,
+  "sat75": null,
+  "graduationRate": null,
+  "graduationReferenceYear": null,
+  "retentionRate": null,
+  "retentionReferenceYear": null,
+  "rankingTier": "other",
+  "rankingBand": "暂未核验",
+  "city": "Santa Clara",
+  "state": "CA",
+  "country": "United States",
+  "region": "Far West",
+  "topPrograms": [],
+  "displayTier": "preview",
+  "previewOnly": true,
+  "datasetVersion": "iecg-2025-enrichment",
+  "sourceCommit": null,
+  "nullableFields": [
+    "rankingSummary.nationalRank",
+    "studentFacultyRatio"
+  ],
+  "programs": [
+    {
+      "id": "candidate-v2:santa-clara-university:program:1",
+      "name": "College of Arts and Sciences",
+      "sourceUrls": [
+        "https://www.scu.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:santa-clara-university:program:2",
+      "name": "Ancient Studies",
+      "sourceUrls": [
+        "https://www.scu.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:santa-clara-university:program:3",
+      "name": "Anthropology",
+      "sourceUrls": [
+        "https://www.scu.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:santa-clara-university:program:4",
+      "name": "Art History",
+      "sourceUrls": [
+        "https://www.scu.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:santa-clara-university:program:5",
+      "name": "Biochemistry",
+      "sourceUrls": [
+        "https://www.scu.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:santa-clara-university:program:6",
+      "name": "Biology",
+      "sourceUrls": [
+        "https://www.scu.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:santa-clara-university:program:7",
+      "name": "Child Studies",
+      "sourceUrls": [
+        "https://www.scu.edu/"
+      ],
+      "displayTier": "preview"
+    },
+    {
+      "id": "candidate-v2:santa-clara-university:program:8",
+      "name": "Classical Studies",
+      "sourceUrls": [
+        "https://www.scu.edu/"
+      ],
+      "displayTier": "preview"
+    }
+  ],
+  "topProgramIds": [
+    "candidate-v2:santa-clara-university:program:1",
+    "candidate-v2:santa-clara-university:program:2",
+    "candidate-v2:santa-clara-university:program:3",
+    "candidate-v2:santa-clara-university:program:4",
+    "candidate-v2:santa-clara-university:program:5",
+    "candidate-v2:santa-clara-university:program:6",
+    "candidate-v2:santa-clara-university:program:7",
+    "candidate-v2:santa-clara-university:program:8"
+  ],
+  "ranking": [],
+  "cost": [
+    {
+      "amount": 616939,
+      "currency": "RMB",
+      "scope": "unknown",
+      "year": 2024,
+      "components": {
+        "tuition": true
+      },
+      "status": "live_verified_exact"
+    }
+  ],
+  "anecdotes": [],
+  "notableAttendance": [],
+  "people": [],
+  "enrollment": {
+    "total": {
+      "unit": "students",
+      "scope": "institution_total",
+      "value": null,
+      "status": "not_reported",
+      "warnings": [
+        "stale_reference_year"
+      ],
+      "sourceIds": [],
+      "referenceYear": 2019
+    },
+    "graduate": {
+      "unit": "students",
+      "scope": "institution_graduate",
+      "value": null,
+      "status": "not_reported",
+      "warnings": [
+        "stale_reference_year"
+      ],
+      "sourceIds": [],
+      "referenceYear": 2019
+    },
+    "undergraduate": {
+      "unit": "students",
+      "scope": "fall_undergraduate_enrollment",
+      "value": 6115,
+      "status": "verified",
+      "warnings": [
+        "official_university_report"
+      ],
+      "sourceIds": [
+        "official-scu-bulletin-2026-27-student-body"
+      ],
+      "nullReason": null,
+      "referenceYear": 2026
+    }
+  },
+  "admissions": {
+    "act": {
+      "unit": null,
+      "scope": "first_year_undergraduate",
+      "value": null,
+      "status": "not_reported",
+      "warnings": [],
+      "sourceIds": [
+        "official-scu-test-optional-2027"
+      ],
+      "nullReason": "official_act_range_not_available",
+      "referenceYear": 2027
+    },
+    "sat": {
+      "unit": null,
+      "scope": "first_year_undergraduate",
+      "value": null,
+      "status": "not_reported",
+      "warnings": [],
+      "sourceIds": [
+        "official-scu-test-optional-2027"
+      ],
+      "nullReason": "official_sat_range_not_available",
+      "referenceYear": 2027
+    },
+    "testPolicy": {
+      "unit": "policy",
+      "scope": "first_year_undergraduate",
+      "value": "SAT and ACT scores are optional through the 2027 admission term; scores are not required and not submitting them does not disadvantage an applicant.",
+      "status": "verified",
+      "warnings": [
+        "official_undergraduate_admission_page"
+      ],
+      "sourceIds": [
+        "official-scu-test-optional-2027"
+      ],
+      "nullReason": null,
+      "referenceYear": 2027
+    },
+    "englishPolicy": {
+      "unit": "policy",
+      "scope": "international_first_year_undergraduate",
+      "value": "Santa Clara requires international undergraduate applicants whose first language is not English to demonstrate proficiency. The official page lists IELTS 6.5, TOEFL iBT 90 before January 21, 2026 or 4.5 on the post-January 21, 2026 scale, and Duolingo English Test 120; qualifying SAT or ACT English scores and four years of English-medium secondary schooling are also accepted routes.",
+      "status": "verified",
+      "warnings": [
+        "confirmed_fact_ledger",
+        "source_fetch_not_repeated"
+      ],
+      "sourceIds": [
+        "confirmed-english-source-0fe66f6321407062ae10aeda"
+      ],
+      "nullReason": null,
+      "referenceYear": 2026
+    },
+    "retentionRate": {
+      "unit": "ratio",
+      "scope": "first_time_full_time_undergraduate_retention_rate",
+      "value": 94,
+      "status": "verified",
+      "warnings": [
+        "official_university_report",
+        "cohort_specific"
+      ],
+      "sourceIds": [
+        "official-scu-ipeds-2024-25-retention"
+      ],
+      "nullReason": null,
+      "referenceYear": 2024
+    },
+    "acceptanceRate": {
+      "unit": "ratio",
+      "scope": "institution_undergraduate_admissions",
+      "value": 47.6,
+      "status": "verified",
+      "warnings": [
+        "official_university_admissions_source",
+        "derived_from_official_applicant_and_admit_counts"
+      ],
+      "sourceIds": [
+        "official-cost-admission-santa-clara-university"
+      ],
+      "nullReason": null,
+      "referenceYear": 2024
+    },
+    "graduationRate": {
+      "unit": "ratio",
+      "scope": "first_time_full_time_undergraduate_six_year_graduation_rate",
+      "value": 89,
+      "status": "verified",
+      "warnings": [
+        "official_university_report",
+        "cohort_specific"
+      ],
+      "sourceIds": [
+        "official-scu-bulletin-2026-27-student-body"
+      ],
+      "nullReason": null,
+      "referenceYear": 2020
+    }
+  },
+  "geography": {
+    "geographyScope": "place",
+    "place": {
+      "value": "Santa Clara",
+      "status": "verified",
+      "referenceYear": null,
+      "scope": "institution",
+      "unit": null,
+      "sourceIds": [],
+      "warnings": []
+    },
+    "county": {
+      "value": null,
+      "status": "not_reported",
+      "referenceYear": null,
+      "scope": "county",
+      "unit": null,
+      "sourceIds": [],
+      "warnings": []
+    }
+  },
+  "nearbyTowns": [],
+  "rawCostRecords": [],
+  "warningSummary": {
+    "codes": ["secondary_reference_profile", "coordinate_public_geospatial_reference"],
+    "count": 2,
+    "hasWarnings": true
+  },
+  "sources": [
+    {
+      "url": "https://www.scu.edu/",
+      "status": "live_verified_normalized",
+      "anchor": "iecg-2025-b508508a455972e8"
+    },
+    {
+      "url": "https://www.scu.edu/admission/undergraduate/international-students/undergraduate-english-proficiency/",
+      "status": "live_verified_exact",
+      "anchor": "confirmed-english-source-0fe66f6321407062ae10aeda"
+    },
+    {
+      "url": "https://www.scu.edu/media/institutional-pages/admission/pdfs/UGAD-0724-On-Campus-Brochure_25.875x10_PRINT.pdf",
+      "status": "live_verified_exact",
+      "anchor": "official-cost-admission-santa-clara-university"
+    },
+    {
+      "url": "https://www.scu.edu/appdata/pub/bulletin/undergraduate/2026-27/chapter-1-university-mission/student-body.html",
+      "status": "live_verified_exact",
+      "anchor": "official-scu-bulletin-2026-27-student-body"
+    },
+    {
+      "url": "https://www.scu.edu/media/offices/institutional-research/ipeds/enrollment/Fall-Enrollment-2024-2025.pdf",
+      "status": "live_verified_exact",
+      "anchor": "official-scu-ipeds-2024-25-retention"
+    },
+    {
+      "url": "https://www.scu.edu/admission/undergraduate/first-year-students/test-optional/",
+      "status": "live_verified_exact",
+      "anchor": "official-scu-test-optional-2027"
+    },
+    {
+      "url": "https://www.scu.edu/academics/undergraduate-programs/",
+      "status": "live_verified_normalized",
+      "retrievedAt": "2026-10-30"
+    }
+  ],
+  "warnings": [
+    "secondary_reference_profile"
+  ],
+  "qualityBadges": [
+    {
+      "kind": "warning",
+      "label": "secondary_reference_profile"
+    }
+  ],
+  "previewMetadata": {
+    "allMajors": [
+      {
+        "name": "College of Arts and Sciences",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-b508508a455972e8"
+        ],
+        "displayName": "文理学院",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Ancient Studies",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-b508508a455972e8"
+        ],
+        "displayName": "古代研究",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Anthropology",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-b508508a455972e8"
+        ],
+        "displayName": "人类学",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Art History",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-b508508a455972e8"
+        ],
+        "displayName": "艺术史",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Biochemistry",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-b508508a455972e8"
+        ],
+        "displayName": "生物化学",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Biology",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-b508508a455972e8"
+        ],
+        "displayName": "生物学",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Child Studies",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-b508508a455972e8"
+        ],
+        "displayName": "儿童研究",
+        "verificationStatus": "source_review_not_completed"
+      },
+      {
+        "name": "Classical Studies",
+        "status": "source_limited",
+        "warnings": [
+          "secondary_reference_profile"
+        ],
+        "sourceIds": [
+          "iecg-2025-b508508a455972e8"
+        ],
+        "displayName": "古典研究",
+        "verificationStatus": "source_review_not_completed"
+      }
+    ],
+    "allMajorsStatus": {
+      "status": "source_limited",
+      "warnings": [
+        "IECG 2025 reference; official catalog refresh pending"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ]
+    },
+    "enrollment": {
+      "total": {
+        "unit": "students",
+        "scope": "institution_total",
+        "value": null,
+        "status": "not_reported",
+        "warnings": [
+          "stale_reference_year"
+        ],
+        "sourceIds": [],
+        "referenceYear": 2019
+      },
+      "graduate": {
+        "unit": "students",
+        "scope": "institution_graduate",
+        "value": null,
+        "status": "not_reported",
+        "warnings": [
+          "stale_reference_year"
+        ],
+        "sourceIds": [],
+        "referenceYear": 2019
+      },
+      "undergraduate": {
+        "unit": "students",
+        "scope": "fall_undergraduate_enrollment",
+        "value": 6115,
+        "status": "verified",
+        "warnings": [
+          "official_university_report"
+        ],
+        "sourceIds": [
+          "official-scu-bulletin-2026-27-student-body"
+        ],
+        "nullReason": null,
+        "referenceYear": 2026
+      }
+    },
+    "admissions": {
+      "act": {
+        "unit": null,
+        "scope": "first_year_undergraduate",
+        "value": null,
+        "status": "not_reported",
+        "warnings": [],
+        "sourceIds": [
+          "official-scu-test-optional-2027"
+        ],
+        "nullReason": "official_act_range_not_available",
+        "referenceYear": 2027
+      },
+      "sat": {
+        "unit": null,
+        "scope": "first_year_undergraduate",
+        "value": null,
+        "status": "not_reported",
+        "warnings": [],
+        "sourceIds": [
+          "official-scu-test-optional-2027"
+        ],
+        "nullReason": "official_sat_range_not_available",
+        "referenceYear": 2027
+      },
+      "testPolicy": {
+        "unit": "policy",
+        "scope": "first_year_undergraduate",
+        "value": "SAT and ACT scores are optional through the 2027 admission term; scores are not required and not submitting them does not disadvantage an applicant.",
+        "status": "verified",
+        "warnings": [
+          "official_undergraduate_admission_page"
+        ],
+        "sourceIds": [
+          "official-scu-test-optional-2027"
+        ],
+        "nullReason": null,
+        "referenceYear": 2027
+      },
+      "englishPolicy": {
+        "unit": "policy",
+        "scope": "international_first_year_undergraduate",
+        "value": "Santa Clara requires international undergraduate applicants whose first language is not English to demonstrate proficiency. The official page lists IELTS 6.5, TOEFL iBT 90 before January 21, 2026 or 4.5 on the post-January 21, 2026 scale, and Duolingo English Test 120; qualifying SAT or ACT English scores and four years of English-medium secondary schooling are also accepted routes.",
+        "status": "verified",
+        "warnings": [
+          "confirmed_fact_ledger",
+          "source_fetch_not_repeated"
+        ],
+        "sourceIds": [
+          "confirmed-english-source-0fe66f6321407062ae10aeda"
+        ],
+        "nullReason": null,
+        "referenceYear": 2026
+      },
+      "retentionRate": {
+        "unit": "ratio",
+        "scope": "first_time_full_time_undergraduate_retention_rate",
+        "value": 94,
+        "status": "verified",
+        "warnings": [
+          "official_university_report",
+          "cohort_specific"
+        ],
+        "sourceIds": [
+          "official-scu-ipeds-2024-25-retention"
+        ],
+        "nullReason": null,
+        "referenceYear": 2024
+      },
+      "acceptanceRate": {
+        "unit": "ratio",
+        "scope": "institution_undergraduate_admissions",
+        "value": 47.6,
+        "status": "verified",
+        "warnings": [
+          "official_university_admissions_source",
+          "derived_from_official_applicant_and_admit_counts"
+        ],
+        "sourceIds": [
+          "official-cost-admission-santa-clara-university"
+        ],
+        "nullReason": null,
+        "referenceYear": 2024
+      },
+      "graduationRate": {
+        "unit": "ratio",
+        "scope": "first_time_full_time_undergraduate_six_year_graduation_rate",
+        "value": 89,
+        "status": "verified",
+        "warnings": [
+          "official_university_report",
+          "cohort_specific"
+        ],
+        "sourceIds": [
+          "official-scu-bulletin-2026-27-student-body"
+        ],
+        "nullReason": null,
+        "referenceYear": 2020
+      }
+    },
+    "geography": {
+      "status": "source_limited",
+      "warnings": [
+        "IECG 2025 reference"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ]
+    },
+    "programPeopleGaps": []
+  },
+  "confirmedFacts": [
+    {
+      "fact": "SAT and ACT scores are optional through the 2027 admission term; scores are not required and not submitting them does not disadvantage an applicant.",
+      "status": "confirmed",
+      "factType": "admissions_testing_policy",
+      "sourceUrl": "https://www.scu.edu/admission/undergraduate/first-year-students/test-optional/",
+      "confirmedOn": "2026-10-30",
+      "universityId": "candidate-v2:santa-clara-university"
+    },
+    {
+      "fact": "[{\"name\":\"Ancient Studies\",\"nameZh\":\"古典研究\",\"kind\":\"distinctive\",\"reason\":\"Santa Clara University 官方本科项目页列出 Ancient Studies 本科专业，属于学校跨学科人文方向。\",\"sourceUrl\":\"https://www.scu.edu/academics/undergraduate-programs/\",\"checkedOn\":\"2026-10-30\"}]",
+      "status": "confirmed",
+      "factType": "program_spotlights_v1",
+      "sourceUrl": "https://www.scu.edu/academics/undergraduate-programs/",
+      "confirmedOn": "2026-10-30",
+      "universityId": "candidate-v2:santa-clara-university"
+    }
+  ],
+  "campusImages": [
+    {
+      "id": "media-santa-clara-main-entrance-cc-by-sa-brokensphere-2010",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Clara%20U.%20main%20entrance%202.JPG",
+      "label": "Santa Clara University Main Entrance",
+      "checkedOn": "2026-10-30",
+      "publisher": "Wikimedia Commons · BrokenSphere",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Clara_U._main_entrance_2.JPG",
+      "displayOrder": 0,
+      "reviewStatus": "approved",
+      "thumbnailUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Clara%20U.%20main%20entrance%202.JPG?width=1280",
+      "licenseStatus": "verified"
+    }
+  ],
+  "sharedContent": {
+    "overviewZh": null,
+    "overviewStatus": "pending",
+    "motto": null,
+    "mottoZh": null,
+    "mottoStatus": "pending",
+    "mottoSourceUrl": null,
+    "mottoSourceType": null,
+    "mottoCheckedOn": null,
+    "programSpotlights": [],
+    "sourceRefs": []
+  },
+  "programSpotlights": [
+    {
+      "name": "Ancient Studies",
+      "nameZh": "古典研究",
+      "kind": "distinctive",
+      "reason": "Santa Clara University 官方本科项目页列出 Ancient Studies 本科专业，属于学校跨学科人文方向。",
+      "sourceUrl": "https://www.scu.edu/academics/undergraduate-programs/",
+      "checkedOn": "2026-10-30"
+    }
+  ],
+  "allMajors": [
+    {
+      "name": "College of Arts and Sciences",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ],
+      "displayName": "文理学院",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Ancient Studies",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ],
+      "displayName": "古代研究",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Anthropology",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ],
+      "displayName": "人类学",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Art History",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ],
+      "displayName": "艺术史",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Biochemistry",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ],
+      "displayName": "生物化学",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Biology",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ],
+      "displayName": "生物学",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Child Studies",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ],
+      "displayName": "儿童研究",
+      "verificationStatus": "source_review_not_completed"
+    },
+    {
+      "name": "Classical Studies",
+      "status": "source_limited",
+      "warnings": [
+        "secondary_reference_profile"
+      ],
+      "sourceIds": [
+        "iecg-2025-b508508a455972e8"
+      ],
+      "displayName": "古典研究",
+      "verificationStatus": "source_review_not_completed"
+    }
+  ],
+  "allMajorsStatus": {
+    "status": "source_limited",
+    "warnings": [
+      "IECG 2025 reference; official catalog refresh pending"
+    ],
+    "sourceIds": [
+      "iecg-2025-b508508a455972e8"
+    ]
+  },
+  "history": {
+    "status": "not_reported",
+    "warnings": [
+      "official catalog refresh pending"
+    ]
+  }
+}
+

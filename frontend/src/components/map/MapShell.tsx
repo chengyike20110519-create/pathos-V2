@@ -256,15 +256,15 @@ export function MapShell({
   }, []);
 
   // ── Saved-set state (schools in portfolio) for marker accent ────
-  const [savedUniversityIds, setSavedUniversityIds] = useState<string[]>([]);
-  useEffect(() => {
-    if (typeof window === "undefined") return;
+  const [savedUniversityIds, setSavedUniversityIds] = useState<string[]>(() => {
+    if (typeof window === "undefined") return [];
     try {
       const raw = window.localStorage.getItem("pathos_portfolio");
-      if (!raw) return;
-      const parsed = JSON.parse(raw) as Array<{ id: string }>;
-      if (Array.isArray(parsed)) setSavedUniversityIds(parsed.map((p) => p.id));
-    } catch { /* ignore */ }
+      const parsed = raw ? JSON.parse(raw) as Array<{ id: string }> : [];
+      return Array.isArray(parsed) ? parsed.map((p) => p.id) : [];
+    } catch { return []; }
+  });
+  useEffect(() => {
     const onStorage = (e: StorageEvent) => {
       if (e.key !== "pathos_portfolio") return;
       try {
@@ -327,7 +327,15 @@ export function MapShell({
     const center = selectedStateFips ? getStateCenter(selectedStateFips) : null;
     if (map && center) map.flyTo({ center, zoom: map.getContainer().clientWidth < 768 ? 4.6 : 5.4, duration: 450 });
   }, [selectedStateFips]);
-  const manifestState = useDatasetManifest(dataSource);
+  // The map can paint its base layer and university points without the
+  // manifest. Defer this non-critical feature-readiness request until the
+  // first paint so a cold Supabase connection cannot hold up the map.
+  const [manifestLoadEnabled, setManifestLoadEnabled] = useState(false);
+  useEffect(() => {
+    const timer = window.setTimeout(() => setManifestLoadEnabled(true), 1200);
+    return () => window.clearTimeout(timer);
+  }, []);
+  const manifestState = useDatasetManifest(manifestLoadEnabled ? dataSource : null);
   const [requestedViewport, setRequestedViewport] = useState(DEFAULT_VIEW_STATE.viewport);
   useEffect(() => {
     const next = viewState.viewport;
@@ -386,9 +394,12 @@ export function MapShell({
   const [toolbarBottom, setToolbarBottom] = useState(112);
   const [mapGuideOpen, setMapGuideOpen] = useState(false);
   useEffect(() => {
-    setSchoolListScope(null);
-    setListHoveredId(null);
-    setSelectedUniversityId(null);
+    const timer = window.setTimeout(() => {
+      setSchoolListScope(null);
+      setListHoveredId(null);
+      setSelectedUniversityId(null);
+    }, 0);
+    return () => window.clearTimeout(timer);
   }, [selectedStateFips, selectedProgram]);
   // Stage 7B-A.3.1: `selectedRegionFips` is the single source of truth
   // for which state is currently highlighted on the map and shown in

@@ -47,6 +47,7 @@ function useResource<T>(
   const [state, setState] = useState<ResourceState<T>>(initial);
   const [refreshing, setRefreshing] = useState(false);
   const [refreshError, setRefreshError] = useState<{ message: string; code?: string } | null>(null);
+  const [hasLoaded, setHasLoaded] = useState(false);
   const lastSuccess = useRef<T>();
   const loaderRef = useRef(loader);
   const controllerRef = useRef<AbortController | null>(null);
@@ -68,6 +69,7 @@ function useResource<T>(
         if (!controller.signal.aborted) {
           lastSuccess.current = data;
           setState({ status: "ready", data });
+          setHasLoaded(true);
           setRefreshing(false);
         }
       })
@@ -105,7 +107,7 @@ function useResource<T>(
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [run, ...deps]);
 
-  return { state, reload: run, refreshing, refreshError, hasLoaded: lastSuccess.current !== undefined };
+  return { state, reload: run, refreshing, refreshError, hasLoaded };
 }
 
 export function useDatasetManifest(source: PathOSDataSource | null): ResourceHook<DatasetManifest | null> {

@@ -158,7 +158,7 @@ describe("Stage 5 closing UI compliance", () => {
       code: "BACKEND_UNAVAILABLE",
     });
     await expect(source.getManifest()).resolves.toMatchObject({
-      counts: { universities: 94 },
+      counts: { universities: 96 },
     });
     vi.unstubAllGlobals();
   });
@@ -183,7 +183,7 @@ describe("Stage 5 closing UI compliance", () => {
         .map((key) => `candidate-v2:${key.slice("university-details/candidate-v2/".length).replace(/\.json$/, "")}`),
     );
     const routeRows = rows.filter(({ id }) => detailIds.has(id));
-    expect(rows).toHaveLength(94);
+    expect(rows).toHaveLength(96);
     expect(routeRows.length).toBeGreaterThan(0);
     expect(routeRows.length).toBeLessThanOrEqual(rows.length);
     expect(new Set(routeRows.map(({ id }) => id)).size).toBe(routeRows.length);

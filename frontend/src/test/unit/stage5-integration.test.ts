@@ -168,7 +168,7 @@ describe("Stage 5 frontend/backend integration contract", () => {
       new Request("http://localhost/api/pathos/preview?endpoint=universities"),
     );
     expect(response.status).toBe(200);
-    expect(await response.json()).toHaveLength(94);
+    expect(await response.json()).toHaveLength(96);
   });
 
   it("02 fixture DataSource success", async () => {
@@ -388,8 +388,8 @@ describe("Stage 5 frontend/backend integration contract", () => {
     const details = await Promise.all(
       detailPaths.map((name) => artifact<Record<string, unknown>>(name)),
     );
-    expect(details.filter((d: any) => d.admissions.sat.status === "not_reported")).toHaveLength(9);
-    expect(details.filter((d: any) => d.admissions.act.status === "not_reported")).toHaveLength(9);
+    expect(details.filter((d: any) => d.admissions.sat.status === "not_reported")).toHaveLength(11);
+    expect(details.filter((d: any) => d.admissions.act.status === "not_reported")).toHaveLength(11);
   });
 
   it("22 confirmed test policy is surfaced", async () => {

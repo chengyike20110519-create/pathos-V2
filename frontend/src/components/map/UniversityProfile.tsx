@@ -236,7 +236,7 @@ export function UniversityProfile({ summary, inCompare = false, onAddToCompare, 
             })}</ul></div>}
             {!loading && sources.length === 0 && <p className={styles.bodyCopy}>暂未获取到来源记录，请稍后重试。</p>}
             {refreshedOn && <p className={styles.muted}>基础资料采集于 {refreshedOn.slice(0, 10)}</p>}
-            {!!profile.qualitySummary?.warningCodes?.length && <p className={styles.bodyCopy}>部分字段仍待补充，缺失项已在对应位置标注。</p>}
+            {!!profile.qualitySummary?.warningCodes?.length && <p className={styles.bodyCopy}>{profile.qualitySummary.warningCodes.includes("official_profile_conflict_pending_reconciliation") ? "部分字段与较新的官方资料存在年份或统计口径差异，正在复核；请以来源页中的参考年份为准。" : "部分字段仍待补充，缺失项已在对应位置标注。"}</p>}
           </section>}
         </div>
       </div>
