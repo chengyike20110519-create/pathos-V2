@@ -524,9 +524,6 @@ export function MapCanvas({
     // the appropriate signal for raster-tile readiness; `render` is not,
     // because a background layer can render even when tiles are hanging.
     map.on("idle", () => { basemapSettledRef.current = true; });
-    requestAnimationFrame(() => {
-      if (map.isStyleLoaded()) markReady();
-    });
 
     // Style-load error — surface to console so devs can diagnose
     map.on("error", (e) => {
