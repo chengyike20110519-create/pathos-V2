@@ -144,7 +144,17 @@ function enrichSummaryFromResearch(summary: UniversitySummary, research: Researc
 }
 
 async function main() {
-  const client = new Client({ connectionString: DATABASE_URL });
+  const client = new Client({
+    connectionString: DATABASE_URL,
+    // Fail fast when the Supabase pooler is unreachable instead of leaving
+    // the import command hanging with no indication of whether a transaction
+    // has started. The import is transactional, so a connection timeout is
+    // safe and leaves the database unchanged.
+    connectionTimeoutMillis: 8_000,
+    query_timeout: 30_000,
+    statement_timeout: 30_000,
+    keepAlive: true,
+  });
   activeClient = client;
   await client.connect();
   console.log("connected");
