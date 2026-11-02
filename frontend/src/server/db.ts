@@ -3,17 +3,69 @@ import type { QueryConfig, QueryResult, QueryResultRow } from "pg";
 
 let _pool: Pool | null = null;
 
+// The live pool's unwrapped query entry point. It is re-created together with
+// the pool in getPool() and cleared by resetPool(), so a retry after a
+// transport failure always resolves against the freshly created pool.
+type PooledQuery = (
+  queryTextOrConfig: string | QueryConfig,
+  values?: unknown[],
+) => Promise<QueryResult<QueryResultRow>>;
+let rawPooledQuery: PooledQuery | null = null;
+
 async function resetPool(): Promise<void> {
   const pool = _pool;
   _pool = null;
+  rawPooledQuery = null;
   if (pool) await pool.end().catch(() => undefined);
+}
+
+/**
+ * Supabase's shared pooler can briefly reset an idle connection or fail DNS
+ * resolution on real-world networks. Retrying only those transport-level
+ * failures keeps a transient blip from becoming a user-visible 503 while
+ * never hiding SQL/schema errors.
+ */
+function isTransientDbError(error: unknown): boolean {
+  const code = typeof error === "object" && error !== null ? (error as { code?: string }).code : undefined;
+  const message = error instanceof Error ? error.message : String(error);
+  return (
+    ["08", "53", "57", "ECONNRESET", "ECONNREFUSED", "ETIMEDOUT", "ENOTFOUND", "EAI_AGAIN"].some(
+      (prefix) => code?.startsWith(prefix) || code === prefix,
+    ) ||
+    /connection (?:terminated|timeout)|timeout exceeded when trying to connect|connect ETIMEDOUT/i.test(message)
+  );
+}
+
+const TRANSPORT_RETRY_ATTEMPTS = 2;
+
+async function withTransportRetry<T>(run: () => Promise<T>): Promise<T> {
+  let lastError: unknown;
+  for (let attempt = 0; attempt < TRANSPORT_RETRY_ATTEMPTS; attempt += 1) {
+    try {
+      return await run();
+    } catch (error) {
+      lastError = error;
+      if (!isTransientDbError(error) || attempt === TRANSPORT_RETRY_ATTEMPTS - 1) throw error;
+      await resetPool();
+      await new Promise((resolve) => setTimeout(resolve, 150 * (attempt + 1)));
+    }
+  }
+  throw lastError;
+}
+
+async function runPooledQuery(
+  queryTextOrConfig: string | QueryConfig,
+  values?: unknown[],
+): Promise<QueryResult<QueryResultRow>> {
+  if (!rawPooledQuery) getPool();
+  return rawPooledQuery!(queryTextOrConfig, values);
 }
 
 export function getPool(): Pool {
   if (_pool) return _pool;
   const connStr = process.env.DATABASE_URL;
   if (!connStr) throw new DatabaseNotConfiguredError();
-  _pool = new Pool({
+  const pool = new Pool({
     connectionString: connStr,
     ...(connStr.includes("pooler.supabase.com") ? { family: 4 } : {}),
     ssl: connStr.includes("supabase") || connStr.includes("sslmode=require")
@@ -38,12 +90,25 @@ export function getPool(): Pool {
     // clients even though keep-alive is enabled for the web server.
     allowExitOnIdle: true,
   });
-  _pool.on("error", (err) => {
+  pool.on("error", (err) => {
     // pg attaches the full client to idle-connection errors. Do not log
     // connection parameters or protocol secrets with a recoverable timeout.
     console.error("[pathos db] pool error:", { code: (err as Error & { code?: string }).code, message: err.message });
   });
-  return _pool;
+
+  // Route every pool-level query through the transport retry so the direct
+  // getPool().query call sites (backend-preview, repositories, search) get
+  // the same protection as queryWithRetry. Transaction-scoped client.query
+  // via withClient is deliberately NOT retried: replaying a multi-statement
+  // transaction is not safe. runPooledQuery re-resolves the raw entry point
+  // on every attempt, so a retry after resetPool() runs on the new pool.
+  const baseQuery = pool.query.bind(pool) as PooledQuery;
+  rawPooledQuery = baseQuery;
+  (pool as unknown as { query: PooledQuery }).query = (queryTextOrConfig, values) =>
+    withTransportRetry(() => runPooledQuery(queryTextOrConfig, values));
+
+  _pool = pool;
+  return pool;
 }
 
 export async function withClient<T>(fn: (c: PoolClient) => Promise<T>): Promise<T> {
@@ -52,31 +117,14 @@ export async function withClient<T>(fn: (c: PoolClient) => Promise<T>): Promise<
 }
 
 /**
- * Retries only transport-level failures. Supabase's shared pooler can briefly
- * reset an idle connection or fail DNS resolution; retrying those failures
- * keeps a transient network blip from becoming a user-visible 503 while
- * never hiding SQL/schema errors.
+ * Transport-level retry now lives at the pool level (see getPool), so this
+ * is a single pooled query kept as a named helper for the health check.
  */
 export async function queryWithRetry<T extends QueryResultRow = QueryResultRow>(
   query: string | QueryConfig,
   values?: readonly unknown[],
-  attempts = 2,
 ): Promise<QueryResult<T>> {
-  let lastError: unknown;
-  for (let attempt = 0; attempt < attempts; attempt += 1) {
-    try {
-      return await getPool().query<T>(query, values as unknown[] | undefined);
-    } catch (error) {
-      lastError = error;
-      const code = typeof error === "object" && error !== null ? (error as { code?: string }).code : undefined;
-      const message = error instanceof Error ? error.message : String(error);
-      const transient = ["08", "53", "57", "ECONNRESET", "ECONNREFUSED", "ETIMEDOUT", "ENOTFOUND", "EAI_AGAIN"].some((prefix) => code?.startsWith(prefix) || code === prefix) || /connection (?:terminated|timeout)|timeout exceeded when trying to connect|connect ETIMEDOUT/i.test(message);
-      if (!transient || attempt === attempts - 1) throw error;
-      await resetPool();
-      await new Promise((resolve) => setTimeout(resolve, 150 * (attempt + 1)));
-    }
-  }
-  throw lastError;
+  return getPool().query<T>(query, values as unknown[] | undefined);
 }
 
 export class DatabaseNotConfiguredError extends Error {
