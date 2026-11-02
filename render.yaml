@@ -15,7 +15,12 @@ services:
     name: pathos
     runtime: node
     plan: free
-    region: oregon
+    # Same metro as the Supabase instance (aws-0-ap-southeast-1): keeps the
+    # BFF-to-database round trip at a few milliseconds instead of a
+    # transpacific hop, and is the closest Render region for most visitors.
+    # NOTE: Render applies a region change only to newly created services —
+    # migrate the existing service from the Render dashboard.
+    region: singapore
     rootDir: frontend
     buildCommand: npm install && npm run build
     startCommand: npm start
