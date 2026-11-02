@@ -70,7 +70,7 @@ const websiteJsonLd = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="zh-CN" suppressHydrationWarning>
+    <html lang="zh-CN" data-scroll-behavior="smooth" suppressHydrationWarning>
       <head>
         {/* Map tiles are fetched from Esri after the map client mounts.
             Establishing the connection early removes a full DNS/TLS
