@@ -59,7 +59,6 @@ type UniversityRow = {
   chinese_name: string | null;
   city: string | null;
   state: string | null;
-  country: string | null;
   payload?: { topPrograms?: unknown } | null;
 };
 
@@ -161,7 +160,7 @@ function matchedUniversityField(row: UniversityRow, needle: string): SearchHit["
 
 function toUniversityHit(row: Record<string, unknown>, needle: string): SearchHit {
   const value = row as UniversityRow;
-  const place = [value.city, value.state, value.country].filter(Boolean).join(", ");
+  const place = [value.city, value.state].filter(Boolean).join(", ");
   return {
     id: value.id,
     type: "university",
@@ -268,7 +267,7 @@ export function searchMajorDefinitions(query: string, limit = 8): SearchHit[] {
 
 async function queryUniversities(query: string, limit: number): Promise<SearchHit[]> {
   const r = await getPool().query(
-    `SELECT id, name, chinese_name, city, state, country, payload,
+    `SELECT id, name, chinese_name, city, state, payload,
             ts_rank(search_text, plainto_tsquery('simple', $1)) AS rank
        FROM universities
       WHERE search_text @@ plainto_tsquery('simple', $1)
