@@ -144,6 +144,12 @@ function enrichSummaryFromResearch(summary: UniversitySummary, research: Researc
 }
 
 async function main() {
+  // Hoisted function declarations do not inherit the module-level narrowing,
+  // so re-guard here before the ssl check reads the connection string.
+  if (!DATABASE_URL) {
+    console.error("DATABASE_URL is required");
+    process.exit(1);
+  }
   const client = new Client({
     connectionString: DATABASE_URL,
     // Supabase pooler requires TLS for database clients. Keep this aligned
